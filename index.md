@@ -5,6 +5,4 @@ layout: home
 ---
 
 
-# hello world!
 
-I'm hosted with GitHub pages. I am index.md. 2 d

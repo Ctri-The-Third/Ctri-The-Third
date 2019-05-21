@@ -1,0 +1,38 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.imageplaceholder
+{
+	
+}
+
+.logowrapper
+
+{
+	position:relative;
+	border:1px solid blue;
+	overflow:hidden;
+	margin-left:auto;
+	margin-right:auto;
+	height:726px;
+	width:750px;
+	visibility:hidden;
+}
+.logobox
+{
+	position:absolute;
+	width:750px;
+	height:726px;
+	top: 0px;
+	left: 0px;
+}
+img.logoinlay
+{
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	
+}

@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<div class="home">
+
+	<div class = "logowrapper">
+		
+	
+		
+		<div id = slideshow class = "logobox" style = " background-color:red;" > 
+			 <img src = {{ "/assets/images/slideshow1.png" | relative_url }} id = 'slideshow1' class = logoinlay /> 
+			 <img src = {{ "/assets/images/slideshow2.png" | relative_url }} id = 'slideshow2' class = logoinlay /> 
+			 <img src = {{ "/assets/images/slideshow3.png" | relative_url }} id = 'slideshow3' class = logoinlay /> 
+		</div>
+		<img src = {{ "/assets/images/harbinger_ring_whiteBG.png" | relative_url }} class = ' logobox' id = logoRing  class = 'logobox' />
+		<img src = {{ "/assets/images/harbinger.png" | relative_url }} class = ' logobox' id = logoFull />   
+		</div>
+	</div>
+
+
+  {{ content }}
+
+
+</div>
+
+
+<script> 
+	var shown=false;
+	function showRing()
+	{
+	    if (shown != true)
+		  $("#logoFull").fadeOut(1000,function(){shown = true;})
+		if (shown == true)
+		  $("#logoFull").fadeIn(400,function(){shown = false;})
+	}
+	
+	
+	
+	function nextImage()
+	{
+	if($("#slideshow1").is(":visible"))
+	{
+		$("#slideshow1").fadeOut(400)
+		$("#slideshow2").fadeIn(0)
+		console.log("Hid 1, showed 2");
+	}
+	else if($("#slideshow2").is(":visible"))
+	{
+		$("#slideshow2").fadeOut(400)
+		$("#slideshow3").fadeIn(0)
+		console.log("Hid 2, showed 3");
+	}
+	else if($("#slideshow3").is(":visible"))
+	{
+		$("#slideshow3").fadeOut(400)
+		$("#slideshow1").fadeIn(0)
+		console.log("Hid 3, showed 1");
+		
+	}
+	}
+	
+	$( document ).ready(function() {
+		console.log("Ready!");
+		$(".logowrapper").css('visibility','visible');
+		setTimeout(showRing,750)
+		//setTimeout(setInterval(nextImage,1000),750)
+		
+	})
+	
+</script>
