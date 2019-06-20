@@ -1,12 +1,12 @@
 ---
-layout : none
+layout : LaserTable
 
 ---
 
-
+[<img src = "{{ "/assets/images/Harbinger_250.png " | relative_url }}" style = "width:90px; float:left; margin-top:-5px;" />]( / )
 
 # {{site.data.MonthlyScoreLatest.ScoreTitle}}
-
+-----
 
 <table>
 <tr><th>Player Name</th><th>Average Score </th><th> Missions Played</th> </tr>
@@ -19,8 +19,8 @@ layout : none
 
 ## <small>How does this work?</small>
 
-<small>An individual player games are available from [http://www.iplaylaserforce.com/](http://www.iplaylaserforce.com/). We query the scoreboard, and take note of the last 30 games played (ignoring things we've seen before)<br/> From all the games seen, we can then calculate the average score for a player.</small>
+<small>An individual player's games are available from [http://www.iplaylaserforce.com/](http://www.iplaylaserforce.com/). We query the scoreboard, and take note of the last 30 games played (ignoring things we've seen before)<br/> From all the games seen, we can then calculate the average score for a player.</small>
 
-<small><br/> We only regularly check up on players we know about, so if you're new and play a lot, you might be missing!  <br/>
+<small>We only regularly check up on players we know about, so if you're new and play a lot, you might be missing!  <br/>
 Want included? Email me at [LaserForceStats@ctri.co.uk](mailto:LaserForceStats@ctri.co.uk), all I need is your member ID in the form "7-9-1234". <br/>
 Want excluded? Same as above!</small>
