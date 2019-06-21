@@ -1,17 +1,23 @@
 ---
-layout : none
-
+layout : LaserSplash
+title: Player profile
 ---
 
 
-# Mini profile.
-This is the profile for {{site.data.playerBlob.basicInfo.centre[0].codename}}, who predominantly plays LaserForce at {{site.data.playerBlob.basicInfo.centre[0].name}}.
+# Mini profile
 
 
 
-{% for centre in site.data.playerBlob.basicInfo.centre %}
-<div class = "arenaBox" style = "border:1px solid blue; padding-left:5px; width:300px; float:left; overflow:auto;">
-<pre>Centre name: {{centre.name}}
-Missions played: {{centre.missions}}
-Average score: {{centre.summary[0][4]  }}
-Level : {% assign trueSkill = centre.skillLevelNum | plus: 1 %}{{trueSkill }}</pre></div>{% endfor %}
+**C'tri**
+LaserMaster of Funstation 
+
+Monthly games: 12
+Star Quality: 22.5
+Achievements: 89
+
+Recent glory: In the last month, C'tri won a game of Space Marines 5 (3 Team) with a score of 5000!
+This was enough to beat Goku, Kai, Mindi, and 5 others! 
+( That's 81 [stars]({{ "/StarQuality" | relative_url }}) !)
+
+<div class = "BusinessCard">
+</div>
