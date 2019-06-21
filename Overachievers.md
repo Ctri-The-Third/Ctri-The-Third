@@ -1,17 +1,16 @@
 ---
 layout : LaserTable
-
+title : Achievement points 
 ---
 
-[<img src = "{{ "/assets/images/Harbinger_250.png " | relative_url }}" style = "width:90px; float:left; margin-top:-5px;" />]( / )
 
-# {{site.data.AchievementsLatest.ScoreTitle}}
------
+
+#### {{site.data.AchievementsLatest.ScoreTitle}}
 
 <table>
 <tr><th>Player Name</th><th>Achievement<br/> Points </th><th> Local Achievements<br/>Completed</th> </tr>
 {% for Player in site.data.AchievementsLatest.Player %}
-<tr><td>{{Player.Name}}</td><td>{{Player.AchievementScore}}</td><td>{{Player.AchievementsCompleted}}</td></tr>
+<tr><td>{{Player.Name}}</td><td class = "number"> {{Player.AchievementScore}}</td><td class = "number">{{Player.AchievementsCompleted}}</td></tr>
 {% endfor %}
 </table>
 

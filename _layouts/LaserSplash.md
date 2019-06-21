@@ -5,11 +5,15 @@
 
   <body>
 
-    {%- include header.html -%}
-
+    <div class = headerGradient  >
+    
+    </div>
+    
     <main class="page-content" aria-label="Content">
+    
       <div class="wrapper">
-        {{ content }}
+        
+          {{ content }}
       </div>
     </main>
 

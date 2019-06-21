@@ -1,17 +1,14 @@
 ---
 layout : LaserTable
-
+title : Monthly Scores in Standard Games
 ---
 
-[<img src = "{{ "/assets/images/Harbinger_250.png " | relative_url }}" style = "width:90px; float:left; margin-top:-5px;" />]( / )
-
-# {{site.data.MonthlyScoreLatest.ScoreTitle}}
------
+#### {{site.data.MonthlyScoreLatest.ScoreTitle}}
 
 <table>
 <tr><th>Player Name</th><th>Average Score </th><th> Missions Played</th> </tr>
 {% for Player in site.data.MonthlyScoreLatest.Player %}
-<tr><td>{{Player.Name}}</td><td>{{Player.AverageScore}}</td><td>{{Player.MissionsPlayed}}</td></tr>
+<tr><td>{{Player.Name}}</td><td class = "number"> {{Player.AverageScore}} </td><td class = "number"> {{Player.MissionsPlayed}} </td></tr>
 {% endfor %}
 </table>
 

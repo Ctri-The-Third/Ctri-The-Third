@@ -1,13 +1,9 @@
 ---
 layout : LaserTable
-
+title : Monthly Star Quality 
 ---
 
-
-[<img src = "{{ "/assets/images/Harbinger_250.png " | relative_url }}" style = "width:90px; float:left; margin-top:-5px;" />]( / )
-# {{site.data.StarQualityLatest.ScoreTitle}}
-
------
+#### {{site.data.StarQualityLatest.ScoreTitle}}
 
 <table>
 <tr><th>Player Name</th><th>Star Quality<br/>per game </th><th> Total Star<br/>Quality</th> <th style = "padding-left:30px;">Average<br/>Players</th><th>Average<br/> Rank</th><th>Games <br/>Played</th></tr>
