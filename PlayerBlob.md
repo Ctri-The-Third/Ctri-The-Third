@@ -22,7 +22,7 @@ Average Stars: {{site.data.playerBlob.StarQuality}} stars <br/><p>
 <b>All time</b> <hr/>
 Achievements: {{site.data.playerBlob.Achievements}} <br/>
 Rarest Achievemnt: {{site.data.playerBlob.GAName}} <p>
-{{site.data.playerBlob.GADesc}}  </p><p>
-{{site.data.playerBlob.GAOthers}}   </p>
+"{{site.data.playerBlob.GADesc}}"  </p><p>
+{{site.data.playerBlob.GAOthers}} this achievement!  </p>
 </div></div>
 </div>
