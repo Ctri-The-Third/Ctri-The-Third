@@ -12,4 +12,4 @@ layout : LaserSplash
 </center>
 
 <div style = "margin-right:auto; margin-left:auto; width: 558px;">
-{% include playerBlob.md %}  
+{% include PlayerBlob.md %}  
