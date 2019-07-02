@@ -10,8 +10,9 @@
     <main class="page-content" aria-label="Content">
     
       <div class="wrapper">
-        
+        <div class="CentralBlock">
           {{ content }}
+        </div>
       </div>
     </main>
 

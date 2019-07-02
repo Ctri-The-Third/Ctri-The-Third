@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+    {%- include head_card.html -%}
 
   <body>
 
@@ -12,8 +12,9 @@
     <main class="page-content" aria-label="Content">
     
       <div class="wrapper">
-        
+        <div class="CentralBlock">
           {{ content }}
+        </div>
       </div>
     </main>
 

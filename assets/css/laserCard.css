@@ -3,6 +3,7 @@ body {
     background-color:#222;
     color:gold; 
     
+    
 }
 div.headerGradient {
     background-image: linear-gradient(#000, #222);
@@ -12,13 +13,50 @@ div.headerGradient {
   }
 
 
+
+
 div.LaserCardWrapper
 {
     width:504px;
     height:144px;
     border:2px solid gold;
-    padding:5px;
+    padding-left:25px;
+    padding-right:25px;
+    padding-top:15px;
+    padding-bottom:10px;
     font-size:8pt;
+    color:gold;
+    margin-top:15px;
+    background-color:#111;
+}
+.otherPlayer div.LaserCardWrapper
+{
+    padding:0px;
+    
+    border:1px solid black;
+    color: black;
+    background-color:#333;
+    margin-left:25px;
+    margin-right:25px;
+    padding:5px;
+
+}
+.goldPlayer div.LaserCardWrapper
+{
+    
+    border:2px solid gold;
+    color:gold;
+}
+.silverPlayer div.LaserCardWrapper
+{
+    border:2px solid silver;
+ 	color:silver;
+}
+.bronzePlayer div.LaserCardWrapper
+{
+    border:2px solid rgb(180, 100, 40);
+    color:rgb(180, 100, 40);
+       
 }
 div.LaserCardNames 
 {
@@ -29,7 +67,18 @@ div.LaserCardBlock {
     margin-top:20px;
     width:50%;
     float:left;
-    color:rgb(143, 121, 0);
+    
+
+}
+
+.goldPlayer div.LaserCardBlock {
+	color:rgb(143, 121, 0);
+}
+.silverPlayer div.LaserCardBlock {
+	color:rgb(119, 119, 119);
+}
+.bronzePlayer div.LaserCardBlock{
+    color: rgb(120, 75, 30);
 
 }
 div.LaserCardPadding {
@@ -77,12 +126,28 @@ table {
     overflow: hidden;
 }
 hr { 
-    color:rgb(143, 121, 0);
-    background-color:rgb(143, 121, 0);
     border:0px;
-    border-top:1px solid rgb(143, 121, 0);
     margin-left:0px;
     margin-right:30px;
+}
+.goldPlayer hr 
+{
+    color:rgb(143, 121, 0);
+    background-color:rgb(143, 121, 0);
+    border-top:1px solid rgb(143, 121, 0);
+}
+.silverPlayer hr
+{
+    color:rgb(119, 119, 119);
+    background-color:rgb(119, 119, 119);
+    border-top:1px solid rgb(119, 119, 119);
+}
+.bronzePlayer hr 
+{
+    
+    color: rgb(120, 75, 30);
+    background-color:rgb(120, 75, 30);
+    border-top:1px solid rgb(120, 75, 30);
 }
 
 p{margin-block-start: 0.5em;
