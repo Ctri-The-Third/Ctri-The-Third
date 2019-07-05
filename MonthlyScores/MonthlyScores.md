@@ -7,7 +7,7 @@ title : Monthly Scores in Standard Games
 
 <table>
 <tr><th>Player Name</th><th colspan = "2">Average Score </th><th> Missions Played</th> </tr>
-{% for Player in site.data.MonthlyScoreLatest.Player %}
+{% for Player in site.data.MonthlyScore2019-06-01to2019-07-01.Player %}
 <tr><td>{{Player.Name}}</td><td class = "number"> {{Player.AverageScore}} </td><td class = "SmallBrightNumber">  {{Player.ChangeInScore}} </td><td class = "number"> {{Player.MissionsPlayed}} </td></tr>
 {% endfor %}
 </table>

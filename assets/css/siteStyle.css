@@ -6,7 +6,7 @@ body {
 }
 div.CentralBlock
 {
-    margin-top:-60px;
+    margin-top:-40px;
     width:600px;
     margin-left:auto;
     margin-right:auto;
@@ -55,9 +55,30 @@ a:visited
 {color:rgb(161, 137, 0)}
 a:hover
 {color:rgb(255, 236, 128)}
+
+
+table.links {
+    color:gold;
+    border-radius:0px;
+    margin:0px;
+}
+table.links tr {
+    background-color:transparent;
+}
+table.links tr:nth-child(even)
+{
+    background-color:transparent;
+}
+table.links tr:nth-child(odd)
+{
+    
+}
+
+
 table {
+    width:100%;
     color: Silver;
-    margin-left:10%;
+    margin-left:auto;
     margin-right:auto;
     
     border-spacing: 0;
@@ -87,6 +108,14 @@ td {
 td.number {
     text-align: center;
 }
+
+td.SmallBrightNumber{
+    vertical-align: super;
+    font-size: 7pt;
+    color:gold;
+    font-family: monospace
+    
+}
 tr:nth-child(even){
      background:#331; /**/
 }
@@ -94,3 +123,9 @@ tr:nth-child(odd){
      background:#441; /**/
 }
 
+div.navBar{
+    padding-left:10px; 
+    width:75%;
+    margin-left:auto;
+    margin-right:auto; 
+}
