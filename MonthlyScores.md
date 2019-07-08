@@ -5,7 +5,7 @@ title : Monthly Scores in Standard Games
 
 #### {{site.data.MonthlyScoreLatest.ScoreTitle}}
 
-<table>
+<table class="ScoreTable" >
 <tr><th>Player Name</th><th colspan = "2">Average Score </th><th> Missions Played</th> </tr>
 {% for Player in site.data.MonthlyScoreLatest.Player %}
 <tr><td>{{Player.Name}}</td><td class = "number"> {{Player.AverageScore}} </td><td class = "SmallBrightNumber">  {{Player.ChangeInScore}} </td><td class = "number"> {{Player.MissionsPlayed}} </td></tr>

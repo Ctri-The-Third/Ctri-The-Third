@@ -11,12 +11,13 @@
     
       <div class="wrapper">
         <div class="CentralBlock">
+        
           {{ content }}
         </div>
       </div>
     </main>
 
-    <!-- {%- include footer.html -%}-->
+     {%- include footer.html -%} 
 
   </body>
 

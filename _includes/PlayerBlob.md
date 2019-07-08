@@ -16,7 +16,7 @@ Average Stars: {{site.data.playerBlob.GoldenPlayer.StarQuality}} stars <br/><p>
 <div class = "LaserCardPadding">
 <b>All time</b> <hr/>
 Achievements: {{site.data.playerBlob.GoldenPlayer.Achievements}} <br/>
-Rarest Achievemnt: {{site.data.playerBlob.GoldenPlayer.GAName}} <p>
+Rarest Achievement: {{site.data.playerBlob.GoldenPlayer.GAName}} <p>
 "{{site.data.playerBlob.GoldenPlayer.GADesc}}"  </p><p>
 {{site.data.playerBlob.GoldenPlayer.GAOthers}} this achievement!  </p>
 </div></div>
