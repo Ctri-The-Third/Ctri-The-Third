@@ -7,7 +7,7 @@ title : Achievement points
 
 #### {{site.data.AchievementsLatest.ScoreTitle}}
 
-<table>
+<table class = "ScoreTable">
 <tr><th>Player Name</th><th>Achievement<br/> Points </th><th> Local Achievements<br/>Completed</th> </tr>
 {% for Player in site.data.AchievementsLatest.Player %}
 <tr><td>{{Player.Name}}</td><td class = "number"> {{Player.AchievementScore}}</td><td class = "number">{{Player.AchievementsCompleted}}</td></tr>

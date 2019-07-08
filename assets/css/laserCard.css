@@ -20,6 +20,7 @@ div.LaserCardWrapper
     width:504px;
     height:144px;
     border:2px solid gold;
+    border-radius: 10px 30px;
     padding-left:25px;
     padding-right:25px;
     padding-top:15px;
