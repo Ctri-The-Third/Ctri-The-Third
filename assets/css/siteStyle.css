@@ -6,17 +6,47 @@ body {
 }
 div.CentralBlock
 {
-    margin-top:-60px;
+    margin-top:-40px;
     width:600px;
     margin-left:auto;
     margin-right:auto;
 }
-div.wrapper {
+.HarbingerBack 
+{
     background-image: url('../images/HarbingerBack.png');
     background-size: contain;
     background-repeat:no-repeat;        
     background-position:center top;
+
 }
+
+div.wrapper {
+    
+}
+.navbarList
+{
+    display: table;
+    margin-left:auto;
+    margin-right:auto;
+    
+    padding:0px;
+
+}
+
+.navbarList li {
+    list-style-type: none;
+    border-radius: 5px 15px;
+    
+    display:inline;
+    border:1px solid rgb(255, 236, 128);
+    margin-left:20px;
+    margin-right:20px;
+    padding:7px;
+    
+    
+    text-align: center;
+}
+
 div.headerGradient {
     background-image: linear-gradient(rgba(0,0,0,1), rgba(34, 34, 34, 0));
     margin:-8px;
@@ -24,7 +54,16 @@ div.headerGradient {
     min-height:90px;
 
 }
+div.footerGradient {
+    background-image: linear-gradient(rgba(34,34,34,0), rgba(0, 0, 0, 1));
+    margin:-8px;
+    padding-top:20px;
+    min-height:40px;
+    padding-left:5px;
+    font-size: 8pt;
+    color:rgb(255, 236, 128);
 
+}
 tr, td, th {
     margin: 0;
     padding: 0;
@@ -51,27 +90,78 @@ a {
     color:rgb(255, 236, 128)
 }
 
+
+
+.h2hContent h1 {
+    padding:0px;
+    font-size:18pt;
+    margin:0px;
+    min-height:0px;
+    
+}
+.h2hContent h2 {
+    padding:0px;
+    font-size:14pt;
+    margin:0px;
+    min-height:0px;
+}
+a.navBar
+{color:rgb(255, 236, 128); text-decoration:none;}
+a.navBar:visited
+{color:rgb(255, 236, 128); text-decoration:none;}
+
 a:visited
 {color:rgb(161, 137, 0)}
 a:hover
 {color:rgb(255, 236, 128)}
+
+
+table.links {
+    color:gold;
+    border-radius:0px;
+    margin:0px;
+}
+table.links tr {
+    background-color:transparent;
+}
+table.links tr:nth-child(even)
+{
+    background-color:transparent;
+}
+table.links tr:nth-child(odd)
+{
+    
+}
+
+
 table {
+    width:100%;
     color: Silver;
-    margin-left:10%;
+    margin-left:auto;
     margin-right:auto;
-    
     border-spacing: 0;
-    
-    border-radius:20px;
+    border-radius:5px 25px;
     -moz-border-radius:6px;
     overflow: hidden;
 }
 hr { 
     color:gold;
     background-color:gold;
+    
     border:0px;
     border-top:1px solid gold;
 }
+
+hr.pageBuffer
+{
+    margin-top:60px;
+}
+table.ScoreTable
+{
+    margin-bottom:60px;
+    
+}
+
 th {
     
     background: #331;
@@ -87,6 +177,14 @@ td {
 td.number {
     text-align: center;
 }
+
+td.SmallBrightNumber{
+    vertical-align: super;
+    font-size: 7pt;
+    color:gold;
+    font-family: monospace
+    
+}
 tr:nth-child(even){
      background:#331; /**/
 }
@@ -94,3 +192,9 @@ tr:nth-child(odd){
      background:#441; /**/
 }
 
+div.navBar{
+    padding-left:10px; 
+    width:75%;
+    margin-left:auto;
+    margin-right:auto; 
+}
