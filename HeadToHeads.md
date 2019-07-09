@@ -3,7 +3,7 @@ layout : LaserTable
 title : Monthly Scores in Standard Games
 ---
 
-#### {{site.data.MonthlyScoreLatest.ScoreTitle}}
+#### {{site.data.HeadToHeads.ScoreTitle}}
 
 {% for Match in site.data.HeadToHeads.Match %}
 <div class = "h2hBox" >
