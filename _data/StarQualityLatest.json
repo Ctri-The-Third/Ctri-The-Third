@@ -38,6 +38,17 @@
             "ChangeInSQPerGame": "\u21932.69"
         },
         {
+            "Name": "JammyDodger",
+            "StarQualityPerGame": 10.08,
+            "TotalStarQuality": 100.83,
+            "AverageOpponents": 5.5,
+            "gamesPlayed": 10,
+            "AverageRank": 3.0,
+            "ChangeInRank": "\u21911.43",
+            "ChangeInPlayers": "\u21933.5",
+            "ChangeInSQPerGame": "\u21938.21"
+        },
+        {
             "Name": "C'tri",
             "StarQualityPerGame": 9.13,
             "TotalStarQuality": 264.89,
@@ -49,48 +60,48 @@
             "ChangeInSQPerGame": "\u219316.78"
         },
         {
-            "Name": "OctoKing",
-            "StarQualityPerGame": 8.28,
-            "TotalStarQuality": 33.14,
-            "AverageOpponents": 7.75,
-            "gamesPlayed": 4,
-            "AverageRank": 7.25,
-            "ChangeInRank": "\u21932.43",
-            "ChangeInPlayers": "\u21912.22",
-            "ChangeInSQPerGame": "\u21911.95"
-        },
-        {
-            "Name": "JammyDodger",
-            "StarQualityPerGame": 8.15,
-            "TotalStarQuality": 57.04,
-            "AverageOpponents": 5.29,
-            "gamesPlayed": 7,
-            "AverageRank": 3.43,
-            "ChangeInRank": "\u21911.0",
-            "ChangeInPlayers": "\u21933.71",
-            "ChangeInSQPerGame": "\u219310.14"
-        },
-        {
             "Name": "PlagueDoctor",
-            "StarQualityPerGame": 7.52,
-            "TotalStarQuality": 52.65,
-            "AverageOpponents": 5.29,
+            "StarQualityPerGame": 9.09,
+            "TotalStarQuality": 100.0,
+            "AverageOpponents": 5.45,
+            "gamesPlayed": 11,
+            "AverageRank": 3.27,
+            "ChangeInRank": "\u21910.73",
+            "ChangeInPlayers": "\u21933.55",
+            "ChangeInSQPerGame": "\u219311.16"
+        },
+        {
+            "Name": "Aiden",
+            "StarQualityPerGame": 7.31,
+            "TotalStarQuality": 51.2,
+            "AverageOpponents": 4.57,
             "gamesPlayed": 7,
-            "AverageRank": 3.71,
-            "ChangeInRank": "\u21910.29",
-            "ChangeInPlayers": "\u21933.71",
-            "ChangeInSQPerGame": "\u219312.73"
+            "AverageRank": 2.86,
+            "ChangeInRank": "\u21931.86",
+            "ChangeInPlayers": "\u21913.57",
+            "ChangeInSQPerGame": "\u21916.31"
+        },
+        {
+            "Name": "OctoKing",
+            "StarQualityPerGame": 7.29,
+            "TotalStarQuality": 58.32,
+            "AverageOpponents": 6.75,
+            "gamesPlayed": 8,
+            "AverageRank": 6.25,
+            "ChangeInRank": "\u21931.43",
+            "ChangeInPlayers": "\u21911.22",
+            "ChangeInSQPerGame": "\u21910.95"
         },
         {
             "Name": "Jj",
-            "StarQualityPerGame": 5.5,
-            "TotalStarQuality": 38.53,
-            "AverageOpponents": 4.86,
-            "gamesPlayed": 7,
-            "AverageRank": 4.29,
-            "ChangeInRank": "\u21910.34",
-            "ChangeInPlayers": "\u21930.52",
-            "ChangeInSQPerGame": "\u21930.74"
+            "StarQualityPerGame": 6.03,
+            "TotalStarQuality": 66.31,
+            "AverageOpponents": 5.18,
+            "gamesPlayed": 11,
+            "AverageRank": 4.45,
+            "ChangeInRank": "\u21910.17",
+            "ChangeInPlayers": "\u21930.19",
+            "ChangeInSQPerGame": "\u21930.22"
         },
         {
             "Name": "ThatGuysFriend",
@@ -104,6 +115,17 @@
             "ChangeInSQPerGame": "\u21935.24"
         },
         {
+            "Name": "Cheese Sandwich",
+            "StarQualityPerGame": 4.95,
+            "TotalStarQuality": 49.47,
+            "AverageOpponents": 2.9,
+            "gamesPlayed": 10,
+            "AverageRank": 1.7,
+            "ChangeInRank": "\u21912.57",
+            "ChangeInPlayers": "\u21935.1",
+            "ChangeInSQPerGame": "\u219310.03"
+        },
+        {
             "Name": "T D",
             "StarQualityPerGame": 4.08,
             "TotalStarQuality": 16.33,
@@ -113,6 +135,17 @@
             "ChangeInRank": "\u21910.81",
             "ChangeInPlayers": "\u21935.25",
             "ChangeInSQPerGame": "\u219316.0"
+        },
+        {
+            "Name": "Kyurin",
+            "StarQualityPerGame": 4.0,
+            "TotalStarQuality": 8.0,
+            "AverageOpponents": 2.0,
+            "gamesPlayed": 2,
+            "AverageRank": 1.0,
+            "ChangeInRank": "\u21913.0",
+            "ChangeInPlayers": "\u21932.25",
+            "ChangeInSQPerGame": "\u21930.52"
         },
         {
             "Name": "Achilles",
@@ -127,25 +160,14 @@
         },
         {
             "Name": "Billybob",
-            "StarQualityPerGame": 3.36,
-            "TotalStarQuality": 13.44,
-            "AverageOpponents": 2.75,
-            "gamesPlayed": 4,
-            "AverageRank": 2.25,
-            "ChangeInRank": "\u21912.97",
-            "ChangeInPlayers": "\u21934.47",
-            "ChangeInSQPerGame": "\u21936.63"
-        },
-        {
-            "Name": "Aiden",
-            "StarQualityPerGame": 3.0,
-            "TotalStarQuality": 9.0,
-            "AverageOpponents": 3.0,
-            "gamesPlayed": 3,
-            "AverageRank": 3.0,
-            "ChangeInRank": "\u21932.0",
-            "ChangeInPlayers": "\u21912.0",
-            "ChangeInSQPerGame": "\u21912.0"
+            "StarQualityPerGame": 2.88,
+            "TotalStarQuality": 17.31,
+            "AverageOpponents": 2.5,
+            "gamesPlayed": 6,
+            "AverageRank": 2.17,
+            "ChangeInRank": "\u21913.06",
+            "ChangeInPlayers": "\u21934.72",
+            "ChangeInSQPerGame": "\u21937.1"
         },
         {
             "Name": "Arran",
@@ -157,17 +179,6 @@
             "ChangeInRank": "\u21912.08",
             "ChangeInPlayers": "\u21933.54",
             "ChangeInSQPerGame": "\u21935.69"
-        },
-        {
-            "Name": "Cheese Sandwich",
-            "StarQualityPerGame": 1.0,
-            "TotalStarQuality": 6.0,
-            "AverageOpponents": 1.0,
-            "gamesPlayed": 6,
-            "AverageRank": 1.0,
-            "ChangeInRank": "\u21913.27",
-            "ChangeInPlayers": "\u21937.0",
-            "ChangeInSQPerGame": "\u219313.98"
         },
         {
             "Name": "The Ghost",

@@ -2,6 +2,13 @@
     "ScoreTitle": "Recent Head to Head games!",
     "Match": [
         {
+            "Player1Name": "Kyurin",
+            "Player1Score": 10735,
+            "Player2Name": "Billybob",
+            "Player2Score": 10025,
+            "GameDate": "16 Jul 2019"
+        },
+        {
             "Player1Name": "ThatGuysFriend",
             "Player1Score": 9595,
             "Player2Name": "Billybob",
@@ -42,13 +49,6 @@
             "Player2Name": "Achilles",
             "Player2Score": 1400,
             "GameDate": "08 Jul 2019"
-        },
-        {
-            "Player1Name": "Thorian",
-            "Player1Score": 10945,
-            "Player2Name": "Robo_h34d",
-            "Player2Score": 10055,
-            "GameDate": "29 Jun 2019"
         }
     ]
 }
