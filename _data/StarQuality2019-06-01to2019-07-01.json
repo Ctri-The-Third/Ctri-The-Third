@@ -149,14 +149,14 @@
         },
         {
             "Name": "Achilles",
-            "StarQualityPerGame": 3.7,
-            "TotalStarQuality": 92.48,
-            "AverageOpponents": 2.72,
-            "gamesPlayed": 25,
-            "AverageRank": 2.0,
-            "ChangeInRank": "\u21910.5",
-            "ChangeInPlayers": "\u21933.78",
-            "ChangeInSQPerGame": "\u219313.2"
+            "StarQualityPerGame": 3.62,
+            "TotalStarQuality": 105.02,
+            "AverageOpponents": 2.62,
+            "gamesPlayed": 29,
+            "AverageRank": 1.9,
+            "ChangeInRank": "\u21910.6",
+            "ChangeInPlayers": "\u21933.88",
+            "ChangeInSQPerGame": "\u219313.28"
         },
         {
             "Name": "Billybob",
@@ -168,6 +168,17 @@
             "ChangeInRank": "\u21912.72",
             "ChangeInPlayers": "\u21934.39",
             "ChangeInSQPerGame": "\u21936.78"
+        },
+        {
+            "Name": "Reboot",
+            "StarQualityPerGame": 2.29,
+            "TotalStarQuality": 9.14,
+            "AverageOpponents": 2.0,
+            "gamesPlayed": 4,
+            "AverageRank": 1.75,
+            "ChangeInRank": "\u21912.17",
+            "ChangeInPlayers": "\u21936.25",
+            "ChangeInSQPerGame": "\u219315.09"
         },
         {
             "Name": "Arran",
