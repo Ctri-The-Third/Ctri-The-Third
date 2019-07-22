@@ -148,17 +148,6 @@
             "ChangeInSQPerGame": "\u219310.15"
         },
         {
-            "Name": "PlagueDoctor",
-            "StarQualityPerGame": 9.31,
-            "TotalStarQuality": 102.4,
-            "AverageOpponents": 5.82,
-            "gamesPlayed": 11,
-            "AverageRank": 3.64,
-            "ChangeInRank": "\u21910.36",
-            "ChangeInPlayers": "\u21933.18",
-            "ChangeInSQPerGame": "\u219310.94"
-        },
-        {
             "Name": "Kyurin",
             "StarQualityPerGame": 9.28,
             "TotalStarQuality": 55.68,
@@ -190,6 +179,17 @@
             "ChangeInRank": "\u21931.93",
             "ChangeInPlayers": "\u21911.72",
             "ChangeInSQPerGame": "\u21911.45"
+        },
+        {
+            "Name": "PlagueDoctor",
+            "StarQualityPerGame": 7.46,
+            "TotalStarQuality": 104.4,
+            "AverageOpponents": 4.79,
+            "gamesPlayed": 14,
+            "AverageRank": 3.07,
+            "ChangeInRank": "\u21910.93",
+            "ChangeInPlayers": "\u21934.21",
+            "ChangeInSQPerGame": "\u219312.79"
         },
         {
             "Name": "Jj",
