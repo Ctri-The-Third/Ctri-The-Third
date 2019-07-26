@@ -2,6 +2,20 @@
     "ScoreTitle": "Recent Head to Head games!",
     "Match": [
         {
+            "Player1Name": "C'tri",
+            "Player1Score": 19460,
+            "Player2Name": "Billybob",
+            "Player2Score": 5565,
+            "GameDate": "25 Jul 2019"
+        },
+        {
+            "Player1Name": "C'tri",
+            "Player1Score": 19145,
+            "Player2Name": "Billybob",
+            "Player2Score": 8285,
+            "GameDate": "25 Jul 2019"
+        },
+        {
             "Player1Name": "ThatGuysFriend",
             "Player1Score": 9595,
             "Player2Name": "Billybob",
@@ -35,20 +49,6 @@
             "Player2Name": "Achilles",
             "Player2Score": 3500,
             "GameDate": "11 Jul 2019"
-        },
-        {
-            "Player1Name": "C'tri",
-            "Player1Score": 2400,
-            "Player2Name": "Achilles",
-            "Player2Score": 1400,
-            "GameDate": "08 Jul 2019"
-        },
-        {
-            "Player1Name": "Thorian",
-            "Player1Score": 10945,
-            "Player2Name": "Robo_h34d",
-            "Player2Score": 10055,
-            "GameDate": "29 Jun 2019"
         }
     ]
 }
