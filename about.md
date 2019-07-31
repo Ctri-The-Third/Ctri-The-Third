@@ -1,6 +1,6 @@
 ---
 layout : LaserAbout
-permalink: /about/
+permalink: /About/
 ---
 
 
@@ -11,7 +11,8 @@ This site is dedicated to providing meaningful scoreboard information about the 
 [LaserForce](https://laserforcetag.com/) is a brand of laser-tag found in many different countries around the world. One of the cool out-of-game features that it offers is a scoreboard on its [website](http://www.iplaylaserforce.com/mission-stats).
 
 This is a great view for seeing your all-time averages, achievement progresses, and how well you've done in recent games.
-Whilst the game management software allows for the generation of monthly score reports, that's not something the local arena provides and publishes.
+
+However, it doesn't provide any information about month-to-month rankings.
 
 To make that information available to myself and my friends, I set about creating a series of scripts that would read player information from the scoreboard and process it in certain ways to generate pertinent metrics not currently available, and do so without putting regular and heavy burden on the I Play Laserforce scoreboard.
 
