@@ -17,6 +17,12 @@
             "ChangeInScore": "\u2191811"
         },
         {
+            "Name": "Tiger",
+            "AverageScore": 13504,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Skittles",
             "AverageScore": 13480,
             "MissionsPlayed": 3,
@@ -59,10 +65,22 @@
             "ChangeInScore": "\u21911028"
         },
         {
+            "Name": "Mr Spock",
+            "AverageScore": 10321,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
             "Name": "PlagueDoctor",
             "AverageScore": 10137,
             "MissionsPlayed": 8,
             "ChangeInScore": "\u21911473"
+        },
+        {
+            "Name": "ThatGuysFriend",
+            "AverageScore": 9511,
+            "MissionsPlayed": 4,
+            "ChangeInScore": "\u21911260"
         },
         {
             "Name": "Jj",
@@ -75,12 +93,6 @@
             "AverageScore": 9144,
             "MissionsPlayed": 5,
             "ChangeInScore": "\u21911372"
-        },
-        {
-            "Name": "ThatGuysFriend",
-            "AverageScore": 8979,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u2191728"
         },
         {
             "Name": "Aiden",
@@ -101,6 +113,12 @@
             "ChangeInScore": "\u21933902"
         },
         {
+            "Name": "Grumpydad",
+            "AverageScore": 7924,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Minime",
             "AverageScore": 7763,
             "MissionsPlayed": 2,
@@ -119,10 +137,40 @@
             "ChangeInScore": null
         },
         {
+            "Name": "The Cleaner",
+            "AverageScore": 7160,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Psycho",
+            "AverageScore": 7090,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Maverick",
+            "AverageScore": 7067,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Smokey Bandit",
             "AverageScore": 6478,
             "MissionsPlayed": 2,
             "ChangeInScore": "\u21932212"
+        },
+        {
+            "Name": "Gary",
+            "AverageScore": 5904,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Turtle",
+            "AverageScore": 4833,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
         },
         {
             "Name": "OctoKing",
