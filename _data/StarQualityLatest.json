@@ -5,17 +5,6 @@
     "Player": [
         {},
         {
-            "Name": "JimJamJammyPot",
-            "StarQualityPerGame": 64.0,
-            "TotalStarQuality": 64.0,
-            "AverageOpponents": 8.0,
-            "gamesPlayed": 1,
-            "AverageRank": 1.0,
-            "ChangeInRank": "\u21930.0",
-            "ChangeInPlayers": "\u21917.0",
-            "ChangeInSQPerGame": "\u219163.0"
-        },
-        {
             "Name": "Evil Killer EKM",
             "StarQualityPerGame": 31.11,
             "TotalStarQuality": 311.14,
@@ -69,6 +58,17 @@
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "JimJamJammyPot",
+            "StarQualityPerGame": 20.25,
+            "TotalStarQuality": 40.5,
+            "AverageOpponents": 4.5,
+            "gamesPlayed": 2,
+            "AverageRank": 1.0,
+            "ChangeInRank": "\u21930.0",
+            "ChangeInPlayers": "\u21913.5",
+            "ChangeInSQPerGame": "\u219119.25"
         },
         {
             "Name": "Oscar,Romeo",
