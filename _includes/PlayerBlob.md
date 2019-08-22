@@ -9,13 +9,13 @@
         </div>
     </div>
     <div class = "row container-fluid">
-        <div class = "LaserCardBlock col-xs-6" >
+        <div class = "LaserCardBlock col-sm-6" >
             <b>This month</b> <hr/> 
             Games: {{site.data.playerBlob.GoldenPlayer.MonthlyGamesPlayed}} games <br/>
             Average Stars: {{site.data.playerBlob.GoldenPlayer.StarQuality}} stars <br/><p>
             {{site.data.playerBlob.GoldenPlayer.PlayerName}} played a game of {{site.data.playerBlob.GoldenPlayer.GGName}}, coming {{site.data.playerBlob.GoldenPlayer.GGRank}} and defeating {{site.data.playerBlob.GoldenPlayer.GGVanq1}}, {{site.data.playerBlob.GoldenPlayer.GGVanq2}}, {{site.data.playerBlob.GoldenPlayer.GGVanq3}}, and {{site.data.playerBlob.GoldenPlayer.GGVanq4}} for {{site.data.playerBlob.GoldenPlayer.GGStars}} <br/></p>
         </div>
-        <div class = "LaserCardBlock col-xs-6" >
+        <div class = "LaserCardBlock col-sm-6" >
             <b>All time</b> <hr/>
             Achievements: {{site.data.playerBlob.GoldenPlayer.Achievements}} <br/>
             Rarest Achievement: {{site.data.playerBlob.GoldenPlayer.GAName}} <p>
@@ -33,13 +33,13 @@
         </div>
     </div>
     <div class = "row container-fluid">
-        <div class = "LaserCardBlock col-xs-6" >
+        <div class = "LaserCardBlock col-sm-6" >
             <b>This month</b> <hr/> 
             Games: {{site.data.playerBlob.SilverPlayer.MonthlyGamesPlayed}} games <br/>
             Average Stars: {{site.data.playerBlob.SilverPlayer.StarQuality}} stars <br/><p>
             {{site.data.playerBlob.SilverPlayer.PlayerName}} played a game of {{site.data.playerBlob.SilverPlayer.GGName}}, coming {{site.data.playerBlob.SilverPlayer.GGRank}} and defeating {{site.data.playerBlob.SilverPlayer.GGVanq1}}, {{site.data.playerBlob.SilverPlayer.GGVanq2}}, {{site.data.playerBlob.SilverPlayer.GGVanq3}}, and {{site.data.playerBlob.SilverPlayer.GGVanq4}} for {{site.data.playerBlob.SilverPlayer.GGStars}} <br/></p>
         </div> 
-        <div class = "LaserCardBlock col-xs-6" >
+        <div class = "LaserCardBlock col-sm-6" >
             <b>All time</b> <hr/>
             Achievements: {{site.data.playerBlob.SilverPlayer.Achievements}} <br/>
             Rarest Achievement: {{site.data.playerBlob.SilverPlayer.GAName}} <p>
@@ -58,13 +58,13 @@
         </div>
     </div>
     <div class = "row container-fluid">
-        <div class = "LaserCardBlock col-xs-6" >
+        <div class = "LaserCardBlock col-sm-6" >
             <b>This month</b> <hr/> 
             Games: {{site.data.playerBlob.BronzePlayer.MonthlyGamesPlayed}} games <br/>
             Average Stars: {{site.data.playerBlob.BronzePlayer.StarQuality}} stars <br/><p>
             {{site.data.playerBlob.BronzePlayer.PlayerName}} played a game of {{site.data.playerBlob.BronzePlayer.GGName}}, coming {{site.data.playerBlob.BronzePlayer.GGRank}} and defeating {{site.data.playerBlob.BronzePlayer.GGVanq1}}, {{site.data.playerBlob.BronzePlayer.GGVanq2}}, {{site.data.playerBlob.BronzePlayer.GGVanq3}}, and {{site.data.playerBlob.BronzePlayer.GGVanq4}} for {{site.data.playerBlob.BronzePlayer.GGStars}} <br/></p>
         </div>
-        <div class = "LaserCardBlock col-xs-6" >
+        <div class = "LaserCardBlock col-sm-6" >
             <b>All time</b> <hr/>
             Achievements: {{site.data.playerBlob.BronzePlayer.Achievements}} <br/>
             Rarest Achievement: {{site.data.playerBlob.BronzePlayer.GAName}} <p>
@@ -82,13 +82,13 @@
         </div>
     </div>
     <div class = "row container-fluid">
-        <div class = "LaserCardBlock col-xs-6" >
+        <div class = "LaserCardBlock col-sm-6" >
             <b>This month</b> <hr/> 
             Games: {{site.data.playerBlob.OtherPlayer1.MonthlyGamesPlayed}} games <br/>
             Average Stars: {{site.data.playerBlob.OtherPlayer1.StarQuality}} stars <br/><p>
             {{site.data.playerBlob.OtherPlayer1.PlayerName}} played a game of {{site.data.playerBlob.OtherPlayer1.GGName}}, coming {{site.data.playerBlob.OtherPlayer1.GGRank}} and defeating {{site.data.playerBlob.OtherPlayer1.GGVanq1}}, {{site.data.playerBlob.OtherPlayer1.GGVanq2}}, {{site.data.playerBlob.OtherPlayer1.GGVanq3}}, and {{site.data.playerBlob.OtherPlayer1.GGVanq4}} for {{site.data.playerBlob.OtherPlayer1.GGStars}} <br/></p>
         </div>
-        <div class = "LaserCardBlock col-xs-6" >
+        <div class = "LaserCardBlock col-sm-6" >
             <b>All time</b> <hr/>
             Achievements: {{site.data.playerBlob.OtherPlayer1.Achievements}} <br/>
             Rarest Achievement: {{site.data.playerBlob.OtherPlayer1.GAName}} <p>
@@ -106,13 +106,13 @@
         </div>
     </div>
     <div class = "row container-fluid">
-        <div class = "LaserCardBlock col-xs-6" >
+        <div class = "LaserCardBlock col-sm-6" >
             <b>This month</b> <hr/> 
             Games: {{site.data.playerBlob.OtherPlayer2.MonthlyGamesPlayed}} games <br/>
             Average Stars: {{site.data.playerBlob.OtherPlayer2.StarQuality}} stars <br/><p>
             {{site.data.playerBlob.OtherPlayer2.PlayerName}} played a game of {{site.data.playerBlob.OtherPlayer2.GGName}}, coming {{site.data.playerBlob.OtherPlayer2.GGRank}} and defeating {{site.data.playerBlob.OtherPlayer2.GGVanq1}}, {{site.data.playerBlob.OtherPlayer2.GGVanq2}}, {{site.data.playerBlob.OtherPlayer2.GGVanq3}}, and {{site.data.playerBlob.OtherPlayer2.GGVanq4}} for {{site.data.playerBlob.OtherPlayer2.GGStars}} <br/></p>
         </div>
-        <div class = "LaserCardBlock col-xs-6" >
+        <div class = "LaserCardBlock col-sm-6" >
             <b>All time</b> <hr/>
             Achievements: {{site.data.playerBlob.OtherPlayer2.Achievements}} <br/>
             Rarest Achievement: {{site.data.playerBlob.OtherPlayer2.GAName}} <p>
