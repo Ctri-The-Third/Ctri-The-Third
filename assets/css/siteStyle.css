@@ -23,30 +23,17 @@ div.CentralBlock
 div.wrapper {
     
 }
-.navbarList
-{
-    display: table;
-    margin-left:auto;
-    margin-right:auto;
-    
-    padding:0px;
 
-}
-
-.navbarList li {
-    list-style-type: none;
+div.navbarItem {
     border-radius: 5px 15px;
-    
     display:inline;
     border:1px solid rgb(255, 236, 128);
-    margin-left:20px;
-    margin-right:20px;
-    padding:7px;
-    
-    
-    
+    margin:7px;
+    height:30px;
     text-align: center;
+    vertical-align: center;
 }
+
 
 div.headerGradient {
     background-image: linear-gradient(rgba(0,0,0,1), rgba(34, 34, 34, 0));
