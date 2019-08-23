@@ -12,7 +12,11 @@ div.headerGradient {
     min-height:90px;
   }
 
-
+img.LaserCardLogo
+{
+    width:75px;
+    height:75px;
+}
 
 
 div.LaserCardWrapper
