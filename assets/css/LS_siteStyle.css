@@ -199,3 +199,7 @@ div.navBar{
     margin-left:auto;
     margin-right:auto; 
 }
+
+.fill {
+    height:100%;
+}
