@@ -1,0 +1,52 @@
+div.LaserCardWrapper7-2
+{
+    margin-left:5px;
+    margin-right:5px;
+    color:goldenrod;
+    border:2px solid aqua;   
+}
+.LaserCardWrapper7-2 a:visited
+{   color:yellow; }
+.LaserCardWrapper7-2 a
+{   color:yellow; }
+ 
+ 
+
+div.LaserCardWrapper7-9
+{
+    margin-left:5px;
+    margin-right:5px;
+    border:2px solid green;
+    color:green;
+}
+.LaserCardWrapper7-9 a:visited
+{    color:limegreen; }
+.LaserCardWrapper7-9 a
+{    color:limegreen; }
+
+
+div.LaserCardWrapper7-8
+{
+    margin-left:5px;
+    margin-right:5px;
+    border:2px solid #0060c0;
+    color:white;
+    background: #103060;
+}
+.LaserCardWrapper7-8 a:visited
+{    color:yellow; }
+.LaserCardWrapper7-8 a
+{    color:yellow; }
+
+div.LaserCardWrapper7-10
+{
+    margin-left:5px;
+    margin-right:5px;
+    border:2px solid #0060c0;
+    color:white;
+    background: #103060;
+}
+.LaserCardWrapper7-10 a:visited
+{    color:yellow; }
+.LaserCardWrapper7-10 a
+{    color:yellow; }
