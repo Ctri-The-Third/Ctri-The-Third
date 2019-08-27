@@ -1,0 +1,177 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#222;
+    color:greenyellow; 
+    
+    
+}
+div.headerGradient {
+    background-image: linear-gradient(#000, #222);
+    margin:-8px;
+    padding-top:20px;
+    min-height:90px;
+  }
+
+
+
+
+div.LaserCardWrapper
+{
+    width:504px;
+    height:144px;
+    border:2px solid Green;
+    border-radius: 10px 30px;
+    padding-left:25px;
+    padding-right:25px;
+    padding-top:15px;
+    padding-bottom:10px;
+    font-size:8pt;
+    color: green;
+    margin-top:15px;
+    background-color:#111;
+}
+.otherPlayer div.LaserCardWrapper
+{
+    padding:0px;
+    
+    border:1px solid green;
+    color: Green;
+    background-color:#333;
+    margin-left:25px;
+    margin-right:25px;
+    padding:5px;
+
+}
+.goldPlayer div.LaserCardWrapper
+{
+    
+    border:2px solid greenyellow;
+    color:greenyellow;
+}
+.silverPlayer div.LaserCardWrapper
+{
+    border:2px solid greenyellow;
+ 	color:greenyellow;
+}
+.bronzePlayer div.LaserCardWrapper
+{
+    border:2px solid greenyellow;
+    color:greenyellow;
+       
+}
+div.LaserCardNames 
+{
+    float:right;
+    padding-right:5px;
+}
+div.LaserCardBlock {
+    margin-top:20px;
+    width:50%;
+    float:left;
+    
+
+}
+
+.goldPlayer div.LaserCardBlock {
+	color:green;
+}
+.silverPlayer div.LaserCardBlock {
+	color:green;
+}
+.bronzePlayer div.LaserCardBlock{
+    color: green;
+
+}
+div.LaserCardPadding {
+    padding-left:5px;
+    padding-right:5px;
+}
+h1 
+{
+    font-size:14pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height:auto;
+    min-height:0px;
+    margin-left:10px;
+    padding:0px;
+    margin:0px;
+    
+}
+h2 
+{
+    font-size:12pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+    padding:0px;
+    margin:0px;
+    text-align: right;
+}
+h4 
+
+a {
+    color:greenyellow
+}
+
+a:visited
+{color:green}
+a:hover
+{color:greenyellow}
+table {
+    color: Silver;
+    margin-left:10%;
+    margin-right:auto;
+    
+    border-spacing: 0;
+    
+    border-radius:20px;
+    -moz-border-radius:6px;
+    overflow: hidden;
+}
+hr { 
+    border:0px;
+    margin-left:0px;
+    margin-right:30px;
+}
+.goldPlayer hr 
+{
+    color:greenyellow;
+    background-color:greenyellow;
+    border-top:1px solid greenyellow;
+}
+.silverPlayer hr
+{
+    color:greenyellow;
+    background-color:greenyellow;
+    border-top:1px solid greenyellow;
+}
+.bronzePlayer hr 
+{
+    
+    color: greenyellow;
+    background-color:greenyellow;
+    border-top:1px solid greenyellow;
+}
+
+p{margin-block-start: 0.5em;
+margin-block-end:0.5em;}
+th {
+    
+    background: #331;
+    margin:0px;
+    padding-left:5px;
+    padding-right:5px;
+}
+td {
+    padding:2px;
+    margin:0px;
+    
+}
+td.number {
+    text-align: center;
+}
+tr:nth-child(even){
+     background:#331; /**/
+}
+tr:nth-child(odd){
+     background:#441; /**/
+}
+
