@@ -2,6 +2,20 @@
     "ScoreTitle": "Recent Head to Head games!",
     "Match": [
         {
+            "Player1Name": "C'tri",
+            "Player1Score": 20775,
+            "Player2Name": "Achilles",
+            "Player2Score": 10405,
+            "GameDate": "27 Aug 2019"
+        },
+        {
+            "Player1Name": "HotShot",
+            "Player1Score": 10609,
+            "Player2Name": "Pink Butterfly",
+            "Player2Score": 4104,
+            "GameDate": "27 Aug 2019"
+        },
+        {
             "Player1Name": "Grumpydad",
             "Player1Score": 7525,
             "Player2Name": "Awsomelad09",
@@ -35,20 +49,6 @@
             "Player2Name": "Bean",
             "Player2Score": 5165,
             "GameDate": "05 Aug 2019"
-        },
-        {
-            "Player1Name": "Pinch",
-            "Player1Score": 6824,
-            "Player2Name": "Bean",
-            "Player2Score": 6025,
-            "GameDate": "05 Aug 2019"
-        },
-        {
-            "Player1Name": "Smokey Bandit",
-            "Player1Score": 12856,
-            "Player2Name": "HotShot",
-            "Player2Score": 3903,
-            "GameDate": "02 Aug 2019"
         }
     ]
 }
