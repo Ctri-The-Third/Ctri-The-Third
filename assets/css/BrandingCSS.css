@@ -31,7 +31,7 @@ div.LaserCardWrapper7-8
     margin-right:5px;
     border:2px solid #0060c0;
     color:white;
-    background: #103060;
+    background: rgba(16,38,96,0.8);
 }
 .LaserCardWrapper7-8 a:visited
 {    color:yellow; }
