@@ -1,10 +1,11 @@
-      <div class = "row navBar container-fluid">
-        
-        
-        <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "/MonthlyScores"> Monthly Scores </a> </div>
-        <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "/StarQuality"> Star Quality </a>  </div>
-        <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "/Overachievers"> Overachievers </a> </div>
-        <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "/HeadToHeads"> Head to Head </a> </div>
-        <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "/About"> About </a>  </div>
-        
-      </div>
+
+
+<div class = "row container-fluid">
+  <div class = "col-sm-1"></div>
+  <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/MonthlyScores"> Monthly Scores </a> </div>
+  <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/StarQuality"> Star Quality </a>  </div>
+  <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/Overachievers"> Overachievers </a> </div>
+  <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/HeadToHeads"> Head to Head </a> </div>
+  <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/About"> About </a>  </div>
+  <div class = "col-sm-1"></div>
+</div>

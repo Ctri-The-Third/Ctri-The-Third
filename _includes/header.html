@@ -1,23 +1,15 @@
 <div class = headerGradient >
     <a href = "{{ "/" | relative_url }}" >
-      <img src = "{{ "/assets/images/LSLogo.png " | relative_url }}" style = "width:90px; float:left; margin-top:-5px;" />
+      <img src = "/assets/images{{ page.URLPrefix | default: '' }}Logo250.png" style = "width:90px; float:left; margin-top:-5px;" />
     </a> 
-    <div class = headerGradient  >
-        
+    
+
+    
+    
       {%- include navbar.html -%}
-    </div>
-    
-    
-    
-        
-    
     
   </div>
 <header class="site-header">
-
   <div class="wrapper">
-    
-   
-  
   </div>
 </header>

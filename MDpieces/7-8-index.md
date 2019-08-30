@@ -1,6 +1,7 @@
 ---
 layout : LaserSplash
 permalink: /7-8/
+URLPrefix: '/7-8'
 ---
 
  
