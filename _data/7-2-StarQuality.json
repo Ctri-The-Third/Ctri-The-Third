@@ -148,6 +148,17 @@
             "ChangeInSQPerGame": null
         },
         {
+            "Name": "Hewey",
+            "StarQualityPerGame": 21.56,
+            "TotalStarQuality": 280.33,
+            "AverageOpponents": 8.92,
+            "gamesPlayed": 13,
+            "AverageRank": 3.69,
+            "ChangeInRank": "\u21910.54",
+            "ChangeInPlayers": "\u21912.46",
+            "ChangeInSQPerGame": "\u219111.7"
+        },
+        {
             "Name": "Smally McSmall",
             "StarQualityPerGame": 21.45,
             "TotalStarQuality": 343.22,
@@ -190,17 +201,6 @@
             "ChangeInRank": "\u21911.13",
             "ChangeInPlayers": "\u21910.63",
             "ChangeInSQPerGame": "\u21919.19"
-        },
-        {
-            "Name": "Hewey",
-            "StarQualityPerGame": 20.7,
-            "TotalStarQuality": 269.12,
-            "AverageOpponents": 8.92,
-            "gamesPlayed": 13,
-            "AverageRank": 3.85,
-            "ChangeInRank": "\u21910.38",
-            "ChangeInPlayers": "\u21912.46",
-            "ChangeInSQPerGame": "\u219110.83"
         },
         {
             "Name": "Becky Bear",
@@ -412,17 +412,6 @@
             "ChangeInSQPerGame": "\u219320.7"
         },
         {
-            "Name": "Uprising",
-            "StarQualityPerGame": 15.75,
-            "TotalStarQuality": 126.0,
-            "AverageOpponents": 10.5,
-            "gamesPlayed": 8,
-            "AverageRank": 7.0,
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
-        },
-        {
             "Name": "Lazerino",
             "StarQualityPerGame": 15.63,
             "TotalStarQuality": 140.63,
@@ -434,12 +423,12 @@
             "ChangeInSQPerGame": null
         },
         {
-            "Name": "AnakinSkywalker",
-            "StarQualityPerGame": 15.56,
-            "TotalStarQuality": 108.9,
-            "AverageOpponents": 4.71,
-            "gamesPlayed": 7,
-            "AverageRank": 1.43,
+            "Name": "Uprising",
+            "StarQualityPerGame": 15.47,
+            "TotalStarQuality": 123.79,
+            "AverageOpponents": 10.5,
+            "gamesPlayed": 8,
+            "AverageRank": 7.13,
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
@@ -465,6 +454,17 @@
             "ChangeInRank": "\u21932.96",
             "ChangeInPlayers": "\u21913.17",
             "ChangeInSQPerGame": "\u21911.64"
+        },
+        {
+            "Name": "AnakinSkywalker",
+            "StarQualityPerGame": 14.14,
+            "TotalStarQuality": 99.0,
+            "AverageOpponents": 4.71,
+            "gamesPlayed": 7,
+            "AverageRank": 1.57,
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
         },
         {
             "Name": "Pepsi Bin",
@@ -500,17 +500,6 @@
             "ChangeInSQPerGame": "\u21933.77"
         },
         {
-            "Name": "Dr. M Toboggan",
-            "StarQualityPerGame": 13.94,
-            "TotalStarQuality": 181.16,
-            "AverageOpponents": 8.85,
-            "gamesPlayed": 13,
-            "AverageRank": 5.62,
-            "ChangeInRank": "\u21931.5",
-            "ChangeInPlayers": "\u21912.61",
-            "ChangeInSQPerGame": "\u21914.49"
-        },
-        {
             "Name": "Shutscroll",
             "StarQualityPerGame": 13.89,
             "TotalStarQuality": 125.0,
@@ -531,6 +520,17 @@
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Dr. M Toboggan",
+            "StarQualityPerGame": 13.75,
+            "TotalStarQuality": 178.72,
+            "AverageOpponents": 8.85,
+            "gamesPlayed": 13,
+            "AverageRank": 5.69,
+            "ChangeInRank": "\u21931.57",
+            "ChangeInPlayers": "\u21912.61",
+            "ChangeInSQPerGame": "\u21914.31"
         },
         {
             "Name": "T D",
@@ -929,6 +929,17 @@
             "ChangeInSQPerGame": null
         },
         {
+            "Name": "The Phantom",
+            "StarQualityPerGame": 9.59,
+            "TotalStarQuality": 86.28,
+            "AverageOpponents": 7.0,
+            "gamesPlayed": 9,
+            "AverageRank": 5.11,
+            "ChangeInRank": "\u21912.29",
+            "ChangeInPlayers": "\u21934.5",
+            "ChangeInSQPerGame": "\u21938.28"
+        },
+        {
             "Name": "Spongebob",
             "StarQualityPerGame": 9.56,
             "TotalStarQuality": 76.45,
@@ -938,17 +949,6 @@
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
-        },
-        {
-            "Name": "Puddin'",
-            "StarQualityPerGame": 9.53,
-            "TotalStarQuality": 57.19,
-            "AverageOpponents": 7.67,
-            "gamesPlayed": 6,
-            "AverageRank": 6.17,
-            "ChangeInRank": "\u21911.13",
-            "ChangeInPlayers": "\u21934.33",
-            "ChangeInSQPerGame": "\u219310.19"
         },
         {
             "Name": "Dare Devil",
@@ -971,17 +971,6 @@
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
-        },
-        {
-            "Name": "The Phantom",
-            "StarQualityPerGame": 9.38,
-            "TotalStarQuality": 84.45,
-            "AverageOpponents": 7.0,
-            "gamesPlayed": 9,
-            "AverageRank": 5.22,
-            "ChangeInRank": "\u21912.18",
-            "ChangeInPlayers": "\u21934.5",
-            "ChangeInSQPerGame": "\u21938.49"
         },
         {
             "Name": "Green Pea",
@@ -1017,15 +1006,15 @@
             "ChangeInSQPerGame": null
         },
         {
-            "Name": "*Hunter*",
-            "StarQualityPerGame": 9.03,
-            "TotalStarQuality": 81.28,
-            "AverageOpponents": 5.67,
-            "gamesPlayed": 9,
-            "AverageRank": 3.56,
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "Name": "Puddin'",
+            "StarQualityPerGame": 9.28,
+            "TotalStarQuality": 55.68,
+            "AverageOpponents": 7.67,
+            "gamesPlayed": 6,
+            "AverageRank": 6.33,
+            "ChangeInRank": "\u21910.97",
+            "ChangeInPlayers": "\u21934.33",
+            "ChangeInSQPerGame": "\u219310.45"
         },
         {
             "Name": "Master Yoda",
@@ -1037,6 +1026,17 @@
             "ChangeInRank": "\u21932.56",
             "ChangeInPlayers": "\u21914.67",
             "ChangeInSQPerGame": "\u21918.03"
+        },
+        {
+            "Name": "*Hunter*",
+            "StarQualityPerGame": 9.03,
+            "TotalStarQuality": 81.28,
+            "AverageOpponents": 5.67,
+            "gamesPlayed": 9,
+            "AverageRank": 3.56,
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
         },
         {
             "Name": "Vykid",
@@ -1270,23 +1270,23 @@
             "ChangeInSQPerGame": null
         },
         {
+            "Name": "Captian Falcon",
+            "StarQualityPerGame": 6.72,
+            "TotalStarQuality": 67.24,
+            "AverageOpponents": 4.1,
+            "gamesPlayed": 10,
+            "AverageRank": 2.5,
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
             "Name": "Doodywood",
             "StarQualityPerGame": 6.72,
             "TotalStarQuality": 20.17,
             "AverageOpponents": 3.67,
             "gamesPlayed": 3,
             "AverageRank": 2.0,
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
-        },
-        {
-            "Name": "Captian Falcon",
-            "StarQualityPerGame": 6.47,
-            "TotalStarQuality": 64.65,
-            "AverageOpponents": 4.1,
-            "gamesPlayed": 10,
-            "AverageRank": 2.6,
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
