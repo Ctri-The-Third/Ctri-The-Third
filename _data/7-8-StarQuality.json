@@ -5,26 +5,26 @@
     "Player": [
         {},
         {
+            "Name": "Blank",
+            "StarQualityPerGame": 16.03,
+            "TotalStarQuality": 96.15,
+            "AverageOpponents": 8.33,
+            "gamesPlayed": 6,
+            "AverageRank": 4.33,
+            "ChangeInRank": "\u21932.6",
+            "ChangeInPlayers": "\u21915.91",
+            "ChangeInSQPerGame": "\u219112.65"
+        },
+        {
             "Name": "Off-White",
-            "StarQualityPerGame": 26.45,
-            "TotalStarQuality": 238.05,
-            "AverageOpponents": 7.67,
-            "gamesPlayed": 9,
-            "AverageRank": 2.22,
+            "StarQualityPerGame": 15.78,
+            "TotalStarQuality": 252.46,
+            "AverageOpponents": 5.88,
+            "gamesPlayed": 16,
+            "AverageRank": 2.19,
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
-        },
-        {
-            "Name": "Blank",
-            "StarQualityPerGame": 15.43,
-            "TotalStarQuality": 92.59,
-            "AverageOpponents": 8.33,
-            "gamesPlayed": 6,
-            "AverageRank": 4.5,
-            "ChangeInRank": "\u21932.76",
-            "ChangeInPlayers": "\u21915.91",
-            "ChangeInSQPerGame": "\u219112.06"
         },
         {
             "Name": "Sn3aky",
@@ -71,6 +71,17 @@
             "ChangeInSQPerGame": null
         },
         {
+            "Name": "Psycho",
+            "StarQualityPerGame": 10.06,
+            "TotalStarQuality": 382.42,
+            "AverageOpponents": 4.63,
+            "gamesPlayed": 38,
+            "AverageRank": 2.13,
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
             "Name": "Entity",
             "StarQualityPerGame": 9.62,
             "TotalStarQuality": 48.09,
@@ -80,17 +91,6 @@
             "ChangeInRank": "\u21930.64",
             "ChangeInPlayers": "\u21911.85",
             "ChangeInSQPerGame": "\u21914.78"
-        },
-        {
-            "Name": "Psycho",
-            "StarQualityPerGame": 9.44,
-            "TotalStarQuality": 358.61,
-            "AverageOpponents": 4.32,
-            "gamesPlayed": 38,
-            "AverageRank": 1.97,
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
         },
         {
             "Name": "Shadow_Wolf",
@@ -104,26 +104,26 @@
             "ChangeInSQPerGame": "\u21914.93"
         },
         {
-            "Name": "Dad1of1Toast",
-            "StarQualityPerGame": 7.91,
-            "TotalStarQuality": 221.41,
-            "AverageOpponents": 5.82,
-            "gamesPlayed": 28,
-            "AverageRank": 4.29,
-            "ChangeInRank": "\u21933.29",
-            "ChangeInPlayers": "\u21914.82",
-            "ChangeInSQPerGame": "\u21916.91"
-        },
-        {
             "Name": "Road1to1Toast",
-            "StarQualityPerGame": 7.55,
-            "TotalStarQuality": 271.72,
-            "AverageOpponents": 4.89,
+            "StarQualityPerGame": 8.08,
+            "TotalStarQuality": 290.72,
+            "AverageOpponents": 5.17,
             "gamesPlayed": 36,
-            "AverageRank": 3.17,
+            "AverageRank": 3.31,
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Dad1of1Toast",
+            "StarQualityPerGame": 7.49,
+            "TotalStarQuality": 247.19,
+            "AverageOpponents": 5.52,
+            "gamesPlayed": 33,
+            "AverageRank": 4.06,
+            "ChangeInRank": "\u21933.06",
+            "ChangeInPlayers": "\u21914.52",
+            "ChangeInSQPerGame": "\u21916.49"
         },
         {
             "Name": "Loading...",
@@ -137,26 +137,15 @@
             "ChangeInSQPerGame": null
         },
         {
-            "Name": "Madness",
-            "StarQualityPerGame": 6.94,
-            "TotalStarQuality": 208.07,
-            "AverageOpponents": 3.53,
-            "gamesPlayed": 30,
-            "AverageRank": 1.8,
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
-        },
-        {
             "Name": "TotallyLost",
-            "StarQualityPerGame": 6.83,
-            "TotalStarQuality": 143.34,
-            "AverageOpponents": 4.67,
-            "gamesPlayed": 21,
-            "AverageRank": 3.19,
-            "ChangeInRank": "\u21931.86",
-            "ChangeInPlayers": "\u21911.44",
-            "ChangeInSQPerGame": "\u21930.96"
+            "StarQualityPerGame": 6.3,
+            "TotalStarQuality": 144.93,
+            "AverageOpponents": 4.35,
+            "gamesPlayed": 23,
+            "AverageRank": 3.0,
+            "ChangeInRank": "\u21931.67",
+            "ChangeInPlayers": "\u21911.13",
+            "ChangeInSQPerGame": "\u21931.49"
         },
         {
             "Name": "Section",
@@ -165,6 +154,17 @@
             "AverageOpponents": 3.0,
             "gamesPlayed": 4,
             "AverageRank": 1.5,
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Madness",
+            "StarQualityPerGame": 5.81,
+            "TotalStarQuality": 209.07,
+            "AverageOpponents": 3.11,
+            "gamesPlayed": 36,
+            "AverageRank": 1.67,
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
@@ -280,17 +280,6 @@
             "ChangeInSQPerGame": null
         },
         {
-            "Name": "Jacob B",
-            "StarQualityPerGame": 2.4,
-            "TotalStarQuality": 7.2,
-            "AverageOpponents": 2.0,
-            "gamesPlayed": 3,
-            "AverageRank": 1.67,
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
-        },
-        {
             "Name": "Assassin",
             "StarQualityPerGame": 2.4,
             "TotalStarQuality": 7.2,
@@ -319,6 +308,17 @@
             "AverageOpponents": 2.0,
             "gamesPlayed": 2,
             "AverageRank": 2.0,
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Jacob B",
+            "StarQualityPerGame": 1.69,
+            "TotalStarQuality": 10.13,
+            "AverageOpponents": 1.5,
+            "gamesPlayed": 6,
+            "AverageRank": 1.33,
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
