@@ -424,11 +424,11 @@
         },
         {
             "Name": "Uprising",
-            "StarQualityPerGame": 15.47,
-            "TotalStarQuality": 123.79,
+            "StarQualityPerGame": 15.21,
+            "TotalStarQuality": 121.66,
             "AverageOpponents": 10.5,
             "gamesPlayed": 8,
-            "AverageRank": 7.13,
+            "AverageRank": 7.25,
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
@@ -500,6 +500,17 @@
             "ChangeInSQPerGame": "\u21933.77"
         },
         {
+            "Name": "Dr. M Toboggan",
+            "StarQualityPerGame": 13.94,
+            "TotalStarQuality": 181.16,
+            "AverageOpponents": 8.85,
+            "gamesPlayed": 13,
+            "AverageRank": 5.62,
+            "ChangeInRank": "\u21931.5",
+            "ChangeInPlayers": "\u21912.61",
+            "ChangeInSQPerGame": "\u21914.49"
+        },
+        {
             "Name": "Shutscroll",
             "StarQualityPerGame": 13.89,
             "TotalStarQuality": 125.0,
@@ -520,17 +531,6 @@
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
-        },
-        {
-            "Name": "Dr. M Toboggan",
-            "StarQualityPerGame": 13.75,
-            "TotalStarQuality": 178.72,
-            "AverageOpponents": 8.85,
-            "gamesPlayed": 13,
-            "AverageRank": 5.69,
-            "ChangeInRank": "\u21931.57",
-            "ChangeInPlayers": "\u21912.61",
-            "ChangeInSQPerGame": "\u21914.31"
         },
         {
             "Name": "T D",

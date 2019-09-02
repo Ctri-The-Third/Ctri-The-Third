@@ -72,25 +72,14 @@
         },
         {
             "Name": "Unagi",
-            "StarQualityPerGame": 18.84,
-            "TotalStarQuality": 621.71,
+            "StarQualityPerGame": 19.67,
+            "TotalStarQuality": 648.98,
             "AverageOpponents": 8.24,
             "gamesPlayed": 33,
-            "AverageRank": 3.61,
-            "ChangeInRank": "\u21910.39",
+            "AverageRank": 3.45,
+            "ChangeInRank": "\u21910.55",
             "ChangeInPlayers": "\u21930.96",
-            "ChangeInSQPerGame": "\u21932.32"
-        },
-        {
-            "Name": "S O S",
-            "StarQualityPerGame": 18.77,
-            "TotalStarQuality": 150.13,
-            "AverageOpponents": 10.5,
-            "gamesPlayed": 8,
-            "AverageRank": 5.88,
-            "ChangeInRank": "\u21931.72",
-            "ChangeInPlayers": "\u21913.55",
-            "ChangeInSQPerGame": "\u21917.13"
+            "ChangeInSQPerGame": "\u21931.49"
         },
         {
             "Name": "Azrael",
@@ -99,9 +88,9 @@
             "AverageOpponents": 9.9,
             "gamesPlayed": 10,
             "AverageRank": 5.3,
-            "ChangeInRank": "\u21932.18",
+            "ChangeInRank": "\u21932.22",
             "ChangeInPlayers": "\u21913.86",
-            "ChangeInSQPerGame": "\u21916.8"
+            "ChangeInSQPerGame": "\u21916.65"
         },
         {
             "Name": "Calpinator",
@@ -113,6 +102,17 @@
             "ChangeInRank": "\u21934.0",
             "ChangeInPlayers": "\u21914.98",
             "ChangeInSQPerGame": "\u21915.59"
+        },
+        {
+            "Name": "S O S",
+            "StarQualityPerGame": 18.38,
+            "TotalStarQuality": 147.0,
+            "AverageOpponents": 10.5,
+            "gamesPlayed": 8,
+            "AverageRank": 6.0,
+            "ChangeInRank": "\u21931.85",
+            "ChangeInPlayers": "\u21913.55",
+            "ChangeInSQPerGame": "\u21916.74"
         },
         {
             "Name": "<!-- Blaze -->",
@@ -138,14 +138,14 @@
         },
         {
             "Name": "Natsudragneel",
-            "StarQualityPerGame": 16.3,
-            "TotalStarQuality": 195.56,
+            "StarQualityPerGame": 16.07,
+            "TotalStarQuality": 192.8,
             "AverageOpponents": 9.75,
             "gamesPlayed": 12,
-            "AverageRank": 5.83,
-            "ChangeInRank": "\u21930.61",
+            "AverageRank": 5.92,
+            "ChangeInRank": "\u21930.64",
             "ChangeInPlayers": "\u21912.81",
-            "ChangeInSQPerGame": "\u21917.06"
+            "ChangeInSQPerGame": "\u21916.93"
         },
         {
             "Name": "Killa",
@@ -182,36 +182,25 @@
         },
         {
             "Name": "Phoenix Warrior",
-            "StarQualityPerGame": 13.57,
-            "TotalStarQuality": 108.55,
+            "StarQualityPerGame": 13.36,
+            "TotalStarQuality": 106.91,
             "AverageOpponents": 10.5,
             "gamesPlayed": 8,
-            "AverageRank": 8.13,
+            "AverageRank": 8.25,
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
         },
         {
             "Name": "Winter",
-            "StarQualityPerGame": 12.84,
-            "TotalStarQuality": 346.56,
+            "StarQualityPerGame": 12.67,
+            "TotalStarQuality": 342.22,
             "AverageOpponents": 8.67,
             "gamesPlayed": 27,
-            "AverageRank": 5.85,
-            "ChangeInRank": "\u21930.41",
+            "AverageRank": 5.93,
+            "ChangeInRank": "\u21930.48",
             "ChangeInPlayers": "\u21911.11",
-            "ChangeInSQPerGame": "\u21912.35"
-        },
-        {
-            "Name": "Assassin",
-            "StarQualityPerGame": 10.3,
-            "TotalStarQuality": 133.93,
-            "AverageOpponents": 5.77,
-            "gamesPlayed": 13,
-            "AverageRank": 3.23,
-            "ChangeInRank": "\u21910.53",
-            "ChangeInPlayers": "\u21930.42",
-            "ChangeInSQPerGame": "\u21910.12"
+            "ChangeInSQPerGame": "\u21912.19"
         },
         {
             "Name": "Hana",
@@ -223,6 +212,17 @@
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Assassin",
+            "StarQualityPerGame": 8.45,
+            "TotalStarQuality": 135.2,
+            "AverageOpponents": 4.88,
+            "gamesPlayed": 16,
+            "AverageRank": 2.81,
+            "ChangeInRank": "\u21910.95",
+            "ChangeInPlayers": "\u21931.32",
+            "ChangeInSQPerGame": "\u21931.74"
         },
         {
             "Name": "(Apollo)",
