@@ -1,0 +1,78 @@
+div.LaserCardContent
+{
+    border-radius: inherit;
+    width:100%;
+    height:100%;
+    font-size:8pt;
+    color:royalblue;
+    margin:0px;
+    background-color:rgba(11,11,11,1);
+}
+div.LaserCardWrapper
+{
+    margin-left:25px;
+    margin-right:25px;
+    margin-top:10px;
+    margin-bottom:15px;
+    border-radius:10px 30px;
+    padding:2px;
+    
+}
+
+
+div.LaserCardWrapperOther
+{
+    
+    border:1px solid black;
+    color: black;
+    background: linear-gradient(0deg, royalblue, royalblue, aqua); 
+    border:0px;
+    color:royalblue;
+}
+.LaserCardWrapperOther .LaserCardNames
+{
+    color:aqua;
+}
+
+div.LaserCardWrapperGold
+{
+    
+    background: linear-gradient(0deg, royalblue, royalblue, gold); 
+    border:0px;
+    color:royalblue;
+
+}
+.LaserCardWrapperGold .LaserCardNames
+{
+    color:gold;
+}
+div.LaserCardWrapperSilver
+{
+    background: linear-gradient(0deg, royalblue, royalblue, silver); 
+    border:0px;
+    color:royalblue;
+}
+.LaserCardWrapperSilver .LaserCardNames
+{
+    color:silver;
+}
+div.LaserCardWrapperBronze
+{
+    background: linear-gradient(0deg, royalblue, royalblue, rgb(180, 100, 40)); 
+    border:0px;
+    color:royalblue;
+
+}
+.LaserCardWrapperBronze .LaserCardNames
+{
+    color:rgb(180, 100, 40);
+}
+
+
+.LaserCardWrapper hr 
+{
+    
+    color: royalblue;
+    background-color:royalblue;
+    border-top:1px solid royalblue;
+}

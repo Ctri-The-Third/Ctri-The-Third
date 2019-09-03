@@ -204,3 +204,18 @@ main.page-content{
 
     margin-bottom:30px;
 }
+
+.genericWrapper
+
+ 
+{
+    border-radius: 10px 30px;
+    padding-left:25px;
+    padding-right:25px;
+    padding-top:10px;
+    padding-bottom:15px;
+    font-size:8pt;
+    color:gold;
+    margin-top:15px;
+    background-color:rgba(0,0,0,.8);
+}

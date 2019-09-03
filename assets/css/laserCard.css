@@ -17,11 +17,8 @@ img.LaserCardLogo
 }
 
 
-div.LaserCardWrapper
+div.LaserCardContent
 {
-    
-    
-    border:2px solid gold;
     border-radius: 10px 30px;
     padding-left:25px;
     padding-right:25px;
@@ -121,6 +118,7 @@ hr {
     margin-left:0px;
     margin-right:30px;
 }
+
 .LaserCardWrapperGold hr 
 {
     color:rgb(143, 121, 0);

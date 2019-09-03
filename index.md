@@ -8,7 +8,7 @@ layout : LaserEmpty
 
 <div class = "row container-fluid " >
 <div class = "col-sm-2" style = ""></div>
-<div class = "col-sm-4 LaserCardWrapper LaserCardWrapper7-9" style = "">
+<div class = "col-sm-4 genericWrapper LaserCardWrapper7-9" style = "">
     <div class = "row">
         <div class = "col-xs-4">
             <a href = "{{ "/7-9/" | relative_url }}"> 
@@ -25,7 +25,7 @@ layout : LaserEmpty
     </div>
 </div>
 
-<div class = "col-sm-4 LaserCardWrapper LaserCardWrapper7-2" style = "">
+<div class = "col-sm-4 genericWrapper LaserCardWrapper7-2" style = "">
     <div class = "row">
     <div class = "col-xs-4">
         <a href = "{{ "/7-2/" | relative_url }}"> 
@@ -46,7 +46,7 @@ layout : LaserEmpty
 
 <div class = "row container-fluid " >
 <div class = "col-sm-2" style = ""></div>
-<div class = "col-sm-4 LaserCardWrapper LaserCardWrapper7-8" style = "">
+<div class = "col-sm-4 genericWrapper LaserCardWrapper7-8" style = "">
     <div class = "row">
     <div class = "col-xs-4">
         <a href = "{{ "/7-8/" | relative_url }}"> 
@@ -62,7 +62,7 @@ layout : LaserEmpty
     </div>
     </div>
 </div>
-<div class = "col-sm-4 LaserCardWrapper LaserCardWrapper7-10" style = "">
+<div class = "col-sm-4 genericWrapper LaserCardWrapper7-10" style = "">
     <div class = "row">
     <div class = "col-xs-4">
         <a href = "{{ "/7-10/" | relative_url }}"> 
