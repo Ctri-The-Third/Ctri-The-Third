@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
     {%- include head_card.html -%}
-  <body class = "" style = "border:1px solid red;">
+  <body class = "" style = "">
     <div class = headerGradient  >
     </div>
     <div class="wrapper HarbingerBack col-xs-12 " style = "height:100%; " >
