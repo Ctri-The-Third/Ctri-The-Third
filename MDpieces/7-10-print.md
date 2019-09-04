@@ -55,7 +55,7 @@ URLPrefix: '/7-10'
             Games: {{site.data.7-10-playerBlob.SilverPlayer.MonthlyGamesPlayed}} games <br/>
             <p>
             <b>Game of the Month:</b> {{site.data.7-10-playerBlob.SilverPlayer.PlayerName}} played a game of {{site.data.7-10-playerBlob.SilverPlayer.GGName}}, coming {{site.data.7-10-playerBlob.SilverPlayer.GGRank}} and defeating {{site.data.7-10-playerBlob.SilverPlayer.GGVanq1}}, {{site.data.7-10-playerBlob.SilverPlayer.GGVanq2}}, {{site.data.7-10-playerBlob.SilverPlayer.GGVanq3}}, and {{site.data.7-10-playerBlob.SilverPlayer.GGVanq4}} for {{site.data.7-10-playerBlob.SilverPlayer.GGStars}} 
-            <br/><b>Claim to Fame:</b> Silver star! {{site.data.7-10-playerBlob.GoldenPlayer.PlayerName}} beat the second most other members this month.
+            <br/><b>Claim to Fame:</b> Silver star! {{site.data.7-10-playerBlob.SilverPlayer.PlayerName}} beat the second most other members this month.
             </p>
         </td>
         <td class = "LaserCardBlock col-sm-6" >
@@ -86,7 +86,7 @@ URLPrefix: '/7-10'
             Games: {{site.data.7-10-playerBlob.BronzePlayer.MonthlyGamesPlayed}} games <br/>
             <p>
             <b>Game of the Month:</b> {{site.data.7-10-playerBlob.BronzePlayer.PlayerName}} played a game of {{site.data.7-10-playerBlob.BronzePlayer.GGName}}, coming {{site.data.7-10-playerBlob.BronzePlayer.GGRank}} and defeating {{site.data.7-10-playerBlob.BronzePlayer.GGVanq1}}, {{site.data.7-10-playerBlob.BronzePlayer.GGVanq2}}, {{site.data.7-10-playerBlob.BronzePlayer.GGVanq3}}, and {{site.data.7-10-playerBlob.BronzePlayer.GGVanq4}} for {{site.data.7-10-playerBlob.BronzePlayer.GGStars}} 
-            <br/><b>Claim to Fame:</b> Bronze star! {{site.data.7-10-playerBlob.GoldenPlayer.PlayerName}} beat the third most other members this month.
+            <br/><b>Claim to Fame:</b> Bronze star! {{site.data.7-10-playerBlob.BronzePlayer.PlayerName}} beat the third most other members this month.
             </p>
         </td>
         <td class = "LaserCardBlock col-sm-6" >
