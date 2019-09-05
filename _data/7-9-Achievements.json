@@ -30,7 +30,7 @@
             "Name": "T D",
             "AchievementsCompleted": 65,
             "RarestAchievement": "Field Medic",
-            "OthersWith": "(2)"
+            "OthersWith": "(3)"
         },
         {
             "Name": "HotShot",
@@ -40,7 +40,7 @@
         },
         {
             "Name": "JammyDodger",
-            "AchievementsCompleted": 58,
+            "AchievementsCompleted": 60,
             "RarestAchievement": "Team Doctor",
             "OthersWith": "(3)"
         },
@@ -58,15 +58,21 @@
         },
         {
             "Name": "Cheese Sandwich",
-            "AchievementsCompleted": 53,
+            "AchievementsCompleted": 54,
             "RarestAchievement": "Preemptive Strike",
             "OthersWith": "(5)"
         },
         {
             "Name": "Mindi",
+            "AchievementsCompleted": 53,
+            "RarestAchievement": "True Leader",
+            "OthersWith": "(5)"
+        },
+        {
+            "Name": "Oscar",
             "AchievementsCompleted": 52,
-            "RarestAchievement": "Hammo & Cheese",
-            "OthersWith": "(6)"
+            "RarestAchievement": "Field Medic",
+            "OthersWith": "(3)"
         },
         {
             "Name": "Paradigm",
@@ -85,12 +91,6 @@
             "AchievementsCompleted": 51,
             "RarestAchievement": "Temporary Reprieve",
             "OthersWith": "(4)"
-        },
-        {
-            "Name": "Smokey Bandit",
-            "AchievementsCompleted": 50,
-            "RarestAchievement": "Maximus",
-            "OthersWith": "(3)"
         }
     ]
 }
