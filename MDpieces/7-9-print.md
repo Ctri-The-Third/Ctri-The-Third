@@ -3,11 +3,11 @@ layout : Print
 permalink: /7-9/print
 URLPrefix: '/7-9'
 ---
-
+<h1> The stars of {{site.data.7-9-playerBlob.GoldenPlayer.HomeArenaTrunc}} </h1>
 <table class = "LaserCardWrapper">
     <tr>
         <td class = "LaserCardNames col-sm-4" colspan = "2">
-            <h1> {{site.data.7-9-playerBlob.GoldenPlayer.PlayerName}}, {{site.data.7-9-playerBlob.GoldenPlayer.SkillLevelName}} </h1>
+            <h2> {{site.data.7-9-playerBlob.GoldenPlayer.PlayerName}}, {{site.data.7-9-playerBlob.GoldenPlayer.SkillLevelName}} </h2>
         </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@ URLPrefix: '/7-9'
         </td>
         <td class = "LaserCardBlock col-sm-6" >
             Achievements: {{site.data.7-9-playerBlob.GoldenPlayer.Achievements}} <br/>
-            Rarest Achievement: {{site.data.7-9-playerBlob.GoldenPlayer.GAName}} <p>
+            <b><b>rarest achievement:</b></b> {{site.data.7-9-playerBlob.GoldenPlayer.GAName}} <p>
             "{{site.data.7-9-playerBlob.GoldenPlayer.GADesc}}"  </p><p>
             {{site.data.7-9-playerBlob.GoldenPlayer.GAOthers}} this achievement!  </p>
         </td>
@@ -38,7 +38,7 @@ URLPrefix: '/7-9'
 <table class = "LaserCardWrapper">
     <tr>
         <td class = "LaserCardNames col-sm-4" colspan = "2">
-            <h1> {{site.data.7-9-playerBlob.SilverPlayer.PlayerName}}, {{site.data.7-9-playerBlob.SilverPlayer.SkillLevelName}} </h1>
+            <h2> {{site.data.7-9-playerBlob.SilverPlayer.PlayerName}}, {{site.data.7-9-playerBlob.SilverPlayer.SkillLevelName}} </h2>
         </td>
     </tr>
     <tr>
@@ -60,7 +60,7 @@ URLPrefix: '/7-9'
         </td>
         <td class = "LaserCardBlock col-sm-6" >
             Achievements: {{site.data.7-9-playerBlob.SilverPlayer.Achievements}} <br/>
-            Rarest Achievement: {{site.data.7-9-playerBlob.SilverPlayer.GAName}} <p>
+            <b><b>rarest achievement:</b></b> {{site.data.7-9-playerBlob.SilverPlayer.GAName}} <p>
             "{{site.data.7-9-playerBlob.SilverPlayer.GADesc}}"  </p><p>
             {{site.data.7-9-playerBlob.SilverPlayer.GAOthers}} this achievement!  </p>
         </td>
@@ -69,7 +69,7 @@ URLPrefix: '/7-9'
 <table class = "LaserCardWrapper">
     <tr>
         <td class = "LaserCardNames col-sm-4" colspan = "2">
-            <h1> {{site.data.7-9-playerBlob.BronzePlayer.PlayerName}}, {{site.data.7-9-playerBlob.BronzePlayer.SkillLevelName}} </h1>
+            <h2> {{site.data.7-9-playerBlob.BronzePlayer.PlayerName}}, {{site.data.7-9-playerBlob.BronzePlayer.SkillLevelName}} </h2>
         </td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@ URLPrefix: '/7-9'
         </td>
         <td class = "LaserCardBlock col-sm-6" >
             Achievements: {{site.data.7-9-playerBlob.BronzePlayer.Achievements}} <br/>
-            Rarest Achievement: {{site.data.7-9-playerBlob.BronzePlayer.GAName}} <p>
+            <b><b>rarest achievement:</b></b> {{site.data.7-9-playerBlob.BronzePlayer.GAName}} <p>
             "{{site.data.7-9-playerBlob.BronzePlayer.GADesc}}"  </p><p>
             {{site.data.7-9-playerBlob.BronzePlayer.GAOthers}} this achievement!  </p>
         </td>
@@ -100,7 +100,7 @@ URLPrefix: '/7-9'
 <table class = "LaserCardWrapper">
     <tr>
         <td class = "LaserCardNames col-sm-4" colspan = "2">
-            <h1> {{site.data.7-9-playerBlob.OtherPlayer1.PlayerName}}, {{site.data.7-9-playerBlob.OtherPlayer1.SkillLevelName}} </h1>
+            <h2> {{site.data.7-9-playerBlob.OtherPlayer1.PlayerName}}, {{site.data.7-9-playerBlob.OtherPlayer1.SkillLevelName}} </h2>
         </td>
     </tr>
     <tr>
@@ -122,7 +122,7 @@ URLPrefix: '/7-9'
         </td> 
         <td class = "LaserCardBlock col-sm-6" >
             Achievements: {{site.data.7-9-playerBlob.OtherPlayer1.Achievements}} <br/>
-            Rarest Achievement: {{site.data.7-9-playerBlob.OtherPlayer1.GAName}} <p>
+            <b><b>rarest achievement:</b></b> {{site.data.7-9-playerBlob.OtherPlayer1.GAName}} <p>
             "{{site.data.7-9-playerBlob.OtherPlayer1.GADesc}}"  </p><p>
             {{site.data.7-9-playerBlob.OtherPlayer1.GAOthers}} this achievement!  </p>
         </td>
@@ -132,7 +132,7 @@ URLPrefix: '/7-9'
 <table class = "LaserCardWrapper">
     <tr>
         <td class = "LaserCardNames col-sm-4" colspan = "2">
-            <h1> {{site.data.7-9-playerBlob.OtherPlayer2.PlayerName}}, {{site.data.7-9-playerBlob.OtherPlayer2.SkillLevelName}} </h1>
+            <h2> {{site.data.7-9-playerBlob.OtherPlayer2.PlayerName}}, {{site.data.7-9-playerBlob.OtherPlayer2.SkillLevelName}} </h2>
         </td>
     </tr>
     <tr>
@@ -149,15 +149,16 @@ URLPrefix: '/7-9'
             Games: {{site.data.7-9-playerBlob.OtherPlayer2.MonthlyGamesPlayed}} games <br/>
             <p>
             <b>Game of the Month:</b> {{site.data.7-9-playerBlob.OtherPlayer2.PlayerName}} played a game of {{site.data.7-9-playerBlob.OtherPlayer2.GGName}}, coming {{site.data.7-9-playerBlob.OtherPlayer2.GGRank}} and defeating {{site.data.7-9-playerBlob.OtherPlayer2.GGVanq1}}, {{site.data.7-9-playerBlob.OtherPlayer2.GGVanq2}}, {{site.data.7-9-playerBlob.OtherPlayer2.GGVanq3}}, and {{site.data.7-9-playerBlob.OtherPlayer2.GGVanq4}} for {{site.data.7-9-playerBlob.OtherPlayer2.GGStars}}.
-            <br/><b>Claim to Fame:</b> {{site.data.7-9-playerBlob.OtherPlayer2.PlayerName}} Has the best achievements of anyone here!
+            <br/><b>Claim to Fame:</b> {{site.data.7-9-playerBlob.OtherPlayer2.PlayerName}} Has the best achievements of everyone not already here!
             </p>
         </td>
         <td class = "LaserCardBlock col-sm-6" >
             Achievements: {{site.data.7-9-playerBlob.OtherPlayer2.Achievements}} <br/>
-            Rarest Achievement: {{site.data.7-9-playerBlob.OtherPlayer2.GAName}} <p>
+            <b><b>rarest achievement:</b></b> {{site.data.7-9-playerBlob.OtherPlayer2.GAName}} <p>
             "{{site.data.7-9-playerBlob.OtherPlayer2.GADesc}}"  </p><p>
             {{site.data.7-9-playerBlob.OtherPlayer2.GAOthers}} this achievement!  </p>
         </td>
     </tr>
 </table>
 </p>
+<h3> Engineered by https://www.ctri.co.uk, powered by http://www.iplaylaserforce.com/ </h3>

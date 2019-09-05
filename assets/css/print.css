@@ -3,15 +3,21 @@ body {
     font-size:10pt;
 }
 h1{
-    font-size: 14pt;
+    font-size: 16pt;
     padding:0px;
     margin:4pt;
+    text-align: center;
 }
 h2 
 {
     font-size:14pt;
     padding:0px;
     margin:4pt;
+}
+h3 {
+    font-family:'Courier New', Courier, monospace;
+    font-size:10pt;
+    
 }
 .LaserCardWrapper{
     border:2px solid black;

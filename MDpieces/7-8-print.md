@@ -3,11 +3,11 @@ layout : Print
 permalink: /7-8/print
 URLPrefix: '/7-8'
 ---
-
+<h1> The stars of {{site.data.7-8-playerBlob.GoldenPlayer.HomeArenaTrunc}} </h1>
 <table class = "LaserCardWrapper">
     <tr>
         <td class = "LaserCardNames col-sm-4" colspan = "2">
-            <h1> {{site.data.7-8-playerBlob.GoldenPlayer.PlayerName}}, {{site.data.7-8-playerBlob.GoldenPlayer.SkillLevelName}} </h1>
+            <h2> {{site.data.7-8-playerBlob.GoldenPlayer.PlayerName}}, {{site.data.7-8-playerBlob.GoldenPlayer.SkillLevelName}} </h2>
         </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@ URLPrefix: '/7-8'
         </td>
         <td class = "LaserCardBlock col-sm-6" >
             Achievements: {{site.data.7-8-playerBlob.GoldenPlayer.Achievements}} <br/>
-            Rarest Achievement: {{site.data.7-8-playerBlob.GoldenPlayer.GAName}} <p>
+            <b>rarest achievement:</b> {{site.data.7-8-playerBlob.GoldenPlayer.GAName}} <p>
             "{{site.data.7-8-playerBlob.GoldenPlayer.GADesc}}"  </p><p>
             {{site.data.7-8-playerBlob.GoldenPlayer.GAOthers}} this achievement!  </p>
         </td>
@@ -38,7 +38,7 @@ URLPrefix: '/7-8'
 <table class = "LaserCardWrapper">
     <tr>
         <td class = "LaserCardNames col-sm-4" colspan = "2">
-            <h1> {{site.data.7-8-playerBlob.SilverPlayer.PlayerName}}, {{site.data.7-8-playerBlob.SilverPlayer.SkillLevelName}} </h1>
+            <h2> {{site.data.7-8-playerBlob.SilverPlayer.PlayerName}}, {{site.data.7-8-playerBlob.SilverPlayer.SkillLevelName}} </h2>
         </td>
     </tr>
     <tr>
@@ -60,7 +60,7 @@ URLPrefix: '/7-8'
         </td>
         <td class = "LaserCardBlock col-sm-6" >
             Achievements: {{site.data.7-8-playerBlob.SilverPlayer.Achievements}} <br/>
-            Rarest Achievement: {{site.data.7-8-playerBlob.SilverPlayer.GAName}} <p>
+            <b>rarest achievement:</b> {{site.data.7-8-playerBlob.SilverPlayer.GAName}} <p>
             "{{site.data.7-8-playerBlob.SilverPlayer.GADesc}}"  </p><p>
             {{site.data.7-8-playerBlob.SilverPlayer.GAOthers}} this achievement!  </p>
         </td>
@@ -69,7 +69,7 @@ URLPrefix: '/7-8'
 <table class = "LaserCardWrapper">
     <tr>
         <td class = "LaserCardNames col-sm-4" colspan = "2">
-            <h1> {{site.data.7-8-playerBlob.BronzePlayer.PlayerName}}, {{site.data.7-8-playerBlob.BronzePlayer.SkillLevelName}} </h1>
+            <h2> {{site.data.7-8-playerBlob.BronzePlayer.PlayerName}}, {{site.data.7-8-playerBlob.BronzePlayer.SkillLevelName}} </h2>
         </td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@ URLPrefix: '/7-8'
         </td>
         <td class = "LaserCardBlock col-sm-6" >
             Achievements: {{site.data.7-8-playerBlob.BronzePlayer.Achievements}} <br/>
-            Rarest Achievement: {{site.data.7-8-playerBlob.BronzePlayer.GAName}} <p>
+            <b>rarest achievement:</b> {{site.data.7-8-playerBlob.BronzePlayer.GAName}} <p>
             "{{site.data.7-8-playerBlob.BronzePlayer.GADesc}}"  </p><p>
             {{site.data.7-8-playerBlob.BronzePlayer.GAOthers}} this achievement!  </p>
         </td>
@@ -100,7 +100,7 @@ URLPrefix: '/7-8'
 <table class = "LaserCardWrapper">
     <tr>
         <td class = "LaserCardNames col-sm-4" colspan = "2">
-            <h1> {{site.data.7-8-playerBlob.OtherPlayer1.PlayerName}}, {{site.data.7-8-playerBlob.OtherPlayer1.SkillLevelName}} </h1>
+            <h2> {{site.data.7-8-playerBlob.OtherPlayer1.PlayerName}}, {{site.data.7-8-playerBlob.OtherPlayer1.SkillLevelName}} </h2>
         </td>
     </tr>
     <tr>
@@ -122,7 +122,7 @@ URLPrefix: '/7-8'
         </td> 
         <td class = "LaserCardBlock col-sm-6" >
             Achievements: {{site.data.7-8-playerBlob.OtherPlayer1.Achievements}} <br/>
-            Rarest Achievement: {{site.data.7-8-playerBlob.OtherPlayer1.GAName}} <p>
+            <b>rarest achievement:</b> {{site.data.7-8-playerBlob.OtherPlayer1.GAName}} <p>
             "{{site.data.7-8-playerBlob.OtherPlayer1.GADesc}}"  </p><p>
             {{site.data.7-8-playerBlob.OtherPlayer1.GAOthers}} this achievement!  </p>
         </td>
@@ -132,7 +132,7 @@ URLPrefix: '/7-8'
 <table class = "LaserCardWrapper">
     <tr>
         <td class = "LaserCardNames col-sm-4" colspan = "2">
-            <h1> {{site.data.7-8-playerBlob.OtherPlayer2.PlayerName}}, {{site.data.7-8-playerBlob.OtherPlayer2.SkillLevelName}} </h1>
+            <h2> {{site.data.7-8-playerBlob.OtherPlayer2.PlayerName}}, {{site.data.7-8-playerBlob.OtherPlayer2.SkillLevelName}} </h2>
         </td>
     </tr>
     <tr>
@@ -154,10 +154,11 @@ URLPrefix: '/7-8'
         </td>
         <td class = "LaserCardBlock col-sm-6" >
             Achievements: {{site.data.7-8-playerBlob.OtherPlayer2.Achievements}} <br/>
-            Rarest Achievement: {{site.data.7-8-playerBlob.OtherPlayer2.GAName}} <p>
+            <b>rarest achievement:</b> {{site.data.7-8-playerBlob.OtherPlayer2.GAName}} <p>
             "{{site.data.7-8-playerBlob.OtherPlayer2.GADesc}}"  </p><p>
             {{site.data.7-8-playerBlob.OtherPlayer2.GAOthers}} this achievement!  </p>
         </td>
     </tr>
 </table>
 </p>
+<h3> Engineered by https://www.ctri.co.uk, powered by http://www.iplaylaserforce.com/ </h3>

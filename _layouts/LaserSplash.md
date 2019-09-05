@@ -15,7 +15,7 @@
       </div>
     </main>
 
-    {%- include footer.html -%} 
+    {%- include splash_footer.html -%} 
 
   </body>
 

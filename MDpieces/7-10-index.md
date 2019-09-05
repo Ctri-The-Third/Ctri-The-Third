@@ -50,7 +50,7 @@ URLPrefix: '/7-10'
                 Games: {{site.data.7-10-playerBlob.SilverPlayer.MonthlyGamesPlayed}} games <br/>
                 Average Stars: {{site.data.7-10-playerBlob.SilverPlayer.StarQuality}} stars <br/><p>
                 {%unless site.data.7-10-playerBlob.SilverPlayer.GGName == blank%}<b>Game of the Month:</b>{{site.data.7-10-playerBlob.SilverPlayer.PlayerName}} played a game of {{site.data.7-10-playerBlob.SilverPlayer.GGName}}, coming {{site.data.7-10-playerBlob.SilverPlayer.GGRank}} and defeating {{site.data.7-10-playerBlob.SilverPlayer.GGVanq1}}, {{site.data.7-10-playerBlob.SilverPlayer.GGVanq2}}, {{site.data.7-10-playerBlob.SilverPlayer.GGVanq3}}, and {{site.data.7-10-playerBlob.SilverPlayer.GGVanq4}} for {{site.data.7-10-playerBlob.SilverPlayer.GGStars}} {% endunless %}</p>
-                <p><b>Claim to Fame:</b> Gold star! {{site.data.7-10-playerBlob.SilverPlayer.PlayerName}} beat the most other members this month.
+                <p><b>Claim to Fame:</b> Silver star! {{site.data.7-10-playerBlob.SilverPlayer.PlayerName}} beat the second most other members this month.
                 <br/></p> 
             </div>
             <div class = "LaserCardBlock col-sm-6" >
@@ -81,7 +81,7 @@ URLPrefix: '/7-10'
                 Games: {{site.data.7-10-playerBlob.BronzePlayer.MonthlyGamesPlayed}} games <br/>
                 Average Stars: {{site.data.7-10-playerBlob.BronzePlayer.StarQuality}} stars <br/><p>
                 {%unless site.data.7-10-playerBlob.BronzePlayer.GGName == blank%}<b>Game of the Month:</b>{{site.data.7-10-playerBlob.BronzePlayer.PlayerName}} played a game of {{site.data.7-10-playerBlob.BronzePlayer.GGName}}, coming {{site.data.7-10-playerBlob.BronzePlayer.GGRank}} and defeating {{site.data.7-10-playerBlob.BronzePlayer.GGVanq1}}, {{site.data.7-10-playerBlob.BronzePlayer.GGVanq2}}, {{site.data.7-10-playerBlob.BronzePlayer.GGVanq3}}, and {{site.data.7-10-playerBlob.BronzePlayer.GGVanq4}} for {{site.data.7-10-playerBlob.BronzePlayer.GGStars}} {% endunless %}</p>
-                <p><b>Claim to Fame:</b> Gold star! {{site.data.7-10-playerBlob.BronzePlayer.PlayerName}} beat the most other members this month.
+                <p><b>Claim to Fame:</b> Bronze star! {{site.data.7-10-playerBlob.BronzePlayer.PlayerName}} beat the third most other members this month.
                 <br/></p> 
             </div>
             <div class = "LaserCardBlock col-sm-6" >
@@ -111,7 +111,9 @@ URLPrefix: '/7-10'
                 Games: {{site.data.7-10-playerBlob.OtherPlayer1.MonthlyGamesPlayed}} games <br/>
                 Average Stars: {{site.data.7-10-playerBlob.OtherPlayer1.StarQuality}} stars <br/><p>
                 {%unless site.data.7-10-playerBlob.OtherPlayer1.GGName == blank%}<b>Game of the Month:</b>{{site.data.7-10-playerBlob.OtherPlayer1.PlayerName}} played a game of {{site.data.7-10-playerBlob.OtherPlayer1.GGName}}, coming {{site.data.7-10-playerBlob.OtherPlayer1.GGRank}} and defeating {{site.data.7-10-playerBlob.OtherPlayer1.GGVanq1}}, {{site.data.7-10-playerBlob.OtherPlayer1.GGVanq2}}, {{site.data.7-10-playerBlob.OtherPlayer1.GGVanq3}}, and {{site.data.7-10-playerBlob.OtherPlayer1.GGVanq4}} for {{site.data.7-10-playerBlob.OtherPlayer1.GGStars}} {% endunless %}</p>
-                <p><b>Claim to Fame:</b> Gold star! {{site.data.7-10-playerBlob.OtherPlayer1.PlayerName}} beat the most other members this month.
+                <p><b>Claim to Fame:</b> {{site.data.7-10-playerBlob.OtherPlayer1.PlayerName}} got the highest average score of the month in standard missions!
+
+
                 <br/></p> 
             </div>
             <div class = "LaserCardBlock col-sm-6" >
@@ -141,7 +143,7 @@ URLPrefix: '/7-10'
                 Games: {{site.data.7-10-playerBlob.OtherPlayer2.MonthlyGamesPlayed}} games <br/>
                 Average Stars: {{site.data.7-10-playerBlob.OtherPlayer2.StarQuality}} stars <br/><p>
                 {%unless site.data.7-10-playerBlob.OtherPlayer2.GGName == blank%}<b>Game of the Month:</b>{{site.data.7-10-playerBlob.OtherPlayer2.PlayerName}} played a game of {{site.data.7-10-playerBlob.OtherPlayer2.GGName}}, coming {{site.data.7-10-playerBlob.OtherPlayer2.GGRank}} and defeating {{site.data.7-10-playerBlob.OtherPlayer2.GGVanq1}}, {{site.data.7-10-playerBlob.OtherPlayer2.GGVanq2}}, {{site.data.7-10-playerBlob.OtherPlayer2.GGVanq3}}, and {{site.data.7-10-playerBlob.OtherPlayer2.GGVanq4}} for {{site.data.7-10-playerBlob.OtherPlayer2.GGStars}} {% endunless %}</p>
-                <p><b>Claim to Fame:</b> Gold star! {{site.data.7-10-playerBlob.OtherPlayer2.PlayerName}} beat the most other members this month.
+                <p><b>Claim to Fame:</b> {{site.data.7-10-playerBlob.OtherPlayer2.PlayerName}} Has the most achievements from everyone not already here.
                 <br/></p> 
             </div>
             <div class = "LaserCardBlock col-sm-6" >
