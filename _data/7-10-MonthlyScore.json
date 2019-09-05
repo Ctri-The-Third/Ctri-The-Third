@@ -1,56 +1,158 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2019-10-01 and 2019-09-01",
-    "ScoreGreaterOrEqualDate": "2019-09-01",
-    "ScoreLessDate": "2019-10-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2019-09-01 and 2019-08-01",
+    "ScoreGreaterOrEqualDate": "2019-08-01",
+    "ScoreLessDate": "2019-09-01",
     "Player": [
         {},
         {
-            "Name": "-=Valroc=-",
-            "AverageScore": 32304,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Sn3aky",
-            "AverageScore": 29004,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Mr ChatterBob",
-            "AverageScore": 22903,
+            "Name": "Commandoz",
+            "AverageScore": 36278,
             "MissionsPlayed": 2,
-            "ChangeInScore": "\u21911038"
+            "ChangeInScore": null
         },
         {
             "Name": "Assassin",
-            "AverageScore": 18904,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21913255"
+            "AverageScore": 27067,
+            "MissionsPlayed": 8,
+            "ChangeInScore": "\u219111418"
         },
         {
             "Name": "(Apollo)",
-            "AverageScore": 17253,
+            "AverageScore": 25598,
+            "MissionsPlayed": 6,
+            "ChangeInScore": "\u21913270"
+        },
+        {
+            "Name": "Mr ChatterBob",
+            "AverageScore": 24392,
+            "MissionsPlayed": 8,
+            "ChangeInScore": "\u21912527"
+        },
+        {
+            "Name": "-=Valroc=-",
+            "AverageScore": 22994,
             "MissionsPlayed": 2,
-            "ChangeInScore": "\u21935075"
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Destroyer",
+            "AverageScore": 22741,
+            "MissionsPlayed": 4,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "HastlavistaBaby",
+            "AverageScore": 19228,
+            "MissionsPlayed": 4,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Morrigan",
+            "AverageScore": 19104,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21915325"
+        },
+        {
+            "Name": "<!-- Blaze -->",
+            "AverageScore": 19069,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21932535"
+        },
+        {
+            "Name": "Sn3aky",
+            "AverageScore": 18297,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Archer",
+            "AverageScore": 17199,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21938905"
+        },
+        {
+            "Name": "Fur Ball",
+            "AverageScore": 15774,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "UltimateWarrior",
+            "AverageScore": 15283,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Natsudragneel",
+            "AverageScore": 14603,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21913889"
+        },
+        {
+            "Name": "Emo Wolf ",
+            "AverageScore": 14504,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21911600"
+        },
+        {
+            "Name": "Ninjashyper",
+            "AverageScore": 14447,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Insanity",
+            "AverageScore": 13748,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "S O S",
+            "AverageScore": 13624,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21934480"
+        },
+        {
+            "Name": "Unagi",
+            "AverageScore": 12710,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
         },
         {
             "Name": "HiJack",
-            "AverageScore": 15804,
+            "AverageScore": 11909,
+            "MissionsPlayed": 5,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Section",
+            "AverageScore": 11502,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Mr Spanky",
+            "AverageScore": 11344,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21937225"
+        },
+        {
+            "Name": "Hana",
+            "AverageScore": 9438,
+            "MissionsPlayed": 4,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Phoenix Warrior",
+            "AverageScore": 9254,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
-            "Name": "Bootstrap",
-            "AverageScore": 15803,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21933801"
-        },
-        {
-            "Name": "Natsudragneel",
-            "AverageScore": 15104,
+            "Name": "Azrael",
+            "AverageScore": 8344,
             "MissionsPlayed": 1,
-            "ChangeInScore": "\u21914390"
+            "ChangeInScore": "\u21935796"
         }
     ]
 }
