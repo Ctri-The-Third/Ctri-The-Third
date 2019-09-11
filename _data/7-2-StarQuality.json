@@ -1,8 +1,118 @@
 {
-    "ScoreTitle": "Star Quality for all known players, between 2019-07-01 and 2019-09-01",
+    "ScoreTitle": "Star Quality for all known players, between 2019-08-01 and 2019-09-01",
     "ScoreGreaterOrEqualDate": "2019-09-01",
-    "ScoreLessDate": "2019-07-01",
+    "ScoreLessDate": "2019-08-01",
     "Player": [
-        {}
+        {},
+        {
+            "Name": "00Z T.B.B",
+            "StarQualityPerGame": 14.7,
+            "TotalStarQuality": 147.0,
+            "AverageOpponents": 4.2,
+            "gamesPlayed": 10,
+            "AverageRank": 1.2,
+            "ChangeInRank": "\u21910.51",
+            "ChangeInPlayers": "\u21935.21",
+            "ChangeInSQPerGame": "\u219337.23"
+        },
+        {
+            "Name": "DabMan2000TBB",
+            "StarQualityPerGame": 6.96,
+            "TotalStarQuality": 69.57,
+            "AverageOpponents": 4.0,
+            "gamesPlayed": 10,
+            "AverageRank": 2.3,
+            "ChangeInRank": "\u21912.11",
+            "ChangeInPlayers": "\u21935.41",
+            "ChangeInSQPerGame": "\u219313.12"
+        },
+        {
+            "Name": "Fortnite123",
+            "StarQualityPerGame": 6.1,
+            "TotalStarQuality": 42.67,
+            "AverageOpponents": 4.57,
+            "gamesPlayed": 7,
+            "AverageRank": 3.43,
+            "ChangeInRank": "\u21932.43",
+            "ChangeInPlayers": "\u21913.57",
+            "ChangeInSQPerGame": "\u21915.1"
+        },
+        {
+            "Name": "Puddin'",
+            "StarQualityPerGame": 5.84,
+            "TotalStarQuality": 35.04,
+            "AverageOpponents": 4.83,
+            "gamesPlayed": 6,
+            "AverageRank": 4.0,
+            "ChangeInRank": "\u21912.33",
+            "ChangeInPlayers": "\u21932.83",
+            "ChangeInSQPerGame": "\u21933.44"
+        },
+        {
+            "Name": "Ginja-Eagle TBB",
+            "StarQualityPerGame": 5.69,
+            "TotalStarQuality": 56.9,
+            "AverageOpponents": 4.2,
+            "gamesPlayed": 10,
+            "AverageRank": 3.1,
+            "ChangeInRank": "\u21912.68",
+            "ChangeInPlayers": "\u21932.8",
+            "ChangeInSQPerGame": "\u21932.79"
+        },
+        {
+            "Name": "JSquadJohnCBA",
+            "StarQualityPerGame": 4.0,
+            "TotalStarQuality": 4.0,
+            "AverageOpponents": 2.0,
+            "gamesPlayed": 1,
+            "AverageRank": 1.0,
+            "ChangeInRank": "\u21910.14",
+            "ChangeInPlayers": "\u21931.14",
+            "ChangeInSQPerGame": "\u21934.64"
+        },
+        {
+            "Name": "Pepsi Bin",
+            "StarQualityPerGame": 4.0,
+            "TotalStarQuality": 4.0,
+            "AverageOpponents": 2.0,
+            "gamesPlayed": 1,
+            "AverageRank": 1.0,
+            "ChangeInRank": "\u21912.47",
+            "ChangeInPlayers": "\u21935.05",
+            "ChangeInSQPerGame": "\u219310.32"
+        },
+        {
+            "Name": "Connor Mc",
+            "StarQualityPerGame": 1.14,
+            "TotalStarQuality": 8.0,
+            "AverageOpponents": 1.14,
+            "gamesPlayed": 7,
+            "AverageRank": 1.14,
+            "ChangeInRank": "\u21911.41",
+            "ChangeInPlayers": "\u21934.63",
+            "ChangeInSQPerGame": "\u219311.92"
+        },
+        {
+            "Name": "X_demonics_x",
+            "StarQualityPerGame": 1.11,
+            "TotalStarQuality": 10.0,
+            "AverageOpponents": 1.11,
+            "gamesPlayed": 9,
+            "AverageRank": 1.11,
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Tfue VI",
+            "StarQualityPerGame": 1.0,
+            "TotalStarQuality": 5.0,
+            "AverageOpponents": 1.0,
+            "gamesPlayed": 5,
+            "AverageRank": 1.0,
+            "ChangeInRank": "\u21911.38",
+            "ChangeInPlayers": "\u21932.29",
+            "ChangeInSQPerGame": "\u21933.55"
+        }
     ]
 }
