@@ -5,28 +5,6 @@
     "Player": [
         {},
         {
-            "Name": "Achilles",
-            "StarQualityPerGame": 110.25,
-            "TotalStarQuality": 220.5,
-            "AverageOpponents": 10.5,
-            "gamesPlayed": 2,
-            "AverageRank": 1.0,
-            "ChangeInRank": "\u21911.0",
-            "ChangeInPlayers": "\u21918.5",
-            "ChangeInSQPerGame": "\u2191108.25"
-        },
-        {
-            "Name": "Rayth",
-            "StarQualityPerGame": 100.0,
-            "TotalStarQuality": 100.0,
-            "AverageOpponents": 10.0,
-            "gamesPlayed": 1,
-            "AverageRank": 1.0,
-            "ChangeInRank": "\u21910.88",
-            "ChangeInPlayers": "\u21914.65",
-            "ChangeInSQPerGame": "\u219184.78"
-        },
-        {
             "Name": "C'tri",
             "StarQualityPerGame": 62.87,
             "TotalStarQuality": 565.79,
@@ -58,6 +36,17 @@
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Achilles",
+            "StarQualityPerGame": 28.52,
+            "TotalStarQuality": 171.13,
+            "AverageOpponents": 6.17,
+            "gamesPlayed": 6,
+            "AverageRank": 1.33,
+            "ChangeInRank": "\u21910.67",
+            "ChangeInPlayers": "\u21914.17",
+            "ChangeInSQPerGame": "\u219126.52"
         },
         {
             "Name": "Billybob",
@@ -93,17 +82,6 @@
             "ChangeInSQPerGame": null
         },
         {
-            "Name": "Robo_h34d",
-            "StarQualityPerGame": 19.43,
-            "TotalStarQuality": 136.03,
-            "AverageOpponents": 9.57,
-            "gamesPlayed": 7,
-            "AverageRank": 4.71,
-            "ChangeInRank": "\u21932.03",
-            "ChangeInPlayers": "\u21912.73",
-            "ChangeInSQPerGame": "\u21911.98"
-        },
-        {
             "Name": "Mike Hunt",
             "StarQualityPerGame": 18.83,
             "TotalStarQuality": 188.31,
@@ -113,17 +91,6 @@
             "ChangeInRank": "\u21912.61",
             "ChangeInPlayers": "\u21930.13",
             "ChangeInSQPerGame": "\u21916.05"
-        },
-        {
-            "Name": "Reboot",
-            "StarQualityPerGame": 16.67,
-            "TotalStarQuality": 66.67,
-            "AverageOpponents": 10.0,
-            "gamesPlayed": 4,
-            "AverageRank": 6.0,
-            "ChangeInRank": "\u21933.33",
-            "ChangeInPlayers": "\u21913.92",
-            "ChangeInSQPerGame": "\u21912.79"
         },
         {
             "Name": "Smokey Bandit",
@@ -179,6 +146,17 @@
             "ChangeInRank": "\u21930.78",
             "ChangeInPlayers": "\u21912.0",
             "ChangeInSQPerGame": "\u21914.09"
+        },
+        {
+            "Name": "Robo_h34d",
+            "StarQualityPerGame": 14.56,
+            "TotalStarQuality": 160.21,
+            "AverageOpponents": 7.55,
+            "gamesPlayed": 11,
+            "AverageRank": 3.91,
+            "ChangeInRank": "\u21931.23",
+            "ChangeInPlayers": "\u21910.71",
+            "ChangeInSQPerGame": "\u21932.89"
         },
         {
             "Name": "Godspeed",
@@ -247,6 +225,17 @@
             "ChangeInSQPerGame": "\u21932.25"
         },
         {
+            "Name": "Reboot",
+            "StarQualityPerGame": 10.89,
+            "TotalStarQuality": 87.11,
+            "AverageOpponents": 7.0,
+            "gamesPlayed": 8,
+            "AverageRank": 4.5,
+            "ChangeInRank": "\u21931.83",
+            "ChangeInPlayers": "\u21910.92",
+            "ChangeInSQPerGame": "\u21932.99"
+        },
+        {
             "Name": "Ruth",
             "StarQualityPerGame": 10.53,
             "TotalStarQuality": 42.11,
@@ -256,6 +245,17 @@
             "ChangeInRank": "\u21934.89",
             "ChangeInPlayers": "\u21915.17",
             "ChangeInSQPerGame": "\u21915.46"
+        },
+        {
+            "Name": "Rayth",
+            "StarQualityPerGame": 10.4,
+            "TotalStarQuality": 52.0,
+            "AverageOpponents": 5.2,
+            "gamesPlayed": 5,
+            "AverageRank": 2.6,
+            "ChangeInRank": "\u21930.72",
+            "ChangeInPlayers": "\u21930.15",
+            "ChangeInSQPerGame": "\u21934.82"
         }
     ]
 }
