@@ -6,14 +6,14 @@
         {},
         {
             "Name": "C'tri",
-            "StarQualityPerGame": 62.87,
-            "TotalStarQuality": 565.79,
-            "AverageOpponents": 9.89,
-            "gamesPlayed": 9,
-            "AverageRank": 1.56,
-            "ChangeInRank": "\u21930.19",
-            "ChangeInPlayers": "\u21914.04",
-            "ChangeInSQPerGame": "\u219137.88"
+            "StarQualityPerGame": 48.04,
+            "TotalStarQuality": 576.53,
+            "AverageOpponents": 8.25,
+            "gamesPlayed": 12,
+            "AverageRank": 1.42,
+            "ChangeInRank": "\u21930.05",
+            "ChangeInPlayers": "\u21912.4",
+            "ChangeInSQPerGame": "\u219123.06"
         },
         {
             "Name": "JammyDodger",
@@ -49,28 +49,6 @@
             "ChangeInSQPerGame": "\u219126.52"
         },
         {
-            "Name": "Billybob",
-            "StarQualityPerGame": 26.62,
-            "TotalStarQuality": 186.32,
-            "AverageOpponents": 10.86,
-            "gamesPlayed": 7,
-            "AverageRank": 4.43,
-            "ChangeInRank": "\u21910.4",
-            "ChangeInPlayers": "\u21914.52",
-            "ChangeInSQPerGame": "\u219118.32"
-        },
-        {
-            "Name": "Oscar",
-            "StarQualityPerGame": 24.63,
-            "TotalStarQuality": 246.26,
-            "AverageOpponents": 9.8,
-            "gamesPlayed": 10,
-            "AverageRank": 3.9,
-            "ChangeInRank": "\u21910.57",
-            "ChangeInPlayers": "\u21930.27",
-            "ChangeInSQPerGame": "\u21911.94"
-        },
-        {
             "Name": "Smally McSmall",
             "StarQualityPerGame": 23.53,
             "TotalStarQuality": 94.12,
@@ -80,6 +58,28 @@
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Billybob",
+            "StarQualityPerGame": 22.86,
+            "TotalStarQuality": 182.86,
+            "AverageOpponents": 10.0,
+            "gamesPlayed": 8,
+            "AverageRank": 4.38,
+            "ChangeInRank": "\u21910.46",
+            "ChangeInPlayers": "\u21913.67",
+            "ChangeInSQPerGame": "\u219114.56"
+        },
+        {
+            "Name": "Oscar",
+            "StarQualityPerGame": 22.28,
+            "TotalStarQuality": 245.03,
+            "AverageOpponents": 9.0,
+            "gamesPlayed": 11,
+            "AverageRank": 3.64,
+            "ChangeInRank": "\u21910.83",
+            "ChangeInPlayers": "\u21931.07",
+            "ChangeInSQPerGame": "\u21930.41"
         },
         {
             "Name": "Mike Hunt",
@@ -159,17 +159,6 @@
             "ChangeInSQPerGame": "\u21932.89"
         },
         {
-            "Name": "Godspeed",
-            "StarQualityPerGame": 14.47,
-            "TotalStarQuality": 130.22,
-            "AverageOpponents": 10.22,
-            "gamesPlayed": 9,
-            "AverageRank": 7.22,
-            "ChangeInRank": "\u21910.38",
-            "ChangeInPlayers": "\u21910.92",
-            "ChangeInSQPerGame": "\u21913.09"
-        },
-        {
             "Name": "Cheese Sandwich",
             "StarQualityPerGame": 14.33,
             "TotalStarQuality": 143.34,
@@ -179,17 +168,6 @@
             "ChangeInRank": "\u21932.78",
             "ChangeInPlayers": "\u21913.2",
             "ChangeInSQPerGame": "\u21913.22"
-        },
-        {
-            "Name": "Mindi",
-            "StarQualityPerGame": 13.79,
-            "TotalStarQuality": 55.17,
-            "AverageOpponents": 10.0,
-            "gamesPlayed": 4,
-            "AverageRank": 7.25,
-            "ChangeInRank": "\u21933.25",
-            "ChangeInPlayers": "\u21913.0",
-            "ChangeInSQPerGame": "\u21911.54"
         },
         {
             "Name": "Paradigm",
@@ -203,17 +181,6 @@
             "ChangeInSQPerGame": "\u21915.99"
         },
         {
-            "Name": "Jj",
-            "StarQualityPerGame": 11.06,
-            "TotalStarQuality": 165.96,
-            "AverageOpponents": 6.13,
-            "gamesPlayed": 15,
-            "AverageRank": 3.4,
-            "ChangeInRank": "\u21910.39",
-            "ChangeInPlayers": "\u21931.15",
-            "ChangeInSQPerGame": "\u21932.96"
-        },
-        {
             "Name": "Breanainn",
             "StarQualityPerGame": 11.01,
             "TotalStarQuality": 66.06,
@@ -223,17 +190,6 @@
             "ChangeInRank": "\u21910.52",
             "ChangeInPlayers": "\u21931.33",
             "ChangeInSQPerGame": "\u21932.25"
-        },
-        {
-            "Name": "Reboot",
-            "StarQualityPerGame": 10.89,
-            "TotalStarQuality": 87.11,
-            "AverageOpponents": 7.0,
-            "gamesPlayed": 8,
-            "AverageRank": 4.5,
-            "ChangeInRank": "\u21931.83",
-            "ChangeInPlayers": "\u21910.92",
-            "ChangeInSQPerGame": "\u21932.99"
         },
         {
             "Name": "Ruth",
@@ -247,15 +203,70 @@
             "ChangeInSQPerGame": "\u21915.46"
         },
         {
-            "Name": "Rayth",
+            "Name": "Jj",
             "StarQualityPerGame": 10.4,
-            "TotalStarQuality": 52.0,
-            "AverageOpponents": 5.2,
-            "gamesPlayed": 5,
-            "AverageRank": 2.6,
-            "ChangeInRank": "\u21930.72",
-            "ChangeInPlayers": "\u21930.15",
-            "ChangeInSQPerGame": "\u21934.82"
+            "TotalStarQuality": 166.33,
+            "AverageOpponents": 5.81,
+            "gamesPlayed": 16,
+            "AverageRank": 3.25,
+            "ChangeInRank": "\u21910.54",
+            "ChangeInPlayers": "\u21931.47",
+            "ChangeInSQPerGame": "\u21933.63"
+        },
+        {
+            "Name": "Godspeed",
+            "StarQualityPerGame": 10.04,
+            "TotalStarQuality": 140.59,
+            "AverageOpponents": 7.29,
+            "gamesPlayed": 14,
+            "AverageRank": 5.29,
+            "ChangeInRank": "\u21912.31",
+            "ChangeInPlayers": "\u21932.01",
+            "ChangeInSQPerGame": "\u21931.34"
+        },
+        {
+            "Name": "Mindi",
+            "StarQualityPerGame": 9.65,
+            "TotalStarQuality": 67.57,
+            "AverageOpponents": 7.14,
+            "gamesPlayed": 7,
+            "AverageRank": 5.29,
+            "ChangeInRank": "\u21931.29",
+            "ChangeInPlayers": "\u21910.14",
+            "ChangeInSQPerGame": "\u21932.6"
+        },
+        {
+            "Name": "Reboot",
+            "StarQualityPerGame": 9.21,
+            "TotalStarQuality": 101.3,
+            "AverageOpponents": 6.0,
+            "gamesPlayed": 11,
+            "AverageRank": 3.91,
+            "ChangeInRank": "\u21931.24",
+            "ChangeInPlayers": "\u21930.08",
+            "ChangeInSQPerGame": "\u21934.67"
+        },
+        {
+            "Name": "Rayth",
+            "StarQualityPerGame": 8.57,
+            "TotalStarQuality": 60.0,
+            "AverageOpponents": 4.29,
+            "gamesPlayed": 7,
+            "AverageRank": 2.14,
+            "ChangeInRank": "\u21930.26",
+            "ChangeInPlayers": "\u21931.07",
+            "ChangeInSQPerGame": "\u21936.65"
+        },
+        {
+            "Name": "Overdrive",
+            "StarQualityPerGame": 3.0,
+            "TotalStarQuality": 9.0,
+            "AverageOpponents": 2.0,
+            "gamesPlayed": 3,
+            "AverageRank": 1.33,
+            "ChangeInRank": "\u21930.33",
+            "ChangeInPlayers": "\u21911.0",
+            "ChangeInSQPerGame": "\u21912.0"
         }
     ]
 }
