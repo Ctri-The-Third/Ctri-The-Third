@@ -66,9 +66,9 @@
             "AverageOpponents": 8.88,
             "gamesPlayed": 8,
             "AverageRank": 4.75,
-            "ChangeInRank": "\u21930.45",
+            "ChangeInRank": "\u21930.48",
             "ChangeInPlayers": "\u21930.7",
-            "ChangeInSQPerGame": "\u21934.73"
+            "ChangeInSQPerGame": "\u21934.88"
         },
         {
             "Name": "HiJack",
@@ -93,26 +93,26 @@
             "ChangeInSQPerGame": "\u21937.3"
         },
         {
+            "Name": "S N D",
+            "StarQualityPerGame": 14.4,
+            "TotalStarQuality": 144.0,
+            "AverageOpponents": 8.4,
+            "gamesPlayed": 10,
+            "AverageRank": 4.9,
+            "ChangeInRank": "\u21910.48",
+            "ChangeInPlayers": "\u21933.52",
+            "ChangeInSQPerGame": "\u219312.0"
+        },
+        {
             "Name": "Natsudragneel",
             "StarQualityPerGame": 14.11,
             "TotalStarQuality": 141.07,
             "AverageOpponents": 9.2,
             "gamesPlayed": 10,
             "AverageRank": 6.0,
-            "ChangeInRank": "\u21910.58",
+            "ChangeInRank": "\u21910.75",
             "ChangeInPlayers": "\u21931.47",
-            "ChangeInSQPerGame": "\u21933.18"
-        },
-        {
-            "Name": "S N D",
-            "StarQualityPerGame": 13.84,
-            "TotalStarQuality": 138.35,
-            "AverageOpponents": 8.4,
-            "gamesPlayed": 10,
-            "AverageRank": 5.1,
-            "ChangeInRank": "\u21910.28",
-            "ChangeInPlayers": "\u21933.52",
-            "ChangeInSQPerGame": "\u219312.57"
+            "ChangeInSQPerGame": "\u21932.75"
         },
         {
             "Name": "Archer",
@@ -127,11 +127,11 @@
         },
         {
             "Name": "Fine Wench",
-            "StarQualityPerGame": 12.48,
-            "TotalStarQuality": 87.36,
+            "StarQualityPerGame": 12.2,
+            "TotalStarQuality": 85.42,
             "AverageOpponents": 8.86,
             "gamesPlayed": 7,
-            "AverageRank": 6.29,
+            "AverageRank": 6.43,
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
@@ -149,14 +149,14 @@
         },
         {
             "Name": "Assassin",
-            "StarQualityPerGame": 10.38,
-            "TotalStarQuality": 51.88,
-            "AverageOpponents": 8.4,
-            "gamesPlayed": 5,
-            "AverageRank": 6.8,
-            "ChangeInRank": "\u21933.36",
-            "ChangeInPlayers": "\u21912.78",
-            "ChangeInSQPerGame": "\u21911.17"
+            "StarQualityPerGame": 6.66,
+            "TotalStarQuality": 53.29,
+            "AverageOpponents": 5.63,
+            "gamesPlayed": 8,
+            "AverageRank": 4.75,
+            "ChangeInRank": "\u21931.31",
+            "ChangeInPlayers": "\u21930.0",
+            "ChangeInSQPerGame": "\u21932.54"
         },
         {
             "Name": "Destroyer",
@@ -212,6 +212,28 @@
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Ninjashyper",
+            "StarQualityPerGame": 1.0,
+            "TotalStarQuality": 4.0,
+            "AverageOpponents": 1.0,
+            "gamesPlayed": 4,
+            "AverageRank": 1.0,
+            "ChangeInRank": "\u21911.5",
+            "ChangeInPlayers": "\u21931.5",
+            "ChangeInSQPerGame": "\u21931.5"
+        },
+        {
+            "Name": "Phoenix Warrior",
+            "StarQualityPerGame": 1.0,
+            "TotalStarQuality": 2.0,
+            "AverageOpponents": 1.0,
+            "gamesPlayed": 2,
+            "AverageRank": 1.0,
+            "ChangeInRank": "\u21919.63",
+            "ChangeInPlayers": "\u219312.0",
+            "ChangeInSQPerGame": "\u219314.91"
         }
     ]
 }
