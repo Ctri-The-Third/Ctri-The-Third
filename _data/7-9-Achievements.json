@@ -10,7 +10,7 @@
         },
         {
             "Name": "Rayth",
-            "AchievementsCompleted": 84,
+            "AchievementsCompleted": 85,
             "RarestAchievement": "Apocalypse Now",
             "OthersWith": "(2)"
         },
@@ -29,7 +29,7 @@
         {
             "Name": "T D",
             "AchievementsCompleted": 65,
-            "RarestAchievement": "Field Medic",
+            "RarestAchievement": "Team Doctor",
             "OthersWith": "(3)"
         },
         {
@@ -41,26 +41,32 @@
         {
             "Name": "HotShot",
             "AchievementsCompleted": 61,
-            "RarestAchievement": "Bounty Hunter",
-            "OthersWith": "(3)"
+            "RarestAchievement": "There Can Be Only One",
+            "OthersWith": "(4)"
+        },
+        {
+            "Name": "Oscar",
+            "AchievementsCompleted": 57,
+            "RarestAchievement": "Field Medic",
+            "OthersWith": "(4)"
         },
         {
             "Name": "D\u00e6mon L?rd",
             "AchievementsCompleted": 57,
             "RarestAchievement": "Skin Of Your Teeth",
-            "OthersWith": "(2)"
+            "OthersWith": "(3)"
+        },
+        {
+            "Name": "ThatGuysFriend",
+            "AchievementsCompleted": 57,
+            "RarestAchievement": "Skin Of Your Teeth",
+            "OthersWith": "(3)"
         },
         {
             "Name": "Godspeed",
-            "AchievementsCompleted": 55,
-            "RarestAchievement": "Black Friday",
-            "OthersWith": "(11)"
-        },
-        {
-            "Name": "Mindi",
-            "AchievementsCompleted": 55,
+            "AchievementsCompleted": 56,
             "RarestAchievement": "Bounty Hunter",
-            "OthersWith": "(3)"
+            "OthersWith": "(9)"
         },
         {
             "Name": "Robo_h34d",
@@ -69,15 +75,9 @@
             "OthersWith": "(4)"
         },
         {
-            "Name": "Oscar",
+            "Name": "Mindi",
             "AchievementsCompleted": 55,
-            "RarestAchievement": "Field Medic",
-            "OthersWith": "(3)"
-        },
-        {
-            "Name": "Arran",
-            "AchievementsCompleted": 54,
-            "RarestAchievement": "Shadow Master",
+            "RarestAchievement": "True Leader",
             "OthersWith": "(5)"
         },
         {
@@ -87,10 +87,10 @@
             "OthersWith": "(5)"
         },
         {
-            "Name": "Paradigm",
-            "AchievementsCompleted": 52,
-            "RarestAchievement": "Medical School",
-            "OthersWith": "(3)"
+            "Name": "Arran",
+            "AchievementsCompleted": 54,
+            "RarestAchievement": "Shadow Master",
+            "OthersWith": "(5)"
         }
     ]
 }
