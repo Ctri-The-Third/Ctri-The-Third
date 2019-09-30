@@ -6,25 +6,25 @@
         {},
         {
             "Name": "BBTheory",
-            "StarQualityPerGame": 18.75,
-            "TotalStarQuality": 37.5,
+            "StarQualityPerGame": 22.5,
+            "TotalStarQuality": 45.0,
             "AverageOpponents": 7.5,
             "gamesPlayed": 2,
-            "AverageRank": 3.0,
-            "ChangeInRank": "\u21930.25",
+            "AverageRank": 2.5,
+            "ChangeInRank": "\u21910.25",
             "ChangeInPlayers": "\u21913.75",
-            "ChangeInSQPerGame": "\u219113.64"
+            "ChangeInSQPerGame": "\u219117.39"
         },
         {
             "Name": "-=Valroc=-",
-            "StarQualityPerGame": 13.13,
-            "TotalStarQuality": 183.76,
+            "StarQualityPerGame": 12.69,
+            "TotalStarQuality": 177.63,
             "AverageOpponents": 5.21,
             "gamesPlayed": 14,
-            "AverageRank": 2.07,
-            "ChangeInRank": "\u21910.18",
+            "AverageRank": 2.14,
+            "ChangeInRank": "\u21910.11",
             "ChangeInPlayers": "\u21935.79",
-            "ChangeInSQPerGame": "\u219340.65"
+            "ChangeInSQPerGame": "\u219341.09"
         },
         {
             "Name": "Blank",
@@ -44,9 +44,9 @@
             "AverageOpponents": 4.83,
             "gamesPlayed": 23,
             "AverageRank": 2.3,
-            "ChangeInRank": "\u21910.06",
+            "ChangeInRank": "\u21910.01",
             "ChangeInPlayers": "\u21930.49",
-            "ChangeInSQPerGame": "\u21931.86"
+            "ChangeInSQPerGame": "\u21932.09"
         },
         {
             "Name": "Dan W Keys",
@@ -82,15 +82,15 @@
             "ChangeInSQPerGame": null
         },
         {
-            "Name": "Mr_Tumble",
-            "StarQualityPerGame": 8.23,
-            "TotalStarQuality": 57.6,
-            "AverageOpponents": 3.43,
-            "gamesPlayed": 7,
-            "AverageRank": 1.43,
-            "ChangeInRank": "\u21930.43",
-            "ChangeInPlayers": "\u21912.43",
-            "ChangeInSQPerGame": "\u21917.23"
+            "Name": "Agent Jaikei",
+            "StarQualityPerGame": 8.33,
+            "TotalStarQuality": 83.33,
+            "AverageOpponents": 5.0,
+            "gamesPlayed": 10,
+            "AverageRank": 3.0,
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
         },
         {
             "Name": "Ghosts1589",
@@ -104,48 +104,37 @@
             "ChangeInSQPerGame": null
         },
         {
-            "Name": "Dad1of1Toast",
-            "StarQualityPerGame": 7.92,
-            "TotalStarQuality": 142.52,
-            "AverageOpponents": 5.22,
-            "gamesPlayed": 18,
-            "AverageRank": 3.44,
-            "ChangeInRank": "\u21910.71",
-            "ChangeInPlayers": "\u21930.41",
-            "ChangeInSQPerGame": "\u21910.27"
-        },
-        {
-            "Name": "Agent Jaikei",
-            "StarQualityPerGame": 7.81,
-            "TotalStarQuality": 78.13,
-            "AverageOpponents": 5.0,
-            "gamesPlayed": 10,
-            "AverageRank": 3.2,
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
-        },
-        {
             "Name": "Road1to1Toast",
-            "StarQualityPerGame": 7.61,
-            "TotalStarQuality": 144.64,
+            "StarQualityPerGame": 7.75,
+            "TotalStarQuality": 147.27,
             "AverageOpponents": 4.74,
             "gamesPlayed": 19,
-            "AverageRank": 2.95,
-            "ChangeInRank": "\u21910.41",
+            "AverageRank": 2.89,
+            "ChangeInRank": "\u21910.47",
             "ChangeInPlayers": "\u21930.54",
-            "ChangeInSQPerGame": "\u21930.67"
+            "ChangeInSQPerGame": "\u21930.54"
+        },
+        {
+            "Name": "Dad1of1Toast",
+            "StarQualityPerGame": 7.67,
+            "TotalStarQuality": 138.06,
+            "AverageOpponents": 5.22,
+            "gamesPlayed": 18,
+            "AverageRank": 3.56,
+            "ChangeInRank": "\u21910.6",
+            "ChangeInPlayers": "\u21930.41",
+            "ChangeInSQPerGame": "\u21910.02"
         },
         {
             "Name": "Shadow_Wolf",
-            "StarQualityPerGame": 6.92,
-            "TotalStarQuality": 179.82,
+            "StarQualityPerGame": 6.85,
+            "TotalStarQuality": 178.18,
             "AverageOpponents": 5.38,
             "gamesPlayed": 26,
-            "AverageRank": 4.19,
-            "ChangeInRank": "\u21910.49",
+            "AverageRank": 4.23,
+            "ChangeInRank": "\u21910.51",
             "ChangeInPlayers": "\u21931.19",
-            "ChangeInSQPerGame": "\u21932.32"
+            "ChangeInSQPerGame": "\u21932.28"
         },
         {
             "Name": "Hamster",
@@ -159,15 +148,26 @@
             "ChangeInSQPerGame": null
         },
         {
+            "Name": "Mr_Tumble",
+            "StarQualityPerGame": 6.21,
+            "TotalStarQuality": 68.27,
+            "AverageOpponents": 2.91,
+            "gamesPlayed": 11,
+            "AverageRank": 1.36,
+            "ChangeInRank": "\u21930.36",
+            "ChangeInPlayers": "\u21911.91",
+            "ChangeInSQPerGame": "\u21915.21"
+        },
+        {
             "Name": "Keanu_Reeves",
-            "StarQualityPerGame": 5.08,
-            "TotalStarQuality": 35.58,
-            "AverageOpponents": 3.71,
-            "gamesPlayed": 7,
-            "AverageRank": 2.71,
-            "ChangeInRank": "\u21931.71",
-            "ChangeInPlayers": "\u21911.71",
-            "ChangeInSQPerGame": "\u21911.08"
+            "StarQualityPerGame": 4.04,
+            "TotalStarQuality": 44.46,
+            "AverageOpponents": 3.09,
+            "gamesPlayed": 11,
+            "AverageRank": 2.36,
+            "ChangeInRank": "\u21931.36",
+            "ChangeInPlayers": "\u21911.09",
+            "ChangeInSQPerGame": "\u21910.04"
         },
         {
             "Name": "Phil_Swift",
@@ -182,14 +182,14 @@
         },
         {
             "Name": "Unicorn3000",
-            "StarQualityPerGame": 4.0,
-            "TotalStarQuality": 16.0,
-            "AverageOpponents": 2.0,
-            "gamesPlayed": 4,
+            "StarQualityPerGame": 2.78,
+            "TotalStarQuality": 16.67,
+            "AverageOpponents": 1.67,
+            "gamesPlayed": 6,
             "AverageRank": 1.0,
             "ChangeInRank": "\u21910.5",
-            "ChangeInPlayers": "\u21930.25",
-            "ChangeInSQPerGame": "\u21910.63"
+            "ChangeInPlayers": "\u21930.58",
+            "ChangeInSQPerGame": "\u21930.6"
         },
         {
             "Name": "TotallyLost",
@@ -234,6 +234,17 @@
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Lazarbeam",
+            "StarQualityPerGame": 1.0,
+            "TotalStarQuality": 4.0,
+            "AverageOpponents": 1.0,
+            "gamesPlayed": 4,
+            "AverageRank": 1.0,
+            "ChangeInRank": "\u21910.33",
+            "ChangeInPlayers": "\u21932.0",
+            "ChangeInSQPerGame": "\u21935.75"
         },
         {
             "Name": "Assassin",

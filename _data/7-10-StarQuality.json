@@ -38,26 +38,26 @@
             "ChangeInSQPerGame": "\u21932.39"
         },
         {
-            "Name": "Azrael",
-            "StarQualityPerGame": 15.5,
-            "TotalStarQuality": 124.03,
-            "AverageOpponents": 7.88,
-            "gamesPlayed": 8,
-            "AverageRank": 4.0,
-            "ChangeInRank": "\u21912.8",
-            "ChangeInPlayers": "\u21934.13",
-            "ChangeInSQPerGame": "\u21935.67"
-        },
-        {
             "Name": "S N D",
-            "StarQualityPerGame": 14.4,
-            "TotalStarQuality": 144.0,
+            "StarQualityPerGame": 15.01,
+            "TotalStarQuality": 150.13,
             "AverageOpponents": 8.4,
             "gamesPlayed": 10,
-            "AverageRank": 4.9,
-            "ChangeInRank": "\u21910.48",
+            "AverageRank": 4.7,
+            "ChangeInRank": "\u21910.68",
             "ChangeInPlayers": "\u21933.52",
-            "ChangeInSQPerGame": "\u219312.0"
+            "ChangeInSQPerGame": "\u219311.39"
+        },
+        {
+            "Name": "Azrael",
+            "StarQualityPerGame": 14.59,
+            "TotalStarQuality": 116.74,
+            "AverageOpponents": 7.88,
+            "gamesPlayed": 8,
+            "AverageRank": 4.25,
+            "ChangeInRank": "\u21912.55",
+            "ChangeInPlayers": "\u21934.13",
+            "ChangeInSQPerGame": "\u21936.58"
         },
         {
             "Name": "HiJack",
@@ -71,26 +71,15 @@
             "ChangeInSQPerGame": "\u21932.33"
         },
         {
-            "Name": "Natsudragneel",
-            "StarQualityPerGame": 13.87,
-            "TotalStarQuality": 208.11,
-            "AverageOpponents": 8.87,
-            "gamesPlayed": 15,
-            "AverageRank": 5.67,
-            "ChangeInRank": "\u21911.08",
-            "ChangeInPlayers": "\u21931.8",
-            "ChangeInSQPerGame": "\u21932.98"
-        },
-        {
             "Name": "Unagi",
-            "StarQualityPerGame": 13.85,
-            "TotalStarQuality": 332.28,
+            "StarQualityPerGame": 14.0,
+            "TotalStarQuality": 336.1,
             "AverageOpponents": 7.13,
             "gamesPlayed": 24,
-            "AverageRank": 3.67,
-            "ChangeInRank": "\u21910.61",
+            "AverageRank": 3.63,
+            "ChangeInRank": "\u21910.65",
             "ChangeInPlayers": "\u21932.45",
-            "ChangeInSQPerGame": "\u21937.62"
+            "ChangeInSQPerGame": "\u21937.46"
         },
         {
             "Name": "Larma",
@@ -137,15 +126,15 @@
             "ChangeInSQPerGame": "\u219318.08"
         },
         {
-            "Name": "Fine Wench",
-            "StarQualityPerGame": 12.2,
-            "TotalStarQuality": 85.42,
-            "AverageOpponents": 8.86,
-            "gamesPlayed": 7,
-            "AverageRank": 6.43,
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "Name": "Natsudragneel",
+            "StarQualityPerGame": 12.47,
+            "TotalStarQuality": 211.92,
+            "AverageOpponents": 7.94,
+            "gamesPlayed": 17,
+            "AverageRank": 5.06,
+            "ChangeInRank": "\u21911.69",
+            "ChangeInPlayers": "\u21932.73",
+            "ChangeInSQPerGame": "\u21934.39"
         },
         {
             "Name": "S O S",
@@ -157,6 +146,17 @@
             "ChangeInRank": "\u21913.75",
             "ChangeInPlayers": "\u21935.88",
             "ChangeInSQPerGame": "\u21939.18"
+        },
+        {
+            "Name": "Fine Wench",
+            "StarQualityPerGame": 11.94,
+            "TotalStarQuality": 83.57,
+            "AverageOpponents": 8.86,
+            "gamesPlayed": 7,
+            "AverageRank": 6.57,
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
         },
         {
             "Name": "<!-- Blaze -->",
@@ -171,14 +171,14 @@
         },
         {
             "Name": "Archer",
-            "StarQualityPerGame": 11.41,
-            "TotalStarQuality": 365.04,
+            "StarQualityPerGame": 11.33,
+            "TotalStarQuality": 362.62,
             "AverageOpponents": 7.31,
             "gamesPlayed": 32,
-            "AverageRank": 4.69,
-            "ChangeInRank": "\u21910.16",
+            "AverageRank": 4.72,
+            "ChangeInRank": "\u21910.13",
             "ChangeInPlayers": "\u21934.74",
-            "ChangeInSQPerGame": "\u219318.53"
+            "ChangeInSQPerGame": "\u219318.61"
         },
         {
             "Name": "Winter",
@@ -289,6 +289,17 @@
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Amazing Turtle",
+            "StarQualityPerGame": 1.0,
+            "TotalStarQuality": 4.0,
+            "AverageOpponents": 1.0,
+            "gamesPlayed": 4,
+            "AverageRank": 1.0,
+            "ChangeInRank": "\u21930.0",
+            "ChangeInPlayers": "\u21930.0",
+            "ChangeInSQPerGame": "\u21930.0"
         },
         {
             "Name": "Ninjashyper",
