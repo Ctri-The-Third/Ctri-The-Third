@@ -53,6 +53,12 @@
             "ChangeInScore": "\u21918665"
         },
         {
+            "Name": "Wolf Pack",
+            "AverageScore": 22941,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u219113013"
+        },
+        {
             "Name": "Phoenix Warrior",
             "AverageScore": 22504,
             "MissionsPlayed": 1,
@@ -69,6 +75,12 @@
             "AverageScore": 20891,
             "MissionsPlayed": 4,
             "ChangeInScore": "\u21934707"
+        },
+        {
+            "Name": "X D",
+            "AverageScore": 20113,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
         },
         {
             "Name": "HiJack",
@@ -95,6 +107,18 @@
             "ChangeInScore": "\u21933795"
         },
         {
+            "Name": "Lord Richter",
+            "AverageScore": 12802,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Alky",
+            "AverageScore": 12343,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Fluuke",
             "AverageScore": 11258,
             "MissionsPlayed": 2,
@@ -107,10 +131,22 @@
             "ChangeInScore": "\u21933634"
         },
         {
+            "Name": "Drift",
+            "AverageScore": 9336,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Amazing Turtle",
             "AverageScore": 9288,
             "MissionsPlayed": 2,
             "ChangeInScore": "\u21935094"
+        },
+        {
+            "Name": "Emoji Man",
+            "AverageScore": 8780,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21931126"
         }
     ]
 }

@@ -5,6 +5,18 @@
     "Player": [
         {},
         {
+            "Name": "Hulk",
+            "AverageScore": 18918,
+            "MissionsPlayed": 4,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Deku",
+            "AverageScore": 18391,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Achilles",
             "AverageScore": 18354,
             "MissionsPlayed": 1,
@@ -65,6 +77,12 @@
             "ChangeInScore": "\u219344"
         },
         {
+            "Name": "Chewy",
+            "AverageScore": 10064,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u2191337"
+        },
+        {
             "Name": "Moriarty",
             "AverageScore": 9678,
             "MissionsPlayed": 2,
@@ -95,6 +113,12 @@
             "ChangeInScore": "\u21911617"
         },
         {
+            "Name": "Panther",
+            "AverageScore": 8831,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Mike Hunt",
             "AverageScore": 8539,
             "MissionsPlayed": 7,
@@ -123,6 +147,12 @@
             "AverageScore": 7537,
             "MissionsPlayed": 12,
             "ChangeInScore": "\u21911321"
+        },
+        {
+            "Name": "Ninja",
+            "AverageScore": 6807,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
         },
         {
             "Name": "OctoKing",
