@@ -4,7 +4,7 @@
         {},
         {
             "Name": "C'tri",
-            "AchievementsCompleted": 96,
+            "AchievementsCompleted": 97,
             "RarestAchievement": "Battle Ammo",
             "OthersWith": "(1)"
         },
@@ -47,7 +47,7 @@
         {
             "Name": "HotShot",
             "AchievementsCompleted": 61,
-            "RarestAchievement": "Headhunter",
+            "RarestAchievement": "There Can Be Only One",
             "OthersWith": "(5)"
         },
         {
@@ -75,6 +75,12 @@
             "OthersWith": "(3)"
         },
         {
+            "Name": "Mindi",
+            "AchievementsCompleted": 57,
+            "RarestAchievement": "True Leader",
+            "OthersWith": "(6)"
+        },
+        {
             "Name": "Godspeed",
             "AchievementsCompleted": 56,
             "RarestAchievement": "Bounty Hunter",
@@ -85,12 +91,6 @@
             "AchievementsCompleted": 55,
             "RarestAchievement": "Shadow Master",
             "OthersWith": "(5)"
-        },
-        {
-            "Name": "Mindi",
-            "AchievementsCompleted": 55,
-            "RarestAchievement": "True Leader",
-            "OthersWith": "(6)"
         }
     ]
 }
