@@ -76,3 +76,40 @@ div.LaserCardWrapperBronze
     background-color:royalblue;
     border-top:1px solid royalblue;
 }
+
+/* end of front page content */
+/* start of table page content */
+
+td.SmallBrightNumber{
+    color:aqua;
+}
+
+th {
+    background: #226;
+}
+
+tr:nth-child(even){
+    background:#226; /**/
+}
+tr:nth-child(odd){
+    background:#227; /**/
+}
+
+body {
+    color:royalblue; 
+}
+
+a, a:visited
+{color:lightblue}
+a:hover
+{color:aqua}
+
+hr { 
+    color:royalblue;
+    background-color:royalblue;
+    
+    border:0px;
+    border-top:1px solid royalblue;
+}
+
+/* end of table page content */

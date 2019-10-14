@@ -1,3 +1,4 @@
+/* start  of front page content */
 div.LaserCardContent
 {
     border-radius: inherit;
@@ -76,3 +77,41 @@ div.LaserCardWrapperBronze
     background-color:limegreen;
     border-top:1px solid limegreen;
 }
+
+
+/* end of front page content */
+/* start of table page content */
+
+td.SmallBrightNumber{
+    color:lime;
+}
+
+th {
+    background: #131;
+}
+
+tr:nth-child(even){
+    background:#131; /**/
+}
+tr:nth-child(odd){
+    background:#141; /**/
+}
+
+body {
+    color:rgb(0, 167, 0); 
+}
+
+a, a:visited
+{color:limegreen}
+a:hover
+{color:greenyellow}
+
+hr { 
+    color:limegreen;
+    background-color:limegreen;
+    
+    border:0px;
+    border-top:1px solid limegreen;
+}
+
+/* end of table page content */

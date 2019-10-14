@@ -19,6 +19,17 @@ div.LaserCardWrapper7-9
     border:2px solid green;
     color:green;
 }
+
+
+.LaserCardWrapperGold hr
+{
+    color:limegreen;
+    background-color:limegreen;
+    border:0px;
+    border-top:1px solid limegreen;
+}
+
+
 .LaserCardWrapper7-9 a:visited
 {    color:limegreen; }
 .LaserCardWrapper7-9 a
