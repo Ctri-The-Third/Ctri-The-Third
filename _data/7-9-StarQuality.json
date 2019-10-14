@@ -226,25 +226,36 @@
         },
         {
             "Name": "ThatGuysFriend",
-            "StarQualityPerGame": "6.40",
-            "TotalStarQuality": "12.80",
+            "StarQualityPerGame": "5.33",
+            "TotalStarQuality": "10.67",
             "AverageOpponents": "4.00",
             "gamesPlayed": 2,
-            "AverageRank": "2.50",
-            "ChangeInRank": "\u21930.00",
+            "AverageRank": "3.00",
+            "ChangeInRank": "\u21930.50",
             "ChangeInPlayers": "\u21930.67",
-            "ChangeInSQPerGame": "\u21932.31"
+            "ChangeInSQPerGame": "\u21933.38"
         },
         {
             "Name": "T D",
-            "StarQualityPerGame": "3.77",
-            "TotalStarQuality": "15.08",
+            "StarQualityPerGame": "4.08",
+            "TotalStarQuality": "16.33",
             "AverageOpponents": "3.50",
             "gamesPlayed": 4,
-            "AverageRank": "3.25",
-            "ChangeInRank": "\u21910.50",
+            "AverageRank": "3.00",
+            "ChangeInRank": "\u21910.75",
             "ChangeInPlayers": "\u21932.63",
-            "ChangeInSQPerGame": "\u21936.23"
+            "ChangeInSQPerGame": "\u21935.92"
+        },
+        {
+            "Name": "Deadpool",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
         }
     ]
 }
