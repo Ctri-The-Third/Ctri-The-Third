@@ -1,74 +1,8 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2019-11-01 and 2019-10-01",
-    "ScoreGreaterOrEqualDate": "2019-10-01",
-    "ScoreLessDate": "2019-11-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2019-12-01 and 2019-11-01",
+    "ScoreGreaterOrEqualDate": "2019-11-01",
+    "ScoreLessDate": "2019-12-01",
     "Player": [
-        {},
-        {
-            "Name": "Assassin",
-            "AverageScore": 60304,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u219130675.25"
-        },
-        {
-            "Name": "Mr ChatterBob",
-            "AverageScore": 21465,
-            "MissionsPlayed": 4,
-            "ChangeInScore": "\u21932846.25"
-        },
-        {
-            "Name": "(Apollo)",
-            "AverageScore": 20403,
-            "MissionsPlayed": 4,
-            "ChangeInScore": "\u2193488.25"
-        },
-        {
-            "Name": "Winter",
-            "AverageScore": 18804,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "-=Valroc=-",
-            "AverageScore": 18723,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u219313581.00"
-        },
-        {
-            "Name": "Unagi",
-            "AverageScore": 15104,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Sn3aky",
-            "AverageScore": 14284,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u219314720.50"
-        },
-        {
-            "Name": "<!-- Blaze -->",
-            "AverageScore": 13593,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u219312611.00"
-        },
-        {
-            "Name": "Archer",
-            "AverageScore": 12093,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21931311.00"
-        },
-        {
-            "Name": "HiJack",
-            "AverageScore": 9819,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21938785.50"
-        },
-        {
-            "Name": "Entity",
-            "AverageScore": 9633,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        }
+        {}
     ]
 }
