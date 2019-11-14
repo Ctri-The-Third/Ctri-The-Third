@@ -3,6 +3,72 @@
     "ScoreGreaterOrEqualDate": "2019-11-01",
     "ScoreLessDate": "2019-12-01",
     "Player": [
-        {}
+        {},
+        {
+            "Name": "(Apollo)",
+            "AverageScore": 29204,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21918800.75"
+        },
+        {
+            "Name": "Finley",
+            "AverageScore": 27994,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "<!-- Blaze -->",
+            "AverageScore": 27204,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u219113611.00"
+        },
+        {
+            "Name": "Assassin",
+            "AverageScore": 22404,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u219337900.00"
+        },
+        {
+            "Name": "Mr ChatterBob",
+            "AverageScore": 21834,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u2191368.75"
+        },
+        {
+            "Name": "Crashers",
+            "AverageScore": 19794,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Winter",
+            "AverageScore": 15304,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21933500.00"
+        },
+        {
+            "Name": "Smasher",
+            "AverageScore": 14402,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Dazm",
+            "AverageScore": 13304,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Natsudragneel",
+            "AverageScore": 12904,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Pikachu100Clan",
+            "AverageScore": 7004,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        }
     ]
 }
