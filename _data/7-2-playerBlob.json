@@ -1,5 +1,23 @@
 {
-    "GoldenPlayer": null,
+    "GoldenPlayer": {
+        "PlayerName": "Death Shooter",
+        "HomeArenaTrunc": "Laserforce Peterborough",
+        "SkillLevelName": "Star Lord",
+        "MonthlyGamesPlayed": 3,
+        "AllGamesPlayed": 9,
+        "StarQuality": "18.78",
+        "Achievements": 24,
+        "GGName": "Standard Individual",
+        "GGRank": "1st",
+        "GGStars": "25 stars",
+        "GGVanq1": "Walji 007",
+        "GGVanq2": "Beast",
+        "GGVanq3": "Matrix",
+        "GGVanq4": "1 others",
+        "GAName": "Hot Shot",
+        "GADesc": "Achieve at least 50% accuracy in a regular game. (Minimum 50 shots)",
+        "GAOthers": "40 others have"
+    },
     "SilverPlayer": {
         "PlayerName": "Empire Jr",
         "HomeArenaTrunc": "Laserforce Peterborough",
@@ -14,9 +32,9 @@
         "GGVanq1": "RyanRDM",
         "GGVanq2": "Lewis 543",
         "GGVanq3": "Fortnite God",
-        "GAName": "Quarter Pounder",
-        "GADesc": "Accumulate 250,000 total points.",
-        "GAOthers": "6 others have"
+        "GAName": "Pitfight",
+        "GADesc": "Compete in a Gladiator Pitfight",
+        "GAOthers": "21 others have"
     },
     "BronzePlayer": {
         "PlayerName": "Wezza",
@@ -44,15 +62,32 @@
         "MonthlyGamesPlayed": 9,
         "AllGamesPlayed": 31,
         "StarQuality": "4.42",
-        "Achievements": 30,
+        "Achievements": 35,
         "GGName": "Standard Individual",
         "GGRank": "1st",
         "GGStars": "9 stars",
         "GGVanq1": "Mammal",
         "GGVanq2": "Mario Spitfire",
-        "GAName": "I'm The Juggernaut",
-        "GADesc": "Earn invulnerability 3 times in a regular game.",
-        "GAOthers": "No one else has"
+        "GAName": "Gumby Shooter",
+        "GADesc": "Score at least 20,000 points in a regular game.",
+        "GAOthers": "16 others have"
     },
-    "OtherPlayer2": null
+    "OtherPlayer2": {
+        "PlayerName": "Ninja Cut",
+        "HomeArenaTrunc": "Laserforce Peterborough",
+        "SkillLevelName": "Laser Master",
+        "MonthlyGamesPlayed": 3,
+        "AllGamesPlayed": 12,
+        "StarQuality": "8.00",
+        "Achievements": 27,
+        "GGName": "Standard 2 Team",
+        "GGRank": "1st",
+        "GGStars": "16 stars",
+        "GGVanq1": "InkyShoe230",
+        "GGVanq2": "Oliver 6",
+        "GGVanq3": "Inky DJ Master",
+        "GAName": "Good Things Come...",
+        "GADesc": "Be a member for 5 years.",
+        "GAOthers": "27 others have"
+    }
 }
