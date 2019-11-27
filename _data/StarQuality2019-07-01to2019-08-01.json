@@ -1,0 +1,74 @@
+{
+    "ScoreTitle": "Star Quality for all known players, between 2019-07-01 and 2019-08-01",
+    "ScoreGreaterOrEqualDate": "2019-08-01",
+    "ScoreLessDate": "2019-07-01",
+    "Player": [
+        {},
+        {
+            "Name": "C'tri",
+            "StarQualityPerGame": 18.89,
+            "TotalStarQuality": 75.57,
+            "AverageOpponents": 5.75,
+            "gamesPlayed": 4,
+            "AverageRank": 1.75,
+            "ChangeInRank": "\u21930.51",
+            "ChangeInPlayers": "\u21911.51",
+            "ChangeInSQPerGame": "\u21914.41"
+        },
+        {
+            "Name": "Reboot",
+            "StarQualityPerGame": 14.69,
+            "TotalStarQuality": 58.78,
+            "AverageOpponents": 5.75,
+            "gamesPlayed": 4,
+            "AverageRank": 2.25,
+            "ChangeInRank": "\u21911.31",
+            "ChangeInPlayers": "\u21930.92",
+            "ChangeInSQPerGame": "\u21912.19"
+        },
+        {
+            "Name": "Rayth",
+            "StarQualityPerGame": 10.17,
+            "TotalStarQuality": 40.69,
+            "AverageOpponents": 5.75,
+            "gamesPlayed": 4,
+            "AverageRank": 3.25,
+            "ChangeInRank": "\u21931.49",
+            "ChangeInPlayers": "\u21930.63",
+            "ChangeInSQPerGame": "\u219312.94"
+        },
+        {
+            "Name": "ThatGuysFriend",
+            "StarQualityPerGame": 9.82,
+            "TotalStarQuality": 29.45,
+            "AverageOpponents": 6.0,
+            "gamesPlayed": 3,
+            "AverageRank": 3.67,
+            "ChangeInRank": "\u21931.38",
+            "ChangeInPlayers": "\u21913.0",
+            "ChangeInSQPerGame": "\u21915.88"
+        },
+        {
+            "Name": "Robo_h34d",
+            "StarQualityPerGame": 7.35,
+            "TotalStarQuality": 29.39,
+            "AverageOpponents": 5.75,
+            "gamesPlayed": 4,
+            "AverageRank": 4.5,
+            "ChangeInRank": "\u21930.75",
+            "ChangeInPlayers": "\u21931.92",
+            "ChangeInSQPerGame": "\u21938.33"
+        },
+        {
+            "Name": "T D",
+            "StarQualityPerGame": 6.61,
+            "TotalStarQuality": 26.45,
+            "AverageOpponents": 5.75,
+            "gamesPlayed": 4,
+            "AverageRank": 5.0,
+            "ChangeInRank": "\u21930.22",
+            "ChangeInPlayers": "\u21931.14",
+            "ChangeInSQPerGame": "\u21933.32"
+        }
+    ]
+}
