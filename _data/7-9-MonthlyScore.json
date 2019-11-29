@@ -5,6 +5,12 @@
     "Player": [
         {},
         {
+            "Name": "HotShot",
+            "AverageScore": 20445,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
             "Name": "C'tri",
             "AverageScore": 15489,
             "MissionsPlayed": 9,
@@ -65,6 +71,12 @@
             "ChangeInScore": "\u2191504.33"
         },
         {
+            "Name": "Arran",
+            "AverageScore": 10050,
+            "MissionsPlayed": 6,
+            "ChangeInScore": "\u2191190.83"
+        },
+        {
             "Name": "Glen",
             "AverageScore": 9511,
             "MissionsPlayed": 3,
@@ -75,12 +87,6 @@
             "AverageScore": 9476,
             "MissionsPlayed": 3,
             "ChangeInScore": null
-        },
-        {
-            "Name": "Arran",
-            "AverageScore": 8947,
-            "MissionsPlayed": 3,
-            "ChangeInScore": "\u2193911.67"
         },
         {
             "Name": "Josh",
