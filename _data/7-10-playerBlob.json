@@ -1,11 +1,30 @@
 {
     "GoldenPlayer": {
+        "PlayerName": "Entity",
+        "HomeArenaTrunc": "LaserZone Bradford",
+        "SkillLevelName": "Star Lord",
+        "MonthlyGamesPlayed": 6,
+        "AllGamesPlayed": 450,
+        "StarQuality": "31.85",
+        "Achievements": 73,
+        "GGName": "Predator",
+        "GGRank": "1st",
+        "GGStars": "100 stars",
+        "GGVanq1": "-=Valroc=-",
+        "GGVanq2": "Archer",
+        "GGVanq3": "<!-- Blaze -->",
+        "GGVanq4": "6 others",
+        "GAName": "Braaiinnzz!",
+        "GADesc": "Infect 10 Survivors with missiles in Zombies vs Survivors.",
+        "GAOthers": "Only one other person has"
+    },
+    "SilverPlayer": {
         "PlayerName": "-=Valroc=-",
         "HomeArenaTrunc": "LaserZone Bradford",
         "SkillLevelName": "Laser Master",
-        "MonthlyGamesPlayed": 25,
-        "AllGamesPlayed": 1520,
-        "StarQuality": "29.60",
+        "MonthlyGamesPlayed": 31,
+        "AllGamesPlayed": 1544,
+        "StarQuality": "27.00",
         "Achievements": 98,
         "GGName": "Huntsman",
         "GGRank": "1st",
@@ -16,34 +35,15 @@
         "GGVanq4": "7 others",
         "GAName": "Battle Ammo",
         "GADesc": "Score 7K or more as Ammo in SM5.",
-        "GAOthers": "No one else has"
-    },
-    "SilverPlayer": {
-        "PlayerName": "Archer",
-        "HomeArenaTrunc": "LaserZone Bradford",
-        "SkillLevelName": "Star Lord",
-        "MonthlyGamesPlayed": 13,
-        "AllGamesPlayed": 821,
-        "StarQuality": "23.66",
-        "Achievements": 90,
-        "GGName": "Huntsman",
-        "GGRank": "1st",
-        "GGStars": "100 stars",
-        "GGVanq1": "Sn3aky",
-        "GGVanq2": "-=Valroc=-",
-        "GGVanq3": "<!-- Blaze -->",
-        "GGVanq4": "6 others",
-        "GAName": "Surviving The Game",
-        "GADesc": "Win a game as the Fugitive. You must survive.",
-        "GAOthers": "No one else has"
+        "GAOthers": "Only one other person has"
     },
     "BronzePlayer": {
         "PlayerName": "Sn3aky",
         "HomeArenaTrunc": "LaserZone Bradford",
         "SkillLevelName": "Laser Master",
         "MonthlyGamesPlayed": 12,
-        "AllGamesPlayed": 1502,
-        "StarQuality": "23.57",
+        "AllGamesPlayed": 1523,
+        "StarQuality": "22.00",
         "Achievements": 75,
         "GGName": "Gladiator Team",
         "GGRank": "1st",
@@ -54,7 +54,7 @@
         "GGVanq4": "5 others",
         "GAName": "Maximus",
         "GADesc": "Survive and win a game of Gladiator as a Level 6 Lasermaster. (Minimum 10 players)",
-        "GAOthers": "Only one other person has"
+        "GAOthers": "Only two others have"
     },
     "OtherPlayer1": {
         "PlayerName": "X D",
@@ -66,25 +66,25 @@
         "Achievements": 34,
         "GAName": "King Of The Hill",
         "GADesc": "Score the highest in a regular game. (Minimum 30 players)",
-        "GAOthers": "7 others have"
+        "GAOthers": "28 others have"
     },
     "OtherPlayer2": {
         "PlayerName": "[Insomniac]",
         "HomeArenaTrunc": "LaserZone Bradford",
         "SkillLevelName": "Star Lord",
-        "MonthlyGamesPlayed": 7,
-        "AllGamesPlayed": 569,
-        "StarQuality": "11.81",
+        "MonthlyGamesPlayed": 12,
+        "AllGamesPlayed": 574,
+        "StarQuality": "17.39",
         "Achievements": 84,
-        "GGName": "Escape",
-        "GGRank": "3rd",
-        "GGStars": "30 stars",
-        "GGVanq1": "Archer",
-        "GGVanq2": "The_Boy",
-        "GGVanq3": "Winter",
-        "GGVanq4": "4 others",
+        "GGName": "Base Flags",
+        "GGRank": "1st",
+        "GGStars": "100 stars",
+        "GGVanq1": "Unagi",
+        "GGVanq2": "<!-- Blaze -->",
+        "GGVanq3": "-=Valroc=-",
+        "GGVanq4": "6 others",
         "GAName": "Skin Of Your Teeth",
         "GADesc": "Survive a game of SM5 with only a single life left, and no surviving teammates.",
-        "GAOthers": "No one else has"
+        "GAOthers": "Only two others have"
     }
 }
