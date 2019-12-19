@@ -5,6 +5,17 @@
     "Player": [
         {},
         {
+            "Name": "C'tri",
+            "StarQualityPerGame": "15.56",
+            "TotalStarQuality": "140.08",
+            "AverageOpponents": "4.56",
+            "gamesPlayed": 9,
+            "AverageRank": "1.33",
+            "ChangeInRank": "\u21910.80",
+            "ChangeInPlayers": "\u21933.44",
+            "ChangeInSQPerGame": "\u219314.39"
+        },
+        {
             "Name": "JammyDodger",
             "StarQualityPerGame": "13.50",
             "TotalStarQuality": "40.50",
@@ -38,28 +49,6 @@
             "ChangeInSQPerGame": "\u21931.05"
         },
         {
-            "Name": "C'tri",
-            "StarQualityPerGame": "11.43",
-            "TotalStarQuality": "57.14",
-            "AverageOpponents": "4.00",
-            "gamesPlayed": 5,
-            "AverageRank": "1.40",
-            "ChangeInRank": "\u21910.74",
-            "ChangeInPlayers": "\u21934.00",
-            "ChangeInSQPerGame": "\u219318.53"
-        },
-        {
-            "Name": "Achilles",
-            "StarQualityPerGame": "11.28",
-            "TotalStarQuality": "45.13",
-            "AverageOpponents": "4.75",
-            "gamesPlayed": 4,
-            "AverageRank": "2.00",
-            "ChangeInRank": "\u21910.89",
-            "ChangeInPlayers": "\u21933.09",
-            "ChangeInSQPerGame": "\u21939.96"
-        },
-        {
             "Name": "PlagueDoctor",
             "StarQualityPerGame": "9.82",
             "TotalStarQuality": "29.45",
@@ -71,15 +60,48 @@
             "ChangeInSQPerGame": null
         },
         {
+            "Name": "Achilles",
+            "StarQualityPerGame": "9.74",
+            "TotalStarQuality": "68.21",
+            "AverageOpponents": "5.14",
+            "gamesPlayed": 7,
+            "AverageRank": "2.71",
+            "ChangeInRank": "\u21910.18",
+            "ChangeInPlayers": "\u21932.70",
+            "ChangeInSQPerGame": "\u219311.50"
+        },
+        {
             "Name": "Rayth",
-            "StarQualityPerGame": "8.33",
-            "TotalStarQuality": "25.00",
-            "AverageOpponents": "5.00",
-            "gamesPlayed": 3,
+            "StarQualityPerGame": "9.72",
+            "TotalStarQuality": "48.60",
+            "AverageOpponents": "5.40",
+            "gamesPlayed": 5,
             "AverageRank": "3.00",
             "ChangeInRank": "\u21931.18",
-            "ChangeInPlayers": "\u21933.45",
-            "ChangeInSQPerGame": "\u219330.98"
+            "ChangeInPlayers": "\u21933.05",
+            "ChangeInSQPerGame": "\u219329.59"
+        },
+        {
+            "Name": "Dikaiopolis",
+            "StarQualityPerGame": "9.19",
+            "TotalStarQuality": "36.75",
+            "AverageOpponents": "5.25",
+            "gamesPlayed": 4,
+            "AverageRank": "3.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Robo_h34d",
+            "StarQualityPerGame": "6.89",
+            "TotalStarQuality": "27.56",
+            "AverageOpponents": "5.25",
+            "gamesPlayed": 4,
+            "AverageRank": "4.00",
+            "ChangeInRank": "\u21931.50",
+            "ChangeInPlayers": "\u21930.67",
+            "ChangeInSQPerGame": "\u21937.11"
         },
         {
             "Name": "T D",
@@ -99,6 +121,17 @@
             "AverageOpponents": "4.83",
             "gamesPlayed": 6,
             "AverageRank": "4.33",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "ThatGuysFriend",
+            "StarQualityPerGame": "5.38",
+            "TotalStarQuality": "26.89",
+            "AverageOpponents": "4.40",
+            "gamesPlayed": 5,
+            "AverageRank": "3.60",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
