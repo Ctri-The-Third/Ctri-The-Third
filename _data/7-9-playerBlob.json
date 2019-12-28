@@ -1,24 +1,5 @@
 {
     "GoldenPlayer": {
-        "PlayerName": "C'tri",
-        "HomeArenaTrunc": "Funstation Edinburgh",
-        "SkillLevelName": "Laser Master",
-        "MonthlyGamesPlayed": 9,
-        "AllGamesPlayed": 641,
-        "StarQuality": "15.56",
-        "Achievements": 100,
-        "GGName": "Colour Conquest",
-        "GGRank": "1st",
-        "GGStars": "36 stars",
-        "GGVanq1": "Achilles",
-        "GGVanq2": "ThatGuysFriend",
-        "GGVanq3": "Dikaiopolis",
-        "GGVanq4": "2 others",
-        "GAName": "Battle Ammo",
-        "GADesc": "Score 7K or more as Ammo in SM5.",
-        "GAOthers": "No one else has"
-    },
-    "SilverPlayer": {
         "PlayerName": "JammyDodger",
         "HomeArenaTrunc": "Funstation Edinburgh",
         "SkillLevelName": "Laser Master",
@@ -37,7 +18,7 @@
         "GADesc": "As Medic, your full team must survive the game in SM5.",
         "GAOthers": "4 others have"
     },
-    "BronzePlayer": {
+    "SilverPlayer": {
         "PlayerName": "Oscar",
         "HomeArenaTrunc": "Funstation Edinburgh",
         "SkillLevelName": "Laser Master",
@@ -56,23 +37,43 @@
         "GADesc": "Score 4K or more as Medic in SM5.",
         "GAOthers": "4 others have"
     },
-    "OtherPlayer1": {
-        "PlayerName": "ThatGuysFriend",
+    "BronzePlayer": {
+        "PlayerName": "Jj",
         "HomeArenaTrunc": "Funstation Edinburgh",
         "SkillLevelName": "Laser Master",
-        "MonthlyGamesPlayed": 5,
-        "AllGamesPlayed": 80,
-        "StarQuality": "5.38",
-        "Achievements": 57,
+        "MonthlyGamesPlayed": 6,
+        "AllGamesPlayed": 132,
+        "StarQuality": "12.74",
+        "Achievements": 63,
+        "GGName": "Colour Ranked",
+        "GGRank": "2nd",
+        "GGStars": "18 stars",
+        "GGVanq1": "PlagueDoctor",
+        "GGVanq2": "JammyDodger",
+        "GGVanq3": "Godspeed",
+        "GGVanq4": "1 others",
+        "GAName": "Temporary Reprieve",
+        "GADesc": "Win a game of Zombies vs Survivors as a Survivor.",
+        "GAOthers": "6 others have"
+    },
+    "OtherPlayer1": {
+        "PlayerName": "C'tri",
+        "HomeArenaTrunc": "Funstation Edinburgh",
+        "SkillLevelName": "Laser Master",
+        "MonthlyGamesPlayed": 13,
+        "AllGamesPlayed": 649,
+        "StarQuality": "12.50",
+        "Achievements": 100,
         "GGName": "Colour Conquest",
-        "GGRank": "3rd",
-        "GGStars": "12 stars",
-        "GGVanq1": "Dikaiopolis",
-        "GGVanq2": "Rayth",
-        "GGVanq3": "Robo_h34d",
-        "GAName": "Field Medic",
-        "GADesc": "Score 4K or more as Medic in SM5.",
-        "GAOthers": "4 others have"
+        "GGRank": "1st",
+        "GGStars": "36 stars",
+        "GGVanq1": "Achilles",
+        "GGVanq2": "ThatGuysFriend",
+        "GGVanq3": "Dikaiopolis",
+        "GGVanq4": "2 others",
+        "GAName": "Battle Ammo",
+        "GADesc": "Score 7K or more as Ammo in SM5.",
+        "GAOthers": "No one else has"
     },
     "OtherPlayer2": {
         "PlayerName": "T D",
