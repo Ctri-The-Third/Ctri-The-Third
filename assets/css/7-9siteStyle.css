@@ -114,4 +114,12 @@ hr {
     border-top:1px solid limegreen;
 }
 
+table.AnnualTop3s { 
+    border:2px solid limegreen;
+}
 /* end of table page content */
+div.SmallBrightNumber {
+    color:limegreen;
+}
+
+table.AnnualTop3s td.MonthHeader {color:limegreen;}
