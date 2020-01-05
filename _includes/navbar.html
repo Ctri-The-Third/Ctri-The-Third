@@ -1,18 +1,22 @@
-
-
 <div class = "row container-fluid">
-  <div class = "col-sm-1"></div>
-  <div class = "col-sm-1 navbarHeader">2019:</div>
-  <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/LastYear"> Annual Rankings </a> </div>
-
-  <div class = "col-sm-1"></div>
-</div>
-<div class = "row container-fluid">
-  <div class = "col-sm-1"></div>
-  <div class = "col-sm-1 navbarHeader">2020:</div>
-  <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/YearToDate"> Year to date </a> </div>
-  <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/MonthlyScores"> Monthly Scores </a> </div>
-  <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/StarQuality"> Star Quality </a>  </div>
-  <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/Overachievers"> Overachievers </a> </div>
-  <div class = "col-sm-1"></div>
+    <div class = "col-md-1" >
+    </div>
+    <div class = "col-md-1" >
+        <a href = "{{ "/" | relative_url }}" >
+            <img src = "/assets/images{{ page.URLPrefix | default: '' }}logo250.png" style = "width:90px; float:left; margin-top:-5px;" />
+        </a>
+    </div>
+    <div class = "col-md-10" >
+        <div class = "row container-fluid">
+            <div class = "col-sm-2 navbarItem" > 
+                <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/LastYear-2019"> 2019's stats </a> 
+            </div>
+        
+            <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/YearToDate"> 2020 to date </a> </div>
+            <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/MonthlyScores"> Monthly Scores </a> </div>
+            <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/StarQuality"> Star Quality </a>  </div>
+            <div class = "col-sm-2 navbarItem"> <a class = "navBar" href = "{{ page.URLPrefix | default: '' }}/Overachievers"> Overachievers </a> </div>
+            
+        </div>
+     </div>
 </div>

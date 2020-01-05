@@ -114,3 +114,30 @@ hr {
 }
 
 /* end of table page content */
+
+
+table.AnnualTop3s { 
+    border:2px solid royalblue;
+}
+div.SmallBrightNumber {
+    color:white;
+}
+
+table.AnnualTop3s td.MonthHeader {
+    color:white;}
+
+div {
+    /*border:1px solid red; //*/
+}
+
+div.GainLossIcon
+{
+    color:white;
+    border-color:#0060c0;
+    background-color:#227;
+}
+
+table.AnnualTop3s{
+    background-color:#227;
+}
+

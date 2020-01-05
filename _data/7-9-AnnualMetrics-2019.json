@@ -1,0 +1,93 @@
+{
+    "referrals": {
+        "welcomers": 25,
+        "newPlayers": 17
+    },
+    "playerCounts": {
+        "activePlayers": 126,
+        "churnedPlayers": 83,
+        "newPlayers": 35
+    },
+    "gamesPlayed": [
+        {
+            "timesPlayed": 322,
+            "gameName": "4 Teams"
+        },
+        {
+            "timesPlayed": 110,
+            "gameName": "Individual"
+        },
+        {
+            "timesPlayed": 97,
+            "gameName": "Team"
+        },
+        {
+            "timesPlayed": 71,
+            "gameName": "Colour Conquest"
+        },
+        {
+            "timesPlayed": 60,
+            "gameName": "3 Teams"
+        },
+        {
+            "timesPlayed": 27,
+            "gameName": "Colour Ranked"
+        },
+        {
+            "timesPlayed": 26,
+            "gameName": "Individual Supercharge"
+        },
+        {
+            "timesPlayed": 23,
+            "gameName": "Space Marines 5 (3 Team)"
+        },
+        {
+            "timesPlayed": 21,
+            "gameName": "Highlander"
+        },
+        {
+            "timesPlayed": 16,
+            "gameName": "Shadows (Individual)"
+        },
+        {
+            "timesPlayed": 14,
+            "gameName": "Tag"
+        },
+        {
+            "timesPlayed": 13,
+            "gameName": "4 Team Supercharge"
+        },
+        {
+            "timesPlayed": 12,
+            "gameName": "Fugitive"
+        },
+        {
+            "timesPlayed": 8,
+            "gameName": "Zombies vs Survivors"
+        },
+        {
+            "timesPlayed": 7,
+            "gameName": "Gladiator (Individual)"
+        },
+        {
+            "timesPlayed": 4,
+            "gameName": "Z (Stun-Stun-Deac)"
+        },
+        {
+            "timesPlayed": 3,
+            "gameName": "Dead Aim (Individual)"
+        },
+        {
+            "timesPlayed": 2,
+            "gameName": "Teams"
+        },
+        {
+            "timesPlayed": 2,
+            "gameName": "Masters"
+        },
+        {
+            "timesPlayed": 2,
+            "gameName": "Gladiator (3 Team)"
+        }
+    ]
+}
