@@ -1,14 +1,14 @@
 ---
 layout : LaserSplash-nocolums
-permalink: /7-9/LastYear-2019
+permalink: /7-9/YearToDate
 URLPrefix: '/7-9'
 ---
-# Overview of regular members, for Funstation Edinburgh, 2019
+# Overview of regular members, for Funstation Edinburgh, 2020
 <div class = "container" style = "margin-top:15px;">
   <div class = "row">
     <div class = "col-md-6">
         <table class = "AnnualTop3s" style = "border-radius:10px; margin:0px; height:300px;">
-        {% for Month in site.data.7-9-AnnualTop3s-2019 %} 
+        {% for Month in site.data.7-9-AnnualTop3s-2020 %} 
             <tr> 
                 <td class = "MonthHeader">{{Month.month}}</td> 
                 <td class = "golden"><b>{{Month.players[0].playerName}}</b>
@@ -28,12 +28,12 @@ URLPrefix: '/7-9'
                 <div class = "col-sm-6 GainLossIcon " style = "background-image:url('/assets/images/add-group.svg'); border-radius:30px 15px 15px 15px; " > 
                     Welcomed Regular <br/>
                     <div class="sup">Someone who played their first game with an existing regular</div>
-                    <b>{{site.data.7-9-AnnualMetrics-2019.referrals.newPlayers}}</b>
+                    <b>{{site.data.7-9-AnnualMetrics-2020.referrals.newPlayers}}</b>
                 </div>
                 <div class = "col-sm-6 GainLossIcon" style = "background-image:url('/assets/images/friendly.svg'); border-radius: 15px; " > 
                     Welcomer<br/>
                     <div class="sup">Any existing regular present for another regular's first game</div>
-                    <b>{{site.data.7-9-AnnualMetrics-2019.referrals.welcomers}}</b>
+                    <b>{{site.data.7-9-AnnualMetrics-2020.referrals.welcomers}}</b>
                 </div>
             </div>
         </div>
@@ -46,17 +46,17 @@ URLPrefix: '/7-9'
                 <div class = "col-sm-4 GainLossIcon " style = "background-image:url('/assets/images/log-in.svg'); border-radius:30px 15px 15px 15px; " > 
                     New Regular Players <br/>
                     <div class="sup">any L4+ players, or 15+ games played</div>
-                    <b>{{site.data.7-9-AnnualMetrics-2019.playerCounts.newPlayers}}</b>
+                    <b>{{site.data.7-9-AnnualMetrics-2020.playerCounts.newPlayers}}</b>
                 </div>
                 <div class = "col-sm-4 GainLossIcon" style = "background-image:url('/assets/images/team.svg'); border-radius:15px 15px 30px 15px; " > 
                     Active Regular Players<br/>
                     <div class="sup">includes new and players who went dormant</div>
-                    <b>{{site.data.7-9-AnnualMetrics-2019.playerCounts.activePlayers}}</b>
+                    <b>{{site.data.7-9-AnnualMetrics-2020.playerCounts.activePlayers}}</b>
                 </div>
                 <div class = "col-sm-4 GainLossIcon" style = "background-image:url('/assets/images/logout.svg'); border-radius: 15px; " > 
                     Regs Going Dormant<br/>
                     <div class="sup">not playing in the last 60 days of the year</div>
-                    <b>{{site.data.7-9-AnnualMetrics-2019.playerCounts.churnedPlayers}}</b>
+                    <b>{{site.data.7-9-AnnualMetrics-2020.playerCounts.churnedPlayers}}</b>
                 </div>
             </div>
         </div>
@@ -70,7 +70,7 @@ var data = [{
   textfont: [],
   type: 'pie'
 }];
-{% for GameType in site.data.7-9-AnnualMetrics-2019.gamesPlayed %} 
+{% for GameType in site.data.7-9-AnnualMetrics-2020.gamesPlayed %} 
     data[0].labels.push("{{GameType.gameName}}")
     data[0].values.push({{GameType.timesPlayed}})
 {% endfor %}

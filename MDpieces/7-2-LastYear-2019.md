@@ -48,14 +48,14 @@ URLPrefix: '/7-2'
                     <div class="sup">any L4+ players, or 15+ games played</div>
                     <b>{{site.data.7-2-AnnualMetrics-2019.playerCounts.newPlayers}}</b>
                 </div>
-                <div class = "col-sm-4 GainLossIcon" style = "background-image:url('/assets/images/team.svg'); border-radius:15px 15px 30px 15px; " > 
+                <div class = "col-sm-4 GainLossIcon" style = "background-image:url('/assets/images/team.svg'); border-radius:15px; " > 
                     Active Regular Players<br/>
                     <div class="sup">includes new and players who went dormant</div>
                     <b>{{site.data.7-2-AnnualMetrics-2019.playerCounts.activePlayers}}</b>
                 </div>
-                <div class = "col-sm-4 GainLossIcon" style = "background-image:url('/assets/images/logout.svg'); border-radius: 15px; " > 
-                    Regulars Going Dormant<br/>
-                    <div class="sup">not playing in the last 60 days</div>
+                <div class = "col-sm-4 GainLossIcon" style = "background-image:url('/assets/images/logout.svg'); border-radius: 15px 15px 30px 15px; " > 
+                    Regs Going Dormant<br/>
+                    <div class="sup">not playing in the last 60 days of the year</div>
                     <b>{{site.data.7-2-AnnualMetrics-2019.playerCounts.churnedPlayers}}</b>
                 </div>
             </div>

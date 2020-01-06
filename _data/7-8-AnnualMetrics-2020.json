@@ -1,0 +1,33 @@
+{
+    "gamesPlayed": [
+        {
+            "gameName": "Infection",
+            "timesPlayed": 2
+        },
+        {
+            "gameName": "Standard - Solo",
+            "timesPlayed": 2
+        },
+        {
+            "gameName": "Mayhem - Solo",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "Standard [3 Team] (15)",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "Standard - Team",
+            "timesPlayed": 1
+        }
+    ],
+    "referrals": {
+        "newPlayers": 0,
+        "welcomers": 0
+    },
+    "playerCounts": {
+        "activePlayers": 7,
+        "newPlayers": 0,
+        "churnedPlayers": 6
+    }
+}

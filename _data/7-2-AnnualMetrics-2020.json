@@ -1,0 +1,73 @@
+{
+    "gamesPlayed": [
+        {
+            "gameName": "Manic",
+            "timesPlayed": 5
+        },
+        {
+            "gameName": "Standard 2 Team",
+            "timesPlayed": 5
+        },
+        {
+            "gameName": "Standard Individual",
+            "timesPlayed": 5
+        },
+        {
+            "gameName": "Colour Conquest",
+            "timesPlayed": 4
+        },
+        {
+            "gameName": "Gladiator Ind",
+            "timesPlayed": 4
+        },
+        {
+            "gameName": "Revolver Ind",
+            "timesPlayed": 2
+        },
+        {
+            "gameName": "Borg",
+            "timesPlayed": 2
+        },
+        {
+            "gameName": "Supercharge Gunner 2Tm",
+            "timesPlayed": 2
+        },
+        {
+            "gameName": "Tm Std-15",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "Hard Target Ind",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "Highlander",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "S/Charge Gunner Ind",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "Shadows Ind",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "S.W.A.T",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "Titans",
+            "timesPlayed": 1
+        }
+    ],
+    "referrals": {
+        "newPlayers": 0,
+        "welcomers": 0
+    },
+    "playerCounts": {
+        "activePlayers": 10,
+        "newPlayers": 0,
+        "churnedPlayers": 10
+    }
+}

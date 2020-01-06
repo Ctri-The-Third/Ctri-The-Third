@@ -54,8 +54,8 @@ URLPrefix: '/7-10'
                     <b>{{site.data.7-10-AnnualMetrics-2019.playerCounts.activePlayers}}</b>
                 </div>
                 <div class = "col-sm-4 GainLossIcon" style = "background-image:url('/assets/images/logout.svg'); border-radius: 15px; " > 
-                    Regulars Going Dormant<br/>
-                    <div class="sup">not playing in the last 60 days</div>
+                    Regs Going Dormant<br/>
+                    <div class="sup">not playing in the last 60 days of the year</div>
                     <b>{{site.data.7-10-AnnualMetrics-2019.playerCounts.churnedPlayers}}</b>
                 </div>
             </div>

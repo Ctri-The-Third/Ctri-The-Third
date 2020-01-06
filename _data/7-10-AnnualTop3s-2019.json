@@ -1,5 +1,6 @@
 [
     {
+        "month": "2019-08",
         "players": [
             {
                 "playerName": "Little Tank",
@@ -9,94 +10,93 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 20,
-                "averageStars": "46.85"
+                "averageStars": "48.02"
             },
             {
-                "playerName": "Entity",
-                "gamePlayed": 7,
-                "averageStars": "39.90"
+                "playerName": "Mr Spanky",
+                "gamePlayed": 8,
+                "averageStars": "30.73"
             }
-        ],
-        "month": "2019-08"
+        ]
     },
     {
+        "month": "2019-09",
         "players": [
             {
                 "playerName": "Sn3aky",
                 "gamePlayed": 16,
-                "averageStars": "28.61"
+                "averageStars": "27.28"
             },
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 14,
-                "averageStars": "20.85"
+                "averageStars": "23.11"
             },
             {
-                "playerName": "S N D",
+                "playerName": "Killa",
                 "gamePlayed": 10,
-                "averageStars": "19.07"
+                "averageStars": "16.41"
             }
-        ],
-        "month": "2019-09"
+        ]
     },
     {
+        "month": "2019-10",
         "players": [
             {
                 "playerName": "Sn3aky",
                 "gamePlayed": 23,
-                "averageStars": "23.00"
+                "averageStars": "22.65"
             },
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 46,
-                "averageStars": "21.41"
+                "averageStars": "20.87"
             },
             {
-                "playerName": "[Insomniac]",
-                "gamePlayed": 11,
-                "averageStars": "18.62"
+                "playerName": "Killa",
+                "gamePlayed": 8,
+                "averageStars": "20.50"
             }
-        ],
-        "month": "2019-10"
+        ]
     },
     {
+        "month": "2019-11",
         "players": [
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 31,
-                "averageStars": "28.53"
+                "averageStars": "27.00"
             },
             {
                 "playerName": "Sn3aky",
                 "gamePlayed": 12,
-                "averageStars": "24.75"
+                "averageStars": "22.50"
             },
-            {
-                "playerName": "Entity",
-                "gamePlayed": 6,
-                "averageStars": "24.61"
-            }
-        ],
-        "month": "2019-11"
-    },
-    {
-        "players": [
             {
                 "playerName": "Assassin",
-                "gamePlayed": 4,
-                "averageStars": "32.40"
-            },
-            {
-                "playerName": "Killa",
-                "gamePlayed": 3,
-                "averageStars": "28.17"
-            },
+                "gamePlayed": 10,
+                "averageStars": "21.88"
+            }
+        ]
+    },
+    {
+        "month": "2019-12",
+        "players": [
             {
                 "playerName": "[Insomniac]",
                 "gamePlayed": 4,
-                "averageStars": "26.89"
+                "averageStars": "30.25"
+            },
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 29,
+                "averageStars": "29.53"
+            },
+            {
+                "playerName": "Assassin",
+                "gamePlayed": 4,
+                "averageStars": "29.45"
             }
-        ],
-        "month": "2019-12"
+        ]
     }
 ]
