@@ -1,150 +1,54 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-01-01 and 2019-12-01",
-    "ScoreGreaterOrEqualDate": "2019-12-01",
-    "ScoreLessDate": "2020-01-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-02-01 and 2020-01-01",
+    "ScoreGreaterOrEqualDate": "2020-01-01",
+    "ScoreLessDate": "2020-02-01",
     "Player": [
         {},
         {
-            "Name": "Pepsi Bin",
-            "AverageScore": 17499,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "A.A.",
-            "AverageScore": 15619,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21914772.50"
-        },
-        {
-            "Name": "Smally McSmall",
-            "AverageScore": 14241,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Poison Ivy",
-            "AverageScore": 14176,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Deadshot George",
-            "AverageScore": 12000,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Laser",
-            "AverageScore": 11596,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
             "Name": "Fortnite123",
-            "AverageScore": 11034,
-            "MissionsPlayed": 9,
-            "ChangeInScore": null
+            "AverageScore": 11675,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u2193364.53"
         },
         {
-            "Name": "Quick Zap",
-            "AverageScore": 10445,
+            "Name": "Spitfire James",
+            "AverageScore": 10038,
             "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Laserboy",
-            "AverageScore": 10258,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Legend",
-            "AverageScore": 9818,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Hot Shot",
-            "AverageScore": 9717,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
+            "ChangeInScore": "\u2193691.92"
         },
         {
             "Name": "Rambo",
-            "AverageScore": 9308,
-            "MissionsPlayed": 8,
-            "ChangeInScore": "\u21931134.63"
+            "AverageScore": 9813,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21931651.23"
         },
         {
-            "Name": "Easy Target",
-            "AverageScore": 9045,
+            "Name": "S.A.S Trained",
+            "AverageScore": 9268,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21912743.50"
+        },
+        {
+            "Name": "Ben G",
+            "AverageScore": 6784,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Empire Jr",
+            "AverageScore": 6231,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
-            "Name": "Killer Gamer",
-            "AverageScore": 8525,
-            "MissionsPlayed": 3,
-            "ChangeInScore": "\u2191380.50"
-        },
-        {
-            "Name": "Destroyer4",
-            "AverageScore": 8314,
-            "MissionsPlayed": 4,
-            "ChangeInScore": "\u21935996.75"
-        },
-        {
-            "Name": "Agent Luca",
-            "AverageScore": 7496,
+            "Name": "Max",
+            "AverageScore": 5629,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Yoda",
-            "AverageScore": 7356,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "JimJamJammyPot",
-            "AverageScore": 7139,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Gill Grunt",
-            "AverageScore": 6531,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Blaster",
-            "AverageScore": 6433,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Vampire!",
-            "AverageScore": 6162,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Nellabella 15",
-            "AverageScore": 6140,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Meteorite",
-            "AverageScore": 5637,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21935578.50"
-        },
-        {
-            "Name": "Super Shotz",
-            "AverageScore": 2897,
+            "Name": "DancingFlamingo",
+            "AverageScore": 4354,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         }

@@ -1,103 +1,31 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-01-01 and 2019-12-01",
-    "ScoreGreaterOrEqualDate": "2019-12-01",
-    "ScoreLessDate": "2020-01-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-02-01 and 2020-01-01",
+    "ScoreGreaterOrEqualDate": "2020-01-01",
+    "ScoreLessDate": "2020-02-01",
     "Player": [
         {},
         {
+            "Name": "Assassin",
+            "AverageScore": 29579,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Finley",
-            "AverageScore": 26204,
+            "AverageScore": 16234,
             "MissionsPlayed": 2,
-            "ChangeInScore": "\u21931790.00"
+            "ChangeInScore": "\u21939970.00"
         },
         {
-            "Name": "(Apollo)",
-            "AverageScore": 23554,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21935650.00"
-        },
-        {
-            "Name": "Laser X Monkey",
-            "AverageScore": 21763,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21917369.50"
-        },
-        {
-            "Name": "Sn3aky",
-            "AverageScore": 21634,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u2193270.00"
-        },
-        {
-            "Name": "Mr ChatterBob",
-            "AverageScore": 20358,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21931475.50"
-        },
-        {
-            "Name": "Mr Spanky",
-            "AverageScore": 18304,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21937800.00"
-        },
-        {
-            "Name": "Boss443",
-            "AverageScore": 16934,
+            "Name": "Crashers",
+            "AverageScore": 15034,
             "MissionsPlayed": 2,
             "ChangeInScore": null
         },
         {
-            "Name": "<!-- Blaze -->",
-            "AverageScore": 16869,
+            "Name": "Smasher",
+            "AverageScore": 9803,
             "MissionsPlayed": 2,
-            "ChangeInScore": "\u21933145.00"
-        },
-        {
-            "Name": "Archer",
-            "AverageScore": 16314,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "S O S",
-            "AverageScore": 16044,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21914040.00"
-        },
-        {
-            "Name": "Natsudragneel",
-            "AverageScore": 13854,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u219356.10"
-        },
-        {
-            "Name": "Fur Ball",
-            "AverageScore": 13724,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "HiJack",
-            "AverageScore": 12839,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u2191542.00"
-        },
-        {
-            "Name": "The_Boy",
-            "AverageScore": 11739,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21931709.75"
-        },
-        {
-            "Name": "Jj",
-            "AverageScore": 9506,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Greek Freak",
-            "AverageScore": 6221,
-            "MissionsPlayed": 1,
             "ChangeInScore": null
         }
     ]
