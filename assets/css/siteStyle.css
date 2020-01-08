@@ -74,7 +74,14 @@ tr, td, th {
     padding: 0;
     border: 0;
 }
-
+div.LaserCardNames h1
+{
+    text-align:left;
+}
+div.LaserCardNames h2
+{
+    text-align:right;
+}
 h1 
 {
     margin-left:auto;
