@@ -34,6 +34,15 @@ div.navbarItem {
     vertical-align: center;
 }
 
+div.navbarHeader {display:inline;
+    margin:7px;
+    height:30px;
+    text-align: center;
+    vertical-align: center;
+    color: rgb(255, 236, 128);
+
+}
+
 
 div.headerGradient {
     background-image: linear-gradient(rgba(0,0,0,1), rgba(34, 34, 34, 0));
@@ -73,6 +82,8 @@ h1
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     min-height:90px;
     padding-left:10px;
+    text-align:center;
+
 }
 h2 
 {
@@ -181,6 +192,16 @@ td.SmallBrightNumber{
     font-family: monospace
     
 }
+div.SmallBrightNumber
+{
+
+    vertical-align: super;
+    font-size: 6pt;
+    color:gold;
+    font-family: monospace   
+}
+
+
 tr:nth-child(even){
      background:#331; /**/
 }
@@ -218,4 +239,47 @@ main.page-content{
     color:gold;
     margin-top:15px;
     background-color:rgba(0,0,0,.8);
+}
+
+.genericWrapperOffset 
+{
+    border-radius: 30px 10px;
+}
+
+table.AnnualTop3s{
+    border-radius:10px;
+    margin:0px; padding-left:10px;
+    font-size:8pt;
+    background-color:darkgoldenrod;
+    
+}
+table.AnnualTop3s td {text-align: center;}
+table.AnnualTop3s td.golden {color:gold;}
+table.AnnualTop3s td.silver {color:silver;}
+table.AnnualTop3s td.bronze {color:rgb(180, 100, 40);}
+table.AnnualTop3s td.MonthHeader {color:gold; font-weight: bolder;}
+
+div.GainLossIcon
+{
+    border:2px solid gold;
+    border-radius: 15px;
+    background-color:rgb(161, 137, 0);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: top;
+    height:200px;
+    background-size: 200px 100px;
+    vertical-align: bottom;
+    text-align: center;
+    padding-top:100px;
+    color:black;
+}
+div.GainLossIcon .sup 
+{
+    font-size:8pt;
+}
+div.spacer
+{
+    height:20px;
+    width:100%;
 }

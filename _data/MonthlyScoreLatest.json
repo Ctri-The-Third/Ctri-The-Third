@@ -1,115 +1,19 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-01-01 and 2019-12-01",
-    "ScoreGreaterOrEqualDate": "2019-12-01",
-    "ScoreLessDate": "2020-01-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-02-01 and 2020-01-01",
+    "ScoreGreaterOrEqualDate": "2020-01-01",
+    "ScoreLessDate": "2020-02-01",
     "Player": [
         {},
         {
-            "Name": "C'tri",
-            "AverageScore": 17873,
-            "MissionsPlayed": 5,
-            "ChangeInScore": "\u21912383.71"
-        },
-        {
-            "Name": "Oscar",
-            "AverageScore": 16667,
-            "MissionsPlayed": 6,
-            "ChangeInScore": "\u21914248.50"
-        },
-        {
-            "Name": "ThatGuysFriend",
-            "AverageScore": 14820,
+            "Name": "Madness",
+            "AverageScore": 21707,
             "MissionsPlayed": 2,
-            "ChangeInScore": null
+            "ChangeInScore": "\u21933571.83"
         },
         {
-            "Name": "Arran",
-            "AverageScore": 13901,
-            "MissionsPlayed": 6,
-            "ChangeInScore": "\u21913851.50"
-        },
-        {
-            "Name": "Jj",
-            "AverageScore": 13330,
-            "MissionsPlayed": 4,
-            "ChangeInScore": "\u21912455.20"
-        },
-        {
-            "Name": "JammyDodger",
-            "AverageScore": 13025,
+            "Name": "Bobby",
+            "AverageScore": 12126,
             "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Mike Hunt",
-            "AverageScore": 12947,
-            "MissionsPlayed": 11,
-            "ChangeInScore": "\u21918022.30"
-        },
-        {
-            "Name": "Dikaiopolis",
-            "AverageScore": 12445,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Robo_h34d",
-            "AverageScore": 11265,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21912385.00"
-        },
-        {
-            "Name": "T D",
-            "AverageScore": 10654,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u2193656.00"
-        },
-        {
-            "Name": "Achilles",
-            "AverageScore": 10452,
-            "MissionsPlayed": 4,
-            "ChangeInScore": "\u21934711.00"
-        },
-        {
-            "Name": "Rayth",
-            "AverageScore": 10110,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21932875.50"
-        },
-        {
-            "Name": "PlagueDoctor",
-            "AverageScore": 9870,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Godspeed",
-            "AverageScore": 8857,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Vortex",
-            "AverageScore": 8070,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Reboot",
-            "AverageScore": 7294,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21937221.00"
-        },
-        {
-            "Name": "Billybob",
-            "AverageScore": 4905,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21933339.00"
-        },
-        {
-            "Name": "Slamduck",
-            "AverageScore": 4850,
-            "MissionsPlayed": 3,
             "ChangeInScore": null
         }
     ]

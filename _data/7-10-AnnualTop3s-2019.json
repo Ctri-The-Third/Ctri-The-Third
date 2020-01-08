@@ -1,0 +1,102 @@
+[
+    {
+        "month": "2019-08",
+        "players": [
+            {
+                "playerName": "Little Tank",
+                "gamePlayed": 5,
+                "averageStars": "65.00"
+            },
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 20,
+                "averageStars": "48.02"
+            },
+            {
+                "playerName": "Mr Spanky",
+                "gamePlayed": 8,
+                "averageStars": "30.73"
+            }
+        ]
+    },
+    {
+        "month": "2019-09",
+        "players": [
+            {
+                "playerName": "Sn3aky",
+                "gamePlayed": 16,
+                "averageStars": "27.28"
+            },
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 14,
+                "averageStars": "23.11"
+            },
+            {
+                "playerName": "Killa",
+                "gamePlayed": 10,
+                "averageStars": "16.41"
+            }
+        ]
+    },
+    {
+        "month": "2019-10",
+        "players": [
+            {
+                "playerName": "Sn3aky",
+                "gamePlayed": 23,
+                "averageStars": "22.65"
+            },
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 46,
+                "averageStars": "20.87"
+            },
+            {
+                "playerName": "Killa",
+                "gamePlayed": 8,
+                "averageStars": "20.50"
+            }
+        ]
+    },
+    {
+        "month": "2019-11",
+        "players": [
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 31,
+                "averageStars": "27.00"
+            },
+            {
+                "playerName": "Sn3aky",
+                "gamePlayed": 12,
+                "averageStars": "22.50"
+            },
+            {
+                "playerName": "Assassin",
+                "gamePlayed": 10,
+                "averageStars": "21.88"
+            }
+        ]
+    },
+    {
+        "month": "2019-12",
+        "players": [
+            {
+                "playerName": "[Insomniac]",
+                "gamePlayed": 4,
+                "averageStars": "30.25"
+            },
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 29,
+                "averageStars": "29.53"
+            },
+            {
+                "playerName": "Assassin",
+                "gamePlayed": 4,
+                "averageStars": "29.45"
+            }
+        ]
+    }
+]
