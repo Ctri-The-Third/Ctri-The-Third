@@ -2,6 +2,7 @@
 layout : LaserSplash-nocolums
 permalink: /7-2/YearToDate  
 URLPrefix: '/7-2'
+Description: 'Membership performance & gameplay stats for LaserForce Peterborough, 2020'
 ---
 # Overview of regular members, for Laserforce Peterborough, 2020
 <div class = "container" style = "margin-top:15px;">

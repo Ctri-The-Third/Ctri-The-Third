@@ -2,6 +2,8 @@
 layout : LaserSplash
 permalink: /7-2/
 URLPrefix: '/7-2'
+Description: "Current Month's top 5 members:  LaserForce Peterborough"
+
 ---
 
 <div class = "LaserCardWrapper LaserCardWrapperGold  col-lg-12">

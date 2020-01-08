@@ -3,6 +3,8 @@ layout : LaserTable
 title : Monthly Star Quality 
 permalink: /7-8/StarQuality
 URLPrefix: '/7-8'
+Description: "Current Month's ranking for the best member:  LaserZone Huddersfield"
+
 ---
 
 #### {{site.data.7-8-StarQuality.ScoreTitle}}

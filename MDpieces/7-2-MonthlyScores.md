@@ -3,6 +3,7 @@ layout : LaserTable
 title : Monthly Scores in Standard Games
 permalink: /7-2/MonthlyScores
 URLPrefix: '/7-2'
+Description: "Current Month's average scores for members in Standard Games only:  LaserForce Peterborough"
 ---
 
 #### {{site.data.7-2-MonthlyScore.ScoreTitle}}

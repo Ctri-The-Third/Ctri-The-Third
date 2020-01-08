@@ -3,6 +3,7 @@ layout : LaserTable
 title : Achievement points 
 permalink: /7-9/Overachievers
 URLPrefix: '/7-9'
+Description: "Current Month's ranking of players with the most local achievements:  Funstation Edinburgh"
 ---
 
 

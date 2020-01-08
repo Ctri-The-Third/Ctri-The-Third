@@ -2,6 +2,8 @@
 layout : LaserSplash-nocolums
 permalink: /7-8/LastYear-2019
 URLPrefix: '/7-8'
+Description: 'Membership performance & gameplay stats for LaserZone Huddersfield, 2019'
+
 ---
 # Overview of regular members, for LaserZone Huddersfield, 2019
 <div class = "container" style = "margin-top:15px;">

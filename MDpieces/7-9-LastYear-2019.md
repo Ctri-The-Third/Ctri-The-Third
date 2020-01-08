@@ -2,6 +2,8 @@
 layout : LaserSplash-nocolums
 permalink: /7-9/LastYear-2019
 URLPrefix: '/7-9'
+Description: 'Membership performance & gameplay stats for Funstation Edinburgh, 2019'
+
 ---
 # Overview of regular members, for Funstation Edinburgh, 2019
 <div class = "container" style = "margin-top:15px;">

@@ -3,6 +3,8 @@ layout : LaserTable
 title : Achievement points 
 permalink: /7-10/Overachievers
 URLPrefix: '/7-10'
+Description: "Current Month's ranking of players with the most local achievements:  LaserZone Bradford"
+
 ---
 
 

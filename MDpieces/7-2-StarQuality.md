@@ -3,6 +3,8 @@ layout : LaserTable
 title : Monthly Star Quality 
 permalink: /7-2/StarQuality
 URLPrefix: '/7-2'
+Description: "Current Month's ranking for the best member:  LaserForce Peterborough"
+
 ---
 
 #### {{site.data.7-2-StarQuality.ScoreTitle}}
