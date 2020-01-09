@@ -1,14 +1,14 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-02-01 and 2020-01-01",
-    "ScoreGreaterOrEqualDate": "2020-01-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-02-01 and 2019-08-01",
+    "ScoreGreaterOrEqualDate": "2019-08-01",
     "ScoreLessDate": "2020-02-01",
     "Player": [
         {},
         {
-            "Name": "Madness",
-            "AverageScore": 21707,
+            "Name": "Commandoz",
+            "AverageScore": 36279,
             "MissionsPlayed": 2,
-            "ChangeInScore": "\u21933571.83"
+            "ChangeInScore": null
         },
         {
             "Name": "Boss443",
