@@ -3,6 +3,8 @@ layout : LaserTable
 title : Monthly Scores in Standard Games
 permalink: /7-10/MonthlyScores
 URLPrefix: '/7-10'
+Description: "Current Month's average scores for members in Standard Games only:  LaserZone Bradford"
+
 ---
 
 #### {{site.data.7-10-MonthlyScore.ScoreTitle}}

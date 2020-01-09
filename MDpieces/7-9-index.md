@@ -2,6 +2,8 @@
 layout : LaserSplash
 permalink: /7-9/
 URLPrefix: '/7-9'
+Description: "Current Month's top 5 members:  Funstation Edinburgh"
+
 ---
 
 <div class = "LaserCardWrapper LaserCardWrapperGold  col-lg-12">

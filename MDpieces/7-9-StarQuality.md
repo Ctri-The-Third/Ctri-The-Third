@@ -3,6 +3,8 @@ layout : LaserTable
 title : Monthly Star Quality 
 permalink: /7-9/StarQuality
 URLPrefix: '/7-9'
+Description: "Current Month's ranking for the best member:  Funstation Edinburgh"
+
 ---
 
 #### {{site.data.7-9-StarQuality.ScoreTitle}}

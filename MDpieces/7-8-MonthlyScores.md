@@ -3,6 +3,8 @@ layout : LaserTable
 title : Monthly Scores in Standard Games
 permalink: /7-8/MonthlyScores
 URLPrefix: '/7-8'
+Description: "Current Month's average scores for members in Standard Games only:  LaserZone Huddersfield"
+
 ---
 
 #### {{site.data.7-8-MonthlyScore.ScoreTitle}}

@@ -2,6 +2,8 @@
 layout : LaserSplash-nocolums
 permalink: /7-10/YearToDate
 URLPrefix: '/7-10'
+Description: 'Membership performance & gameplay stats for LaserZone Bradford, 2020'
+
 ---
 # Overview of regular members, for LaserZone Bradford, 2020
 <div class = "container" style = "margin-top:15px;">

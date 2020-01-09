@@ -3,6 +3,8 @@ layout : LaserTable
 title : Monthly Star Quality 
 permalink: /7-10/StarQuality
 URLPrefix: '/7-10'
+Description: "Current Month's ranking for the best member: LaserZone Bradford"
+
 ---
 
 #### {{site.data.7-10-StarQuality.ScoreTitle}}

@@ -2,6 +2,8 @@
 layout : LaserSplash
 permalink: /7-10/
 URLPrefix: '/7-10'
+Description: "Current Month's top 5 members:  LaserZone Bradford"
+
 ---
 
 <div class = "LaserCardWrapper LaserCardWrapperGold  col-lg-12">

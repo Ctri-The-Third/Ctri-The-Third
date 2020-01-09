@@ -3,6 +3,8 @@ layout : LaserTable
 title : Monthly Scores in Standard Games
 permalink: /7-9/MonthlyScores
 URLPrefix: '/7-9' 
+Description: "Current Month's average scores for members in Standard Games only:  Funstation Edinburgh"
+
 ---
 
 #### {{site.data.7-9-MonthlyScore.ScoreTitle}}

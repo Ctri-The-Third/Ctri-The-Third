@@ -3,6 +3,8 @@ layout : LaserTable
 title : Achievement points 
 permalink: /7-8/Overachievers
 URLPrefix: '/7-8'
+Description: "Current Month's ranking of players with the most local achievements:  LaserForce Peterborough"
+
 ---
 
 
