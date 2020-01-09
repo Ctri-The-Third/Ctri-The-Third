@@ -287,3 +287,11 @@ div.spacer
     height:20px;
     width:100%;
 }
+
+/*----- breakdown starts ----- */
+
+div.breakdownDiv {
+    display:none;
+}
+
+/*----- breakdown ends ----- */
