@@ -5,12 +5,12 @@
             "timesPlayed": 20
         },
         {
-            "gameName": "Team",
+            "gameName": "3 Teams",
             "timesPlayed": 3
         },
         {
-            "gameName": "3 Teams",
-            "timesPlayed": 2
+            "gameName": "Team",
+            "timesPlayed": 3
         },
         {
             "gameName": "Colour Conquest",
@@ -30,8 +30,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 16,
+        "activePlayers": 18,
         "newPlayers": 0,
-        "churnedPlayers": 15
+        "churnedPlayers": 17
     }
 }
