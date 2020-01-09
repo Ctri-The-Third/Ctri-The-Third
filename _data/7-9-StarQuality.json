@@ -39,14 +39,25 @@
         },
         {
             "Name": "Rayth",
-            "StarQualityPerGame": "2.40",
-            "TotalStarQuality": "7.20",
+            "StarQualityPerGame": "2.67",
+            "TotalStarQuality": "16.00",
             "AverageOpponents": "2.00",
-            "gamesPlayed": 3,
-            "AverageRank": "1.67",
-            "ChangeInRank": "\u21911.00",
+            "gamesPlayed": 6,
+            "AverageRank": "1.50",
+            "ChangeInRank": "\u21911.17",
             "ChangeInPlayers": "\u21932.67",
-            "ChangeInSQPerGame": "\u21935.77"
+            "ChangeInSQPerGame": "\u21935.50"
+        },
+        {
+            "Name": "Overdrive",
+            "StarQualityPerGame": "1.59",
+            "TotalStarQuality": "11.11",
+            "AverageOpponents": "1.43",
+            "gamesPlayed": 7,
+            "AverageRank": "1.29",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
         },
         {
             "Name": "Arran",
@@ -58,17 +69,6 @@
             "ChangeInRank": "\u21930.00",
             "ChangeInPlayers": "\u21930.00",
             "ChangeInSQPerGame": "\u21930.00"
-        },
-        {
-            "Name": "Overdrive",
-            "StarQualityPerGame": "1.00",
-            "TotalStarQuality": "3.00",
-            "AverageOpponents": "1.00",
-            "gamesPlayed": 3,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
         }
     ]
 }
