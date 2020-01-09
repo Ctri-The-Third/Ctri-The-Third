@@ -6,14 +6,14 @@
         {},
         {
             "Name": "JammyDodger",
-            "StarQualityPerGame": "10.03",
-            "TotalStarQuality": "40.11",
+            "StarQualityPerGame": "9.03",
+            "TotalStarQuality": "36.10",
             "AverageOpponents": "4.75",
             "gamesPlayed": 4,
-            "AverageRank": "2.25",
-            "ChangeInRank": "\u21910.42",
+            "AverageRank": "2.50",
+            "ChangeInRank": "\u21910.17",
             "ChangeInPlayers": "\u21931.25",
-            "ChangeInSQPerGame": "\u21933.47"
+            "ChangeInSQPerGame": "\u21934.48"
         },
         {
             "Name": "Rayth",
@@ -23,8 +23,8 @@
             "gamesPlayed": 6,
             "AverageRank": "1.67",
             "ChangeInRank": "\u21911.00",
-            "ChangeInPlayers": "\u21931.17",
-            "ChangeInSQPerGame": "\u21930.82"
+            "ChangeInPlayers": "\u21931.33",
+            "ChangeInSQPerGame": "\u21931.41"
         },
         {
             "Name": "Jj",
@@ -50,11 +50,33 @@
         },
         {
             "Name": "Overdrive",
-            "StarQualityPerGame": "4.94",
-            "TotalStarQuality": "34.57",
+            "StarQualityPerGame": "5.32",
+            "TotalStarQuality": "37.23",
             "AverageOpponents": "3.14",
             "gamesPlayed": 7,
-            "AverageRank": "2.00",
+            "AverageRank": "1.86",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Mr Spock",
+            "StarQualityPerGame": "4.00",
+            "TotalStarQuality": "12.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Dodey",
+            "StarQualityPerGame": "4.00",
+            "TotalStarQuality": "12.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null
@@ -93,6 +115,39 @@
             "ChangeInSQPerGame": "\u21930.00"
         },
         {
+            "Name": "The Ghost",
+            "StarQualityPerGame": "2.00",
+            "TotalStarQuality": "6.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Jellybelly",
+            "StarQualityPerGame": "2.00",
+            "TotalStarQuality": "6.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Delta",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": "\u21910.33",
+            "ChangeInPlayers": "\u21930.33",
+            "ChangeInSQPerGame": "\u21930.33"
+        },
+        {
             "Name": "Arran",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
@@ -102,6 +157,17 @@
             "ChangeInRank": "\u21930.00",
             "ChangeInPlayers": "\u21930.00",
             "ChangeInSQPerGame": "\u21930.00"
+        },
+        {
+            "Name": "Nbtglen",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
         }
     ]
 }

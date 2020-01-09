@@ -28,8 +28,8 @@
         "GGName": "4 Teams",
         "GGRank": "1st",
         "GGStars": "25 stars",
-        "GGVanq1": "Overdrive",
-        "GGVanq2": "JammyDodger",
+        "GGVanq1": "JammyDodger",
+        "GGVanq2": "Overdrive",
         "GGVanq3": "Jj",
         "GGVanq4": "1 others",
         "GAName": "Braaiinnzz!",
@@ -72,20 +72,15 @@
         "GAOthers": "Only one other person has"
     },
     "OtherPlayer2": {
-        "PlayerName": "C'tri",
+        "PlayerName": "Delta",
         "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
-        "SkillLevelName": "Lasermaster",
-        "MonthlyGamesPlayed": 4,
-        "AllGamesPlayed": 653,
-        "StarQuality": "3.38",
-        "Achievements": 101,
-        "GGName": "Colour Conquest",
-        "GGRank": "1st",
-        "GGStars": "4 stars",
-        "GGVanq1": "Achilles",
-        "GAName": "Battle Ammo",
-        "GADesc": "Score 7K or more as Ammo in SM5.",
-        "GAOthers": "No one else has"
-    },
-    "SiteNameShort": "Funstation Edinburgh"
+        "SkillLevelName": "Captain",
+        "MonthlyGamesPlayed": 3,
+        "AllGamesPlayed": 20,
+        "StarQuality": "1.00",
+        "Achievements": 25,
+        "GAName": "Back To Back",
+        "GADesc": "Play 2 months in a row.",
+        "GAOthers": "15 others have"
+    }
 }
