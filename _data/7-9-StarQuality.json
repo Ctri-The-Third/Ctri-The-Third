@@ -90,9 +90,36 @@
             "AverageRank": "1.50",
             "ChangeInRank": "\u21930.27",
             "ChangeInPlayers": "\u21931.67",
-            "ChangeInSQPerGame": "\u21939.13"
+            "ChangeInSQPerGame": "\u21939.13",
+            "breakdown": [
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                }
+            ]
         },
         {
+            "JSID": 7,
             "Name": "Achilles",
             "StarQualityPerGame": "3.21",
             "TotalStarQuality": "22.50",
@@ -101,9 +128,54 @@
             "AverageRank": "1.43",
             "ChangeInRank": "\u21911.03",
             "ChangeInPlayers": "\u21932.04",
-            "ChangeInSQPerGame": "\u21933.91"
+            "ChangeInSQPerGame": "\u21933.91",
+            "breakdown": [
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
         },
         {
+            "JSID": 8,
             "Name": "Billybob",
             "StarQualityPerGame": "3.00",
             "TotalStarQuality": "3.00",
@@ -112,7 +184,15 @@
             "AverageRank": "3.00",
             "ChangeInRank": "\u21930.00",
             "ChangeInPlayers": "\u21930.00",
-            "ChangeInSQPerGame": "\u21930.00"
+            "ChangeInSQPerGame": "\u21930.00",
+            "breakdown": [
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                }
+            ]
         },
         {
             "Name": "The Ghost",

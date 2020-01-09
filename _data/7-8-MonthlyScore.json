@@ -1,14 +1,50 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-02-01 and 2020-01-01",
-    "ScoreGreaterOrEqualDate": "2020-01-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-02-01 and 2019-08-01",
+    "ScoreGreaterOrEqualDate": "2019-08-01",
     "ScoreLessDate": "2020-02-01",
     "Player": [
         {},
         {
+            "Name": "Ninja_Cole",
+            "AverageScore": 22567,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Sn3aky",
+            "AverageScore": 22177,
+            "MissionsPlayed": 4,
+            "ChangeInScore": "\u21931688.36"
+        },
+        {
+            "Name": "Mr_Tumble",
+            "AverageScore": 20227,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21918922.50"
+        },
+        {
+            "Name": "Assassin",
+            "AverageScore": 20206,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Madness",
-            "AverageScore": 21707,
+            "AverageScore": 20167,
+            "MissionsPlayed": 20,
+            "ChangeInScore": "\u21935111.08"
+        },
+        {
+            "Name": "Hero of Light",
+            "AverageScore": 19956,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Coby Pro",
+            "AverageScore": 18956,
             "MissionsPlayed": 2,
-            "ChangeInScore": "\u21933571.83"
+            "ChangeInScore": "\u2191120.50"
         },
         {
             "Name": "Boss443",
@@ -102,7 +138,19 @@
         },
         {
             "Name": "Bobby",
-            "AverageScore": 12126,
+            "AverageScore": 10726,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Nine",
+            "AverageScore": 10447,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Crashers",
+            "AverageScore": 10403,
             "MissionsPlayed": 2,
             "ChangeInScore": null
         },

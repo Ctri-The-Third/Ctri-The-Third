@@ -3,7 +3,7 @@ layout : LaserTable
 title : Monthly Star Quality 
 permalink: /7-8/StarQuality
 URLPrefix: '/7-8'
-Description: "Current Month's ranking for the best member:  LaserZone Huddersfield"
+
 
 ---
 
@@ -12,10 +12,33 @@ Description: "Current Month's ranking for the best member:  LaserZone Huddersfie
 <table class = "ScoreTable">
 <tr><th>Player Name</th><th colspan = "2">Star Quality<br/>per game </th><th> Total Star<br/>Quality</th> <th style = "padding-left:30px;"  colspan = "2">Average<br/>Players</th><th  colspan = "2">Average<br/> Rank</th><th>Games <br/>Played</th></tr>
 {% for Player in site.data.7-8-StarQuality.Player %}
-<tr><td class>{{Player.Name}}</td><td class = "number">{{Player.StarQualityPerGame}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInSQPerGame}} </td><td class = "number">{{Player.TotalStarQuality}}</td><td style = "padding-left:30px;" class = "number">{{Player.AverageOpponents}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInPlayers}}</td><td class = "number">{{Player.AverageRank}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInRank}}</td><td class = "number">{{Player.gamesPlayed}}</td></tr>
+<tr onclick = "showBreakdown({{Player.JSID}})" >
+<td class>{{Player.Name}}</td><td class = "number">{{Player.StarQualityPerGame}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInSQPerGame}} </td><td class = "number">{{Player.TotalStarQuality}}</td><td style = "padding-left:30px;" class = "number">{{Player.AverageOpponents}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInPlayers}}</td><td class = "number">{{Player.AverageRank}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInRank}}</td><td class = "number">{{Player.gamesPlayed}}</td>
+</tr>
 {% endfor %}
 </table>
 
+{% for Player in site.data.7-8-StarQuality.Player %}
+<div id = "Breakdown_{{Player.JSID}}" class = "breakdownDiv">
+<h2>Breakdown for {{Player.Name}}</h2>
+<table> 
+    <tr>
+        <th>Game Name</th><th>rank</th><th>players</th><th>stars</th>
+    </tr>
+    {% for BreakdownGame in Player.breakdown %}
+    <tr>
+        <td>{{BreakdownGame.gameName}}</td>
+        <td><center> {{BreakdownGame.rank}} </center></td>
+        <td><center> {{BreakdownGame.totalPlayers}} </center></td>
+        <td><center> {{BreakdownGame.starsForGame}} </center></td>
+    </tr>
+{% endfor %} </table>
+</div>
+{% endfor %}
+
+<script>
+    showBreakdown(0)
+</script>
 -----
 
 ## <small>How does this work?</small>
@@ -35,5 +58,5 @@ However let's say you came second! We multiply your quality for that game by how
 -----
 
 <small><br/> We only regularly check up on players we know about, so if you're new and play a lot, you might be missing!  <br/>
-Want included? Email me at [LaserForceStats@ctri.co.uk](mailto:LaserForceStats@ctri.co.uk), all I need is your member ID in the form "7-9-1234". <br/>
+Want included? Email me at [LaserForceStats@ctri.co.uk](mailto:LaserForceStats@ctri.co.uk), all I need is your member ID in the form "7-8-1234". <br/>
 Want excluded? Same as above!</small>
