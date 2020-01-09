@@ -5,6 +5,149 @@
     "Player": [
         {},
         {
+            "Name": "Archer",
+            "StarQualityPerGame": "32.22",
+            "TotalStarQuality": "257.78",
+            "AverageOpponents": "9.63",
+            "gamesPlayed": 8,
+            "AverageRank": "2.88",
+            "ChangeInRank": "\u21911.85",
+            "ChangeInPlayers": "\u21910.59",
+            "ChangeInSQPerGame": "\u219114.95"
+        },
+        {
+            "Name": "-=Valroc=-",
+            "StarQualityPerGame": "27.39",
+            "TotalStarQuality": "246.53",
+            "AverageOpponents": "9.56",
+            "gamesPlayed": 9,
+            "AverageRank": "3.33",
+            "ChangeInRank": "\u21930.30",
+            "ChangeInPlayers": "\u21910.42",
+            "ChangeInSQPerGame": "\u21930.13"
+        },
+        {
+            "Name": "[Insomniac]",
+            "StarQualityPerGame": "23.36",
+            "TotalStarQuality": "140.17",
+            "AverageOpponents": "9.67",
+            "gamesPlayed": 6,
+            "AverageRank": "4.00",
+            "ChangeInRank": "\u21914.00",
+            "ChangeInPlayers": "\u21931.33",
+            "ChangeInSQPerGame": "\u21918.24"
+        },
+        {
+            "Name": "HiJack",
+            "StarQualityPerGame": "22.37",
+            "TotalStarQuality": "178.94",
+            "AverageOpponents": "9.75",
+            "gamesPlayed": 8,
+            "AverageRank": "4.25",
+            "ChangeInRank": "\u21910.38",
+            "ChangeInPlayers": "\u21911.75",
+            "ChangeInSQPerGame": "\u21918.54"
+        },
+        {
+            "Name": "Larma",
+            "StarQualityPerGame": "18.27",
+            "TotalStarQuality": "73.09",
+            "AverageOpponents": "10.25",
+            "gamesPlayed": 4,
+            "AverageRank": "5.75",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Unagi",
+            "StarQualityPerGame": "17.28",
+            "TotalStarQuality": "138.27",
+            "AverageOpponents": "9.75",
+            "gamesPlayed": 8,
+            "AverageRank": "5.50",
+            "ChangeInRank": "\u21930.69",
+            "ChangeInPlayers": "\u21911.02",
+            "ChangeInSQPerGame": "\u21911.43"
+        },
+        {
+            "Name": "Azrael",
+            "StarQualityPerGame": "16.16",
+            "TotalStarQuality": "64.65",
+            "AverageOpponents": "10.25",
+            "gamesPlayed": 4,
+            "AverageRank": "6.50",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Fine Wench",
+            "StarQualityPerGame": "16.13",
+            "TotalStarQuality": "64.53",
+            "AverageOpponents": "11.00",
+            "gamesPlayed": 4,
+            "AverageRank": "7.50",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "The_Boy",
+            "StarQualityPerGame": "14.94",
+            "TotalStarQuality": "134.47",
+            "AverageOpponents": "9.56",
+            "gamesPlayed": 9,
+            "AverageRank": "6.11",
+            "ChangeInRank": "\u21910.04",
+            "ChangeInPlayers": "\u21911.56",
+            "ChangeInSQPerGame": "\u21914.53"
+        },
+        {
+            "Name": "Morrigan",
+            "StarQualityPerGame": "14.58",
+            "TotalStarQuality": "102.08",
+            "AverageOpponents": "10.00",
+            "gamesPlayed": 7,
+            "AverageRank": "6.86",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null
+        },
+        {
+            "Name": "Assassin",
+            "StarQualityPerGame": "14.54",
+            "TotalStarQuality": "116.35",
+            "AverageOpponents": "6.88",
+            "gamesPlayed": 8,
+            "AverageRank": "3.25",
+            "ChangeInRank": "\u21930.50",
+            "ChangeInPlayers": "\u21932.13",
+            "ChangeInSQPerGame": "\u219314.91"
+        },
+        {
+            "Name": "Winter",
+            "StarQualityPerGame": "14.02",
+            "TotalStarQuality": "84.10",
+            "AverageOpponents": "9.67",
+            "gamesPlayed": 6,
+            "AverageRank": "6.67",
+            "ChangeInRank": "\u21910.11",
+            "ChangeInPlayers": "\u21931.22",
+            "ChangeInSQPerGame": "\u21933.48"
+        },
+        {
+            "Name": "<!-- Blaze -->",
+            "StarQualityPerGame": "11.23",
+            "TotalStarQuality": "89.83",
+            "AverageOpponents": "9.63",
+            "gamesPlayed": 8,
+            "AverageRank": "8.25",
+            "ChangeInRank": "\u21932.66",
+            "ChangeInPlayers": "\u21910.13",
+            "ChangeInSQPerGame": "\u21934.91"
+        },
+        {
             "Name": "Crashers",
             "StarQualityPerGame": "4.00",
             "TotalStarQuality": "16.00",
@@ -36,17 +179,6 @@
             "ChangeInRank": "\u21910.50",
             "ChangeInPlayers": "\u21932.00",
             "ChangeInSQPerGame": "\u21935.00"
-        },
-        {
-            "Name": "Assassin",
-            "StarQualityPerGame": "1.00",
-            "TotalStarQuality": "3.00",
-            "AverageOpponents": "1.00",
-            "gamesPlayed": 3,
-            "AverageRank": "1.00",
-            "ChangeInRank": "\u21911.25",
-            "ChangeInPlayers": "\u21938.00",
-            "ChangeInSQPerGame": "\u219335.00"
         }
     ]
 }

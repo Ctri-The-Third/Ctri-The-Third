@@ -1,8 +1,12 @@
 {
     "gamesPlayed": [
         {
+            "gameName": "Base Flags",
+            "timesPlayed": 7
+        },
+        {
             "gameName": "Infection",
-            "timesPlayed": 3
+            "timesPlayed": 4
         },
         {
             "gameName": "Standard - Solo",
@@ -11,6 +15,10 @@
         {
             "gameName": "Standard - Team",
             "timesPlayed": 3
+        },
+        {
+            "gameName": "Borg",
+            "timesPlayed": 1
         },
         {
             "gameName": "Mayhem - Team",
@@ -22,8 +30,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 6,
+        "activePlayers": 25,
         "newPlayers": 0,
-        "churnedPlayers": 6
+        "churnedPlayers": 16
     }
 }

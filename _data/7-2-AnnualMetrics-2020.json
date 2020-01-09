@@ -1,15 +1,19 @@
 {
     "gamesPlayed": [
         {
-            "gameName": "Manic",
-            "timesPlayed": 5
+            "gameName": "Standard Individual",
+            "timesPlayed": 12
         },
         {
             "gameName": "Standard 2 Team",
+            "timesPlayed": 8
+        },
+        {
+            "gameName": "Gladiator Ind",
             "timesPlayed": 5
         },
         {
-            "gameName": "Standard Individual",
+            "gameName": "Manic",
             "timesPlayed": 5
         },
         {
@@ -17,7 +21,7 @@
             "timesPlayed": 4
         },
         {
-            "gameName": "Gladiator Ind",
+            "gameName": "Continous Challenge",
             "timesPlayed": 4
         },
         {
@@ -53,6 +57,10 @@
             "timesPlayed": 1
         },
         {
+            "gameName": "Standard 4 Team",
+            "timesPlayed": 1
+        },
+        {
             "gameName": "S.W.A.T",
             "timesPlayed": 1
         },
@@ -66,8 +74,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 14,
-        "newPlayers": 0,
-        "churnedPlayers": 9
+        "activePlayers": 35,
+        "newPlayers": 1,
+        "churnedPlayers": 25
     }
 }
