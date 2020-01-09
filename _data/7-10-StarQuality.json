@@ -5,6 +5,7 @@
     "Player": [
         {},
         {
+            "JSID": 0,
             "Name": "Archer",
             "StarQualityPerGame": "40.20",
             "TotalStarQuality": "321.57",
@@ -13,9 +14,60 @@
             "AverageRank": "2.88",
             "ChangeInRank": "\u21912.37",
             "ChangeInPlayers": "\u21910.85",
-            "ChangeInSQPerGame": "\u219121.51"
+            "ChangeInSQPerGame": "\u219121.51",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 9,
+                    "starsForGame": "11.57"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 9,
+                    "starsForGame": "40.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 10,
+                    "starsForGame": "20.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 11,
+                    "starsForGame": "121.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 12,
+                    "starsForGame": "48.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 14,
+                    "starsForGame": "65.33"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 1,
+                    "totalPlayers": 9,
+                    "starsForGame": "81.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 12,
+                    "starsForGame": "144.00"
+                }
+            ]
         },
         {
+            "JSID": 1,
             "Name": "Larma",
             "StarQualityPerGame": "38.94",
             "TotalStarQuality": "155.77",
@@ -24,9 +76,36 @@
             "AverageRank": "3.25",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 14,
+                    "starsForGame": "39.20"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 3,
+                    "totalPlayers": 9,
+                    "starsForGame": "27.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 12,
+                    "starsForGame": "48.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 10,
+                    "starsForGame": "50.00"
+                }
+            ]
         },
         {
+            "JSID": 2,
             "Name": "-=Valroc=-",
             "StarQualityPerGame": "37.93",
             "TotalStarQuality": "341.33",
@@ -35,9 +114,66 @@
             "AverageRank": "3.00",
             "ChangeInRank": "\u21930.34",
             "ChangeInPlayers": "\u21910.67",
-            "ChangeInSQPerGame": "\u21910.26"
+            "ChangeInSQPerGame": "\u21910.26",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 9,
+                    "starsForGame": "27.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 9,
+                    "starsForGame": "81.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 10,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 11,
+                    "starsForGame": "24.20"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 12,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 14,
+                    "starsForGame": "196.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 6,
+                    "totalPlayers": 9,
+                    "starsForGame": "13.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 12,
+                    "starsForGame": "72.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 10,
+                    "starsForGame": "100.00"
+                }
+            ]
         },
         {
+            "JSID": 3,
             "Name": "[Insomniac]",
             "StarQualityPerGame": "27.08",
             "TotalStarQuality": "162.50",
@@ -46,9 +182,48 @@
             "AverageRank": "4.33",
             "ChangeInRank": "\u21910.42",
             "ChangeInPlayers": "\u21930.67",
-            "ChangeInSQPerGame": "\u21930.76"
+            "ChangeInSQPerGame": "\u21930.76",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 9,
+                    "starsForGame": "81.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 9,
+                    "starsForGame": "27.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 10,
+                    "starsForGame": "16.67"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 11,
+                    "starsForGame": "12.10"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 12,
+                    "starsForGame": "72.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 14,
+                    "starsForGame": "49.00"
+                }
+            ]
         },
         {
+            "JSID": 4,
             "Name": "HiJack",
             "StarQualityPerGame": "25.57",
             "TotalStarQuality": "204.57",
@@ -57,9 +232,60 @@
             "AverageRank": "4.63",
             "ChangeInRank": "\u21910.30",
             "ChangeInPlayers": "\u21911.91",
-            "ChangeInSQPerGame": "\u21919.26"
+            "ChangeInSQPerGame": "\u21919.26",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 9,
+                    "starsForGame": "40.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 9,
+                    "starsForGame": "20.25"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 10,
+                    "starsForGame": "100.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 11,
+                    "starsForGame": "40.33"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 12,
+                    "starsForGame": "28.80"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 14,
+                    "starsForGame": "24.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 12,
+                    "starsForGame": "28.80"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 9,
+                    "totalPlayers": 10,
+                    "starsForGame": "11.11"
+                }
+            ]
         },
         {
+            "JSID": 5,
             "Name": "Unagi",
             "StarQualityPerGame": "20.57",
             "TotalStarQuality": "164.54",
@@ -68,9 +294,60 @@
             "AverageRank": "5.75",
             "ChangeInRank": "\u21930.67",
             "ChangeInPlayers": "\u21911.22",
-            "ChangeInSQPerGame": "\u21912.21"
+            "ChangeInSQPerGame": "\u21912.21",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 9,
+                    "starsForGame": "20.25"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 9,
+                    "starsForGame": "13.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 10,
+                    "starsForGame": "50.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 11,
+                    "starsForGame": "60.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 12,
+                    "starsForGame": "13.09"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 14,
+                    "starsForGame": "21.78"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 12,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 8,
+                    "totalPlayers": 10,
+                    "starsForGame": "12.50"
+                }
+            ]
         },
         {
+            "JSID": 6,
             "Name": "Morrigan",
             "StarQualityPerGame": "19.31",
             "TotalStarQuality": "135.20",
@@ -79,9 +356,54 @@
             "AverageRank": "6.43",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 10,
+                    "starsForGame": "14.29"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 11,
+                    "starsForGame": "15.13"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 12,
+                    "starsForGame": "24.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 14,
+                    "starsForGame": "98.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 9,
+                    "totalPlayers": 9,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 12,
+                    "starsForGame": "20.57"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 6,
+                    "totalPlayers": 10,
+                    "starsForGame": "16.67"
+                }
+            ]
         },
         {
+            "JSID": 7,
             "Name": "Azrael",
             "StarQualityPerGame": "17.46",
             "TotalStarQuality": "69.83",
@@ -90,9 +412,36 @@
             "AverageRank": "7.25",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 13,
+                    "totalPlayers": 14,
+                    "starsForGame": "15.08"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 4,
+                    "totalPlayers": 9,
+                    "starsForGame": "20.25"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 12,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 4,
+                    "totalPlayers": 10,
+                    "starsForGame": "25.00"
+                }
+            ]
         },
         {
+            "JSID": 8,
             "Name": "Winter",
             "StarQualityPerGame": "17.17",
             "TotalStarQuality": "103.05",
@@ -101,9 +450,48 @@
             "AverageRank": "6.83",
             "ChangeInRank": "\u21910.39",
             "ChangeInPlayers": "\u21931.17",
-            "ChangeInSQPerGame": "\u21932.76"
+            "ChangeInSQPerGame": "\u21932.76",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 9,
+                    "starsForGame": "16.20"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 9,
+                    "starsForGame": "11.57"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 10,
+                    "starsForGame": "33.33"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 11,
+                    "starsForGame": "20.17"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 12,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 12,
+                    "totalPlayers": 14,
+                    "starsForGame": "16.33"
+                }
+            ]
         },
         {
+            "JSID": 9,
             "Name": "<!-- Blaze -->",
             "StarQualityPerGame": "15.94",
             "TotalStarQuality": "127.52",
@@ -112,9 +500,60 @@
             "AverageRank": "7.25",
             "ChangeInRank": "\u21931.66",
             "ChangeInPlayers": "\u21910.48",
-            "ChangeInSQPerGame": "\u21932.94"
+            "ChangeInSQPerGame": "\u21932.94",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 9,
+                    "starsForGame": "13.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 9,
+                    "starsForGame": "16.20"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 10,
+                    "starsForGame": "10.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 11,
+                    "starsForGame": "17.29"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 12,
+                    "starsForGame": "20.57"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 14,
+                    "starsForGame": "28.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 7,
+                    "totalPlayers": 9,
+                    "starsForGame": "11.57"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 12,
+                    "starsForGame": "16.00"
+                }
+            ]
         },
         {
+            "JSID": 10,
             "Name": "Fine Wench",
             "StarQualityPerGame": "15.16",
             "TotalStarQuality": "60.63",
@@ -123,9 +562,36 @@
             "AverageRank": "9.50",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 12,
+                    "starsForGame": "14.40"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 14,
+                    "starsForGame": "17.82"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 12,
+                    "totalPlayers": 12,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 5,
+                    "totalPlayers": 10,
+                    "starsForGame": "20.00"
+                }
+            ]
         },
         {
+            "JSID": 11,
             "Name": "The_Boy",
             "StarQualityPerGame": "15.06",
             "TotalStarQuality": "135.53",
@@ -134,9 +600,66 @@
             "AverageRank": "7.56",
             "ChangeInRank": "\u21930.70",
             "ChangeInPlayers": "\u21911.70",
-            "ChangeInSQPerGame": "\u21913.33"
+            "ChangeInSQPerGame": "\u21913.33",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 9,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 9,
+                    "starsForGame": "10.13"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 10,
+                    "starsForGame": "11.11"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 11,
+                    "starsForGame": "30.25"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 12,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 14,
+                    "totalPlayers": 14,
+                    "starsForGame": "14.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 2,
+                    "totalPlayers": 9,
+                    "starsForGame": "40.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 12,
+                    "starsForGame": "14.40"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 3,
+                    "totalPlayers": 10,
+                    "starsForGame": "33.33"
+                }
+            ]
         },
         {
+            "JSID": 12,
             "Name": "Assassin",
             "StarQualityPerGame": "13.64",
             "TotalStarQuality": "109.09",
@@ -145,9 +668,60 @@
             "AverageRank": "4.13",
             "ChangeInRank": "\u21931.88",
             "ChangeInPlayers": "\u21932.75",
-            "ChangeInSQPerGame": "\u219333.06"
+            "ChangeInSQPerGame": "\u219333.06",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 12,
+                    "starsForGame": "144.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 14,
+                    "starsForGame": "32.67"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 5,
+                    "totalPlayers": 9,
+                    "starsForGame": "16.20"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 12,
+                    "starsForGame": "13.09"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 7,
+                    "totalPlayers": 10,
+                    "starsForGame": "14.29"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
         },
         {
+            "JSID": 13,
             "Name": "Yuzucat",
             "StarQualityPerGame": "13.52",
             "TotalStarQuality": "81.12",
@@ -156,9 +730,48 @@
             "AverageRank": "9.50",
             "ChangeInRank": "\u21931.59",
             "ChangeInPlayers": "\u21910.06",
-            "ChangeInSQPerGame": "\u21932.55"
+            "ChangeInSQPerGame": "\u21932.55",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 11,
+                    "starsForGame": "11.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 12,
+                    "totalPlayers": 12,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 14,
+                    "starsForGame": "19.60"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 8,
+                    "totalPlayers": 9,
+                    "starsForGame": "10.13"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 12,
+                    "starsForGame": "24.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 10,
+                    "totalPlayers": 10,
+                    "starsForGame": "10.00"
+                }
+            ]
         },
         {
+            "JSID": 14,
             "Name": "Ging'mes",
             "StarQualityPerGame": "11.18",
             "TotalStarQuality": "44.74",
@@ -167,9 +780,36 @@
             "AverageRank": "8.50",
             "ChangeInRank": "\u21933.63",
             "ChangeInPlayers": "\u21930.45",
-            "ChangeInSQPerGame": "\u219310.19"
+            "ChangeInSQPerGame": "\u219310.19",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 9,
+                    "starsForGame": "10.13"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 9,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 10,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 11,
+                    "starsForGame": "13.44"
+                }
+            ]
         },
         {
+            "JSID": 15,
             "Name": "Crashers",
             "StarQualityPerGame": "4.00",
             "TotalStarQuality": "16.00",
@@ -178,9 +818,36 @@
             "AverageRank": "1.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Mayhem - Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
         },
         {
+            "JSID": 16,
             "Name": "Smasher",
             "StarQualityPerGame": "2.00",
             "TotalStarQuality": "8.00",
@@ -189,9 +856,36 @@
             "AverageRank": "2.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Mayhem - Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
         },
         {
+            "JSID": 17,
             "Name": "Finley",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
@@ -200,7 +894,27 @@
             "AverageRank": "1.00",
             "ChangeInRank": "\u21910.75",
             "ChangeInPlayers": "\u21933.25",
-            "ChangeInSQPerGame": "\u21939.32"
+            "ChangeInSQPerGame": "\u21939.32",
+            "breakdown": [
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
         }
     ]
 }

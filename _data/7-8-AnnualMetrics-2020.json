@@ -2,7 +2,7 @@
     "gamesPlayed": [
         {
             "gameName": "Standard - Solo",
-            "timesPlayed": 6
+            "timesPlayed": 7
         },
         {
             "gameName": "Standard [3 Team] (15)",
@@ -17,7 +17,11 @@
             "timesPlayed": 3
         },
         {
-            "gameName": "BaseFlags",
+            "gameName": "Mayhem - Solo",
+            "timesPlayed": 3
+        },
+        {
+            "gameName": "Infection [Team] ",
             "timesPlayed": 2
         },
         {
@@ -25,15 +29,15 @@
             "timesPlayed": 2
         },
         {
-            "gameName": "Mayhem - Solo",
+            "gameName": "BaseFlags",
             "timesPlayed": 2
         },
         {
-            "gameName": "Baseflags Assault ",
+            "gameName": "Mayhem - Team",
             "timesPlayed": 1
         },
         {
-            "gameName": "Mayhem - Team",
+            "gameName": "Standard [2 Team] (10)",
             "timesPlayed": 1
         },
         {
@@ -45,7 +49,7 @@
             "timesPlayed": 1
         },
         {
-            "gameName": "Infection [Team] ",
+            "gameName": "Baseflags Assault ",
             "timesPlayed": 1
         }
     ],
@@ -54,8 +58,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 38,
+        "activePlayers": 41,
         "newPlayers": 0,
-        "churnedPlayers": 27
+        "churnedPlayers": 29
     }
 }

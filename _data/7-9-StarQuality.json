@@ -5,6 +5,7 @@
     "Player": [
         {},
         {
+            "JSID": 0,
             "Name": "JammyDodger",
             "StarQualityPerGame": "9.03",
             "TotalStarQuality": "36.10",
@@ -13,9 +14,36 @@
             "AverageRank": "2.50",
             "ChangeInRank": "\u21910.17",
             "ChangeInPlayers": "\u21931.25",
-            "ChangeInSQPerGame": "\u21934.48"
+            "ChangeInSQPerGame": "\u21934.48",
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                }
+            ]
         },
         {
+            "JSID": 1,
             "Name": "Rayth",
             "StarQualityPerGame": "7.35",
             "TotalStarQuality": "44.10",
@@ -24,9 +52,48 @@
             "AverageRank": "1.67",
             "ChangeInRank": "\u21911.00",
             "ChangeInPlayers": "\u21931.33",
-            "ChangeInSQPerGame": "\u21931.41"
+            "ChangeInSQPerGame": "\u21931.41",
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
         },
         {
+            "JSID": 2,
             "Name": "Jj",
             "StarQualityPerGame": "6.45",
             "TotalStarQuality": "25.79",
@@ -35,9 +102,36 @@
             "AverageRank": "3.50",
             "ChangeInRank": "\u21931.67",
             "ChangeInPlayers": "\u21930.08",
-            "ChangeInSQPerGame": "\u21936.30"
+            "ChangeInSQPerGame": "\u21936.30",
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                }
+            ]
         },
         {
+            "JSID": 3,
             "Name": "Smokey Bandit",
             "StarQualityPerGame": "5.64",
             "TotalStarQuality": "22.56",
@@ -46,9 +140,36 @@
             "AverageRank": "4.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                }
+            ]
         },
         {
+            "JSID": 4,
             "Name": "Overdrive",
             "StarQualityPerGame": "5.32",
             "TotalStarQuality": "37.23",
@@ -57,9 +178,54 @@
             "AverageRank": "1.86",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Colour Ranked",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
         },
         {
+            "JSID": 5,
             "Name": "Mr Spock",
             "StarQualityPerGame": "4.00",
             "TotalStarQuality": "12.00",
@@ -68,9 +234,30 @@
             "AverageRank": "1.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Individual Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
         },
         {
+            "JSID": 6,
             "Name": "Dodey",
             "StarQualityPerGame": "4.00",
             "TotalStarQuality": "12.00",
@@ -79,9 +266,30 @@
             "AverageRank": "1.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
         },
         {
+            "JSID": 7,
             "Name": "C'tri",
             "StarQualityPerGame": "3.38",
             "TotalStarQuality": "13.50",
@@ -90,9 +298,36 @@
             "AverageRank": "1.50",
             "ChangeInRank": "\u21930.27",
             "ChangeInPlayers": "\u21931.67",
-            "ChangeInSQPerGame": "\u21939.13"
+            "ChangeInSQPerGame": "\u21939.13",
+            "breakdown": [
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                }
+            ]
         },
         {
+            "JSID": 8,
             "Name": "Achilles",
             "StarQualityPerGame": "3.21",
             "TotalStarQuality": "22.50",
@@ -101,9 +336,54 @@
             "AverageRank": "1.43",
             "ChangeInRank": "\u21911.03",
             "ChangeInPlayers": "\u21932.04",
-            "ChangeInSQPerGame": "\u21933.91"
+            "ChangeInSQPerGame": "\u21933.91",
+            "breakdown": [
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
         },
         {
+            "JSID": 9,
             "Name": "Billybob",
             "StarQualityPerGame": "3.00",
             "TotalStarQuality": "3.00",
@@ -112,9 +392,18 @@
             "AverageRank": "3.00",
             "ChangeInRank": "\u21930.00",
             "ChangeInPlayers": "\u21930.00",
-            "ChangeInSQPerGame": "\u21930.00"
+            "ChangeInSQPerGame": "\u21930.00",
+            "breakdown": [
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                }
+            ]
         },
         {
+            "JSID": 10,
             "Name": "The Ghost",
             "StarQualityPerGame": "2.00",
             "TotalStarQuality": "6.00",
@@ -123,9 +412,30 @@
             "AverageRank": "2.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Individual Supercharge",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
         },
         {
+            "JSID": 11,
             "Name": "Jellybelly",
             "StarQualityPerGame": "2.00",
             "TotalStarQuality": "6.00",
@@ -134,9 +444,30 @@
             "AverageRank": "2.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
         },
         {
+            "JSID": 12,
             "Name": "Delta",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
@@ -145,9 +476,30 @@
             "AverageRank": "1.00",
             "ChangeInRank": "\u21910.33",
             "ChangeInPlayers": "\u21930.33",
-            "ChangeInSQPerGame": "\u21930.33"
+            "ChangeInSQPerGame": "\u21930.33",
+            "breakdown": [
+                {
+                    "gameName": "3 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "3 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
         },
         {
+            "JSID": 13,
             "Name": "Arran",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
@@ -156,9 +508,30 @@
             "AverageRank": "1.00",
             "ChangeInRank": "\u21930.00",
             "ChangeInPlayers": "\u21930.00",
-            "ChangeInSQPerGame": "\u21930.00"
+            "ChangeInSQPerGame": "\u21930.00",
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
         },
         {
+            "JSID": 14,
             "Name": "Nbtglen",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
@@ -167,7 +540,27 @@
             "AverageRank": "1.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
         }
     ]
 }

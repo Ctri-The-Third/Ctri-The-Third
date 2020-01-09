@@ -1,27 +1,27 @@
 {
     "gamesPlayed": [
         {
+            "gameName": "Continous Challenge",
+            "timesPlayed": 14
+        },
+        {
             "gameName": "Standard Individual",
-            "timesPlayed": 12
+            "timesPlayed": 14
         },
         {
             "gameName": "Standard 2 Team",
             "timesPlayed": 8
         },
         {
-            "gameName": "Gladiator Ind",
-            "timesPlayed": 5
-        },
-        {
             "gameName": "Manic",
             "timesPlayed": 5
         },
         {
-            "gameName": "Colour Conquest",
-            "timesPlayed": 4
+            "gameName": "Gladiator Ind",
+            "timesPlayed": 5
         },
         {
-            "gameName": "Continous Challenge",
+            "gameName": "Colour Conquest",
             "timesPlayed": 4
         },
         {
@@ -74,8 +74,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 35,
+        "activePlayers": 46,
         "newPlayers": 1,
-        "churnedPlayers": 25
+        "churnedPlayers": 36
     }
 }
