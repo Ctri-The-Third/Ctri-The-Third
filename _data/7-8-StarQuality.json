@@ -7,14 +7,14 @@
         {
             "JSID": 0,
             "Name": "-=Valroc=-",
-            "StarQualityPerGame": "32.91",
-            "TotalStarQuality": "164.57",
+            "StarQualityPerGame": "28.80",
+            "TotalStarQuality": "144.00",
             "AverageOpponents": "9.60",
             "gamesPlayed": 5,
-            "AverageRank": "2.80",
-            "ChangeInRank": "\u21930.43",
+            "AverageRank": "3.20",
+            "ChangeInRank": "\u21930.33",
             "ChangeInPlayers": "\u21912.23",
-            "ChangeInSQPerGame": "\u219110.01",
+            "ChangeInSQPerGame": "\u21919.88",
             "breakdown": [
                 {
                     "gameName": "Baseflags Assault ",
@@ -30,15 +30,15 @@
                 },
                 {
                     "gameName": "* Baseflags PushBack (15)",
-                    "rank": 4,
+                    "rank": 8,
                     "totalPlayers": 9,
-                    "starsForGame": "20.25"
+                    "starsForGame": "10.13"
                 },
                 {
                     "gameName": "BaseFlags",
-                    "rank": 7,
+                    "rank": 5,
                     "totalPlayers": 12,
-                    "starsForGame": "20.57"
+                    "starsForGame": "28.80"
                 },
                 {
                     "gameName": "BaseFlags",
@@ -50,79 +50,85 @@
         },
         {
             "JSID": 1,
-            "Name": "Dan W Keys",
-            "StarQualityPerGame": "30.08",
-            "TotalStarQuality": "90.25",
-            "AverageOpponents": "6.33",
-            "gamesPlayed": 3,
-            "AverageRank": "1.33",
-            "ChangeInRank": "\u21930.17",
-            "ChangeInPlayers": "\u21914.00",
-            "ChangeInSQPerGame": "\u219125.42",
-            "breakdown": [
-                {
-                    "gameName": "Infection",
-                    "rank": 1,
-                    "totalPlayers": 6,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 2,
-                    "totalPlayers": 6,
-                    "starsForGame": "18.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 1,
-                    "totalPlayers": 7,
-                    "starsForGame": "49.00"
-                }
-            ]
-        },
-        {
-            "JSID": 2,
             "Name": "Deadeye",
-            "StarQualityPerGame": "26.26",
-            "TotalStarQuality": "78.77",
+            "StarQualityPerGame": "28.44",
+            "TotalStarQuality": "85.33",
             "AverageOpponents": "10.67",
             "gamesPlayed": 3,
-            "AverageRank": "4.33",
+            "AverageRank": "4.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "* Baseflags PushBack (15)",
-                    "rank": 3,
+                    "rank": 7,
                     "totalPlayers": 9,
-                    "starsForGame": "27.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 8,
-                    "totalPlayers": 12,
-                    "starsForGame": "18.00"
+                    "starsForGame": "11.57"
                 },
                 {
                     "gameName": "BaseFlags",
                     "rank": 2,
+                    "totalPlayers": 12,
+                    "starsForGame": "72.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 3,
                     "totalPlayers": 11,
-                    "starsForGame": "60.50"
+                    "starsForGame": "40.33"
+                }
+            ]
+        },
+        {
+            "JSID": 2,
+            "Name": "Dad1of1Toast",
+            "StarQualityPerGame": "21.24",
+            "TotalStarQuality": "84.94",
+            "AverageOpponents": "9.50",
+            "gamesPlayed": 4,
+            "AverageRank": "4.25",
+            "ChangeInRank": "\u21910.01",
+            "ChangeInPlayers": "\u21913.72",
+            "ChangeInSQPerGame": "\u219113.40",
+            "breakdown": [
+                {
+                    "gameName": "Highlander - Solo",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Baseflags Assault ",
+                    "rank": 6,
+                    "totalPlayers": 9,
+                    "starsForGame": "13.50"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 1,
+                    "totalPlayers": 12,
+                    "starsForGame": "144.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 6,
+                    "totalPlayers": 11,
+                    "starsForGame": "20.17"
                 }
             ]
         },
         {
             "JSID": 3,
             "Name": "Sn3aky",
-            "StarQualityPerGame": "25.67",
-            "TotalStarQuality": "231.04",
+            "StarQualityPerGame": "20.70",
+            "TotalStarQuality": "186.32",
             "AverageOpponents": "8.44",
             "gamesPlayed": 9,
-            "AverageRank": "2.78",
-            "ChangeInRank": "\u21930.29",
+            "AverageRank": "3.44",
+            "ChangeInRank": "\u21930.72",
             "ChangeInPlayers": "\u21912.10",
-            "ChangeInSQPerGame": "\u21919.47",
+            "ChangeInSQPerGame": "\u21915.89",
             "breakdown": [
                 {
                     "gameName": "Highlander - Solo",
@@ -138,15 +144,15 @@
                 },
                 {
                     "gameName": "Baseflags Assault ",
-                    "rank": 4,
+                    "rank": 2,
                     "totalPlayers": 9,
-                    "starsForGame": "20.25"
+                    "starsForGame": "40.50"
                 },
                 {
                     "gameName": "* Baseflags PushBack (15)",
-                    "rank": 3,
+                    "rank": 5,
                     "totalPlayers": 7,
-                    "starsForGame": "16.33"
+                    "starsForGame": "9.80"
                 },
                 {
                     "gameName": "* Baseflags PushBack (15)",
@@ -156,15 +162,15 @@
                 },
                 {
                     "gameName": "BaseFlags",
-                    "rank": 5,
+                    "rank": 8,
                     "totalPlayers": 12,
-                    "starsForGame": "28.80"
+                    "starsForGame": "18.00"
                 },
                 {
                     "gameName": "BaseFlags",
-                    "rank": 8,
+                    "rank": 11,
                     "totalPlayers": 11,
-                    "starsForGame": "15.13"
+                    "starsForGame": "11.00"
                 },
                 {
                     "gameName": "Standard [3 Team] (15)",
@@ -183,32 +189,32 @@
         {
             "JSID": 4,
             "Name": "BBTheory",
-            "StarQualityPerGame": "24.72",
-            "TotalStarQuality": "98.88",
+            "StarQualityPerGame": "17.51",
+            "TotalStarQuality": "70.04",
             "AverageOpponents": "10.25",
             "gamesPlayed": 4,
-            "AverageRank": "4.25",
-            "ChangeInRank": "\u21911.19",
+            "AverageRank": "6.00",
+            "ChangeInRank": "\u21930.22",
             "ChangeInPlayers": "\u21910.81",
-            "ChangeInSQPerGame": "\u21918.34",
+            "ChangeInSQPerGame": "\u21912.07",
             "breakdown": [
                 {
                     "gameName": "Baseflags Assault ",
-                    "rank": 3,
+                    "rank": 5,
                     "totalPlayers": 9,
-                    "starsForGame": "27.00"
+                    "starsForGame": "16.20"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 10,
+                    "totalPlayers": 12,
+                    "starsForGame": "14.40"
                 },
                 {
                     "gameName": "BaseFlags",
                     "rank": 2,
-                    "totalPlayers": 12,
-                    "starsForGame": "72.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 5,
                     "totalPlayers": 11,
-                    "starsForGame": "24.20"
+                    "starsForGame": "60.50"
                 },
                 {
                     "gameName": "Standard [3 Team] (15)",
@@ -220,76 +226,6 @@
         },
         {
             "JSID": 5,
-            "Name": "Blank",
-            "StarQualityPerGame": "18.69",
-            "TotalStarQuality": "56.07",
-            "AverageOpponents": "9.67",
-            "gamesPlayed": 3,
-            "AverageRank": "5.00",
-            "ChangeInRank": "\u21930.40",
-            "ChangeInPlayers": "\u21913.47",
-            "ChangeInSQPerGame": "\u219110.33",
-            "breakdown": [
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 9,
-                    "totalPlayers": 12,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 4,
-                    "totalPlayers": 9,
-                    "starsForGame": "20.25"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 8,
-                    "starsForGame": "32.00"
-                }
-            ]
-        },
-        {
-            "JSID": 6,
-            "Name": "Dad1of1Toast",
-            "StarQualityPerGame": "18.05",
-            "TotalStarQuality": "72.20",
-            "AverageOpponents": "9.50",
-            "gamesPlayed": 4,
-            "AverageRank": "5.00",
-            "ChangeInRank": "\u21930.33",
-            "ChangeInPlayers": "\u21913.72",
-            "ChangeInSQPerGame": "\u219110.90",
-            "breakdown": [
-                {
-                    "gameName": "Highlander - Solo",
-                    "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Baseflags Assault ",
-                    "rank": 7,
-                    "totalPlayers": 9,
-                    "starsForGame": "11.57"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 3,
-                    "totalPlayers": 12,
-                    "starsForGame": "48.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 6,
-                    "totalPlayers": 11,
-                    "starsForGame": "20.17"
-                }
-            ]
-        },
-        {
-            "JSID": 7,
             "Name": "John",
             "StarQualityPerGame": "17.36",
             "TotalStarQuality": "69.44",
@@ -327,22 +263,128 @@
             ]
         },
         {
-            "JSID": 8,
-            "Name": "Chomp",
-            "StarQualityPerGame": "16.33",
-            "TotalStarQuality": "98.00",
-            "AverageOpponents": "9.33",
-            "gamesPlayed": 6,
-            "AverageRank": "5.33",
-            "ChangeInRank": "\u21931.71",
-            "ChangeInPlayers": "\u21913.08",
-            "ChangeInSQPerGame": "\u21915.56",
+            "JSID": 6,
+            "Name": "Dan W Keys",
+            "StarQualityPerGame": "17.16",
+            "TotalStarQuality": "120.13",
+            "AverageOpponents": "4.43",
+            "gamesPlayed": 7,
+            "AverageRank": "1.14",
+            "ChangeInRank": "\u21910.02",
+            "ChangeInPlayers": "\u21912.10",
+            "ChangeInSQPerGame": "\u219112.49",
             "breakdown": [
                 {
-                    "gameName": "* Baseflags PushBack (15)",
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
                     "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 1,
                     "totalPlayers": 7,
-                    "starsForGame": "24.50"
+                    "starsForGame": "49.00"
+                }
+            ]
+        },
+        {
+            "JSID": 7,
+            "Name": "Blank",
+            "StarQualityPerGame": "16.49",
+            "TotalStarQuality": "49.47",
+            "AverageOpponents": "9.67",
+            "gamesPlayed": 3,
+            "AverageRank": "5.67",
+            "ChangeInRank": "\u21930.87",
+            "ChangeInPlayers": "\u21913.47",
+            "ChangeInSQPerGame": "\u21918.48",
+            "breakdown": [
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 11,
+                    "totalPlayers": 12,
+                    "starsForGame": "13.09"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 4,
+                    "totalPlayers": 9,
+                    "starsForGame": "20.25"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 8,
+                    "starsForGame": "32.00"
+                }
+            ]
+        },
+        {
+            "JSID": 8,
+            "Name": "Hero of Light",
+            "StarQualityPerGame": "16.46",
+            "TotalStarQuality": "148.10",
+            "AverageOpponents": "8.44",
+            "gamesPlayed": 9,
+            "AverageRank": "4.33",
+            "ChangeInRank": "\u21910.67",
+            "ChangeInPlayers": "\u21931.81",
+            "ChangeInSQPerGame": "\u21934.56",
+            "breakdown": [
+                {
+                    "gameName": "Highlander - Solo",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Huntsman",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Baseflags Assault ",
+                    "rank": 4,
+                    "totalPlayers": 9,
+                    "starsForGame": "20.25"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 3,
+                    "totalPlayers": 7,
+                    "starsForGame": "16.33"
                 },
                 {
                     "gameName": "* Baseflags PushBack (15)",
@@ -352,15 +394,65 @@
                 },
                 {
                     "gameName": "BaseFlags",
-                    "rank": 12,
+                    "rank": 3,
                     "totalPlayers": 12,
-                    "starsForGame": "12.00"
+                    "starsForGame": "48.00"
                 },
                 {
                     "gameName": "BaseFlags",
-                    "rank": 10,
+                    "rank": 4,
                     "totalPlayers": 11,
-                    "starsForGame": "12.10"
+                    "starsForGame": "30.25"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 9,
+                    "totalPlayers": 9,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 8,
+                    "totalPlayers": 8,
+                    "starsForGame": "8.00"
+                }
+            ]
+        },
+        {
+            "JSID": 9,
+            "Name": "Chomp",
+            "StarQualityPerGame": "15.37",
+            "TotalStarQuality": "92.24",
+            "AverageOpponents": "9.33",
+            "gamesPlayed": 6,
+            "AverageRank": "5.67",
+            "ChangeInRank": "\u21932.29",
+            "ChangeInPlayers": "\u21913.08",
+            "ChangeInSQPerGame": "\u21913.80",
+            "breakdown": [
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 6,
+                    "totalPlayers": 7,
+                    "starsForGame": "8.17"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 4,
+                    "totalPlayers": 9,
+                    "starsForGame": "20.25"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 9,
+                    "totalPlayers": 12,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 9,
+                    "totalPlayers": 11,
+                    "starsForGame": "13.44"
                 },
                 {
                     "gameName": "Standard [3 Team] (15)",
@@ -377,7 +469,131 @@
             ]
         },
         {
-            "JSID": 9,
+            "JSID": 10,
+            "Name": "Silly Bunny",
+            "StarQualityPerGame": "15.28",
+            "TotalStarQuality": "137.52",
+            "AverageOpponents": "8.44",
+            "gamesPlayed": 9,
+            "AverageRank": "4.67",
+            "ChangeInRank": "\u21912.67",
+            "ChangeInPlayers": "\u21931.22",
+            "ChangeInSQPerGame": "\u21912.54",
+            "breakdown": [
+                {
+                    "gameName": "Highlander - Solo",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Huntsman",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Baseflags Assault ",
+                    "rank": 3,
+                    "totalPlayers": 9,
+                    "starsForGame": "27.00"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 2,
+                    "totalPlayers": 7,
+                    "starsForGame": "24.50"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 3,
+                    "totalPlayers": 9,
+                    "starsForGame": "27.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 7,
+                    "totalPlayers": 12,
+                    "starsForGame": "20.57"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 5,
+                    "totalPlayers": 11,
+                    "starsForGame": "24.20"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 5,
+                    "totalPlayers": 9,
+                    "starsForGame": "16.20"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 7,
+                    "totalPlayers": 8,
+                    "starsForGame": "9.14"
+                }
+            ]
+        },
+        {
+            "JSID": 11,
+            "Name": "Road1to1Toast",
+            "StarQualityPerGame": "14.21",
+            "TotalStarQuality": "99.46",
+            "AverageOpponents": "8.43",
+            "gamesPlayed": 7,
+            "AverageRank": "5.00",
+            "ChangeInRank": "\u21931.46",
+            "ChangeInPlayers": "\u21912.63",
+            "ChangeInSQPerGame": "\u21914.71",
+            "breakdown": [
+                {
+                    "gameName": "Highlander - Solo",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Huntsman",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Baseflags Assault ",
+                    "rank": 7,
+                    "totalPlayers": 9,
+                    "starsForGame": "11.57"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 7,
+                    "totalPlayers": 7,
+                    "starsForGame": "7.00"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 5,
+                    "totalPlayers": 9,
+                    "starsForGame": "16.20"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 4,
+                    "totalPlayers": 12,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 8,
+                    "totalPlayers": 11,
+                    "starsForGame": "15.13"
+                }
+            ]
+        },
+        {
+            "JSID": 12,
             "Name": "Ed",
             "StarQualityPerGame": "14.20",
             "TotalStarQuality": "56.82",
@@ -415,108 +631,40 @@
             ]
         },
         {
-            "JSID": 10,
-            "Name": "Silly Bunny",
-            "StarQualityPerGame": "13.65",
-            "TotalStarQuality": "122.89",
-            "AverageOpponents": "8.44",
-            "gamesPlayed": 9,
-            "AverageRank": "5.22",
-            "ChangeInRank": "\u21911.44",
-            "ChangeInPlayers": "\u21931.22",
-            "ChangeInSQPerGame": "\u21930.36",
-            "breakdown": [
-                {
-                    "gameName": "Highlander - Solo",
-                    "rank": 6,
-                    "totalPlayers": 6,
-                    "starsForGame": "6.00"
-                },
-                {
-                    "gameName": "Huntsman",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "Baseflags Assault ",
-                    "rank": 5,
-                    "totalPlayers": 9,
-                    "starsForGame": "16.20"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 5,
-                    "totalPlayers": 7,
-                    "starsForGame": "9.80"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 7,
-                    "totalPlayers": 9,
-                    "starsForGame": "11.57"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 4,
-                    "totalPlayers": 12,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 4,
-                    "totalPlayers": 11,
-                    "starsForGame": "30.25"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 5,
-                    "totalPlayers": 9,
-                    "starsForGame": "16.20"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 7,
-                    "totalPlayers": 8,
-                    "starsForGame": "9.14"
-                }
-            ]
-        },
-        {
-            "JSID": 11,
+            "JSID": 13,
             "Name": "Shadow_Wolf",
-            "StarQualityPerGame": "13.07",
-            "TotalStarQuality": "78.40",
+            "StarQualityPerGame": "13.40",
+            "TotalStarQuality": "80.41",
             "AverageOpponents": "9.33",
             "gamesPlayed": 6,
-            "AverageRank": "6.67",
-            "ChangeInRank": "\u21932.20",
+            "AverageRank": "6.50",
+            "ChangeInRank": "\u21932.07",
             "ChangeInPlayers": "\u21912.93",
-            "ChangeInSQPerGame": "\u21913.90",
+            "ChangeInSQPerGame": "\u21914.16",
             "breakdown": [
                 {
                     "gameName": "* Baseflags PushBack (15)",
-                    "rank": 7,
+                    "rank": 4,
                     "totalPlayers": 7,
-                    "starsForGame": "7.00"
+                    "starsForGame": "12.25"
                 },
                 {
                     "gameName": "* Baseflags PushBack (15)",
-                    "rank": 6,
+                    "rank": 9,
                     "totalPlayers": 9,
-                    "starsForGame": "13.50"
+                    "starsForGame": "9.00"
                 },
                 {
                     "gameName": "BaseFlags",
-                    "rank": 11,
+                    "rank": 6,
                     "totalPlayers": 12,
-                    "starsForGame": "13.09"
+                    "starsForGame": "24.00"
                 },
                 {
                     "gameName": "BaseFlags",
-                    "rank": 3,
+                    "rank": 7,
                     "totalPlayers": 11,
-                    "starsForGame": "40.33"
+                    "starsForGame": "17.29"
                 },
                 {
                     "gameName": "Standard [3 Team] (15)",
@@ -533,152 +681,22 @@
             ]
         },
         {
-            "JSID": 12,
-            "Name": "Master Sloth",
-            "StarQualityPerGame": "12.94",
-            "TotalStarQuality": "103.50",
-            "AverageOpponents": "8.63",
-            "gamesPlayed": 8,
-            "AverageRank": "5.75",
-            "ChangeInRank": "\u21911.25",
-            "ChangeInPlayers": "\u21930.92",
-            "ChangeInSQPerGame": "\u21930.08",
-            "breakdown": [
-                {
-                    "gameName": "Highlander - Solo",
-                    "rank": 5,
-                    "totalPlayers": 6,
-                    "starsForGame": "7.20"
-                },
-                {
-                    "gameName": "Huntsman",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "Baseflags Assault ",
-                    "rank": 8,
-                    "totalPlayers": 9,
-                    "starsForGame": "10.13"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 9,
-                    "totalPlayers": 9,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 1,
-                    "totalPlayers": 12,
-                    "starsForGame": "144.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 9,
-                    "totalPlayers": 11,
-                    "starsForGame": "13.44"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 6,
-                    "totalPlayers": 9,
-                    "starsForGame": "13.50"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 3,
-                    "totalPlayers": 8,
-                    "starsForGame": "21.33"
-                }
-            ]
-        },
-        {
-            "JSID": 13,
-            "Name": "Hero of Light",
-            "StarQualityPerGame": "12.84",
-            "TotalStarQuality": "115.52",
-            "AverageOpponents": "8.44",
-            "gamesPlayed": 9,
-            "AverageRank": "5.56",
-            "ChangeInRank": "\u21911.44",
-            "ChangeInPlayers": "\u21931.81",
-            "ChangeInSQPerGame": "\u21932.17",
-            "breakdown": [
-                {
-                    "gameName": "Highlander - Solo",
-                    "rank": 3,
-                    "totalPlayers": 6,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "Huntsman",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Baseflags Assault ",
-                    "rank": 2,
-                    "totalPlayers": 9,
-                    "starsForGame": "40.50"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 4,
-                    "totalPlayers": 7,
-                    "starsForGame": "12.25"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 8,
-                    "totalPlayers": 9,
-                    "starsForGame": "10.13"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 6,
-                    "totalPlayers": 12,
-                    "starsForGame": "24.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 7,
-                    "totalPlayers": 11,
-                    "starsForGame": "17.29"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 9,
-                    "totalPlayers": 9,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 8,
-                    "totalPlayers": 8,
-                    "starsForGame": "8.00"
-                }
-            ]
-        },
-        {
             "JSID": 14,
             "Name": "Channer",
-            "StarQualityPerGame": "12.52",
-            "TotalStarQuality": "37.56",
+            "StarQualityPerGame": "13.25",
+            "TotalStarQuality": "39.76",
             "AverageOpponents": "8.67",
             "gamesPlayed": 3,
-            "AverageRank": "6.00",
+            "AverageRank": "5.67",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "Baseflags Assault ",
-                    "rank": 9,
+                    "rank": 8,
                     "totalPlayers": 9,
-                    "starsForGame": "9.00"
+                    "starsForGame": "10.13"
                 },
                 {
                     "gameName": "Standard [3 Team] (15)",
@@ -696,57 +714,63 @@
         },
         {
             "JSID": 15,
-            "Name": "Road1to1Toast",
-            "StarQualityPerGame": "11.84",
-            "TotalStarQuality": "82.88",
-            "AverageOpponents": "8.43",
-            "gamesPlayed": 7,
-            "AverageRank": "6.00",
-            "ChangeInRank": "\u21932.74",
-            "ChangeInPlayers": "\u21912.63",
-            "ChangeInSQPerGame": "\u21911.51",
+            "Name": "Master Sloth",
+            "StarQualityPerGame": "10.63",
+            "TotalStarQuality": "85.02",
+            "AverageOpponents": "8.63",
+            "gamesPlayed": 8,
+            "AverageRank": "7.00",
+            "ChangeInRank": "\u21930.82",
+            "ChangeInPlayers": "\u21930.92",
+            "ChangeInSQPerGame": "\u21934.11",
             "breakdown": [
                 {
                     "gameName": "Highlander - Solo",
-                    "rank": 2,
+                    "rank": 5,
                     "totalPlayers": 6,
-                    "starsForGame": "18.00"
+                    "starsForGame": "7.20"
                 },
                 {
                     "gameName": "Huntsman",
-                    "rank": 2,
+                    "rank": 5,
                     "totalPlayers": 5,
-                    "starsForGame": "12.50"
+                    "starsForGame": "5.00"
                 },
                 {
                     "gameName": "Baseflags Assault ",
+                    "rank": 9,
+                    "totalPlayers": 9,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
                     "rank": 6,
                     "totalPlayers": 9,
                     "starsForGame": "13.50"
                 },
                 {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 6,
-                    "totalPlayers": 7,
-                    "starsForGame": "8.17"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 5,
-                    "totalPlayers": 9,
-                    "starsForGame": "16.20"
+                    "gameName": "BaseFlags",
+                    "rank": 12,
+                    "totalPlayers": 12,
+                    "starsForGame": "12.00"
                 },
                 {
                     "gameName": "BaseFlags",
                     "rank": 10,
-                    "totalPlayers": 12,
-                    "starsForGame": "14.40"
+                    "totalPlayers": 11,
+                    "starsForGame": "12.10"
                 },
                 {
-                    "gameName": "BaseFlags",
-                    "rank": 11,
-                    "totalPlayers": 11,
-                    "starsForGame": "11.00"
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 6,
+                    "totalPlayers": 9,
+                    "starsForGame": "13.50"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 3,
+                    "totalPlayers": 8,
+                    "starsForGame": "21.33"
                 }
             ]
         },
@@ -867,15 +891,39 @@
         {
             "JSID": 19,
             "Name": "Phil_Swift",
-            "StarQualityPerGame": "6.50",
-            "TotalStarQuality": "13.00",
-            "AverageOpponents": "6.50",
-            "gamesPlayed": 2,
-            "AverageRank": "6.50",
+            "StarQualityPerGame": "4.53",
+            "TotalStarQuality": "27.17",
+            "AverageOpponents": "4.17",
+            "gamesPlayed": 6,
+            "AverageRank": "3.83",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
                 {
                     "gameName": "Standard - Team",
                     "rank": 7,
@@ -892,6 +940,44 @@
         },
         {
             "JSID": 20,
+            "Name": "Hazzerson",
+            "StarQualityPerGame": "3.60",
+            "TotalStarQuality": "14.40",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 4,
+            "AverageRank": "2.50",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Infection",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                }
+            ]
+        },
+        {
+            "JSID": 21,
             "Name": "Bobby",
             "StarQualityPerGame": "3.00",
             "TotalStarQuality": "9.00",
@@ -923,7 +1009,7 @@
             ]
         },
         {
-            "JSID": 21,
+            "JSID": 22,
             "Name": "You_r_defaults",
             "StarQualityPerGame": "2.67",
             "TotalStarQuality": "5.33",
@@ -949,7 +1035,7 @@
             ]
         },
         {
-            "JSID": 22,
+            "JSID": 23,
             "Name": "Melody",
             "StarQualityPerGame": "2.40",
             "TotalStarQuality": "7.20",
@@ -981,7 +1067,7 @@
             ]
         },
         {
-            "JSID": 23,
+            "JSID": 24,
             "Name": "Madness",
             "StarQualityPerGame": "2.25",
             "TotalStarQuality": "18.00",
@@ -1043,7 +1129,7 @@
             ]
         },
         {
-            "JSID": 24,
+            "JSID": 25,
             "Name": "Jacob B",
             "StarQualityPerGame": "2.08",
             "TotalStarQuality": "6.25",
@@ -1075,7 +1161,7 @@
             ]
         },
         {
-            "JSID": 25,
+            "JSID": 26,
             "Name": "William",
             "StarQualityPerGame": "2.00",
             "TotalStarQuality": "8.00",
@@ -1109,26 +1195,6 @@
                     "rank": 2,
                     "totalPlayers": 2,
                     "starsForGame": "2.00"
-                }
-            ]
-        },
-        {
-            "JSID": 26,
-            "Name": "Nine",
-            "StarQualityPerGame": "1.00",
-            "TotalStarQuality": "1.00",
-            "AverageOpponents": "1.00",
-            "gamesPlayed": 1,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
                 }
             ]
         },
@@ -1196,6 +1262,52 @@
                 },
                 {
                     "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 29,
+            "Name": "Ninja_Cole",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "2.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 2,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "- Standard [2 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "- Standard [2 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 30,
+            "Name": "Nine",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "1.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 1,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard [3 Team] (15)",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
