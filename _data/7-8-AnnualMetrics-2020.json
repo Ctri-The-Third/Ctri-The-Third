@@ -2,15 +2,15 @@
     "gamesPlayed": [
         {
             "gameName": "Standard - Solo",
-            "timesPlayed": 7
+            "timesPlayed": 8
+        },
+        {
+            "gameName": "Infection",
+            "timesPlayed": 4
         },
         {
             "gameName": "Standard [3 Team] (15)",
             "timesPlayed": 4
-        },
-        {
-            "gameName": "Infection",
-            "timesPlayed": 3
         },
         {
             "gameName": "Standard - Team",
@@ -21,7 +21,7 @@
             "timesPlayed": 3
         },
         {
-            "gameName": "Infection [Team] ",
+            "gameName": "BaseFlags",
             "timesPlayed": 2
         },
         {
@@ -29,15 +29,15 @@
             "timesPlayed": 2
         },
         {
-            "gameName": "BaseFlags",
+            "gameName": "Mayhem - Team",
             "timesPlayed": 2
         },
         {
-            "gameName": "Mayhem - Team",
-            "timesPlayed": 1
+            "gameName": "Infection [Team] ",
+            "timesPlayed": 2
         },
         {
-            "gameName": "Standard [2 Team] (10)",
+            "gameName": "Highlander - Solo",
             "timesPlayed": 1
         },
         {
@@ -45,7 +45,11 @@
             "timesPlayed": 1
         },
         {
-            "gameName": "Highlander - Solo",
+            "gameName": "Standard [2 Team] (10)",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "- Standard [2 Team] (15)",
             "timesPlayed": 1
         },
         {
@@ -58,7 +62,7 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 41,
+        "activePlayers": 42,
         "newPlayers": 0,
         "churnedPlayers": 29
     }
