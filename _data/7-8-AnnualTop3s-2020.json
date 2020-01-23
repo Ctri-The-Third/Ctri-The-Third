@@ -3,19 +3,19 @@
         "month": "2020-01",
         "players": [
             {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 11,
+                "averageStars": "35.85"
+            },
+            {
+                "playerName": "Blank",
+                "gamePlayed": 3,
+                "averageStars": "31.15"
+            },
+            {
                 "playerName": "Sn3aky",
                 "gamePlayed": 9,
-                "averageStars": "33.78"
-            },
-            {
-                "playerName": "-=Valroc=-",
-                "gamePlayed": 5,
-                "averageStars": "28.80"
-            },
-            {
-                "playerName": "Dad1of1Toast",
-                "gamePlayed": 4,
-                "averageStars": "25.79"
+                "averageStars": "24.68"
             }
         ]
     }
