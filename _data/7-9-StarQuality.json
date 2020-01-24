@@ -143,15 +143,39 @@
         {
             "JSID": 2,
             "Name": "C'tri",
-            "StarQualityPerGame": "8.96",
-            "TotalStarQuality": "107.56",
-            "AverageOpponents": "3.67",
-            "gamesPlayed": 12,
+            "StarQualityPerGame": "8.17",
+            "TotalStarQuality": "130.67",
+            "AverageOpponents": "3.50",
+            "gamesPlayed": 16,
             "AverageRank": "1.50",
             "ChangeInRank": "\u21930.27",
-            "ChangeInPlayers": "\u21930.26",
-            "ChangeInSQPerGame": "\u21933.54",
+            "ChangeInPlayers": "\u21930.42",
+            "ChangeInSQPerGame": "\u21934.34",
             "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
                 {
                     "gameName": "Shadows (Individual)",
                     "rank": 2,
@@ -266,78 +290,40 @@
         },
         {
             "JSID": 4,
-            "Name": "Reboot",
-            "StarQualityPerGame": "6.38",
-            "TotalStarQuality": "51.04",
-            "AverageOpponents": "4.38",
-            "gamesPlayed": 8,
-            "AverageRank": "3.00",
-            "ChangeInRank": "\u21911.25",
-            "ChangeInPlayers": "\u21930.38",
-            "ChangeInSQPerGame": "\u21911.07",
+            "Name": "Achilles",
+            "StarQualityPerGame": "5.78",
+            "TotalStarQuality": "109.83",
+            "AverageOpponents": "3.26",
+            "gamesPlayed": 19,
+            "AverageRank": "1.84",
+            "ChangeInRank": "\u21910.61",
+            "ChangeInPlayers": "\u21930.92",
+            "ChangeInSQPerGame": "\u21931.34",
             "breakdown": [
                 {
-                    "gameName": "Shadows (Individual)",
+                    "gameName": "4 Teams",
                     "rank": 3,
                     "totalPlayers": 3,
                     "starsForGame": "3.00"
                 },
                 {
-                    "gameName": "Space Marines 5 (3 Team)",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                },
-                {
-                    "gameName": "Space Marines 5 (3 Team)",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
-                },
-                {
                     "gameName": "Colour Conquest",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Space Marines 5 (3 Team)",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
                 },
                 {
                     "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Individual",
                     "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
                 },
-                {
-                    "gameName": "Colour Conquest",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "3 Teams",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                }
-            ]
-        },
-        {
-            "JSID": 5,
-            "Name": "Achilles",
-            "StarQualityPerGame": "6.17",
-            "TotalStarQuality": "92.59",
-            "AverageOpponents": "3.33",
-            "gamesPlayed": 15,
-            "AverageRank": "1.80",
-            "ChangeInRank": "\u21910.65",
-            "ChangeInPlayers": "\u21930.85",
-            "ChangeInSQPerGame": "\u21930.95",
-            "breakdown": [
                 {
                     "gameName": "Shadows (Individual)",
                     "rank": 1,
@@ -431,7 +417,7 @@
             ]
         },
         {
-            "JSID": 6,
+            "JSID": 5,
             "Name": "Smokey Bandit",
             "StarQualityPerGame": "5.64",
             "TotalStarQuality": "22.56",
@@ -465,6 +451,92 @@
                     "rank": 5,
                     "totalPlayers": 5,
                     "starsForGame": "5.00"
+                }
+            ]
+        },
+        {
+            "JSID": 6,
+            "Name": "Reboot",
+            "StarQualityPerGame": "5.41",
+            "TotalStarQuality": "64.97",
+            "AverageOpponents": "3.92",
+            "gamesPlayed": 12,
+            "AverageRank": "2.83",
+            "ChangeInRank": "\u21911.42",
+            "ChangeInPlayers": "\u21930.83",
+            "ChangeInSQPerGame": "\u21910.11",
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Shadows (Individual)",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Space Marines 5 (3 Team)",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Space Marines 5 (3 Team)",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Space Marines 5 (3 Team)",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "3 Teams",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
                 }
             ]
         },
@@ -653,8 +725,8 @@
             "gamesPlayed": 8,
             "AverageRank": "2.88",
             "ChangeInRank": "\u21930.26",
-            "ChangeInPlayers": "\u21910.58",
-            "ChangeInSQPerGame": "\u21910.99",
+            "ChangeInPlayers": "\u21910.42",
+            "ChangeInSQPerGame": "\u21910.64",
             "breakdown": [
                 {
                     "gameName": "Space Marines 5 (3 Team)",
@@ -888,44 +960,6 @@
         },
         {
             "JSID": 15,
-            "Name": "Nbtglen",
-            "StarQualityPerGame": "2.67",
-            "TotalStarQuality": "10.67",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 4,
-            "AverageRank": "1.50",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "4 Teams",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "4 Teams",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "4 Teams",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "4 Teams",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                }
-            ]
-        },
-        {
-            "JSID": 16,
             "Name": "Notyourcorpse",
             "StarQualityPerGame": "2.67",
             "TotalStarQuality": "10.67",
@@ -959,6 +993,44 @@
                     "rank": 1,
                     "totalPlayers": 2,
                     "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 16,
+            "Name": "Nbtglen",
+            "StarQualityPerGame": "2.67",
+            "TotalStarQuality": "10.67",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 4,
+            "AverageRank": "1.50",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 }
             ]
         },
@@ -1028,6 +1100,166 @@
         },
         {
             "JSID": 19,
+            "Name": "Crazy Cammie",
+            "StarQualityPerGame": "1.78",
+            "TotalStarQuality": "5.33",
+            "AverageOpponents": "1.33",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "3 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 20,
+            "Name": "Arran",
+            "StarQualityPerGame": "1.33",
+            "TotalStarQuality": "4.00",
+            "AverageOpponents": "1.33",
+            "gamesPlayed": 3,
+            "AverageRank": "1.33",
+            "ChangeInRank": "\u21930.33",
+            "ChangeInPlayers": "\u21930.17",
+            "ChangeInSQPerGame": "\u21930.92",
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 21,
+            "Name": "Face",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "3 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 22,
+            "Name": "Stuart",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": "\u21930.00",
+            "ChangeInPlayers": "\u21930.00",
+            "ChangeInSQPerGame": "\u21930.00",
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 23,
+            "Name": "Obliterator",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": "\u21930.00",
+            "ChangeInPlayers": "\u21930.00",
+            "ChangeInSQPerGame": "\u21930.00",
+            "breakdown": [
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 24,
             "Name": "Delta",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
@@ -1059,16 +1291,16 @@
             ]
         },
         {
-            "JSID": 20,
-            "Name": "Arran",
+            "JSID": 25,
+            "Name": "Big Daddy",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
             "AverageOpponents": "1.00",
             "gamesPlayed": 3,
             "AverageRank": "1.00",
-            "ChangeInRank": "\u21930.00",
-            "ChangeInPlayers": "\u21930.00",
-            "ChangeInSQPerGame": "\u21930.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "4 Teams",
@@ -1077,13 +1309,13 @@
                     "starsForGame": "1.00"
                 },
                 {
-                    "gameName": "Team",
+                    "gameName": "3 Teams",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
                 },
                 {
-                    "gameName": "Team",
+                    "gameName": "4 Teams",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
@@ -1091,7 +1323,7 @@
             ]
         },
         {
-            "JSID": 21,
+            "JSID": 26,
             "Name": "The Mega",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
@@ -1123,7 +1355,7 @@
             ]
         },
         {
-            "JSID": 22,
+            "JSID": 27,
             "Name": "Brian",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",

@@ -2,38 +2,38 @@
     "gamesPlayed": [
         {
             "gameName": "Base Flags",
-            "timesPlayed": 14
+            "timesPlayed": 20
         },
         {
             "gameName": "Infection",
-            "timesPlayed": 4
+            "timesPlayed": 6
         },
         {
             "gameName": "Standard - Solo",
-            "timesPlayed": 3
+            "timesPlayed": 5
+        },
+        {
+            "gameName": "Escape",
+            "timesPlayed": 4
         },
         {
             "gameName": "Standard - Team",
-            "timesPlayed": 3
+            "timesPlayed": 4
+        },
+        {
+            "gameName": "Mayhem - Team",
+            "timesPlayed": 2
         },
         {
             "gameName": "Space Marines 5",
             "timesPlayed": 2
         },
         {
-            "gameName": "Escape",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "Mayhem - Team",
+            "gameName": "Borg",
             "timesPlayed": 1
         },
         {
             "gameName": "Gladiator Team",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Borg",
             "timesPlayed": 1
         }
     ],
@@ -42,8 +42,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 38,
-        "newPlayers": 0,
-        "churnedPlayers": 21
+        "activePlayers": 47,
+        "newPlayers": 5,
+        "churnedPlayers": 30
     }
 }

@@ -2,23 +2,27 @@
     "gamesPlayed": [
         {
             "gameName": "4 Teams",
-            "timesPlayed": 33
+            "timesPlayed": 44
+        },
+        {
+            "gameName": "3 Teams",
+            "timesPlayed": 7
         },
         {
             "gameName": "Colour Conquest",
-            "timesPlayed": 5
+            "timesPlayed": 6
         },
         {
             "gameName": "Space Marines 5 (3 Team)",
             "timesPlayed": 5
         },
         {
-            "gameName": "3 Teams",
+            "gameName": "Team",
             "timesPlayed": 4
         },
         {
-            "gameName": "Team",
-            "timesPlayed": 4
+            "gameName": "Individual",
+            "timesPlayed": 3
         },
         {
             "gameName": "Shadows (Individual)",
@@ -33,11 +37,11 @@
             "timesPlayed": 1
         },
         {
-            "gameName": "4 Team Supercharge",
+            "gameName": "Colour Ranked",
             "timesPlayed": 1
         },
         {
-            "gameName": "Colour Ranked",
+            "gameName": "4 Team Supercharge",
             "timesPlayed": 1
         }
     ],
@@ -46,8 +50,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 26,
+        "activePlayers": 31,
         "newPlayers": 0,
-        "churnedPlayers": 23
+        "churnedPlayers": 28
     }
 }
