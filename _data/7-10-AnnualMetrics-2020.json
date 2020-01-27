@@ -6,18 +6,18 @@
         },
         {
             "gameName": "Infection",
-            "timesPlayed": 6
+            "timesPlayed": 7
         },
         {
             "gameName": "Standard - Solo",
+            "timesPlayed": 6
+        },
+        {
+            "gameName": "Standard - Team",
             "timesPlayed": 5
         },
         {
             "gameName": "Escape",
-            "timesPlayed": 4
-        },
-        {
-            "gameName": "Standard - Team",
             "timesPlayed": 4
         },
         {
@@ -29,11 +29,15 @@
             "timesPlayed": 2
         },
         {
-            "gameName": "Borg",
+            "gameName": "Gladiator Team",
             "timesPlayed": 1
         },
         {
-            "gameName": "Gladiator Team",
+            "gameName": "Shadows",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "Borg",
             "timesPlayed": 1
         }
     ],

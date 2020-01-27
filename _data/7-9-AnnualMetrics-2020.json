@@ -2,7 +2,7 @@
     "gamesPlayed": [
         {
             "gameName": "4 Teams",
-            "timesPlayed": 44
+            "timesPlayed": 46
         },
         {
             "gameName": "3 Teams",
@@ -29,11 +29,11 @@
             "timesPlayed": 3
         },
         {
-            "gameName": "Fugitive",
-            "timesPlayed": 1
+            "gameName": "Individual Supercharge",
+            "timesPlayed": 2
         },
         {
-            "gameName": "Individual Supercharge",
+            "gameName": "Fugitive",
             "timesPlayed": 1
         },
         {
@@ -50,8 +50,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 31,
+        "activePlayers": 32,
         "newPlayers": 0,
-        "churnedPlayers": 28
+        "churnedPlayers": 29
     }
 }
