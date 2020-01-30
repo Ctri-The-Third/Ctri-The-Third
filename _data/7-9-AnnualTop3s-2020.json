@@ -3,19 +3,19 @@
         "month": "2020-01",
         "players": [
             {
+                "playerName": "C'tri",
+                "gamePlayed": 20,
+                "averageStars": "11.43"
+            },
+            {
                 "playerName": "JammyDodger",
                 "gamePlayed": 4,
                 "averageStars": "10.03"
             },
             {
                 "playerName": "Rayth",
-                "gamePlayed": 14,
-                "averageStars": "9.03"
-            },
-            {
-                "playerName": "C'tri",
-                "gamePlayed": 16,
-                "averageStars": "8.17"
+                "gamePlayed": 18,
+                "averageStars": "8.71"
             }
         ]
     }
