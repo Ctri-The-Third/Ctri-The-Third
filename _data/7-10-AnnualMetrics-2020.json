@@ -6,15 +6,15 @@
         },
         {
             "gameName": "Infection",
-            "timesPlayed": 8
+            "timesPlayed": 9
         },
         {
             "gameName": "Standard - Solo",
-            "timesPlayed": 7
+            "timesPlayed": 8
         },
         {
             "gameName": "Standard - Team",
-            "timesPlayed": 5
+            "timesPlayed": 6
         },
         {
             "gameName": "Escape",
@@ -25,15 +25,19 @@
             "timesPlayed": 3
         },
         {
-            "gameName": "Gladiator Team",
-            "timesPlayed": 2
-        },
-        {
             "gameName": "Mayhem - Team",
             "timesPlayed": 2
         },
         {
+            "gameName": "Gladiator Team",
+            "timesPlayed": 2
+        },
+        {
             "gameName": "Shadows",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "Mayhem - Solo",
             "timesPlayed": 1
         },
         {
@@ -46,8 +50,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 48,
+        "activePlayers": 50,
         "newPlayers": 5,
-        "churnedPlayers": 33
+        "churnedPlayers": 35
     }
 }
