@@ -2,11 +2,11 @@
     "gamesPlayed": [
         {
             "gameName": "4 Teams",
-            "timesPlayed": 47
+            "timesPlayed": 57
         },
         {
             "gameName": "3 Teams",
-            "timesPlayed": 7
+            "timesPlayed": 9
         },
         {
             "gameName": "Colour Conquest",
@@ -21,11 +21,11 @@
             "timesPlayed": 4
         },
         {
-            "gameName": "Individual Supercharge",
-            "timesPlayed": 3
+            "gameName": "Individual",
+            "timesPlayed": 4
         },
         {
-            "gameName": "Individual",
+            "gameName": "Individual Supercharge",
             "timesPlayed": 3
         },
         {
@@ -37,15 +37,15 @@
             "timesPlayed": 2
         },
         {
-            "gameName": "Fugitive",
-            "timesPlayed": 1
-        },
-        {
             "gameName": "Highlander",
             "timesPlayed": 1
         },
         {
             "gameName": "Colour Ranked",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "Fugitive",
             "timesPlayed": 1
         }
     ],
@@ -54,8 +54,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 33,
+        "activePlayers": 41,
         "newPlayers": 0,
-        "churnedPlayers": 30
+        "churnedPlayers": 38
     }
 }
