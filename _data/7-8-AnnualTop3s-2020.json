@@ -3,19 +3,39 @@
         "month": "2020-01",
         "players": [
             {
+                "playerName": "Blank",
+                "gamePlayed": 3,
+                "averageStars": "25.48"
+            },
+            {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 19,
-                "averageStars": "31.21"
+                "averageStars": "25.27"
             },
             {
                 "playerName": "John",
                 "gamePlayed": 4,
                 "averageStars": "23.36"
+            }
+        ]
+    },
+    {
+        "month": "2020-02",
+        "players": [
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 6,
+                "averageStars": "30.96"
             },
             {
-                "playerName": "Blank",
-                "gamePlayed": 3,
-                "averageStars": "20.02"
+                "playerName": "Road1to1Toast",
+                "gamePlayed": 5,
+                "averageStars": "22.41"
+            },
+            {
+                "playerName": "Shadow_Wolf",
+                "gamePlayed": 7,
+                "averageStars": "14.88"
             }
         ]
     }

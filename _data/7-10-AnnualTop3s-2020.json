@@ -3,19 +3,39 @@
         "month": "2020-01",
         "players": [
             {
-                "playerName": "[Insomniac]",
-                "gamePlayed": 17,
-                "averageStars": "46.02"
-            },
-            {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 36,
-                "averageStars": "43.59"
+                "averageStars": "47.72"
             },
             {
-                "playerName": "S N D",
+                "playerName": "[Insomniac]",
+                "gamePlayed": 17,
+                "averageStars": "40.26"
+            },
+            {
+                "playerName": "Wezza",
                 "gamePlayed": 8,
-                "averageStars": "29.69"
+                "averageStars": "30.15"
+            }
+        ]
+    },
+    {
+        "month": "2020-02",
+        "players": [
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 10,
+                "averageStars": "50.18"
+            },
+            {
+                "playerName": "Unagi",
+                "gamePlayed": 6,
+                "averageStars": "49.41"
+            },
+            {
+                "playerName": "[Insomniac]",
+                "gamePlayed": 6,
+                "averageStars": "29.34"
             }
         ]
     }
