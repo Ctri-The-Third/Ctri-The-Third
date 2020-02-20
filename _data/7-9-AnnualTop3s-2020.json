@@ -23,19 +23,19 @@
         "month": "2020-02",
         "players": [
             {
+                "playerName": "Goku",
+                "gamePlayed": 5,
+                "averageStars": "24.43"
+            },
+            {
                 "playerName": "Achilles",
-                "gamePlayed": 4,
-                "averageStars": "14.40"
+                "gamePlayed": 9,
+                "averageStars": "22.72"
             },
             {
                 "playerName": "C'tri",
-                "gamePlayed": 8,
-                "averageStars": "14.29"
-            },
-            {
-                "playerName": "Reboot",
-                "gamePlayed": 4,
-                "averageStars": "13.09"
+                "gamePlayed": 16,
+                "averageStars": "21.55"
             }
         ]
     }
