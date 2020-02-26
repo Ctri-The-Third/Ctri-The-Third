@@ -1,80 +1,116 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-03-01 and 2020-02-01",
-    "ScoreGreaterOrEqualDate": "2020-02-01",
-    "ScoreLessDate": "2020-03-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2019-12-01 and 2019-11-01",
+    "ScoreGreaterOrEqualDate": "2019-11-01",
+    "ScoreLessDate": "2019-12-01",
     "Player": [
         {},
         {
-            "Name": "Noob!",
-            "AverageScore": 29306,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21911843.40"
+            "Name": "Madness",
+            "AverageScore": 24767,
+            "MissionsPlayed": 3,
+            "ChangeInScore": "\u2191211.96"
+        },
+        {
+            "Name": "Coby Pro",
+            "AverageScore": 22960,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Bigdog",
+            "AverageScore": 21193,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
         },
         {
             "Name": "Dan W Keys",
-            "AverageScore": 23776,
+            "AverageScore": 19546,
+            "MissionsPlayed": 3,
+            "ChangeInScore": "\u2191271.50"
+        },
+        {
+            "Name": "Sn3aky",
+            "AverageScore": 18557,
             "MissionsPlayed": 1,
-            "ChangeInScore": "\u21912400.00"
+            "ChangeInScore": "\u21931574.07"
+        },
+        {
+            "Name": "Jacob B",
+            "AverageScore": 17419,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
         },
         {
             "Name": "Psycho",
-            "AverageScore": 19205,
-            "MissionsPlayed": 7,
-            "ChangeInScore": "\u21911420.89"
+            "AverageScore": 15798,
+            "MissionsPlayed": 4,
+            "ChangeInScore": "\u21933011.03"
         },
         {
-            "Name": "<!-- Blaze -->",
-            "AverageScore": 17527,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "BBTheory",
-            "AverageScore": 16936,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21914640.00"
-        },
-        {
-            "Name": "Mr_Tumble",
-            "AverageScore": 14952,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21932795.50"
-        },
-        {
-            "Name": "Iceball",
-            "AverageScore": 14301,
+            "Name": "Boss443",
+            "AverageScore": 15167,
             "MissionsPlayed": 2,
             "ChangeInScore": null
-        },
-        {
-            "Name": "Blank",
-            "AverageScore": 13717,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21933154.50"
         },
         {
             "Name": "Shadow_Wolf",
-            "AverageScore": 13123,
-            "MissionsPlayed": 3,
-            "ChangeInScore": "\u21931105.17"
+            "AverageScore": 14861,
+            "MissionsPlayed": 4,
+            "ChangeInScore": "\u21911657.54"
         },
         {
-            "Name": "Morrigan",
-            "AverageScore": 12337,
+            "Name": "Road1to1Toast",
+            "AverageScore": 14512,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21911095.78"
+        },
+        {
+            "Name": "Little Leon",
+            "AverageScore": 13530,
+            "MissionsPlayed": 3,
+            "ChangeInScore": "\u21911171.76"
+        },
+        {
+            "Name": "Dad1of1Toast",
+            "AverageScore": 12232,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21933215.00"
+        },
+        {
+            "Name": "Melody",
+            "AverageScore": 11736,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
-            "Name": "Phil_Swift",
-            "AverageScore": 11730,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21911051.75"
+            "Name": "Bobby",
+            "AverageScore": 9294,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
         },
         {
-            "Name": "Nicomac99",
-            "AverageScore": 10617,
-            "MissionsPlayed": 2,
+            "Name": "Mason",
+            "AverageScore": 9003,
+            "MissionsPlayed": 1,
             "ChangeInScore": null
+        },
+        {
+            "Name": "G1ng3",
+            "AverageScore": 8901,
+            "MissionsPlayed": 3,
+            "ChangeInScore": "\u21913293.83"
+        },
+        {
+            "Name": "Leo",
+            "AverageScore": 7622,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Brodz03",
+            "AverageScore": 4620,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21935082.00"
         }
     ]
 }
