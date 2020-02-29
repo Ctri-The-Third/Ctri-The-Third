@@ -2,7 +2,7 @@
     "gamesPlayed": [
         {
             "gameName": "Standard Individual",
-            "timesPlayed": 114
+            "timesPlayed": 117
         },
         {
             "gameName": "Continous Challenge",
@@ -14,7 +14,7 @@
         },
         {
             "gameName": "Standard 2 Team",
-            "timesPlayed": 56
+            "timesPlayed": 58
         },
         {
             "gameName": "Colour Conquest",
@@ -138,8 +138,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 253,
+        "activePlayers": 256,
         "newPlayers": 1,
-        "churnedPlayers": 234
+        "churnedPlayers": 237
     }
 }

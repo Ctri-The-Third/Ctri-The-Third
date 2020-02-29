@@ -5,6 +5,12 @@
     "Player": [
         {},
         {
+            "Name": "HotShot",
+            "AverageScore": 20155,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
             "Name": "JammyDodger",
             "AverageScore": 19323,
             "MissionsPlayed": 5,
@@ -12,20 +18,26 @@
         },
         {
             "Name": "Achilles",
-            "AverageScore": 19005,
-            "MissionsPlayed": 3,
-            "ChangeInScore": "\u21912627.87"
+            "AverageScore": 18677,
+            "MissionsPlayed": 5,
+            "ChangeInScore": "\u21912300.00"
         },
         {
             "Name": "C'tri",
-            "AverageScore": 18787,
-            "MissionsPlayed": 5,
-            "ChangeInScore": "\u21914516.23"
+            "AverageScore": 18615,
+            "MissionsPlayed": 7,
+            "ChangeInScore": "\u21914344.29"
         },
         {
             "Name": "Deadpool",
             "AverageScore": 16917,
             "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Goku",
+            "AverageScore": 16010,
+            "MissionsPlayed": 2,
             "ChangeInScore": null
         },
         {
@@ -39,6 +51,18 @@
             "AverageScore": 14155,
             "MissionsPlayed": 2,
             "ChangeInScore": "\u21912518.20"
+        },
+        {
+            "Name": "Jj",
+            "AverageScore": 13883,
+            "MissionsPlayed": 6,
+            "ChangeInScore": "\u21913029.26"
+        },
+        {
+            "Name": "Minnie",
+            "AverageScore": 13750,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
         },
         {
             "Name": "Oscar",
@@ -77,12 +101,6 @@
             "ChangeInScore": "\u21912926.67"
         },
         {
-            "Name": "Jj",
-            "AverageScore": 11085,
-            "MissionsPlayed": 3,
-            "ChangeInScore": "\u2191230.76"
-        },
-        {
             "Name": "D D D D D Dora",
             "AverageScore": 10965,
             "MissionsPlayed": 2,
@@ -101,16 +119,16 @@
             "ChangeInScore": null
         },
         {
+            "Name": "Robo_h34d",
+            "AverageScore": 9829,
+            "MissionsPlayed": 5,
+            "ChangeInScore": "\u21935466.00"
+        },
+        {
             "Name": "Billybob",
             "AverageScore": 9340,
             "MissionsPlayed": 2,
             "ChangeInScore": "\u2193214.00"
-        },
-        {
-            "Name": "Robo_h34d",
-            "AverageScore": 8582,
-            "MissionsPlayed": 3,
-            "ChangeInScore": "\u21936713.33"
         },
         {
             "Name": "Angel of Death",

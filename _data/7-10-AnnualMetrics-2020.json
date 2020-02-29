@@ -2,19 +2,19 @@
     "gamesPlayed": [
         {
             "gameName": "Base Flags",
-            "timesPlayed": 50
+            "timesPlayed": 52
         },
         {
             "gameName": "Infection",
-            "timesPlayed": 21
+            "timesPlayed": 24
         },
         {
             "gameName": "Standard - Solo",
-            "timesPlayed": 20
+            "timesPlayed": 22
         },
         {
             "gameName": "Standard - Team",
-            "timesPlayed": 16
+            "timesPlayed": 19
         },
         {
             "gameName": "Gladiator Team",
@@ -49,12 +49,8 @@
             "timesPlayed": 2
         },
         {
-            "gameName": "Fugitive",
-            "timesPlayed": 1
-        },
-        {
             "gameName": "Team Deathmatch",
-            "timesPlayed": 1
+            "timesPlayed": 2
         },
         {
             "gameName": "Wabbit Season",
@@ -67,6 +63,10 @@
         {
             "gameName": "Gladiator Solo",
             "timesPlayed": 1
+        },
+        {
+            "gameName": "Fugitive",
+            "timesPlayed": 1
         }
     ],
     "referrals": {
@@ -74,8 +74,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 70,
+        "activePlayers": 71,
         "newPlayers": 5,
-        "churnedPlayers": 52
+        "churnedPlayers": 53
     }
 }
