@@ -2,15 +2,19 @@
     "gamesPlayed": [
         {
             "gameName": "4 Teams",
-            "timesPlayed": 107
-        },
-        {
-            "gameName": "3 Teams",
-            "timesPlayed": 15
+            "timesPlayed": 140
         },
         {
             "gameName": "Team",
-            "timesPlayed": 14
+            "timesPlayed": 22
+        },
+        {
+            "gameName": "3 Teams",
+            "timesPlayed": 19
+        },
+        {
+            "gameName": "Individual",
+            "timesPlayed": 18
         },
         {
             "gameName": "Colour Conquest",
@@ -21,16 +25,12 @@
             "timesPlayed": 11
         },
         {
-            "gameName": "Individual",
-            "timesPlayed": 10
-        },
-        {
             "gameName": "4 Team Supercharge",
             "timesPlayed": 8
         },
         {
             "gameName": "Individual Supercharge",
-            "timesPlayed": 5
+            "timesPlayed": 6
         },
         {
             "gameName": "Shadows (Individual)",
@@ -70,8 +70,8 @@
         "welcomers": 11
     },
     "playerCounts": {
-        "activePlayers": 60,
-        "newPlayers": 3,
-        "churnedPlayers": 57
+        "activePlayers": 74,
+        "newPlayers": 6,
+        "churnedPlayers": 71
     }
 }

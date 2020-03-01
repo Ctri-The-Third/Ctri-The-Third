@@ -3,19 +3,19 @@
         "month": "2020-01",
         "players": [
             {
+                "playerName": "Blank",
+                "gamePlayed": 3,
+                "averageStars": "31.15"
+            },
+            {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 19,
-                "averageStars": "27.93"
+                "averageStars": "23.68"
             },
             {
                 "playerName": "John",
                 "gamePlayed": 4,
                 "averageStars": "23.36"
-            },
-            {
-                "playerName": "Blank",
-                "gamePlayed": 3,
-                "averageStars": "20.02"
             }
         ]
     },
@@ -25,17 +25,17 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 20,
-                "averageStars": "40.02"
+                "averageStars": "41.08"
             },
             {
                 "playerName": "Agent Jaikei",
                 "gamePlayed": 5,
-                "averageStars": "21.94"
+                "averageStars": "26.01"
             },
             {
                 "playerName": "Hero of Light",
                 "gamePlayed": 10,
-                "averageStars": "20.13"
+                "averageStars": "19.99"
             }
         ]
     }
