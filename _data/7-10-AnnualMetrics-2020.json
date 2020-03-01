@@ -6,11 +6,11 @@
         },
         {
             "gameName": "Infection",
-            "timesPlayed": 24
+            "timesPlayed": 25
         },
         {
             "gameName": "Standard - Solo",
-            "timesPlayed": 22
+            "timesPlayed": 24
         },
         {
             "gameName": "Standard - Team",
@@ -29,12 +29,12 @@
             "timesPlayed": 6
         },
         {
-            "gameName": "Mayhem - Team",
+            "gameName": "Mayhem - Solo",
             "timesPlayed": 5
         },
         {
-            "gameName": "Mayhem - Solo",
-            "timesPlayed": 4
+            "gameName": "Mayhem - Team",
+            "timesPlayed": 5
         },
         {
             "gameName": "Borg",
@@ -53,7 +53,7 @@
             "timesPlayed": 2
         },
         {
-            "gameName": "Wabbit Season",
+            "gameName": "Fugitive",
             "timesPlayed": 1
         },
         {
@@ -65,7 +65,7 @@
             "timesPlayed": 1
         },
         {
-            "gameName": "Fugitive",
+            "gameName": "Wabbit Season",
             "timesPlayed": 1
         }
     ],
@@ -74,8 +74,8 @@
         "welcomers": 0
     },
     "playerCounts": {
-        "activePlayers": 71,
-        "newPlayers": 5,
-        "churnedPlayers": 53
+        "activePlayers": 72,
+        "newPlayers": 6,
+        "churnedPlayers": 54
     }
 }
