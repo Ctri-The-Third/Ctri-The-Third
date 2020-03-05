@@ -1,91 +1,56 @@
 [
     {
-        "month": 1,
+        "month": "2020-01",
         "players": [
             {
-                "playerName": "7-2-46803",
+                "playerName": "Rotten",
                 "gamePlayed": 4,
-                "averageStars": "109.25"
-            }
-        ]
-    },
-    {
-        "month": 2,
-        "players": [
+                "averageStars": "92.04"
+            },
             {
-                "playerName": "7-2-43166",
+                "playerName": "Stealth Elf",
                 "gamePlayed": 8,
-                "averageStars": "58.13"
+                "averageStars": "52.55"
+            },
+            {
+                "playerName": "Epic FailureCBA",
+                "gamePlayed": 10,
+                "averageStars": "36.51"
             }
         ]
     },
     {
-        "month": 3,
+        "month": "2020-02",
         "players": [
             {
-                "playerName": "7-2-50827",
-                "gamePlayed": 8,
-                "averageStars": "48.50"
-            }
-        ]
-    },
-    {
-        "month": 1,
-        "players": [
-            {
-                "playerName": "7-2-47524",
-                "gamePlayed": 8,
-                "averageStars": "136.63"
-            }
-        ]
-    },
-    {
-        "month": 2,
-        "players": [
-            {
-                "playerName": "7-2-38600",
+                "playerName": "Laser Pro",
                 "gamePlayed": 7,
-                "averageStars": "76.71"
-            }
-        ]
-    },
-    {
-        "month": 3,
-        "players": [
+                "averageStars": "65.19"
+            },
             {
-                "playerName": "7-2-56101",
+                "playerName": "*Thunder*",
+                "gamePlayed": 8,
+                "averageStars": "48.02"
+            },
+            {
+                "playerName": "Oscar,Romeo",
                 "gamePlayed": 9,
-                "averageStars": "57.78"
+                "averageStars": "31.34"
             }
         ]
     },
     {
-        "month": 1,
+        "month": "2020-03",
         "players": [
             {
-                "playerName": "7-2-2201",
-                "gamePlayed": 5,
-                "averageStars": "33.60"
-            }
-        ]
-    },
-    {
-        "month": 2,
-        "players": [
-            {
-                "playerName": "7-2-12356",
+                "playerName": "00Z T.B.B",
                 "gamePlayed": 7,
-                "averageStars": "28.86"
-            }
-        ]
-    },
-    {
-        "month": 3,
-        "players": [
+                "averageStars": "1.79"
+            },
             {
-                "playerName": "7-2-37709",
+                "playerName": "Smally McSmall",
                 "gamePlayed": 7,
-                "averageStars": "24.71"
+                "averageStars": "1.59"
             }
         ]
     }

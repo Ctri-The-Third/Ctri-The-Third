@@ -1,71 +1,41 @@
 [
     {
-        "month": 1,
+        "month": "2020-01",
         "players": [
             {
-                "playerName": "9-6-106",
+                "playerName": "Robo_h34d",
+                "gamePlayed": 4,
+                "averageStars": "13.09"
+            },
+            {
+                "playerName": "C'tri",
                 "gamePlayed": 20,
-                "averageStars": "15.30"
-            }
-        ]
-    },
-    {
-        "month": 2,
-        "players": [
+                "averageStars": "11.43"
+            },
             {
-                "playerName": "7-9-220040",
+                "playerName": "Rayth",
                 "gamePlayed": 19,
-                "averageStars": "15.00"
+                "averageStars": "10.36"
             }
         ]
     },
     {
-        "month": 3,
+        "month": "2020-02",
         "players": [
             {
-                "playerName": "7-9-13958",
-                "gamePlayed": 4,
-                "averageStars": "14.25"
-            }
-        ]
-    },
-    {
-        "month": 1,
-        "players": [
-            {
-                "playerName": "7-8-1196",
+                "playerName": "Goku",
                 "gamePlayed": 8,
-                "averageStars": "38.63"
-            }
-        ]
-    },
-    {
-        "month": 2,
-        "players": [
+                "averageStars": "24.50"
+            },
             {
-                "playerName": "7-9-126",
-                "gamePlayed": 17,
-                "averageStars": "37.88"
-            }
-        ]
-    },
-    {
-        "month": 3,
-        "players": [
-            {
-                "playerName": "9-6-106",
+                "playerName": "C'tri",
                 "gamePlayed": 23,
-                "averageStars": "33.96"
-            }
-        ]
-    },
-    {
-        "month": 1,
-        "players": [
+                "averageStars": "22.30"
+            },
             {
-                "playerName": "7-9-220040",
-                "gamePlayed": 4,
-                "averageStars": "1.00"
+                "playerName": "Achilles",
+                "gamePlayed": 17,
+                "averageStars": "20.56"
             }
         ]
     }
