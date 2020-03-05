@@ -13,14 +13,16 @@ URLPrefix: '/7-9'
 <tr><th>Player Name</th><th colspan = "2">Star Quality<br/>per game </th><th> Total Star<br/>Quality</th> <th style = "padding-left:30px;"  colspan = "2">Average<br/>Players</th><th  colspan = "2">Average<br/> Rank</th><th>Games <br/>Played</th></tr>
 {% for Player in site.data.7-9-StarQuality.Player %}
 <tr onclick = "showBreakdown({{Player.JSID}})" >
-<td class>{{Player.Name}}</td><td class = "number">{{Player.StarQualityPerGame}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInSQPerGame}} </td><td class = "number">{{Player.TotalStarQuality}}</td><td style = "padding-left:30px;" class = "number">{{Player.AverageOpponents}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInPlayers}}</td><td class = "number">{{Player.AverageRank}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInRank}}</td><td class = "number">{{Player.gamesPlayed}}</td>
+<td class = "clickable">{{Player.Name}}</td><td class = "number">{{Player.StarQualityPerGame}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInSQPerGame}} </td><td class = "number">{{Player.TotalStarQuality}}</td><td style = "padding-left:30px;" class = "number">{{Player.AverageOpponents}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInPlayers}}</td><td class = "number">{{Player.AverageRank}}</td><td class = "SmallBrightNumber"> {{Player.ChangeInRank}}</td><td class = "number">{{Player.gamesPlayed}}</td>
 </tr>
 {% endfor %}
 </table>
 
+Click a player's name to see where they got their stars from!
 {% for Player in site.data.7-9-StarQuality.Player %}
 <div id = "Breakdown_{{Player.JSID}}" class = "breakdownDiv">
 <h2>Breakdown for {{Player.Name}}</h2>
+
 <table> 
     <tr>
         <th>Game Name</th><th>rank</th><th>players</th><th>stars</th>
