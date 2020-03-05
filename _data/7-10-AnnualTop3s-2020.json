@@ -1,41 +1,91 @@
 [
     {
-        "month": "2020-01",
+        "month": 1,
         "players": [
             {
-                "playerName": "-=Valroc=-",
+                "playerName": "7-4-9541",
                 "gamePlayed": 36,
-                "averageStars": "41.98"
-            },
-            {
-                "playerName": "[Insomniac]",
-                "gamePlayed": 17,
-                "averageStars": "37.17"
-            },
-            {
-                "playerName": "S N D",
-                "gamePlayed": 8,
-                "averageStars": "31.34"
+                "averageStars": "79.72"
             }
         ]
     },
     {
-        "month": "2020-02",
+        "month": 2,
         "players": [
             {
-                "playerName": "-=Valroc=-",
+                "playerName": "7-10-119",
+                "gamePlayed": 17,
+                "averageStars": "69.47"
+            }
+        ]
+    },
+    {
+        "month": 3,
+        "players": [
+            {
+                "playerName": "7-10-313",
+                "gamePlayed": 31,
+                "averageStars": "53.32"
+            }
+        ]
+    },
+    {
+        "month": 1,
+        "players": [
+            {
+                "playerName": "7-4-9541",
                 "gamePlayed": 23,
-                "averageStars": "43.71"
-            },
+                "averageStars": "68.52"
+            }
+        ]
+    },
+    {
+        "month": 2,
+        "players": [
             {
-                "playerName": "Calpinator",
-                "gamePlayed": 7,
-                "averageStars": "24.67"
-            },
-            {
-                "playerName": "Unagi",
+                "playerName": "7-10-313",
                 "gamePlayed": 25,
-                "averageStars": "23.50"
+                "averageStars": "47.28"
+            }
+        ]
+    },
+    {
+        "month": 3,
+        "players": [
+            {
+                "playerName": "7-8-943",
+                "gamePlayed": 20,
+                "averageStars": "41.30"
+            }
+        ]
+    },
+    {
+        "month": 1,
+        "players": [
+            {
+                "playerName": "7-4-9541",
+                "gamePlayed": 9,
+                "averageStars": "4.11"
+            }
+        ]
+    },
+    {
+        "month": 2,
+        "players": [
+            {
+                "playerName": "7-8-943",
+                "gamePlayed": 6,
+                "averageStars": "3.67"
+            }
+        ]
+    },
+    {
+        "month": 3,
+        "players": [
+            {
+                "playerName": "7-8-833",
+                "gamePlayed": 4,
+                "averageStars": "2.75"
             }
         ]
     }

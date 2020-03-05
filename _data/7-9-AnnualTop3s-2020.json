@@ -1,41 +1,71 @@
 [
     {
-        "month": "2020-01",
+        "month": 1,
         "players": [
             {
-                "playerName": "Robo_h34d",
-                "gamePlayed": 4,
-                "averageStars": "13.09"
-            },
-            {
-                "playerName": "C'tri",
+                "playerName": "9-6-106",
                 "gamePlayed": 20,
-                "averageStars": "11.43"
-            },
-            {
-                "playerName": "Rayth",
-                "gamePlayed": 19,
-                "averageStars": "10.36"
+                "averageStars": "15.30"
             }
         ]
     },
     {
-        "month": "2020-02",
+        "month": 2,
         "players": [
             {
-                "playerName": "Goku",
+                "playerName": "7-9-220040",
+                "gamePlayed": 19,
+                "averageStars": "15.00"
+            }
+        ]
+    },
+    {
+        "month": 3,
+        "players": [
+            {
+                "playerName": "7-9-13958",
+                "gamePlayed": 4,
+                "averageStars": "14.25"
+            }
+        ]
+    },
+    {
+        "month": 1,
+        "players": [
+            {
+                "playerName": "7-8-1196",
                 "gamePlayed": 8,
-                "averageStars": "24.50"
-            },
+                "averageStars": "38.63"
+            }
+        ]
+    },
+    {
+        "month": 2,
+        "players": [
             {
-                "playerName": "C'tri",
-                "gamePlayed": 23,
-                "averageStars": "22.30"
-            },
-            {
-                "playerName": "Achilles",
+                "playerName": "7-9-126",
                 "gamePlayed": 17,
-                "averageStars": "20.56"
+                "averageStars": "37.88"
+            }
+        ]
+    },
+    {
+        "month": 3,
+        "players": [
+            {
+                "playerName": "9-6-106",
+                "gamePlayed": 23,
+                "averageStars": "33.96"
+            }
+        ]
+    },
+    {
+        "month": 1,
+        "players": [
+            {
+                "playerName": "7-9-220040",
+                "gamePlayed": 4,
+                "averageStars": "1.00"
             }
         ]
     }
