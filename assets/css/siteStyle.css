@@ -288,6 +288,10 @@ div.spacer
     width:100%;
 }
 
+.clickable{
+    cursor:pointer;
+}
+
 /*----- breakdown starts ----- */
 
 div.breakdownDiv {
