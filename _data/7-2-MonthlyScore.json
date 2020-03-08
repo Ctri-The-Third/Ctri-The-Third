@@ -3,6 +3,18 @@
     "ScoreGreaterOrEqualDate": "2020-03-01",
     "ScoreLessDate": "2020-04-01",
     "Player": [
-        {}
+        {},
+        {
+            "Name": "Holland99999999",
+            "AverageScore": 6301,
+            "MissionsPlayed": 4,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Pilot",
+            "AverageScore": 5282,
+            "MissionsPlayed": 4,
+            "ChangeInScore": null
+        }
     ]
 }

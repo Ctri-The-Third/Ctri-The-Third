@@ -1,71 +1,61 @@
 [
     {
-        "month": 1,
+        "month": "2020-01",
         "players": [
             {
-                "playerName": "9-6-106",
+                "playerName": "C'tri",
                 "gamePlayed": 20,
-                "averageStars": "15.30"
-            }
-        ]
-    },
-    {
-        "month": 2,
-        "players": [
+                "averageStars": "15.44"
+            },
             {
-                "playerName": "7-9-220040",
+                "playerName": "Rayth",
                 "gamePlayed": 19,
-                "averageStars": "15.00"
-            }
-        ]
-    },
-    {
-        "month": 3,
-        "players": [
+                "averageStars": "15.05"
+            },
             {
-                "playerName": "7-9-13958",
+                "playerName": "Robo_h34d",
                 "gamePlayed": 4,
                 "averageStars": "14.25"
             }
         ]
     },
     {
-        "month": 1,
+        "month": "2020-02",
         "players": [
             {
-                "playerName": "7-8-1196",
+                "playerName": "Goku",
                 "gamePlayed": 8,
-                "averageStars": "38.63"
-            }
-        ]
-    },
-    {
-        "month": 2,
-        "players": [
+                "averageStars": "38.90"
+            },
             {
-                "playerName": "7-9-126",
+                "playerName": "Achilles",
                 "gamePlayed": 17,
-                "averageStars": "37.88"
-            }
-        ]
-    },
-    {
-        "month": 3,
-        "players": [
+                "averageStars": "38.08"
+            },
             {
-                "playerName": "9-6-106",
+                "playerName": "C'tri",
                 "gamePlayed": 23,
-                "averageStars": "33.96"
+                "averageStars": "34.09"
             }
         ]
     },
     {
-        "month": 1,
+        "month": "2020-03",
         "players": [
             {
-                "playerName": "7-9-220040",
+                "playerName": "Rayth",
                 "gamePlayed": 4,
-                "averageStars": "1.00"
+                "averageStars": "16.67"
+            },
+            {
+                "playerName": "Oscar",
+                "gamePlayed": 4,
+                "averageStars": "15.63"
+            },
+            {
+                "playerName": "Jj",
+                "gamePlayed": 4,
+                "averageStars": "11.98"
             }
         ]
     }

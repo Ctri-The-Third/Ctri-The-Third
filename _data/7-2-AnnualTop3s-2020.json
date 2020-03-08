@@ -1,91 +1,61 @@
 [
     {
-        "month": 1,
+        "month": "2020-01",
         "players": [
             {
-                "playerName": "7-2-46803",
+                "playerName": "Rotten",
                 "gamePlayed": 4,
-                "averageStars": "109.25"
-            }
-        ]
-    },
-    {
-        "month": 2,
-        "players": [
+                "averageStars": "109.50"
+            },
             {
-                "playerName": "7-2-43166",
+                "playerName": "Stealth Elf",
                 "gamePlayed": 8,
-                "averageStars": "58.13"
-            }
-        ]
-    },
-    {
-        "month": 3,
-        "players": [
+                "averageStars": "58.19"
+            },
             {
-                "playerName": "7-2-50827",
+                "playerName": "Halo 197",
                 "gamePlayed": 8,
-                "averageStars": "48.50"
+                "averageStars": "48.78"
             }
         ]
     },
     {
-        "month": 1,
+        "month": "2020-02",
         "players": [
             {
-                "playerName": "7-2-47524",
+                "playerName": "*Thunder*",
                 "gamePlayed": 8,
-                "averageStars": "136.63"
-            }
-        ]
-    },
-    {
-        "month": 2,
-        "players": [
+                "averageStars": "136.69"
+            },
             {
-                "playerName": "7-2-38600",
+                "playerName": "Laser Pro",
                 "gamePlayed": 7,
-                "averageStars": "76.71"
-            }
-        ]
-    },
-    {
-        "month": 3,
-        "players": [
+                "averageStars": "76.79"
+            },
             {
-                "playerName": "7-2-56101",
+                "playerName": "Oscar,Romeo",
                 "gamePlayed": 9,
-                "averageStars": "57.78"
+                "averageStars": "57.96"
             }
         ]
     },
     {
-        "month": 1,
+        "month": "2020-03",
         "players": [
             {
-                "playerName": "7-2-2201",
+                "playerName": "I B Titch CBA",
                 "gamePlayed": 5,
-                "averageStars": "33.60"
-            }
-        ]
-    },
-    {
-        "month": 2,
-        "players": [
+                "averageStars": "68.67"
+            },
             {
-                "playerName": "7-2-12356",
+                "playerName": "Hewey",
                 "gamePlayed": 7,
-                "averageStars": "28.86"
-            }
-        ]
-    },
-    {
-        "month": 3,
-        "players": [
+                "averageStars": "48.58"
+            },
             {
-                "playerName": "7-2-37709",
+                "playerName": "00Z T.B.B",
                 "gamePlayed": 7,
-                "averageStars": "24.71"
+                "averageStars": "42.08"
             }
         ]
     }

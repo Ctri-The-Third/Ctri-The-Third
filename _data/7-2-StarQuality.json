@@ -7,32 +7,32 @@
         {
             "JSID": 0,
             "Name": "I B Titch CBA",
-            "StarQualityPerGame": "33.60",
-            "TotalStarQuality": "168.00",
-            "AverageOpponents": "7.40",
+            "StarQualityPerGame": "68.67",
+            "TotalStarQuality": "343.33",
+            "AverageOpponents": "10.40",
             "gamesPlayed": 5,
-            "AverageRank": "3.40",
-            "ChangeInRank": "\u21931.40",
-            "ChangeInPlayers": "\u21911.53",
-            "ChangeInSQPerGame": "\u21917.13",
+            "AverageRank": "4.40",
+            "ChangeInRank": "\u21932.40",
+            "ChangeInPlayers": "\u21914.53",
+            "ChangeInSQPerGame": "\u219142.13",
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
                     "rank": 3,
-                    "totalPlayers": 11,
-                    "starsForGame": "40.33"
+                    "totalPlayers": 16,
+                    "starsForGame": "85.33"
                 },
                 {
                     "gameName": "Colour Conquest",
-                    "rank": 11,
-                    "totalPlayers": 11,
-                    "starsForGame": "11.00"
+                    "rank": 16,
+                    "totalPlayers": 16,
+                    "starsForGame": "16.00"
                 },
                 {
                     "gameName": "Minions",
                     "rank": 1,
-                    "totalPlayers": 10,
-                    "starsForGame": "100.00"
+                    "totalPlayers": 15,
+                    "starsForGame": "225.00"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -50,50 +50,50 @@
         },
         {
             "JSID": 1,
-            "Name": "00Z T.B.B",
-            "StarQualityPerGame": "28.86",
-            "TotalStarQuality": "202.00",
-            "AverageOpponents": "5.57",
+            "Name": "Hewey",
+            "StarQualityPerGame": "48.58",
+            "TotalStarQuality": "340.03",
+            "AverageOpponents": "8.57",
             "gamesPlayed": 7,
-            "AverageRank": "2.00",
-            "ChangeInRank": "\u21930.36",
-            "ChangeInPlayers": "\u21930.34",
-            "ChangeInSQPerGame": "\u21910.31",
+            "AverageRank": "4.43",
+            "ChangeInRank": "\u21910.07",
+            "ChangeInPlayers": "\u21912.57",
+            "ChangeInSQPerGame": "\u219139.88",
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
-                    "rank": 6,
-                    "totalPlayers": 11,
-                    "starsForGame": "20.17"
+                    "rank": 1,
+                    "totalPlayers": 16,
+                    "starsForGame": "256.00"
                 },
                 {
                     "gameName": "Colour Conquest",
-                    "rank": 1,
-                    "totalPlayers": 11,
-                    "starsForGame": "121.00"
+                    "rank": 5,
+                    "totalPlayers": 16,
+                    "starsForGame": "51.20"
                 },
                 {
                     "gameName": "Minions",
+                    "rank": 15,
+                    "totalPlayers": 15,
+                    "starsForGame": "15.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Assault Tournament",
                     "rank": 2,
-                    "totalPlayers": 10,
-                    "starsForGame": "50.00"
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
                 },
                 {
                     "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 2,
+                    "rank": 4,
+                    "totalPlayers": 4,
                     "starsForGame": "4.00"
                 },
                 {
@@ -106,51 +106,51 @@
         },
         {
             "JSID": 2,
-            "Name": "Hewey",
-            "StarQualityPerGame": "24.71",
-            "TotalStarQuality": "173.00",
-            "AverageOpponents": "6.14",
+            "Name": "00Z T.B.B",
+            "StarQualityPerGame": "42.08",
+            "TotalStarQuality": "294.57",
+            "AverageOpponents": "8.14",
             "gamesPlayed": 7,
-            "AverageRank": "3.57",
-            "ChangeInRank": "\u21910.93",
-            "ChangeInPlayers": "\u21910.14",
-            "ChangeInSQPerGame": "\u219116.05",
+            "AverageRank": "2.57",
+            "ChangeInRank": "\u21930.94",
+            "ChangeInPlayers": "\u21912.23",
+            "ChangeInSQPerGame": "\u219113.48",
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
-                    "rank": 1,
-                    "totalPlayers": 11,
-                    "starsForGame": "121.00"
+                    "rank": 7,
+                    "totalPlayers": 16,
+                    "starsForGame": "36.57"
                 },
                 {
                     "gameName": "Colour Conquest",
-                    "rank": 4,
-                    "totalPlayers": 11,
-                    "starsForGame": "30.25"
+                    "rank": 2,
+                    "totalPlayers": 16,
+                    "starsForGame": "128.00"
                 },
                 {
                     "gameName": "Minions",
-                    "rank": 10,
-                    "totalPlayers": 10,
-                    "starsForGame": "10.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
+                    "rank": 2,
+                    "totalPlayers": 15,
+                    "starsForGame": "112.50"
                 },
                 {
                     "gameName": "Assault Tournament",
                     "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
                 },
                 {
                     "gameName": "Assault Tournament",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
                 },
                 {
                     "gameName": "Continous Ind",
@@ -162,63 +162,75 @@
         },
         {
             "JSID": 3,
-            "Name": "Fortnite123",
-            "StarQualityPerGame": "16.80",
-            "TotalStarQuality": "168.00",
-            "AverageOpponents": "5.50",
-            "gamesPlayed": 10,
-            "AverageRank": "2.10",
-            "ChangeInRank": "\u21930.63",
-            "ChangeInPlayers": "\u21930.87",
-            "ChangeInSQPerGame": "\u219323.93",
+            "Name": "Stryder CBA",
+            "StarQualityPerGame": "29.84",
+            "TotalStarQuality": "358.13",
+            "AverageOpponents": "4.75",
+            "gamesPlayed": 12,
+            "AverageRank": "1.92",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
-                    "rank": 7,
-                    "totalPlayers": 11,
-                    "starsForGame": "17.29"
+                    "rank": 4,
+                    "totalPlayers": 16,
+                    "starsForGame": "64.00"
                 },
                 {
                     "gameName": "Colour Conquest",
-                    "rank": 3,
-                    "totalPlayers": 11,
-                    "starsForGame": "40.33"
+                    "rank": 1,
+                    "totalPlayers": 16,
+                    "starsForGame": "256.00"
                 },
                 {
                     "gameName": "Minions",
-                    "rank": 3,
-                    "totalPlayers": 10,
-                    "starsForGame": "33.33"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
+                    "rank": 7,
+                    "totalPlayers": 15,
+                    "starsForGame": "32.14"
                 },
                 {
                     "gameName": "Assault Tournament",
                     "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
                     "gameName": "Assault Tournament",
                     "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 },
                 {
                     "gameName": "Assault Tournament",
                     "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 },
                 {
                     "gameName": "Continous Ind",
@@ -237,38 +249,38 @@
         {
             "JSID": 4,
             "Name": "Smally McSmall",
-            "StarQualityPerGame": "15.00",
-            "TotalStarQuality": "105.00",
-            "AverageOpponents": "6.14",
+            "StarQualityPerGame": "27.04",
+            "TotalStarQuality": "189.27",
+            "AverageOpponents": "8.43",
             "gamesPlayed": 7,
-            "AverageRank": "3.57",
-            "ChangeInRank": "\u21910.43",
-            "ChangeInPlayers": "\u21910.29",
-            "ChangeInSQPerGame": "\u21915.43",
+            "AverageRank": "4.86",
+            "ChangeInRank": "\u21930.86",
+            "ChangeInPlayers": "\u21912.57",
+            "ChangeInSQPerGame": "\u219117.41",
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
                     "rank": 2,
-                    "totalPlayers": 11,
-                    "starsForGame": "60.50"
+                    "totalPlayers": 16,
+                    "starsForGame": "128.00"
                 },
                 {
                     "gameName": "Colour Conquest",
-                    "rank": 8,
-                    "totalPlayers": 11,
-                    "starsForGame": "15.13"
+                    "rank": 13,
+                    "totalPlayers": 16,
+                    "starsForGame": "19.69"
                 },
                 {
                     "gameName": "Minions",
-                    "rank": 8,
-                    "totalPlayers": 10,
-                    "starsForGame": "12.50"
+                    "rank": 12,
+                    "totalPlayers": 15,
+                    "starsForGame": "18.75"
                 },
                 {
                     "gameName": "Assault Tournament",
                     "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -292,45 +304,69 @@
         },
         {
             "JSID": 5,
-            "Name": "Poison Ivy",
-            "StarQualityPerGame": "12.33",
-            "TotalStarQuality": "74.00",
-            "AverageOpponents": "6.33",
-            "gamesPlayed": 6,
-            "AverageRank": "3.50",
-            "ChangeInRank": "\u21930.79",
-            "ChangeInPlayers": "\u21910.48",
-            "ChangeInSQPerGame": "\u21937.52",
+            "Name": "Fortnite123",
+            "StarQualityPerGame": "24.86",
+            "TotalStarQuality": "248.60",
+            "AverageOpponents": "7.10",
+            "gamesPlayed": 10,
+            "AverageRank": "2.50",
+            "ChangeInRank": "\u21931.03",
+            "ChangeInPlayers": "\u21910.73",
+            "ChangeInSQPerGame": "\u219315.94",
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
-                    "rank": 4,
-                    "totalPlayers": 11,
-                    "starsForGame": "30.25"
+                    "rank": 10,
+                    "totalPlayers": 16,
+                    "starsForGame": "25.60"
                 },
                 {
                     "gameName": "Colour Conquest",
-                    "rank": 6,
-                    "totalPlayers": 11,
-                    "starsForGame": "20.17"
+                    "rank": 4,
+                    "totalPlayers": 16,
+                    "starsForGame": "64.00"
                 },
                 {
                     "gameName": "Minions",
-                    "rank": 7,
-                    "totalPlayers": 10,
-                    "starsForGame": "14.29"
+                    "rank": 3,
+                    "totalPlayers": 15,
+                    "starsForGame": "75.00"
                 },
                 {
                     "gameName": "Assault Tournament",
                     "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
                 },
                 {
                     "gameName": "Assault Tournament",
                     "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
                     "totalPlayers": 4,
-                    "starsForGame": "8.00"
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Continous Ind",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 },
                 {
                     "gameName": "Continous Ind",
@@ -342,87 +378,45 @@
         },
         {
             "JSID": 6,
-            "Name": "Unicorn123",
-            "StarQualityPerGame": "10.77",
-            "TotalStarQuality": "140.00",
-            "AverageOpponents": "4.92",
-            "gamesPlayed": 13,
-            "AverageRank": "2.92",
-            "ChangeInRank": "\u21911.98",
-            "ChangeInPlayers": "\u21932.68",
-            "ChangeInSQPerGame": "\u21932.38",
+            "Name": "Poison Ivy",
+            "StarQualityPerGame": "17.99",
+            "TotalStarQuality": "107.92",
+            "AverageOpponents": "9.00",
+            "gamesPlayed": 6,
+            "AverageRank": "5.17",
+            "ChangeInRank": "\u21932.45",
+            "ChangeInPlayers": "\u21913.14",
+            "ChangeInSQPerGame": "\u21931.87",
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
-                    "rank": 9,
-                    "totalPlayers": 11,
-                    "starsForGame": "13.44"
+                    "rank": 5,
+                    "totalPlayers": 16,
+                    "starsForGame": "51.20"
                 },
                 {
                     "gameName": "Colour Conquest",
-                    "rank": 2,
-                    "totalPlayers": 11,
-                    "starsForGame": "60.50"
+                    "rank": 11,
+                    "totalPlayers": 16,
+                    "starsForGame": "23.27"
                 },
                 {
                     "gameName": "Minions",
-                    "rank": 5,
-                    "totalPlayers": 10,
-                    "starsForGame": "20.00"
+                    "rank": 11,
+                    "totalPlayers": 15,
+                    "starsForGame": "20.45"
                 },
                 {
                     "gameName": "Assault Tournament",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 3,
-                    "totalPlayers": 3,
-                    "starsForGame": "3.00"
-                },
-                {
-                    "gameName": "Continous Ind",
                     "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
                 },
                 {
                     "gameName": "Continous Ind",
@@ -435,74 +429,166 @@
         {
             "JSID": 7,
             "Name": "The1GreenYoshi",
-            "StarQualityPerGame": "8.64",
-            "TotalStarQuality": "95.00",
-            "AverageOpponents": "4.18",
+            "StarQualityPerGame": "15.05",
+            "TotalStarQuality": "165.52",
+            "AverageOpponents": "6.27",
             "gamesPlayed": 11,
-            "AverageRank": "2.18",
-            "ChangeInRank": "\u21930.00",
-            "ChangeInPlayers": "\u21931.73",
-            "ChangeInSQPerGame": "\u219311.27",
+            "AverageRank": "3.09",
+            "ChangeInRank": "\u21930.91",
+            "ChangeInPlayers": "\u21910.36",
+            "ChangeInSQPerGame": "\u21934.91",
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
-                    "rank": 5,
-                    "totalPlayers": 11,
-                    "starsForGame": "24.20"
+                    "rank": 6,
+                    "totalPlayers": 16,
+                    "starsForGame": "42.67"
                 },
                 {
                     "gameName": "Colour Conquest",
-                    "rank": 5,
-                    "totalPlayers": 11,
-                    "starsForGame": "24.20"
+                    "rank": 10,
+                    "totalPlayers": 16,
+                    "starsForGame": "25.60"
                 },
                 {
                     "gameName": "Minions",
                     "rank": 4,
-                    "totalPlayers": 10,
-                    "starsForGame": "25.00"
+                    "totalPlayers": 15,
+                    "starsForGame": "56.25"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 },
                 {
                     "gameName": "Assault Tournament",
                     "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
                 },
                 {
                     "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Continous Ind",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 8,
+            "Name": "Unicorn123",
+            "StarQualityPerGame": "14.91",
+            "TotalStarQuality": "193.78",
+            "AverageOpponents": "6.15",
+            "gamesPlayed": 13,
+            "AverageRank": "3.46",
+            "ChangeInRank": "\u21911.44",
+            "ChangeInPlayers": "\u21931.45",
+            "ChangeInSQPerGame": "\u21911.55",
+            "breakdown": [
+                {
+                    "gameName": "S.W.A.T",
+                    "rank": 14,
+                    "totalPlayers": 16,
+                    "starsForGame": "18.29"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 3,
+                    "totalPlayers": 16,
+                    "starsForGame": "85.33"
+                },
+                {
+                    "gameName": "Minions",
+                    "rank": 6,
+                    "totalPlayers": 15,
+                    "starsForGame": "37.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Continous Ind",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
                 },
                 {
                     "gameName": "Continous Ind",
@@ -513,34 +599,274 @@
             ]
         },
         {
-            "JSID": 8,
-            "Name": "Destroyer4",
-            "StarQualityPerGame": "8.08",
-            "TotalStarQuality": "97.00",
-            "AverageOpponents": "5.25",
-            "gamesPlayed": 12,
-            "AverageRank": "3.92",
-            "ChangeInRank": "\u21930.92",
-            "ChangeInPlayers": "\u21931.88",
-            "ChangeInSQPerGame": "\u219316.42",
+            "JSID": 9,
+            "Name": "Kill Face",
+            "StarQualityPerGame": "13.10",
+            "TotalStarQuality": "144.14",
+            "AverageOpponents": "6.27",
+            "gamesPlayed": 11,
+            "AverageRank": "3.45",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
-                    "rank": 11,
-                    "totalPlayers": 11,
-                    "starsForGame": "11.00"
+                    "rank": 8,
+                    "totalPlayers": 16,
+                    "starsForGame": "32.00"
                 },
                 {
                     "gameName": "Colour Conquest",
-                    "rank": 10,
-                    "totalPlayers": 11,
-                    "starsForGame": "12.10"
+                    "rank": 7,
+                    "totalPlayers": 16,
+                    "starsForGame": "36.57"
                 },
                 {
                     "gameName": "Minions",
+                    "rank": 13,
+                    "totalPlayers": 15,
+                    "starsForGame": "17.31"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Continous Ind",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 10,
+            "Name": "Ginja-Eagle TBB",
+            "StarQualityPerGame": "12.28",
+            "TotalStarQuality": "135.11",
+            "AverageOpponents": "6.27",
+            "gamesPlayed": 11,
+            "AverageRank": "3.64",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "S.W.A.T",
+                    "rank": 9,
+                    "totalPlayers": 16,
+                    "starsForGame": "28.44"
+                },
+                {
+                    "gameName": "Colour Conquest",
                     "rank": 6,
-                    "totalPlayers": 10,
-                    "starsForGame": "16.67"
+                    "totalPlayers": 16,
+                    "starsForGame": "42.67"
+                },
+                {
+                    "gameName": "Minions",
+                    "rank": 10,
+                    "totalPlayers": 15,
+                    "starsForGame": "22.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Continous Ind",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 11,
+            "Name": "Queen B",
+            "StarQualityPerGame": "11.88",
+            "TotalStarQuality": "130.69",
+            "AverageOpponents": "6.27",
+            "gamesPlayed": 11,
+            "AverageRank": "3.82",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "S.W.A.T",
+                    "rank": 12,
+                    "totalPlayers": 16,
+                    "starsForGame": "21.33"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 8,
+                    "totalPlayers": 16,
+                    "starsForGame": "32.00"
+                },
+                {
+                    "gameName": "Minions",
+                    "rank": 5,
+                    "totalPlayers": 15,
+                    "starsForGame": "45.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Continous Ind",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 12,
+            "Name": "Destroyer4",
+            "StarQualityPerGame": "10.48",
+            "TotalStarQuality": "125.74",
+            "AverageOpponents": "6.58",
+            "gamesPlayed": 12,
+            "AverageRank": "4.83",
+            "ChangeInRank": "\u21931.83",
+            "ChangeInPlayers": "\u21930.54",
+            "ChangeInSQPerGame": "\u219314.27",
+            "breakdown": [
+                {
+                    "gameName": "S.W.A.T",
+                    "rank": 16,
+                    "totalPlayers": 16,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 15,
+                    "totalPlayers": 16,
+                    "starsForGame": "17.07"
+                },
+                {
+                    "gameName": "Minions",
+                    "rank": 8,
+                    "totalPlayers": 15,
+                    "starsForGame": "28.13"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -563,8 +889,8 @@
                 {
                     "gameName": "Assault Tournament",
                     "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -599,34 +925,34 @@
             ]
         },
         {
-            "JSID": 9,
+            "JSID": 13,
             "Name": "Darkness",
-            "StarQualityPerGame": "6.38",
-            "TotalStarQuality": "51.00",
-            "AverageOpponents": "5.00",
+            "StarQualityPerGame": "9.49",
+            "TotalStarQuality": "75.91",
+            "AverageOpponents": "7.25",
             "gamesPlayed": 8,
-            "AverageRank": "4.00",
-            "ChangeInRank": "\u21910.18",
-            "ChangeInPlayers": "\u21930.91",
-            "ChangeInSQPerGame": "\u21932.72",
+            "AverageRank": "5.63",
+            "ChangeInRank": "\u21931.44",
+            "ChangeInPlayers": "\u21911.34",
+            "ChangeInSQPerGame": "\u21910.24",
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
-                    "rank": 8,
-                    "totalPlayers": 11,
-                    "starsForGame": "15.13"
+                    "rank": 11,
+                    "totalPlayers": 16,
+                    "starsForGame": "23.27"
                 },
                 {
                     "gameName": "Colour Conquest",
-                    "rank": 7,
-                    "totalPlayers": 11,
-                    "starsForGame": "17.29"
+                    "rank": 12,
+                    "totalPlayers": 16,
+                    "starsForGame": "21.33"
                 },
                 {
                     "gameName": "Minions",
-                    "rank": 9,
-                    "totalPlayers": 10,
-                    "starsForGame": "11.11"
+                    "rank": 14,
+                    "totalPlayers": 15,
+                    "starsForGame": "16.07"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -637,20 +963,20 @@
                 {
                     "gameName": "Assault Tournament",
                     "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
                 },
                 {
                     "gameName": "Assault Tournament",
                     "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
                 },
                 {
                     "gameName": "Continous Ind",
@@ -661,28 +987,176 @@
             ]
         },
         {
-            "JSID": 10,
-            "Name": "Destoryer 5",
-            "StarQualityPerGame": "5.80",
-            "TotalStarQuality": "58.00",
-            "AverageOpponents": "5.20",
-            "gamesPlayed": 10,
-            "AverageRank": "4.60",
-            "ChangeInRank": "\u21911.40",
-            "ChangeInPlayers": "\u21931.93",
-            "ChangeInSQPerGame": "\u21933.58",
+            "JSID": 14,
+            "Name": "Laser",
+            "StarQualityPerGame": "9.33",
+            "TotalStarQuality": "84.00",
+            "AverageOpponents": "2.67",
+            "gamesPlayed": 9,
+            "AverageRank": "1.22",
+            "ChangeInRank": "\u21911.53",
+            "ChangeInPlayers": "\u21934.21",
+            "ChangeInSQPerGame": "\u219314.81",
+            "breakdown": [
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Continous Ind",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Continous Ind",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 15,
+            "Name": "Will I Am",
+            "StarQualityPerGame": "9.07",
+            "TotalStarQuality": "99.77",
+            "AverageOpponents": "6.27",
+            "gamesPlayed": 11,
+            "AverageRank": "4.55",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
-                    "rank": 10,
-                    "totalPlayers": 11,
-                    "starsForGame": "12.10"
+                    "rank": 13,
+                    "totalPlayers": 16,
+                    "starsForGame": "19.69"
                 },
                 {
                     "gameName": "Colour Conquest",
                     "rank": 9,
-                    "totalPlayers": 11,
-                    "starsForGame": "13.44"
+                    "totalPlayers": 16,
+                    "starsForGame": "28.44"
+                },
+                {
+                    "gameName": "Minions",
+                    "rank": 9,
+                    "totalPlayers": 15,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Continous Ind",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 16,
+            "Name": "Destoryer 5",
+            "StarQualityPerGame": "7.22",
+            "TotalStarQuality": "72.19",
+            "AverageOpponents": "6.30",
+            "gamesPlayed": 10,
+            "AverageRank": "5.60",
+            "ChangeInRank": "\u21910.40",
+            "ChangeInPlayers": "\u21930.83",
+            "ChangeInSQPerGame": "\u21932.21",
+            "breakdown": [
+                {
+                    "gameName": "S.W.A.T",
+                    "rank": 15,
+                    "totalPlayers": 16,
+                    "starsForGame": "17.07"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 14,
+                    "totalPlayers": 16,
+                    "starsForGame": "18.29"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -705,8 +1179,8 @@
                 {
                     "gameName": "Assault Tournament",
                     "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -735,22 +1209,78 @@
             ]
         },
         {
-            "JSID": 11,
-            "Name": "Laser",
-            "StarQualityPerGame": "5.67",
-            "TotalStarQuality": "51.00",
-            "AverageOpponents": "1.89",
-            "gamesPlayed": 9,
-            "AverageRank": "1.00",
-            "ChangeInRank": "\u21911.75",
-            "ChangeInPlayers": "\u21934.99",
-            "ChangeInSQPerGame": "\u219318.21",
+            "JSID": 17,
+            "Name": "Holland99999999",
+            "StarQualityPerGame": "3.50",
+            "TotalStarQuality": "14.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 4,
+            "AverageRank": "1.25",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 18,
+            "Name": "Haribo",
+            "StarQualityPerGame": "3.03",
+            "TotalStarQuality": "30.25",
+            "AverageOpponents": "2.50",
+            "gamesPlayed": 10,
+            "AverageRank": "2.20",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Assault Tournament",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -761,26 +1291,14 @@
                 {
                     "gameName": "Assault Tournament",
                     "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 },
                 {
                     "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Assault Tournament",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -803,22 +1321,60 @@
             ]
         },
         {
-            "JSID": 12,
+            "JSID": 19,
+            "Name": "Pilot",
+            "StarQualityPerGame": "2.50",
+            "TotalStarQuality": "10.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 4,
+            "AverageRank": "1.75",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 20,
             "Name": "Blaster",
-            "StarQualityPerGame": "2.00",
-            "TotalStarQuality": "20.00",
-            "AverageOpponents": "1.60",
+            "StarQualityPerGame": "2.10",
+            "TotalStarQuality": "21.00",
+            "AverageOpponents": "1.70",
             "gamesPlayed": 10,
-            "AverageRank": "1.40",
-            "ChangeInRank": "\u21912.35",
-            "ChangeInPlayers": "\u21935.28",
-            "ChangeInSQPerGame": "\u219311.25",
+            "AverageRank": "1.50",
+            "ChangeInRank": "\u21912.25",
+            "ChangeInPlayers": "\u21935.18",
+            "ChangeInSQPerGame": "\u219311.37",
             "breakdown": [
                 {
                     "gameName": "Assault Tournament",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -877,7 +1433,7 @@
             ]
         },
         {
-            "JSID": 13,
+            "JSID": 21,
             "Name": "Easy Target",
             "StarQualityPerGame": "1.29",
             "TotalStarQuality": "9.00",

@@ -3,6 +3,36 @@
     "ScoreGreaterOrEqualDate": "2020-03-01",
     "ScoreLessDate": "2020-04-01",
     "Player": [
-        {}
+        {},
+        {
+            "Name": "(Apollo)",
+            "AverageScore": 25574,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u219110753.00"
+        },
+        {
+            "Name": "Toytle",
+            "AverageScore": 15674,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21913405.50"
+        },
+        {
+            "Name": "Mr ChatterBob",
+            "AverageScore": 15539,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u2193212.25"
+        },
+        {
+            "Name": "Takedown",
+            "AverageScore": 9004,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21912221.33"
+        },
+        {
+            "Name": "Scrappy Kitten",
+            "AverageScore": 7704,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u2191575.00"
+        }
     ]
 }
