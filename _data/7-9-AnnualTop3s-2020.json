@@ -3,19 +3,19 @@
         "month": "2020-01",
         "players": [
             {
-                "playerName": "C'tri",
-                "gamePlayed": 20,
-                "averageStars": "15.44"
-            },
-            {
                 "playerName": "Rayth",
                 "gamePlayed": 19,
-                "averageStars": "15.05"
+                "averageStars": "19.08"
             },
             {
                 "playerName": "Robo_h34d",
                 "gamePlayed": 4,
-                "averageStars": "14.25"
+                "averageStars": "18.38"
+            },
+            {
+                "playerName": "C'tri",
+                "gamePlayed": 20,
+                "averageStars": "15.44"
             }
         ]
     },
@@ -44,18 +44,18 @@
         "players": [
             {
                 "playerName": "Rayth",
-                "gamePlayed": 4,
-                "averageStars": "16.67"
+                "gamePlayed": 8,
+                "averageStars": "19.71"
+            },
+            {
+                "playerName": "C'tri",
+                "gamePlayed": 3,
+                "averageStars": "16.00"
             },
             {
                 "playerName": "Oscar",
-                "gamePlayed": 4,
-                "averageStars": "15.63"
-            },
-            {
-                "playerName": "Jj",
-                "gamePlayed": 4,
-                "averageStars": "11.98"
+                "gamePlayed": 8,
+                "averageStars": "12.46"
             }
         ]
     }

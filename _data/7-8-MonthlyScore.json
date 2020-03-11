@@ -5,6 +5,12 @@
     "Player": [
         {},
         {
+            "Name": "Psycho",
+            "AverageScore": 21130,
+            "MissionsPlayed": 3,
+            "ChangeInScore": "\u2191958.91"
+        },
+        {
             "Name": "Dwipple",
             "AverageScore": 20746,
             "MissionsPlayed": 1,
@@ -17,22 +23,16 @@
             "ChangeInScore": "\u21931276.75"
         },
         {
-            "Name": "Psycho",
-            "AverageScore": 18072,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21932099.59"
+            "Name": "Raccooneggs",
+            "AverageScore": 16995,
+            "MissionsPlayed": 10,
+            "ChangeInScore": "\u21911569.99"
         },
         {
             "Name": "Area51Raider",
             "AverageScore": 16447,
             "MissionsPlayed": 2,
             "ChangeInScore": "\u21915390.00"
-        },
-        {
-            "Name": "Raccooneggs",
-            "AverageScore": 16204,
-            "MissionsPlayed": 6,
-            "ChangeInScore": "\u2191778.92"
         },
         {
             "Name": "Shadow_Wolf",
@@ -75,6 +75,12 @@
             "AverageScore": 11123,
             "MissionsPlayed": 1,
             "ChangeInScore": "\u21913361.50"
+        },
+        {
+            "Name": "Leo",
+            "AverageScore": 9482,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
         },
         {
             "Name": "Lord Frieza",
