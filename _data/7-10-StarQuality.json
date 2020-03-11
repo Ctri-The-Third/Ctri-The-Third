@@ -7,15 +7,45 @@
         {
             "JSID": 0,
             "Name": "-=Valroc=-",
-            "StarQualityPerGame": "75.57",
-            "TotalStarQuality": "680.13",
-            "AverageOpponents": "9.44",
-            "gamesPlayed": 9,
-            "AverageRank": "2.11",
-            "ChangeInRank": "\u21910.41",
-            "ChangeInPlayers": "\u21930.69",
-            "ChangeInSQPerGame": "\u21916.98",
+            "StarQualityPerGame": "49.93",
+            "TotalStarQuality": "699.07",
+            "AverageOpponents": "6.93",
+            "gamesPlayed": 14,
+            "AverageRank": "1.93",
+            "ChangeInRank": "\u21910.59",
+            "ChangeInPlayers": "\u21933.20",
+            "ChangeInSQPerGame": "\u219318.66",
             "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
                 {
                     "gameName": "Base Flags",
                     "rank": 2,
@@ -36,9 +66,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 1,
+                    "rank": 2,
                     "totalPlayers": 10,
-                    "starsForGame": "100.00"
+                    "starsForGame": "50.00"
                 },
                 {
                     "gameName": "Space Marines 5",
@@ -60,9 +90,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 1,
+                    "rank": 2,
                     "totalPlayers": 11,
-                    "starsForGame": "121.00"
+                    "starsForGame": "60.50"
                 },
                 {
                     "gameName": "Gladiator Team",
@@ -74,21 +104,101 @@
         },
         {
             "JSID": 1,
-            "Name": "Sn3aky",
-            "StarQualityPerGame": "50.38",
-            "TotalStarQuality": "302.25",
-            "AverageOpponents": "9.00",
-            "gamesPlayed": 6,
-            "AverageRank": "2.00",
-            "ChangeInRank": "\u21910.80",
-            "ChangeInPlayers": "\u21910.70",
-            "ChangeInSQPerGame": "\u21918.91",
+            "Name": "Ging'mes",
+            "StarQualityPerGame": "28.41",
+            "TotalStarQuality": "142.04",
+            "AverageOpponents": "10.40",
+            "gamesPlayed": 5,
+            "AverageRank": "5.20",
+            "ChangeInRank": "\u21932.25",
+            "ChangeInPlayers": "\u21914.58",
+            "ChangeInSQPerGame": "\u219110.68",
             "breakdown": [
                 {
                     "gameName": "Base Flags",
-                    "rank": 2,
+                    "rank": 7,
+                    "totalPlayers": 9,
+                    "starsForGame": "11.57"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
                     "totalPlayers": 10,
-                    "starsForGame": "50.00"
+                    "starsForGame": "20.00"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 7,
+                    "totalPlayers": 11,
+                    "starsForGame": "17.29"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 2,
+                    "totalPlayers": 11,
+                    "starsForGame": "60.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 11,
+                    "starsForGame": "17.29"
+                }
+            ]
+        },
+        {
+            "JSID": 2,
+            "Name": "Sn3aky",
+            "StarQualityPerGame": "27.44",
+            "TotalStarQuality": "329.25",
+            "AverageOpponents": "5.58",
+            "gamesPlayed": 12,
+            "AverageRank": "1.67",
+            "ChangeInRank": "\u21911.13",
+            "ChangeInPlayers": "\u21932.72",
+            "ChangeInSQPerGame": "\u219314.02",
+            "breakdown": [
+                {
+                    "gameName": "Shadows",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 10,
+                    "starsForGame": "100.00"
                 },
                 {
                     "gameName": "Space Marines 5",
@@ -98,9 +208,9 @@
                 },
                 {
                     "gameName": "Escape",
-                    "rank": 5,
+                    "rank": 3,
                     "totalPlayers": 11,
-                    "starsForGame": "24.20"
+                    "starsForGame": "40.33"
                 },
                 {
                     "gameName": "Base Flags",
@@ -110,9 +220,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 2,
+                    "rank": 1,
                     "totalPlayers": 11,
-                    "starsForGame": "60.50"
+                    "starsForGame": "121.00"
                 },
                 {
                     "gameName": "Gladiator Team",
@@ -123,42 +233,16 @@
             ]
         },
         {
-            "JSID": 2,
-            "Name": "[Insomniac]",
-            "StarQualityPerGame": "35.29",
-            "TotalStarQuality": "70.58",
-            "AverageOpponents": "11.00",
-            "gamesPlayed": 2,
-            "AverageRank": "3.50",
-            "ChangeInRank": "\u21911.61",
-            "ChangeInPlayers": "\u21911.00",
-            "ChangeInSQPerGame": "\u21912.86",
-            "breakdown": [
-                {
-                    "gameName": "Base Flags",
-                    "rank": 9,
-                    "totalPlayers": 11,
-                    "starsForGame": "13.44"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 11,
-                    "starsForGame": "20.17"
-                }
-            ]
-        },
-        {
             "JSID": 3,
             "Name": "S N D",
-            "StarQualityPerGame": "26.54",
-            "TotalStarQuality": "132.69",
+            "StarQualityPerGame": "26.78",
+            "TotalStarQuality": "133.89",
             "AverageOpponents": "8.40",
             "gamesPlayed": 5,
-            "AverageRank": "4.80",
-            "ChangeInRank": "\u21930.98",
+            "AverageRank": "4.60",
+            "ChangeInRank": "\u21930.78",
             "ChangeInPlayers": "\u21930.87",
-            "ChangeInSQPerGame": "\u21933.56",
+            "ChangeInSQPerGame": "\u21933.32",
             "breakdown": [
                 {
                     "gameName": "Base Flags",
@@ -180,9 +264,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 8,
+                    "rank": 3,
                     "totalPlayers": 10,
-                    "starsForGame": "12.50"
+                    "starsForGame": "33.33"
                 },
                 {
                     "gameName": "Space Marines 5",
@@ -194,197 +278,59 @@
         },
         {
             "JSID": 4,
-            "Name": "Archer",
-            "StarQualityPerGame": "26.26",
-            "TotalStarQuality": "105.04",
-            "AverageOpponents": "10.75",
-            "gamesPlayed": 4,
-            "AverageRank": "5.00",
-            "ChangeInRank": "\u21930.82",
-            "ChangeInPlayers": "\u21911.11",
-            "ChangeInSQPerGame": "\u21935.50",
+            "Name": "Killa",
+            "StarQualityPerGame": "24.75",
+            "TotalStarQuality": "49.50",
+            "AverageOpponents": "7.50",
+            "gamesPlayed": 2,
+            "AverageRank": "3.00",
+            "ChangeInRank": "\u21911.50",
+            "ChangeInPlayers": "\u21911.50",
+            "ChangeInSQPerGame": "\u219116.11",
             "breakdown": [
                 {
-                    "gameName": "Escape",
+                    "gameName": "Escalation",
                     "rank": 4,
-                    "totalPlayers": 11,
-                    "starsForGame": "30.25"
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 7,
-                    "totalPlayers": 11,
-                    "starsForGame": "17.29"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 9,
-                    "totalPlayers": 11,
-                    "starsForGame": "13.44"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 7,
-                    "totalPlayers": 10,
-                    "starsForGame": "14.29"
+                    "rank": 5,
+                    "totalPlayers": 9,
+                    "starsForGame": "16.20"
                 }
             ]
         },
         {
             "JSID": 5,
-            "Name": "Natsudragneel",
-            "StarQualityPerGame": "25.13",
-            "TotalStarQuality": "50.25",
-            "AverageOpponents": "10.50",
-            "gamesPlayed": 2,
-            "AverageRank": "4.50",
-            "ChangeInRank": "\u21911.12",
-            "ChangeInPlayers": "\u21911.12",
-            "ChangeInSQPerGame": "\u21916.00",
+            "Name": "<!-- Blaze -->",
+            "StarQualityPerGame": "23.58",
+            "TotalStarQuality": "94.32",
+            "AverageOpponents": "10.75",
+            "gamesPlayed": 4,
+            "AverageRank": "5.75",
+            "ChangeInRank": "\u21930.97",
+            "ChangeInPlayers": "\u21911.89",
+            "ChangeInSQPerGame": "\u21912.43",
             "breakdown": [
                 {
-                    "gameName": "Base Flags",
-                    "rank": 3,
-                    "totalPlayers": 10,
-                    "starsForGame": "33.33"
-                },
-                {
-                    "gameName": "Space Marines 5",
+                    "gameName": "Escape",
                     "rank": 4,
                     "totalPlayers": 11,
                     "starsForGame": "30.25"
-                }
-            ]
-        },
-        {
-            "JSID": 6,
-            "Name": "Yuzucat",
-            "StarQualityPerGame": "25.05",
-            "TotalStarQuality": "175.37",
-            "AverageOpponents": "10.43",
-            "gamesPlayed": 7,
-            "AverageRank": "6.00",
-            "ChangeInRank": "\u21930.56",
-            "ChangeInPlayers": "\u21912.46",
-            "ChangeInSQPerGame": "\u219111.71",
-            "breakdown": [
-                {
-                    "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 9,
-                    "starsForGame": "13.50"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 10,
-                    "starsForGame": "16.67"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 11,
-                    "totalPlayers": 11,
-                    "starsForGame": "11.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 11,
-                    "totalPlayers": 11,
-                    "starsForGame": "11.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 2,
-                    "totalPlayers": 11,
-                    "starsForGame": "60.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 10,
-                    "totalPlayers": 11,
-                    "starsForGame": "12.10"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 6,
-                    "totalPlayers": 10,
-                    "starsForGame": "16.67"
-                }
-            ]
-        },
-        {
-            "JSID": 7,
-            "Name": "Ging'mes",
-            "StarQualityPerGame": "22.88",
-            "TotalStarQuality": "114.42",
-            "AverageOpponents": "10.40",
-            "gamesPlayed": 5,
-            "AverageRank": "6.80",
-            "ChangeInRank": "\u21933.85",
-            "ChangeInPlayers": "\u21914.58",
-            "ChangeInSQPerGame": "\u21915.16",
-            "breakdown": [
-                {
-                    "gameName": "Base Flags",
-                    "rank": 4,
-                    "totalPlayers": 9,
-                    "starsForGame": "20.25"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 7,
-                    "totalPlayers": 10,
-                    "starsForGame": "14.29"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 7,
-                    "totalPlayers": 11,
-                    "starsForGame": "17.29"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 2,
-                    "totalPlayers": 11,
-                    "starsForGame": "60.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 11,
-                    "totalPlayers": 11,
-                    "starsForGame": "11.00"
-                }
-            ]
-        },
-        {
-            "JSID": 8,
-            "Name": "<!-- Blaze -->",
-            "StarQualityPerGame": "22.62",
-            "TotalStarQuality": "90.47",
-            "AverageOpponents": "10.75",
-            "gamesPlayed": 4,
-            "AverageRank": "6.25",
-            "ChangeInRank": "\u21931.47",
-            "ChangeInPlayers": "\u21911.89",
-            "ChangeInSQPerGame": "\u21911.47",
-            "breakdown": [
-                {
-                    "gameName": "Escape",
                     "rank": 3,
                     "totalPlayers": 11,
                     "starsForGame": "40.33"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 10,
+                    "rank": 9,
                     "totalPlayers": 11,
-                    "starsForGame": "12.10"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 5,
-                    "totalPlayers": 11,
-                    "starsForGame": "24.20"
+                    "starsForGame": "13.44"
                 },
                 {
                     "gameName": "Gladiator Team",
@@ -395,22 +341,116 @@
             ]
         },
         {
-            "JSID": 9,
+            "JSID": 6,
+            "Name": "Archer",
+            "StarQualityPerGame": "22.46",
+            "TotalStarQuality": "89.82",
+            "AverageOpponents": "10.75",
+            "gamesPlayed": 4,
+            "AverageRank": "6.50",
+            "ChangeInRank": "\u21932.32",
+            "ChangeInPlayers": "\u21911.11",
+            "ChangeInSQPerGame": "\u21939.31",
+            "breakdown": [
+                {
+                    "gameName": "Escape",
+                    "rank": 5,
+                    "totalPlayers": 11,
+                    "starsForGame": "24.20"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 11,
+                    "starsForGame": "11.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 11,
+                    "starsForGame": "40.33"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 7,
+                    "totalPlayers": 10,
+                    "starsForGame": "14.29"
+                }
+            ]
+        },
+        {
+            "JSID": 7,
+            "Name": "Yuzucat",
+            "StarQualityPerGame": "22.08",
+            "TotalStarQuality": "154.53",
+            "AverageOpponents": "10.43",
+            "gamesPlayed": 7,
+            "AverageRank": "6.57",
+            "ChangeInRank": "\u21931.13",
+            "ChangeInPlayers": "\u21912.46",
+            "ChangeInSQPerGame": "\u21918.74",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 9,
+                    "starsForGame": "20.25"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 10,
+                    "starsForGame": "16.67"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 11,
+                    "totalPlayers": 11,
+                    "starsForGame": "11.00"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 11,
+                    "totalPlayers": 11,
+                    "starsForGame": "11.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 11,
+                    "starsForGame": "60.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 11,
+                    "starsForGame": "11.00"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 6,
+                    "totalPlayers": 10,
+                    "starsForGame": "16.67"
+                }
+            ]
+        },
+        {
+            "JSID": 8,
             "Name": "Emo Wolf ",
-            "StarQualityPerGame": "22.49",
-            "TotalStarQuality": "112.47",
+            "StarQualityPerGame": "21.33",
+            "TotalStarQuality": "106.63",
             "AverageOpponents": "8.40",
             "gamesPlayed": 5,
-            "AverageRank": "4.80",
+            "AverageRank": "4.60",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "Base Flags",
-                    "rank": 3,
+                    "rank": 5,
                     "totalPlayers": 6,
-                    "starsForGame": "12.00"
+                    "starsForGame": "7.20"
                 },
                 {
                     "gameName": "Escalation",
@@ -420,15 +460,15 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 5,
+                    "rank": 8,
                     "totalPlayers": 9,
-                    "starsForGame": "16.20"
+                    "starsForGame": "10.13"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 5,
+                    "rank": 8,
                     "totalPlayers": 10,
-                    "starsForGame": "20.00"
+                    "starsForGame": "12.50"
                 },
                 {
                     "gameName": "Space Marines 5",
@@ -439,16 +479,54 @@
             ]
         },
         {
+            "JSID": 9,
+            "Name": "Fur Ball",
+            "StarQualityPerGame": "21.13",
+            "TotalStarQuality": "84.53",
+            "AverageOpponents": "10.75",
+            "gamesPlayed": 4,
+            "AverageRank": "7.00",
+            "ChangeInRank": "\u21932.29",
+            "ChangeInPlayers": "\u21911.46",
+            "ChangeInSQPerGame": "\u21910.36",
+            "breakdown": [
+                {
+                    "gameName": "Escape",
+                    "rank": 9,
+                    "totalPlayers": 11,
+                    "starsForGame": "13.44"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 11,
+                    "starsForGame": "20.17"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 11,
+                    "starsForGame": "30.25"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 5,
+                    "totalPlayers": 10,
+                    "starsForGame": "20.00"
+                }
+            ]
+        },
+        {
             "JSID": 10,
             "Name": "Unagi",
-            "StarQualityPerGame": "20.26",
-            "TotalStarQuality": "182.33",
+            "StarQualityPerGame": "20.45",
+            "TotalStarQuality": "184.09",
             "AverageOpponents": "9.11",
             "gamesPlayed": 9,
-            "AverageRank": "5.56",
-            "ChangeInRank": "\u21931.24",
+            "AverageRank": "5.44",
+            "ChangeInRank": "\u21931.12",
             "ChangeInPlayers": "\u21930.73",
-            "ChangeInSQPerGame": "\u219327.17",
+            "ChangeInSQPerGame": "\u219326.98",
             "breakdown": [
                 {
                     "gameName": "Mayhem - Solo",
@@ -464,9 +542,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 8,
+                    "rank": 9,
                     "totalPlayers": 9,
-                    "starsForGame": "10.13"
+                    "starsForGame": "9.00"
                 },
                 {
                     "gameName": "Base Flags",
@@ -488,15 +566,15 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 5,
+                    "rank": 8,
                     "totalPlayers": 11,
-                    "starsForGame": "24.20"
+                    "starsForGame": "15.13"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 3,
+                    "rank": 8,
                     "totalPlayers": 11,
-                    "starsForGame": "40.33"
+                    "starsForGame": "15.13"
                 },
                 {
                     "gameName": "Gladiator Team",
@@ -508,21 +586,47 @@
         },
         {
             "JSID": 11,
-            "Name": "Mr Spanky",
-            "StarQualityPerGame": "20.03",
-            "TotalStarQuality": "160.21",
-            "AverageOpponents": "9.25",
-            "gamesPlayed": 8,
-            "AverageRank": "4.50",
-            "ChangeInRank": "\u21913.75",
-            "ChangeInPlayers": "\u21932.63",
-            "ChangeInSQPerGame": "\u21912.25",
+            "Name": "Natsudragneel",
+            "StarQualityPerGame": "20.13",
+            "TotalStarQuality": "40.25",
+            "AverageOpponents": "10.50",
+            "gamesPlayed": 2,
+            "AverageRank": "7.00",
+            "ChangeInRank": "\u21931.38",
+            "ChangeInPlayers": "\u21911.12",
+            "ChangeInSQPerGame": "\u21911.00",
             "breakdown": [
                 {
                     "gameName": "Base Flags",
-                    "rank": 5,
+                    "rank": 7,
+                    "totalPlayers": 10,
+                    "starsForGame": "14.29"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 4,
+                    "totalPlayers": 11,
+                    "starsForGame": "30.25"
+                }
+            ]
+        },
+        {
+            "JSID": 12,
+            "Name": "Mr Spanky",
+            "StarQualityPerGame": "18.84",
+            "TotalStarQuality": "150.75",
+            "AverageOpponents": "9.25",
+            "gamesPlayed": 8,
+            "AverageRank": "4.75",
+            "ChangeInRank": "\u21913.50",
+            "ChangeInPlayers": "\u21932.63",
+            "ChangeInSQPerGame": "\u21911.07",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
                     "totalPlayers": 6,
-                    "starsForGame": "7.20"
+                    "starsForGame": "6.00"
                 },
                 {
                     "gameName": "Escalation",
@@ -532,9 +636,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 9,
+                    "rank": 6,
                     "totalPlayers": 9,
-                    "starsForGame": "9.00"
+                    "starsForGame": "13.50"
                 },
                 {
                     "gameName": "Base Flags",
@@ -556,9 +660,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 3,
+                    "rank": 7,
                     "totalPlayers": 11,
-                    "starsForGame": "40.33"
+                    "starsForGame": "17.29"
                 },
                 {
                     "gameName": "Gladiator Team",
@@ -569,55 +673,55 @@
             ]
         },
         {
-            "JSID": 12,
-            "Name": "Fur Ball",
-            "StarQualityPerGame": "17.44",
-            "TotalStarQuality": "69.74",
-            "AverageOpponents": "10.75",
-            "gamesPlayed": 4,
-            "AverageRank": "7.25",
-            "ChangeInRank": "\u21932.54",
-            "ChangeInPlayers": "\u21911.46",
-            "ChangeInSQPerGame": "\u21933.34",
+            "JSID": 13,
+            "Name": "[Insomniac]",
+            "StarQualityPerGame": "18.15",
+            "TotalStarQuality": "36.30",
+            "AverageOpponents": "11.00",
+            "gamesPlayed": 2,
+            "AverageRank": "7.50",
+            "ChangeInRank": "\u21932.39",
+            "ChangeInPlayers": "\u21911.00",
+            "ChangeInSQPerGame": "\u219314.28",
             "breakdown": [
                 {
-                    "gameName": "Escape",
+                    "gameName": "Base Flags",
                     "rank": 9,
                     "totalPlayers": 11,
                     "starsForGame": "13.44"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 4,
-                    "totalPlayers": 11,
-                    "starsForGame": "30.25"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 4,
-                    "totalPlayers": 11,
-                    "starsForGame": "30.25"
-                },
-                {
-                    "gameName": "Gladiator Team",
                     "rank": 5,
-                    "totalPlayers": 10,
-                    "starsForGame": "20.00"
+                    "totalPlayers": 11,
+                    "starsForGame": "24.20"
                 }
             ]
         },
         {
-            "JSID": 13,
+            "JSID": 14,
             "Name": "Morrigan",
-            "StarQualityPerGame": "14.72",
-            "TotalStarQuality": "73.59",
-            "AverageOpponents": "10.80",
-            "gamesPlayed": 5,
-            "AverageRank": "8.40",
-            "ChangeInRank": "\u21932.10",
-            "ChangeInPlayers": "\u21911.32",
-            "ChangeInSQPerGame": "\u21933.51",
+            "StarQualityPerGame": "14.03",
+            "TotalStarQuality": "98.18",
+            "AverageOpponents": "8.57",
+            "gamesPlayed": 7,
+            "AverageRank": "5.86",
+            "ChangeInRank": "\u21910.45",
+            "ChangeInPlayers": "\u21930.91",
+            "ChangeInSQPerGame": "\u21934.20",
             "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
                 {
                     "gameName": "Space Marines 5",
                     "rank": 8,
@@ -632,15 +736,15 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 11,
+                    "rank": 10,
                     "totalPlayers": 11,
-                    "starsForGame": "11.00"
+                    "starsForGame": "12.10"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 7,
+                    "rank": 10,
                     "totalPlayers": 11,
-                    "starsForGame": "17.29"
+                    "starsForGame": "12.10"
                 },
                 {
                     "gameName": "Gladiator Team",
@@ -651,22 +755,42 @@
             ]
         },
         {
-            "JSID": 14,
-            "Name": "S O S",
-            "StarQualityPerGame": "11.76",
-            "TotalStarQuality": "105.88",
-            "AverageOpponents": "9.44",
-            "gamesPlayed": 9,
-            "AverageRank": "7.78",
-            "ChangeInRank": "\u21930.51",
-            "ChangeInPlayers": "\u21931.37",
-            "ChangeInSQPerGame": "\u21939.02",
+            "JSID": 15,
+            "Name": "Winter",
+            "StarQualityPerGame": "13.44",
+            "TotalStarQuality": "13.44",
+            "AverageOpponents": "11.00",
+            "gamesPlayed": 1,
+            "AverageRank": "9.00",
+            "ChangeInRank": "\u21932.00",
+            "ChangeInPlayers": "\u21930.31",
+            "ChangeInSQPerGame": "\u21938.41",
             "breakdown": [
                 {
                     "gameName": "Base Flags",
-                    "rank": 6,
+                    "rank": 4,
+                    "totalPlayers": 11,
+                    "starsForGame": "30.25"
+                }
+            ]
+        },
+        {
+            "JSID": 16,
+            "Name": "S O S",
+            "StarQualityPerGame": "11.38",
+            "TotalStarQuality": "102.40",
+            "AverageOpponents": "9.44",
+            "gamesPlayed": 9,
+            "AverageRank": "8.11",
+            "ChangeInRank": "\u21930.84",
+            "ChangeInPlayers": "\u21931.37",
+            "ChangeInSQPerGame": "\u21939.41",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
                     "totalPlayers": 6,
-                    "starsForGame": "6.00"
+                    "starsForGame": "12.00"
                 },
                 {
                     "gameName": "Escalation",
@@ -700,67 +824,21 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 6,
+                    "rank": 5,
                     "totalPlayers": 11,
-                    "starsForGame": "20.17"
+                    "starsForGame": "24.20"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 8,
+                    "rank": 6,
                     "totalPlayers": 11,
-                    "starsForGame": "15.13"
+                    "starsForGame": "20.17"
                 },
                 {
                     "gameName": "Gladiator Team",
                     "rank": 9,
                     "totalPlayers": 10,
                     "starsForGame": "11.11"
-                }
-            ]
-        },
-        {
-            "JSID": 15,
-            "Name": "Winter",
-            "StarQualityPerGame": "11.00",
-            "TotalStarQuality": "11.00",
-            "AverageOpponents": "11.00",
-            "gamesPlayed": 1,
-            "AverageRank": "11.00",
-            "ChangeInRank": "\u21934.00",
-            "ChangeInPlayers": "\u21930.31",
-            "ChangeInSQPerGame": "\u219310.85",
-            "breakdown": [
-                {
-                    "gameName": "Base Flags",
-                    "rank": 8,
-                    "totalPlayers": 11,
-                    "starsForGame": "15.13"
-                }
-            ]
-        },
-        {
-            "JSID": 16,
-            "Name": "Killa",
-            "StarQualityPerGame": "10.29",
-            "TotalStarQuality": "20.57",
-            "AverageOpponents": "7.50",
-            "gamesPlayed": 2,
-            "AverageRank": "5.50",
-            "ChangeInRank": "\u21931.00",
-            "ChangeInPlayers": "\u21911.50",
-            "ChangeInSQPerGame": "\u21911.64",
-            "breakdown": [
-                {
-                    "gameName": "Escalation",
-                    "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 7,
-                    "totalPlayers": 9,
-                    "starsForGame": "11.57"
                 }
             ]
         },
@@ -772,9 +850,9 @@
             "AverageOpponents": "2.33",
             "gamesPlayed": 3,
             "AverageRank": "1.33",
-            "ChangeInRank": "\u21914.13",
+            "ChangeInRank": "\u21914.02",
             "ChangeInPlayers": "\u21934.13",
-            "ChangeInSQPerGame": "\u21934.29",
+            "ChangeInSQPerGame": "\u21939.00",
             "breakdown": [
                 {
                     "gameName": "Mayhem - Solo",
@@ -830,6 +908,38 @@
         },
         {
             "JSID": 19,
+            "Name": "Cameron",
+            "StarQualityPerGame": "3.50",
+            "TotalStarQuality": "10.50",
+            "AverageOpponents": "2.33",
+            "gamesPlayed": 3,
+            "AverageRank": "1.67",
+            "ChangeInRank": "\u21912.69",
+            "ChangeInPlayers": "\u21933.77",
+            "ChangeInSQPerGame": "\u21937.06",
+            "breakdown": [
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Shadows",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 20,
             "Name": "(Apollo)",
             "StarQualityPerGame": "3.50",
             "TotalStarQuality": "14.00",
@@ -863,38 +973,6 @@
                     "rank": 1,
                     "totalPlayers": 2,
                     "starsForGame": "4.00"
-                }
-            ]
-        },
-        {
-            "JSID": 20,
-            "Name": "Cameron",
-            "StarQualityPerGame": "3.50",
-            "TotalStarQuality": "10.50",
-            "AverageOpponents": "2.33",
-            "gamesPlayed": 3,
-            "AverageRank": "1.67",
-            "ChangeInRank": "\u21912.62",
-            "ChangeInPlayers": "\u21933.77",
-            "ChangeInSQPerGame": "\u219311.73",
-            "breakdown": [
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
-                },
-                {
-                    "gameName": "Shadows",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
                 }
             ]
         },
@@ -976,9 +1054,9 @@
             "AverageOpponents": "1.00",
             "gamesPlayed": 3,
             "AverageRank": "1.00",
-            "ChangeInRank": "\u21912.44",
+            "ChangeInRank": "\u21912.56",
             "ChangeInPlayers": "\u21934.56",
-            "ChangeInSQPerGame": "\u219315.33",
+            "ChangeInSQPerGame": "\u219315.18",
             "breakdown": [
                 {
                     "gameName": "Base Flags",

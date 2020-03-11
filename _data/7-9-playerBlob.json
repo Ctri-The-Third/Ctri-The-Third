@@ -19,6 +19,24 @@
         "GAOthers": "No one else has"
     },
     "SilverPlayer": {
+        "PlayerName": "C'tri",
+        "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
+        "SkillLevelName": "Lasermaster",
+        "MonthlyGamesPlayed": 3,
+        "AllGamesPlayed": 695,
+        "StarQuality": "16.00",
+        "Achievements": 103,
+        "GGName": "Colour Conquest",
+        "GGRank": "1st",
+        "GGStars": "16 stars",
+        "GGVanq1": "Goku",
+        "GGVanq2": "Custardio",
+        "GGVanq3": "Minnie",
+        "GAName": "Battle Ammo",
+        "GADesc": "Score 7K or more as Ammo in SM5.",
+        "GAOthers": "No one else has"
+    },
+    "BronzePlayer": {
         "PlayerName": "Oscar",
         "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
         "SkillLevelName": "Lasermaster",
@@ -37,48 +55,34 @@
         "GADesc": "Score 4K or more as Medic in SM5.",
         "GAOthers": "5 others have"
     },
-    "BronzePlayer": {
-        "PlayerName": "Jj",
+    "OtherPlayer1": {
+        "PlayerName": "Goku",
         "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
         "SkillLevelName": "Lasermaster",
-        "MonthlyGamesPlayed": 4,
-        "AllGamesPlayed": 163,
-        "StarQuality": "11.98",
-        "Achievements": 69,
+        "MonthlyGamesPlayed": 3,
+        "AllGamesPlayed": 249,
+        "StarQuality": "8.00",
+        "Achievements": 75,
         "GGName": "Colour Conquest",
-        "GGRank": "1st",
-        "GGStars": "25 stars",
-        "GGVanq1": "Oscar",
-        "GGVanq2": "Rayth",
-        "GGVanq3": "Mike Hunt",
-        "GGVanq4": "1 others",
-        "GAName": "Temporary Reprieve",
-        "GADesc": "Win a game of Zombies vs Survivors as a Survivor.",
-        "GAOthers": "6 others have"
-    },
-    "OtherPlayer1": {
-        "PlayerName": "Ninja",
-        "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
-        "SkillLevelName": "Captain",
-        "MonthlyGamesPlayed": 7,
-        "AllGamesPlayed": 36,
-        "StarQuality": "3.46",
-        "Achievements": 33,
-        "GAName": "It's Your Birthday",
-        "GADesc": "Play a mission during your birthday month.",
-        "GAOthers": "29 others have"
+        "GGRank": "2nd",
+        "GGStars": "8 stars",
+        "GGVanq1": "Custardio",
+        "GGVanq2": "Minnie",
+        "GAName": "Heat Seeker",
+        "GADesc": "Land all 5 missiles when playing as Commander or Heavy in SM5.",
+        "GAOthers": "Only one other person has"
     },
     "OtherPlayer2": {
-        "PlayerName": "C'tri",
+        "PlayerName": "Achilles",
         "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
         "SkillLevelName": "Lasermaster",
         "MonthlyGamesPlayed": 0,
-        "AllGamesPlayed": 692,
+        "AllGamesPlayed": 242,
         "StarQuality": "0.00",
-        "Achievements": 100,
-        "GAName": "Battle Ammo",
-        "GADesc": "Score 7K or more as Ammo in SM5.",
-        "GAOthers": "No one else has"
+        "Achievements": 83,
+        "GAName": "Ironman 2 - House Party",
+        "GADesc": "Play 15 games in one day.",
+        "GAOthers": "Only one other person has"
     },
     "SiteNameShort": "Funstation Edinburgh"
 }

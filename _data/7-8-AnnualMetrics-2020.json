@@ -2,7 +2,7 @@
     "gamesPlayed": [
         {
             "gameName": "Standard - Solo",
-            "timesPlayed": 65
+            "timesPlayed": 66
         },
         {
             "gameName": "Standard [3 Team] (15)",
@@ -10,19 +10,19 @@
         },
         {
             "gameName": "BaseFlags",
-            "timesPlayed": 25
+            "timesPlayed": 28
+        },
+        {
+            "gameName": "Infection",
+            "timesPlayed": 24
         },
         {
             "gameName": "Mayhem - Solo",
             "timesPlayed": 24
         },
         {
-            "gameName": "Infection",
-            "timesPlayed": 23
-        },
-        {
             "gameName": "- Standard [2 Team] (15)",
-            "timesPlayed": 21
+            "timesPlayed": 22
         },
         {
             "gameName": "Standard - Team",
@@ -30,7 +30,7 @@
         },
         {
             "gameName": "* Baseflags PushBack (15)",
-            "timesPlayed": 13
+            "timesPlayed": 15
         },
         {
             "gameName": "Mayhem - Team",
@@ -41,11 +41,15 @@
             "timesPlayed": 7
         },
         {
+            "gameName": "Highlander - Solo",
+            "timesPlayed": 6
+        },
+        {
             "gameName": "Baseflags Assault ",
             "timesPlayed": 5
         },
         {
-            "gameName": "Highlander - Solo",
+            "gameName": "Borg",
             "timesPlayed": 4
         },
         {
@@ -57,19 +61,15 @@
             "timesPlayed": 4
         },
         {
-            "gameName": "Borg",
-            "timesPlayed": 3
-        },
-        {
             "gameName": "Immortals - Solo",
             "timesPlayed": 3
         },
         {
-            "gameName": "Escape",
+            "gameName": "Domination",
             "timesPlayed": 2
         },
         {
-            "gameName": "Domination",
+            "gameName": "Evolution 2 Tm",
             "timesPlayed": 2
         },
         {
@@ -81,15 +81,11 @@
             "timesPlayed": 2
         },
         {
-            "gameName": "Evolution 2 Tm",
-            "timesPlayed": 1
+            "gameName": "Escape",
+            "timesPlayed": 2
         },
         {
             "gameName": "Standard [3 Team] (10)",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Immortals",
             "timesPlayed": 1
         },
         {
@@ -98,6 +94,10 @@
         },
         {
             "gameName": "SM5 5 Teams ",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "Immortals",
             "timesPlayed": 1
         }
     ],
