@@ -2,18 +2,18 @@
     "gamesPlayed": [
         {
             "gameName": "4 Teams",
-            "timesPlayed": 154
+            "timesPlayed": 160
         },
         {
             "gameName": "Team",
-            "timesPlayed": 23
-        },
-        {
-            "gameName": "Individual",
-            "timesPlayed": 21
+            "timesPlayed": 27
         },
         {
             "gameName": "3 Teams",
+            "timesPlayed": 22
+        },
+        {
+            "gameName": "Individual",
             "timesPlayed": 21
         },
         {
@@ -74,8 +74,8 @@
         "welcomers": 11
     },
     "playerCounts": {
-        "activePlayers": 80,
-        "newPlayers": 8,
-        "churnedPlayers": 77
+        "activePlayers": 82,
+        "newPlayers": 9,
+        "churnedPlayers": 79
     }
 }

@@ -5,6 +5,12 @@
     "Player": [
         {},
         {
+            "Name": "Exterminator",
+            "AverageScore": 7391,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Man Of Steel",
             "AverageScore": 7105,
             "MissionsPlayed": 2,
@@ -26,6 +32,12 @@
             "Name": "Pilot",
             "AverageScore": 5282,
             "MissionsPlayed": 4,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Top Gun",
+            "AverageScore": 5274,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         }
     ]

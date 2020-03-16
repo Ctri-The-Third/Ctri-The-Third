@@ -377,11 +377,11 @@
         {
             "JSID": 5,
             "Name": "Stryder CBA",
-            "StarQualityPerGame": "22.82",
-            "TotalStarQuality": "433.54",
+            "StarQualityPerGame": "22.61",
+            "TotalStarQuality": "429.53",
             "AverageOpponents": "5.21",
             "gamesPlayed": 19,
-            "AverageRank": "2.63",
+            "AverageRank": "2.68",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
@@ -825,11 +825,11 @@
         {
             "JSID": 10,
             "Name": "Kill Face",
-            "StarQualityPerGame": "13.22",
-            "TotalStarQuality": "145.38",
+            "StarQualityPerGame": "13.10",
+            "TotalStarQuality": "144.14",
             "AverageOpponents": "6.27",
             "gamesPlayed": 11,
-            "AverageRank": "3.36",
+            "AverageRank": "3.45",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
@@ -848,9 +848,9 @@
                 },
                 {
                     "gameName": "Minions",
-                    "rank": 14,
+                    "rank": 13,
                     "totalPlayers": 15,
-                    "starsForGame": "16.07"
+                    "starsForGame": "17.31"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -1041,20 +1041,20 @@
         {
             "JSID": 13,
             "Name": "Queen B",
-            "StarQualityPerGame": "11.74",
-            "TotalStarQuality": "129.19",
+            "StarQualityPerGame": "11.88",
+            "TotalStarQuality": "130.69",
             "AverageOpponents": "6.27",
             "gamesPlayed": 11,
-            "AverageRank": "3.91",
+            "AverageRank": "3.82",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
-                    "rank": 12,
+                    "rank": 13,
                     "totalPlayers": 16,
-                    "starsForGame": "21.33"
+                    "starsForGame": "19.69"
                 },
                 {
                     "gameName": "Colour Conquest",
@@ -1245,14 +1245,14 @@
         {
             "JSID": 16,
             "Name": "Destroyer4",
-            "StarQualityPerGame": "10.14",
-            "TotalStarQuality": "121.73",
+            "StarQualityPerGame": "10.48",
+            "TotalStarQuality": "125.74",
             "AverageOpponents": "6.58",
             "gamesPlayed": 12,
-            "AverageRank": "4.92",
-            "ChangeInRank": "\u21931.92",
+            "AverageRank": "4.83",
+            "ChangeInRank": "\u21931.83",
             "ChangeInPlayers": "\u21930.54",
-            "ChangeInSQPerGame": "\u219314.60",
+            "ChangeInSQPerGame": "\u219314.27",
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
@@ -1331,14 +1331,14 @@
         {
             "JSID": 17,
             "Name": "Darkness",
-            "StarQualityPerGame": "9.33",
-            "TotalStarQuality": "74.67",
+            "StarQualityPerGame": "9.49",
+            "TotalStarQuality": "75.91",
             "AverageOpponents": "7.25",
             "gamesPlayed": 8,
-            "AverageRank": "5.75",
-            "ChangeInRank": "\u21931.57",
+            "AverageRank": "5.63",
+            "ChangeInRank": "\u21931.44",
             "ChangeInPlayers": "\u21911.34",
-            "ChangeInSQPerGame": "\u21910.09",
+            "ChangeInSQPerGame": "\u21910.24",
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
@@ -1354,9 +1354,9 @@
                 },
                 {
                     "gameName": "Minions",
-                    "rank": 13,
+                    "rank": 14,
                     "totalPlayers": 15,
-                    "starsForGame": "17.31"
+                    "starsForGame": "16.07"
                 },
                 {
                     "gameName": "Assault Tournament",
@@ -1393,20 +1393,20 @@
         {
             "JSID": 18,
             "Name": "Will I Am",
-            "StarQualityPerGame": "9.21",
-            "TotalStarQuality": "101.27",
+            "StarQualityPerGame": "9.07",
+            "TotalStarQuality": "99.77",
             "AverageOpponents": "6.27",
             "gamesPlayed": 11,
-            "AverageRank": "4.45",
+            "AverageRank": "4.55",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "S.W.A.T",
-                    "rank": 13,
+                    "rank": 12,
                     "totalPlayers": 16,
-                    "starsForGame": "19.69"
+                    "starsForGame": "21.33"
                 },
                 {
                     "gameName": "Colour Conquest",
@@ -2038,7 +2038,7 @@
         },
         {
             "JSID": 29,
-            "Name": "Man Of Steel",
+            "Name": "Exterminator",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "2.00",
             "AverageOpponents": "1.00",
@@ -2064,6 +2064,64 @@
         },
         {
             "JSID": 30,
+            "Name": "Man Of Steel",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "2.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 2,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 31,
+            "Name": "Top Gun",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 32,
             "Name": "Arian2011",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",

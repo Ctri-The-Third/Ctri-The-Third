@@ -7,32 +7,32 @@
         {
             "JSID": 0,
             "Name": "Rayth",
-            "StarQualityPerGame": "16.33",
-            "TotalStarQuality": "130.66",
-            "AverageOpponents": "4.50",
+            "StarQualityPerGame": "19.71",
+            "TotalStarQuality": "157.66",
+            "AverageOpponents": "4.88",
             "gamesPlayed": 8,
             "AverageRank": "1.50",
             "ChangeInRank": "\u21911.41",
-            "ChangeInPlayers": "\u21933.23",
-            "ChangeInSQPerGame": "\u21938.85",
+            "ChangeInPlayers": "\u21933.22",
+            "ChangeInSQPerGame": "\u21938.82",
             "breakdown": [
                 {
                     "gameName": "Colour Conquest",
                     "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
                 },
                 {
                     "gameName": "4 Teams",
                     "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
                 },
                 {
                     "gameName": "Individual",
                     "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
                 },
                 {
                     "gameName": "4 Teams",
@@ -100,6 +100,68 @@
         },
         {
             "JSID": 2,
+            "Name": "Oscar",
+            "StarQualityPerGame": "12.46",
+            "TotalStarQuality": "99.66",
+            "AverageOpponents": "4.88",
+            "gamesPlayed": 8,
+            "AverageRank": "2.13",
+            "ChangeInRank": "\u21930.55",
+            "ChangeInPlayers": "\u21912.16",
+            "ChangeInSQPerGame": "\u21917.46",
+            "breakdown": [
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "4 Team Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Masters",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Fugitive",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                }
+            ]
+        },
+        {
+            "JSID": 3,
             "Name": "Jj",
             "StarQualityPerGame": "11.98",
             "TotalStarQuality": "47.91",
@@ -107,8 +169,8 @@
             "gamesPlayed": 4,
             "AverageRank": "2.75",
             "ChangeInRank": "\u21931.15",
-            "ChangeInPlayers": "\u21911.60",
-            "ChangeInSQPerGame": "\u21912.28",
+            "ChangeInPlayers": "\u21911.20",
+            "ChangeInSQPerGame": "\u21930.76",
             "breakdown": [
                 {
                     "gameName": "4 Team Supercharge",
@@ -137,69 +199,45 @@
             ]
         },
         {
-            "JSID": 3,
-            "Name": "Oscar",
-            "StarQualityPerGame": "11.15",
-            "TotalStarQuality": "89.16",
-            "AverageOpponents": "4.50",
-            "gamesPlayed": 8,
-            "AverageRank": "2.13",
-            "ChangeInRank": "\u21930.55",
-            "ChangeInPlayers": "\u21911.79",
-            "ChangeInSQPerGame": "\u21916.15",
+            "JSID": 4,
+            "Name": "Robo_h34d",
+            "StarQualityPerGame": "9.67",
+            "TotalStarQuality": "38.66",
+            "AverageOpponents": "4.75",
+            "gamesPlayed": 4,
+            "AverageRank": "2.50",
+            "ChangeInRank": "\u21913.03",
+            "ChangeInPlayers": "\u21933.18",
+            "ChangeInSQPerGame": "\u21933.30",
             "breakdown": [
                 {
                     "gameName": "Colour Conquest",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
                 },
                 {
                     "gameName": "4 Teams",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
                 },
                 {
                     "gameName": "Individual",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
                 },
                 {
                     "gameName": "4 Teams",
-                    "rank": 2,
+                    "rank": 3,
                     "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "Masters",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "Fugitive",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "Colour Conquest",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
+                    "starsForGame": "5.33"
                 }
             ]
         },
         {
-            "JSID": 4,
+            "JSID": 5,
             "Name": "Goku",
             "StarQualityPerGame": "8.00",
             "TotalStarQuality": "24.00",
@@ -231,7 +269,7 @@
             ]
         },
         {
-            "JSID": 5,
+            "JSID": 6,
             "Name": "Bored Cyber",
             "StarQualityPerGame": "7.50",
             "TotalStarQuality": "22.50",
@@ -263,72 +301,34 @@
             ]
         },
         {
-            "JSID": 6,
-            "Name": "Robo_h34d",
-            "StarQualityPerGame": "6.67",
-            "TotalStarQuality": "26.66",
-            "AverageOpponents": "4.00",
-            "gamesPlayed": 4,
-            "AverageRank": "2.50",
-            "ChangeInRank": "\u21913.03",
-            "ChangeInPlayers": "\u21933.93",
-            "ChangeInSQPerGame": "\u21936.30",
-            "breakdown": [
-                {
-                    "gameName": "Colour Conquest",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "4 Teams",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Individual",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                },
-                {
-                    "gameName": "4 Teams",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                }
-            ]
-        },
-        {
             "JSID": 7,
             "Name": "Mike Hunt",
-            "StarQualityPerGame": "5.75",
-            "TotalStarQuality": "46.00",
-            "AverageOpponents": "4.50",
+            "StarQualityPerGame": "6.59",
+            "TotalStarQuality": "52.75",
+            "AverageOpponents": "4.88",
             "gamesPlayed": 8,
             "AverageRank": "3.88",
             "ChangeInRank": "\u21930.50",
-            "ChangeInPlayers": "\u21930.50",
-            "ChangeInSQPerGame": "\u21934.42",
+            "ChangeInPlayers": "\u21930.63",
+            "ChangeInSQPerGame": "\u21936.28",
             "breakdown": [
                 {
                     "gameName": "Colour Conquest",
                     "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
                 },
                 {
                     "gameName": "4 Teams",
                     "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
                 },
                 {
                     "gameName": "Individual",
                     "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
                 },
                 {
                     "gameName": "4 Teams",
@@ -460,6 +460,44 @@
         },
         {
             "JSID": 11,
+            "Name": "Shade",
+            "StarQualityPerGame": "4.00",
+            "TotalStarQuality": "16.00",
+            "AverageOpponents": "4.00",
+            "gamesPlayed": 4,
+            "AverageRank": "4.00",
+            "ChangeInRank": "\u21912.50",
+            "ChangeInPlayers": "\u21933.00",
+            "ChangeInSQPerGame": "\u21933.59",
+            "breakdown": [
+                {
+                    "gameName": "Colour Conquest",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 12,
             "Name": "Outlander",
             "StarQualityPerGame": "3.50",
             "TotalStarQuality": "10.50",
@@ -491,7 +529,7 @@
             ]
         },
         {
-            "JSID": 12,
+            "JSID": 13,
             "Name": "Ninja",
             "StarQualityPerGame": "3.46",
             "TotalStarQuality": "24.25",
@@ -547,31 +585,19 @@
             ]
         },
         {
-            "JSID": 13,
-            "Name": "Lewis",
+            "JSID": 14,
+            "Name": "Gruffalo",
             "StarQualityPerGame": "1.00",
-            "TotalStarQuality": "3.00",
+            "TotalStarQuality": "1.00",
             "AverageOpponents": "1.00",
-            "gamesPlayed": 3,
+            "gamesPlayed": 1,
             "AverageRank": "1.00",
-            "ChangeInRank": "\u21930.00",
-            "ChangeInPlayers": "\u21930.00",
-            "ChangeInSQPerGame": "\u21930.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "4 Teams",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "3 Teams",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Teams",
+                    "gameName": "Individual",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
@@ -579,7 +605,7 @@
             ]
         },
         {
-            "JSID": 14,
+            "JSID": 15,
             "Name": "Mr Poo",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
@@ -611,7 +637,77 @@
             ]
         },
         {
-            "JSID": 15,
+            "JSID": 16,
+            "Name": "Uwu",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "4.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 4,
+            "AverageRank": "1.00",
+            "ChangeInRank": "\u21930.00",
+            "ChangeInPlayers": "\u21930.00",
+            "ChangeInSQPerGame": "\u21930.00",
+            "breakdown": [
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 17,
+            "Name": "Knockout Kelly",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": "\u21930.00",
+            "ChangeInPlayers": "\u21930.00",
+            "ChangeInSQPerGame": "\u21930.00",
+            "breakdown": [
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 18,
             "Name": "Riagan",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "2.00",
@@ -637,19 +733,31 @@
             ]
         },
         {
-            "JSID": 16,
-            "Name": "Gruffalo",
+            "JSID": 19,
+            "Name": "Lewis",
             "StarQualityPerGame": "1.00",
-            "TotalStarQuality": "1.00",
+            "TotalStarQuality": "3.00",
             "AverageOpponents": "1.00",
-            "gamesPlayed": 1,
+            "gamesPlayed": 3,
             "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
+            "ChangeInRank": "\u21930.00",
+            "ChangeInPlayers": "\u21930.00",
+            "ChangeInSQPerGame": "\u21930.00",
             "breakdown": [
                 {
-                    "gameName": "Individual",
+                    "gameName": "4 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "3 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Teams",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
