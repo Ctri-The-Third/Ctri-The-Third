@@ -1,0 +1,62 @@
+[
+    {
+        "month": "2020-01",
+        "players": [
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 19,
+                "averageStars": "46.83"
+            },
+            {
+                "playerName": "Reaper",
+                "gamePlayed": 5,
+                "averageStars": "33.63"
+            },
+            {
+                "playerName": "Blank",
+                "gamePlayed": 3,
+                "averageStars": "33.42"
+            }
+        ]
+    },
+    {
+        "month": "2020-02",
+        "players": [
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 20,
+                "averageStars": "59.59"
+            },
+            {
+                "playerName": "Agent Jaikei",
+                "gamePlayed": 5,
+                "averageStars": "38.92"
+            },
+            {
+                "playerName": "Blank",
+                "gamePlayed": 11,
+                "averageStars": "27.63"
+            }
+        ]
+    },
+    {
+        "month": "2020-03",
+        "players": [
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 9,
+                "averageStars": "49.31"
+            },
+            {
+                "playerName": "Dwipple",
+                "gamePlayed": 5,
+                "averageStars": "26.83"
+            },
+            {
+                "playerName": "Monster",
+                "gamePlayed": 5,
+                "averageStars": "25.67"
+            }
+        ]
+    }
+]

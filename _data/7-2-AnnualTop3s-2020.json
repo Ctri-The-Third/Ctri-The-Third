@@ -1,0 +1,62 @@
+[
+    {
+        "month": "2020-01",
+        "players": [
+            {
+                "playerName": "Rotten",
+                "gamePlayed": 4,
+                "averageStars": "109.50"
+            },
+            {
+                "playerName": "Stealth Elf",
+                "gamePlayed": 8,
+                "averageStars": "58.19"
+            },
+            {
+                "playerName": "Halo 197",
+                "gamePlayed": 8,
+                "averageStars": "48.78"
+            }
+        ]
+    },
+    {
+        "month": "2020-02",
+        "players": [
+            {
+                "playerName": "*Thunder*",
+                "gamePlayed": 8,
+                "averageStars": "136.69"
+            },
+            {
+                "playerName": "Laser Pro",
+                "gamePlayed": 7,
+                "averageStars": "76.79"
+            },
+            {
+                "playerName": "Oscar,Romeo",
+                "gamePlayed": 9,
+                "averageStars": "57.96"
+            }
+        ]
+    },
+    {
+        "month": "2020-03",
+        "players": [
+            {
+                "playerName": "I B Titch CBA",
+                "gamePlayed": 5,
+                "averageStars": "77.27"
+            },
+            {
+                "playerName": "00Z T.B.B",
+                "gamePlayed": 7,
+                "averageStars": "47.33"
+            },
+            {
+                "playerName": "Hewey",
+                "gamePlayed": 14,
+                "averageStars": "33.10"
+            }
+        ]
+    }
+]
