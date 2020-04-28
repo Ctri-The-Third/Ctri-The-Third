@@ -1,44 +1,8 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-04-01 and 2020-03-01",
-    "ScoreGreaterOrEqualDate": "2020-03-01",
-    "ScoreLessDate": "2020-04-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-05-01 and 2020-04-01",
+    "ScoreGreaterOrEqualDate": "2020-04-01",
+    "ScoreLessDate": "2020-05-01",
     "Player": [
-        {},
-        {
-            "Name": "Exterminator",
-            "AverageScore": 7391,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Man Of Steel",
-            "AverageScore": 7105,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Holland99999999",
-            "AverageScore": 6301,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Arian2011",
-            "AverageScore": 6243,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Pilot",
-            "AverageScore": 5282,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Top Gun",
-            "AverageScore": 5274,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        }
+        {}
     ]
 }

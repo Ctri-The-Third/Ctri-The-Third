@@ -2,27 +2,27 @@
     "gamesPlayed": [
         {
             "gameName": "Base Flags",
-            "timesPlayed": 64
+            "timesPlayed": 66
         },
         {
             "gameName": "Infection",
-            "timesPlayed": 39
+            "timesPlayed": 41
         },
         {
             "gameName": "Standard - Solo",
-            "timesPlayed": 32
+            "timesPlayed": 36
         },
         {
             "gameName": "Standard - Team",
-            "timesPlayed": 30
+            "timesPlayed": 32
+        },
+        {
+            "gameName": "Mayhem - Solo",
+            "timesPlayed": 10
         },
         {
             "gameName": "Gladiator Team",
             "timesPlayed": 10
-        },
-        {
-            "gameName": "Mayhem - Solo",
-            "timesPlayed": 9
         },
         {
             "gameName": "Escape",
@@ -57,7 +57,7 @@
             "timesPlayed": 2
         },
         {
-            "gameName": "Wabbit Season",
+            "gameName": "Gladiator Solo",
             "timesPlayed": 1
         },
         {
@@ -69,7 +69,7 @@
             "timesPlayed": 1
         },
         {
-            "gameName": "Gladiator Solo",
+            "gameName": "Wabbit Season",
             "timesPlayed": 1
         }
     ],
@@ -78,8 +78,8 @@
         "welcomers": 1
     },
     "playerCounts": {
-        "activePlayers": 79,
+        "activePlayers": 83,
         "newPlayers": 8,
-        "churnedPlayers": 60
+        "churnedPlayers": 64
     }
 }
