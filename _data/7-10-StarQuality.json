@@ -1,8 +1,596 @@
 {
-    "ScoreTitle": "Star Quality for all known players, between 2020-03 and 2020-04",
-    "ScoreGreaterOrEqualDate": "2020-04",
-    "ScoreLessDate": "2020-03",
+    "ScoreTitle": "Star Quality for all known players, between 2020-06 and 2020-07",
+    "ScoreGreaterOrEqualDate": "2020-07",
+    "ScoreLessDate": "2020-06",
     "Player": [
-        {}
+        {},
+        {
+            "JSID": 0,
+            "Name": "-=Valroc=-",
+            "StarQualityPerGame": "96.38",
+            "TotalStarQuality": "481.88",
+            "AverageOpponents": "12.40",
+            "gamesPlayed": 5,
+            "AverageRank": "4.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 1,
+                    "totalPlayers": 12,
+                    "starsForGame": "144.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 13,
+                    "starsForGame": "21.13"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 13,
+                    "starsForGame": "28.17"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 1,
+                    "totalPlayers": 13,
+                    "starsForGame": "169.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 11,
+                    "starsForGame": "121.00"
+                }
+            ]
+        },
+        {
+            "JSID": 1,
+            "Name": "Unagi",
+            "StarQualityPerGame": "69.76",
+            "TotalStarQuality": "279.03",
+            "AverageOpponents": "12.75",
+            "gamesPlayed": 4,
+            "AverageRank": "5.25",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 2,
+                    "totalPlayers": 12,
+                    "starsForGame": "72.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 12,
+                    "totalPlayers": 13,
+                    "starsForGame": "14.08"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 13,
+                    "starsForGame": "15.36"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 10,
+                    "totalPlayers": 13,
+                    "starsForGame": "16.90"
+                }
+            ]
+        },
+        {
+            "JSID": 2,
+            "Name": "Smally McSmall",
+            "StarQualityPerGame": "57.32",
+            "TotalStarQuality": "229.28",
+            "AverageOpponents": "12.75",
+            "gamesPlayed": 4,
+            "AverageRank": "6.75",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 12,
+                    "totalPlayers": 12,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 13,
+                    "starsForGame": "84.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 13,
+                    "starsForGame": "21.13"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 7,
+                    "totalPlayers": 13,
+                    "starsForGame": "24.14"
+                }
+            ]
+        },
+        {
+            "JSID": 3,
+            "Name": "Archer",
+            "StarQualityPerGame": "38.17",
+            "TotalStarQuality": "190.84",
+            "AverageOpponents": "12.40",
+            "gamesPlayed": 5,
+            "AverageRank": "6.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 3,
+                    "totalPlayers": 12,
+                    "starsForGame": "48.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 13,
+                    "totalPlayers": 13,
+                    "starsForGame": "13.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 13,
+                    "starsForGame": "42.25"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 2,
+                    "totalPlayers": 13,
+                    "starsForGame": "84.50"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 5,
+                    "totalPlayers": 11,
+                    "starsForGame": "24.20"
+                }
+            ]
+        },
+        {
+            "JSID": 4,
+            "Name": "<!-- Blaze -->",
+            "StarQualityPerGame": "37.99",
+            "TotalStarQuality": "189.93",
+            "AverageOpponents": "12.40",
+            "gamesPlayed": 5,
+            "AverageRank": "6.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 10,
+                    "totalPlayers": 12,
+                    "starsForGame": "14.40"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 13,
+                    "starsForGame": "56.33"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 12,
+                    "totalPlayers": 13,
+                    "starsForGame": "14.08"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 5,
+                    "totalPlayers": 13,
+                    "starsForGame": "33.80"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 3,
+                    "totalPlayers": 11,
+                    "starsForGame": "40.33"
+                }
+            ]
+        },
+        {
+            "JSID": 5,
+            "Name": "Little Tank",
+            "StarQualityPerGame": "36.00",
+            "TotalStarQuality": "36.00",
+            "AverageOpponents": "12.00",
+            "gamesPlayed": 1,
+            "AverageRank": "4.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 4,
+                    "totalPlayers": 12,
+                    "starsForGame": "36.00"
+                }
+            ]
+        },
+        {
+            "JSID": 6,
+            "Name": "Ging'mes",
+            "StarQualityPerGame": "32.68",
+            "TotalStarQuality": "130.71",
+            "AverageOpponents": "12.50",
+            "gamesPlayed": 4,
+            "AverageRank": "8.25",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 13,
+                    "starsForGame": "169.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 13,
+                    "starsForGame": "16.90"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 12,
+                    "totalPlayers": 13,
+                    "starsForGame": "14.08"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 11,
+                    "totalPlayers": 11,
+                    "starsForGame": "11.00"
+                }
+            ]
+        },
+        {
+            "JSID": 7,
+            "Name": "BBTheory",
+            "StarQualityPerGame": "32.58",
+            "TotalStarQuality": "162.92",
+            "AverageOpponents": "12.40",
+            "gamesPlayed": 5,
+            "AverageRank": "5.60",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 9,
+                    "totalPlayers": 12,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 13,
+                    "starsForGame": "18.78"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 13,
+                    "starsForGame": "169.00"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 3,
+                    "totalPlayers": 13,
+                    "starsForGame": "56.33"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 6,
+                    "totalPlayers": 11,
+                    "starsForGame": "20.17"
+                }
+            ]
+        },
+        {
+            "JSID": 8,
+            "Name": "Sn3aky",
+            "StarQualityPerGame": "30.32",
+            "TotalStarQuality": "151.61",
+            "AverageOpponents": "12.40",
+            "gamesPlayed": 5,
+            "AverageRank": "6.60",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 5,
+                    "totalPlayers": 12,
+                    "starsForGame": "28.80"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 13,
+                    "starsForGame": "15.36"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 13,
+                    "starsForGame": "84.50"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 9,
+                    "totalPlayers": 13,
+                    "starsForGame": "18.78"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 11,
+                    "starsForGame": "60.50"
+                }
+            ]
+        },
+        {
+            "JSID": 9,
+            "Name": "Morrigan",
+            "StarQualityPerGame": "30.25",
+            "TotalStarQuality": "30.25",
+            "AverageOpponents": "11.00",
+            "gamesPlayed": 1,
+            "AverageRank": "4.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 4,
+                    "totalPlayers": 11,
+                    "starsForGame": "30.25"
+                }
+            ]
+        },
+        {
+            "JSID": 10,
+            "Name": "Yuzucat",
+            "StarQualityPerGame": "26.70",
+            "TotalStarQuality": "133.49",
+            "AverageOpponents": "12.40",
+            "gamesPlayed": 5,
+            "AverageRank": "7.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 6,
+                    "totalPlayers": 12,
+                    "starsForGame": "24.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 13,
+                    "starsForGame": "42.25"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 13,
+                    "totalPlayers": 13,
+                    "starsForGame": "13.00"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 8,
+                    "totalPlayers": 13,
+                    "starsForGame": "21.13"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 8,
+                    "totalPlayers": 11,
+                    "starsForGame": "15.13"
+                }
+            ]
+        },
+        {
+            "JSID": 11,
+            "Name": "Poison Ivy",
+            "StarQualityPerGame": "22.48",
+            "TotalStarQuality": "89.90",
+            "AverageOpponents": "12.75",
+            "gamesPlayed": 4,
+            "AverageRank": "9.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 7,
+                    "totalPlayers": 12,
+                    "starsForGame": "20.57"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 13,
+                    "starsForGame": "33.80"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 13,
+                    "starsForGame": "18.78"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 4,
+                    "totalPlayers": 13,
+                    "starsForGame": "42.25"
+                }
+            ]
+        },
+        {
+            "JSID": 12,
+            "Name": "Entity",
+            "StarQualityPerGame": "22.47",
+            "TotalStarQuality": "134.83",
+            "AverageOpponents": "10.50",
+            "gamesPlayed": 6,
+            "AverageRank": "6.33",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 11,
+                    "totalPlayers": 12,
+                    "starsForGame": "13.09"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 13,
+                    "starsForGame": "16.90"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 13,
+                    "starsForGame": "24.14"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 6,
+                    "totalPlayers": 13,
+                    "starsForGame": "28.17"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 10,
+                    "totalPlayers": 11,
+                    "starsForGame": "12.10"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 13,
+            "Name": "Natsudragneel",
+            "StarQualityPerGame": "20.72",
+            "TotalStarQuality": "82.87",
+            "AverageOpponents": "12.50",
+            "gamesPlayed": 4,
+            "AverageRank": "8.50",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 13,
+                    "starsForGame": "24.14"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 13,
+                    "starsForGame": "56.33"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 13,
+                    "totalPlayers": 13,
+                    "starsForGame": "13.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 7,
+                    "totalPlayers": 11,
+                    "starsForGame": "17.29"
+                }
+            ]
+        },
+        {
+            "JSID": 14,
+            "Name": "Toytle",
+            "StarQualityPerGame": "20.41",
+            "TotalStarQuality": "102.05",
+            "AverageOpponents": "12.40",
+            "gamesPlayed": 5,
+            "AverageRank": "9.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 8,
+                    "totalPlayers": 12,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 13,
+                    "starsForGame": "28.17"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 13,
+                    "starsForGame": "33.80"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 11,
+                    "totalPlayers": 13,
+                    "starsForGame": "15.36"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 9,
+                    "totalPlayers": 11,
+                    "starsForGame": "13.44"
+                }
+            ]
+        }
     ]
 }

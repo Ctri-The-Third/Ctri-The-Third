@@ -2,7 +2,7 @@
     "gamesPlayed": [
         {
             "gameName": "Standard Individual",
-            "timesPlayed": 141
+            "timesPlayed": 145
         },
         {
             "gameName": "Continous Ind",
@@ -14,7 +14,7 @@
         },
         {
             "gameName": "Standard 2 Team",
-            "timesPlayed": 74
+            "timesPlayed": 75
         },
         {
             "gameName": "Assault Tournament",
@@ -158,8 +158,8 @@
         "welcomers": 11
     },
     "playerCounts": {
-        "activePlayers": 321,
+        "activePlayers": 324,
         "newPlayers": 4,
-        "churnedPlayers": 300
+        "churnedPlayers": 302
     }
 }
