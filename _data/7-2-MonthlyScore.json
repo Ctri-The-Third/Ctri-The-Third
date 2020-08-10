@@ -1,19 +1,49 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-08-01 and 2020-07-01",
-    "ScoreGreaterOrEqualDate": "2020-07-01",
-    "ScoreLessDate": "2020-08-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-09-01 and 2020-08-01",
+    "ScoreGreaterOrEqualDate": "2020-08-01",
+    "ScoreLessDate": "2020-09-01",
     "Player": [
         {},
         {
-            "Name": "Flaming Death",
-            "AverageScore": 9723,
+            "Name": "Jububley",
+            "AverageScore": 11013,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Death Tag",
-            "AverageScore": 6702,
+            "Name": "Laser",
+            "AverageScore": 9831,
             "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Haribo",
+            "AverageScore": 8219,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Blaster",
+            "AverageScore": 7639,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Mikey Magnum",
+            "AverageScore": 7379,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Spiderman Sam",
+            "AverageScore": 5732,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Noah Destroyer",
+            "AverageScore": 5725,
+            "MissionsPlayed": 2,
             "ChangeInScore": null
         }
     ]

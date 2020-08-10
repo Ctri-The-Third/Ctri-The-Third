@@ -1,8 +1,68 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-08-01 and 2020-07-01",
-    "ScoreGreaterOrEqualDate": "2020-07-01",
-    "ScoreLessDate": "2020-08-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-09-01 and 2020-08-01",
+    "ScoreGreaterOrEqualDate": "2020-08-01",
+    "ScoreLessDate": "2020-09-01",
     "Player": [
-        {}
+        {},
+        {
+            "Name": "Sn3aky",
+            "AverageScore": 20127,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Psycho",
+            "AverageScore": 17267,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "LaserKeian",
+            "AverageScore": 17257,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Road1to1Toast",
+            "AverageScore": 15147,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "TotallyLost",
+            "AverageScore": 14627,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Master Sloth",
+            "AverageScore": 12346,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Noob!",
+            "AverageScore": 12277,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Hero of Light",
+            "AverageScore": 11727,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Ninja Jaime",
+            "AverageScore": 11076,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Tiger_Cub",
+            "AverageScore": 10779,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        }
     ]
 }

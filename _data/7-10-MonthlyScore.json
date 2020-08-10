@@ -1,74 +1,8 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-08-01 and 2020-07-01",
-    "ScoreGreaterOrEqualDate": "2020-07-01",
-    "ScoreLessDate": "2020-08-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-09-01 and 2020-08-01",
+    "ScoreGreaterOrEqualDate": "2020-08-01",
+    "ScoreLessDate": "2020-09-01",
     "Player": [
-        {},
-        {
-            "Name": "-=Valroc=-",
-            "AverageScore": 14904,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Sn3aky",
-            "AverageScore": 11094,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Morrigan",
-            "AverageScore": 10884,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "<!-- Blaze -->",
-            "AverageScore": 10884,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Archer",
-            "AverageScore": 10784,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "BBTheory",
-            "AverageScore": 10204,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Natsudragneel",
-            "AverageScore": 9334,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Entity",
-            "AverageScore": 9218,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Yuzucat",
-            "AverageScore": 8364,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Toytle",
-            "AverageScore": 7914,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Ging'mes",
-            "AverageScore": 7644,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        }
+        {}
     ]
 }
