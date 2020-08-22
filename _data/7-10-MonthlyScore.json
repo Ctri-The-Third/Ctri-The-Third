@@ -3,6 +3,30 @@
     "ScoreGreaterOrEqualDate": "2020-08-01",
     "ScoreLessDate": "2020-09-01",
     "Player": [
-        {}
+        {},
+        {
+            "Name": "Unkn0wn",
+            "AverageScore": 40404,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Crashers",
+            "AverageScore": 10082,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Smasher",
+            "AverageScore": 7007,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Ging'mes",
+            "AverageScore": 3310,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21934334.00"
+        }
     ]
 }
