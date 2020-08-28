@@ -58,5 +58,25 @@
                 "averageStars": "12.46"
             }
         ]
+    },
+    {
+        "month": "2020-08",
+        "players": [
+            {
+                "playerName": "C'tri",
+                "gamePlayed": 4,
+                "averageStars": "4.00"
+            },
+            {
+                "playerName": "Achilles",
+                "gamePlayed": 4,
+                "averageStars": "2.00"
+            },
+            {
+                "playerName": "Overdrive",
+                "gamePlayed": 3,
+                "averageStars": "1.00"
+            }
+        ]
     }
 ]

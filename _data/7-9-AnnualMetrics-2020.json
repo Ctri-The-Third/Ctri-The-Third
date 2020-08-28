@@ -6,15 +6,15 @@
         },
         {
             "gameName": "Team",
-            "timesPlayed": 27
+            "timesPlayed": 29
+        },
+        {
+            "gameName": "Individual",
+            "timesPlayed": 22
         },
         {
             "gameName": "3 Teams",
             "timesPlayed": 22
-        },
-        {
-            "gameName": "Individual",
-            "timesPlayed": 21
         },
         {
             "gameName": "Colour Conquest",
@@ -38,18 +38,22 @@
         },
         {
             "gameName": "Shadows (Individual)",
-            "timesPlayed": 4
-        },
-        {
-            "gameName": "Highlander",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "Colour Ranked",
-            "timesPlayed": 2
+            "timesPlayed": 5
         },
         {
             "gameName": "Dead Aim (Individual)",
+            "timesPlayed": 3
+        },
+        {
+            "gameName": "Colour Ranked",
+            "timesPlayed": 3
+        },
+        {
+            "gameName": "Z (Stun-Stun-Deac)",
+            "timesPlayed": 2
+        },
+        {
+            "gameName": "Highlander",
             "timesPlayed": 2
         },
         {
@@ -57,15 +61,11 @@
             "timesPlayed": 2
         },
         {
-            "gameName": "Z (Stun-Stun-Deac)",
+            "gameName": "Masters",
             "timesPlayed": 1
         },
         {
             "gameName": "Gladiator (Individual)",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Masters",
             "timesPlayed": 1
         }
     ],

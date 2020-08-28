@@ -7,15 +7,69 @@
         {
             "JSID": 0,
             "Name": "-=Valroc=-",
-            "StarQualityPerGame": "76.66",
-            "TotalStarQuality": "1763.17",
-            "AverageOpponents": "10.52",
-            "gamesPlayed": 23,
-            "AverageRank": "2.96",
-            "ChangeInRank": "\u21910.24",
-            "ChangeInPlayers": "\u21931.88",
-            "ChangeInSQPerGame": "\u219330.11",
+            "StarQualityPerGame": "97.04",
+            "TotalStarQuality": "3202.19",
+            "AverageOpponents": "12.45",
+            "gamesPlayed": 33,
+            "AverageRank": "2.73",
+            "ChangeInRank": "\u21911.67",
+            "ChangeInPlayers": "\u21910.05",
+            "ChangeInSQPerGame": "\u21912.94",
             "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 10,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 11,
+                    "starsForGame": "30.25"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 2,
+                    "totalPlayers": 12,
+                    "starsForGame": "72.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 2,
+                    "totalPlayers": 13,
+                    "starsForGame": "84.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 15,
+                    "starsForGame": "225.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 14,
+                    "starsForGame": "98.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 1,
+                    "totalPlayers": 13,
+                    "starsForGame": "169.00"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 1,
+                    "totalPlayers": 13,
+                    "starsForGame": "169.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 13,
+                    "starsForGame": "169.00"
+                },
                 {
                     "gameName": "Space Marines 5",
                     "rank": 2,
@@ -30,15 +84,15 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 7,
+                    "rank": 10,
                     "totalPlayers": 15,
-                    "starsForGame": "32.14"
+                    "starsForGame": "22.50"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 15,
+                    "rank": 3,
                     "totalPlayers": 16,
-                    "starsForGame": "17.07"
+                    "starsForGame": "85.33"
                 },
                 {
                     "gameName": "Zombies vs Survivors",
@@ -47,10 +101,16 @@
                     "starsForGame": "256.00"
                 },
                 {
+                    "gameName": "Gladiator - Team",
+                    "rank": 9,
+                    "totalPlayers": 32,
+                    "starsForGame": "113.78"
+                },
+                {
                     "gameName": "Gladiator Team",
-                    "rank": 5,
-                    "totalPlayers": 16,
-                    "starsForGame": "51.20"
+                    "rank": 10,
+                    "totalPlayers": 32,
+                    "starsForGame": "102.40"
                 },
                 {
                     "gameName": "Infection",
@@ -72,9 +132,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 1,
+                    "rank": 3,
                     "totalPlayers": 12,
-                    "starsForGame": "144.00"
+                    "starsForGame": "48.00"
                 },
                 {
                     "gameName": "Escape",
@@ -85,8 +145,8 @@
                 {
                     "gameName": "Gladiator Team",
                     "rank": 2,
-                    "totalPlayers": 9,
-                    "starsForGame": "40.50"
+                    "totalPlayers": 14,
+                    "starsForGame": "98.00"
                 },
                 {
                     "gameName": "Base Flags",
@@ -120,15 +180,15 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 1,
+                    "rank": 2,
                     "totalPlayers": 7,
-                    "starsForGame": "49.00"
+                    "starsForGame": "24.50"
                 },
                 {
                     "gameName": "Gladiator Team",
                     "rank": 1,
-                    "totalPlayers": 7,
-                    "starsForGame": "49.00"
+                    "totalPlayers": 9,
+                    "starsForGame": "81.00"
                 },
                 {
                     "gameName": "Space Marines 5",
@@ -144,9 +204,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 7,
+                    "rank": 4,
                     "totalPlayers": 8,
-                    "starsForGame": "9.14"
+                    "starsForGame": "16.00"
                 },
                 {
                     "gameName": "Base Flags",
@@ -159,11 +219,11 @@
         {
             "JSID": 1,
             "Name": "Mr Spanky",
-            "StarQualityPerGame": "57.31",
-            "TotalStarQuality": "515.79",
-            "AverageOpponents": "14.67",
-            "gamesPlayed": 9,
-            "AverageRank": "6.89",
+            "StarQualityPerGame": "68.74",
+            "TotalStarQuality": "687.39",
+            "AverageOpponents": "18.00",
+            "gamesPlayed": 10,
+            "AverageRank": "7.50",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
@@ -182,9 +242,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 3,
+                    "rank": 8,
                     "totalPlayers": 15,
-                    "starsForGame": "75.00"
+                    "starsForGame": "28.13"
                 },
                 {
                     "gameName": "Base Flags",
@@ -200,9 +260,9 @@
                 },
                 {
                     "gameName": "Predator",
-                    "rank": 3,
+                    "rank": 2,
                     "totalPlayers": 13,
-                    "starsForGame": "56.33"
+                    "starsForGame": "84.50"
                 },
                 {
                     "gameName": "Zombies vs Survivors",
@@ -211,10 +271,16 @@
                     "starsForGame": "23.27"
                 },
                 {
+                    "gameName": "Gladiator - Team",
+                    "rank": 11,
+                    "totalPlayers": 32,
+                    "starsForGame": "93.09"
+                },
+                {
                     "gameName": "Gladiator Team",
-                    "rank": 6,
-                    "totalPlayers": 16,
-                    "starsForGame": "42.67"
+                    "rank": 12,
+                    "totalPlayers": 32,
+                    "starsForGame": "85.33"
                 },
                 {
                     "gameName": "Infection",
@@ -227,15 +293,75 @@
         {
             "JSID": 2,
             "Name": "Archer",
-            "StarQualityPerGame": "56.35",
-            "TotalStarQuality": "1070.70",
-            "AverageOpponents": "10.21",
-            "gamesPlayed": 19,
-            "AverageRank": "3.74",
-            "ChangeInRank": "\u21910.06",
-            "ChangeInPlayers": "\u21932.19",
-            "ChangeInSQPerGame": "\u219313.01",
+            "StarQualityPerGame": "64.00",
+            "TotalStarQuality": "1919.87",
+            "AverageOpponents": "12.13",
+            "gamesPlayed": 30,
+            "AverageRank": "4.53",
+            "ChangeInRank": "\u21930.53",
+            "ChangeInPlayers": "\u21930.27",
+            "ChangeInSQPerGame": "\u219111.53",
             "breakdown": [
+                {
+                    "gameName": "Immortals",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 10,
+                    "starsForGame": "50.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 11,
+                    "starsForGame": "24.20"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 1,
+                    "totalPlayers": 12,
+                    "starsForGame": "144.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 12,
+                    "totalPlayers": 13,
+                    "starsForGame": "14.08"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 15,
+                    "starsForGame": "75.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 14,
+                    "starsForGame": "28.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 4,
+                    "totalPlayers": 13,
+                    "starsForGame": "42.25"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 5,
+                    "totalPlayers": 13,
+                    "starsForGame": "33.80"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 4,
+                    "totalPlayers": 13,
+                    "starsForGame": "42.25"
+                },
                 {
                     "gameName": "Space Marines 5",
                     "rank": 10,
@@ -256,9 +382,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 13,
+                    "rank": 6,
                     "totalPlayers": 16,
-                    "starsForGame": "19.69"
+                    "starsForGame": "42.67"
                 },
                 {
                     "gameName": "Borg",
@@ -279,10 +405,16 @@
                     "starsForGame": "128.00"
                 },
                 {
+                    "gameName": "Gladiator - Team",
+                    "rank": 5,
+                    "totalPlayers": 32,
+                    "starsForGame": "204.80"
+                },
+                {
                     "gameName": "Gladiator Team",
-                    "rank": 3,
-                    "totalPlayers": 16,
-                    "starsForGame": "85.33"
+                    "rank": 6,
+                    "totalPlayers": 32,
+                    "starsForGame": "170.67"
                 },
                 {
                     "gameName": "Infection",
@@ -292,9 +424,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 1,
+                    "rank": 2,
                     "totalPlayers": 4,
-                    "starsForGame": "16.00"
+                    "starsForGame": "8.00"
                 },
                 {
                     "gameName": "Base Flags",
@@ -310,21 +442,21 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 6,
+                    "rank": 5,
                     "totalPlayers": 7,
-                    "starsForGame": "8.17"
+                    "starsForGame": "9.80"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 2,
+                    "rank": 3,
                     "totalPlayers": 7,
-                    "starsForGame": "24.50"
+                    "starsForGame": "16.33"
                 },
                 {
                     "gameName": "Gladiator Team",
-                    "rank": 6,
-                    "totalPlayers": 7,
-                    "starsForGame": "8.17"
+                    "rank": 8,
+                    "totalPlayers": 9,
+                    "starsForGame": "10.13"
                 },
                 {
                     "gameName": "Space Marines 5",
@@ -340,9 +472,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 4,
+                    "rank": 6,
                     "totalPlayers": 8,
-                    "starsForGame": "16.00"
+                    "starsForGame": "10.67"
                 },
                 {
                     "gameName": "Base Flags",
@@ -354,27 +486,81 @@
         },
         {
             "JSID": 3,
-            "Name": "(Apollo)",
-            "StarQualityPerGame": "43.41",
-            "TotalStarQuality": "390.69",
-            "AverageOpponents": "14.67",
-            "gamesPlayed": 9,
-            "AverageRank": "7.22",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
+            "Name": "Ging'mes",
+            "StarQualityPerGame": "63.88",
+            "TotalStarQuality": "2491.29",
+            "AverageOpponents": "10.67",
+            "gamesPlayed": 39,
+            "AverageRank": "4.90",
+            "ChangeInRank": "\u21913.85",
+            "ChangeInPlayers": "\u21931.83",
+            "ChangeInSQPerGame": "\u219111.52",
             "breakdown": [
                 {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 10,
+                    "starsForGame": "20.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 11,
+                    "starsForGame": "121.00"
+                },
+                {
                     "gameName": "Space Marines 5",
-                    "rank": 3,
+                    "rank": 10,
+                    "totalPlayers": 12,
+                    "starsForGame": "14.40"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 10,
+                    "totalPlayers": 13,
+                    "starsForGame": "16.90"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
                     "totalPlayers": 15,
-                    "starsForGame": "75.00"
+                    "starsForGame": "32.14"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 14,
+                    "starsForGame": "32.67"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 5,
+                    "totalPlayers": 13,
+                    "starsForGame": "33.80"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 4,
+                    "totalPlayers": 13,
+                    "starsForGame": "42.25"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 8,
+                    "totalPlayers": 13,
+                    "starsForGame": "21.13"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 8,
+                    "totalPlayers": 15,
+                    "starsForGame": "28.13"
                 },
                 {
                     "gameName": "Wedlock",
-                    "rank": 3,
+                    "rank": 4,
                     "totalPlayers": 15,
-                    "starsForGame": "75.00"
+                    "starsForGame": "56.25"
                 },
                 {
                     "gameName": "Base Flags",
@@ -384,50 +570,756 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 10,
+                    "rank": 5,
                     "totalPlayers": 16,
-                    "starsForGame": "25.60"
+                    "starsForGame": "51.20"
                 },
                 {
                     "gameName": "Borg",
+                    "rank": 12,
+                    "totalPlayers": 12,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 3,
+                    "totalPlayers": 13,
+                    "starsForGame": "56.33"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 1,
+                    "totalPlayers": 32,
+                    "starsForGame": "1024.00"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 2,
+                    "totalPlayers": 32,
+                    "starsForGame": "512.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 11,
+                    "totalPlayers": 14,
+                    "starsForGame": "17.82"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Fugitive",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Wabbit Season",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 12,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 6,
+                    "totalPlayers": 10,
+                    "starsForGame": "16.67"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 11,
+                    "starsForGame": "17.29"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 10,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 7,
+                    "starsForGame": "8.17"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 7,
+                    "starsForGame": "9.80"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 7,
+                    "totalPlayers": 9,
+                    "starsForGame": "11.57"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 8,
+                    "totalPlayers": 8,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 5,
+                    "totalPlayers": 8,
+                    "starsForGame": "12.80"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 8,
+                    "starsForGame": "64.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 8,
+                    "starsForGame": "8.00"
+                }
+            ]
+        },
+        {
+            "JSID": 4,
+            "Name": "Sn3aky",
+            "StarQualityPerGame": "59.87",
+            "TotalStarQuality": "1616.56",
+            "AverageOpponents": "12.59",
+            "gamesPlayed": 27,
+            "AverageRank": "5.00",
+            "ChangeInRank": "\u21912.20",
+            "ChangeInPlayers": "\u21910.19",
+            "ChangeInSQPerGame": "\u219131.50",
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
                     "rank": 3,
                     "totalPlayers": 12,
                     "starsForGame": "48.00"
                 },
                 {
                     "gameName": "Predator",
-                    "rank": 8,
+                    "rank": 5,
                     "totalPlayers": 13,
-                    "starsForGame": "21.13"
+                    "starsForGame": "33.80"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 15,
+                    "starsForGame": "37.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 12,
+                    "totalPlayers": 14,
+                    "starsForGame": "16.33"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 11,
+                    "totalPlayers": 13,
+                    "starsForGame": "15.36"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 11,
+                    "totalPlayers": 13,
+                    "starsForGame": "15.36"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 13,
+                    "starsForGame": "84.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 16,
+                    "starsForGame": "25.60"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 9,
+                    "totalPlayers": 12,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 7,
+                    "totalPlayers": 13,
+                    "starsForGame": "24.14"
                 },
                 {
                     "gameName": "Zombies vs Survivors",
-                    "rank": 13,
+                    "rank": 3,
                     "totalPlayers": 16,
-                    "starsForGame": "19.69"
+                    "starsForGame": "85.33"
                 },
                 {
                     "gameName": "Gladiator Team",
+                    "rank": 3,
+                    "totalPlayers": 32,
+                    "starsForGame": "341.33"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 4,
+                    "totalPlayers": 32,
+                    "starsForGame": "256.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 14,
+                    "starsForGame": "98.00"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 8,
+                    "totalPlayers": 8,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 12,
+                    "starsForGame": "28.80"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 12,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 1,
+                    "totalPlayers": 10,
+                    "starsForGame": "100.00"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 1,
+                    "totalPlayers": 14,
+                    "starsForGame": "196.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 7,
+                    "starsForGame": "24.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 7,
+                    "starsForGame": "7.00"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 2,
+                    "totalPlayers": 9,
+                    "starsForGame": "40.50"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 3,
+                    "totalPlayers": 8,
+                    "starsForGame": "21.33"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 7,
+                    "totalPlayers": 8,
+                    "starsForGame": "9.14"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 8,
+                    "starsForGame": "12.80"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 8,
+                    "starsForGame": "16.00"
+                }
+            ]
+        },
+        {
+            "JSID": 5,
+            "Name": "Larma",
+            "StarQualityPerGame": "44.10",
+            "TotalStarQuality": "837.89",
+            "AverageOpponents": "14.53",
+            "gamesPlayed": 19,
+            "AverageRank": "6.26",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 15,
+                    "starsForGame": "45.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 14,
+                    "totalPlayers": 14,
+                    "starsForGame": "14.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 2,
+                    "totalPlayers": 13,
+                    "starsForGame": "84.50"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 2,
+                    "totalPlayers": 13,
+                    "starsForGame": "84.50"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 3,
+                    "totalPlayers": 13,
+                    "starsForGame": "56.33"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 7,
+                    "totalPlayers": 12,
+                    "starsForGame": "20.57"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 6,
+                    "totalPlayers": 13,
+                    "starsForGame": "28.17"
+                },
+                {
+                    "gameName": "Zombies vs Survivors",
+                    "rank": 5,
+                    "totalPlayers": 16,
+                    "starsForGame": "51.20"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 7,
+                    "totalPlayers": 32,
+                    "starsForGame": "146.29"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 8,
+                    "totalPlayers": 32,
+                    "starsForGame": "128.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 4,
+                    "totalPlayers": 14,
+                    "starsForGame": "49.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 12,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 12,
+                    "starsForGame": "28.80"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 4,
+                    "totalPlayers": 10,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 7,
+                    "totalPlayers": 14,
+                    "starsForGame": "28.00"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 8,
+                    "totalPlayers": 14,
+                    "starsForGame": "24.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 11,
+                    "starsForGame": "30.25"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 10,
+                    "starsForGame": "20.00"
+                }
+            ]
+        },
+        {
+            "JSID": 6,
+            "Name": "Unagi",
+            "StarQualityPerGame": "41.20",
+            "TotalStarQuality": "741.58",
+            "AverageOpponents": "11.33",
+            "gamesPlayed": 18,
+            "AverageRank": "4.22",
+            "ChangeInRank": "\u21911.78",
+            "ChangeInPlayers": "\u21931.42",
+            "ChangeInSQPerGame": "\u21914.49",
+            "breakdown": [
+                {
+                    "gameName": "Immortals",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 10,
+                    "starsForGame": "100.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 11,
+                    "starsForGame": "20.17"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 5,
+                    "totalPlayers": 12,
+                    "starsForGame": "28.80"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 15,
+                    "starsForGame": "112.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 14,
+                    "starsForGame": "196.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 3,
+                    "totalPlayers": 13,
+                    "starsForGame": "56.33"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 6,
+                    "totalPlayers": 13,
+                    "starsForGame": "28.17"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 6,
+                    "totalPlayers": 13,
+                    "starsForGame": "28.17"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 3,
+                    "totalPlayers": 8,
+                    "starsForGame": "21.33"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 12,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 12,
+                    "starsForGame": "20.57"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 10,
+                    "totalPlayers": 10,
+                    "starsForGame": "10.00"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 3,
+                    "totalPlayers": 14,
+                    "starsForGame": "65.33"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 4,
+                    "totalPlayers": 14,
+                    "starsForGame": "49.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 11,
+                    "starsForGame": "40.33"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 10,
+                    "starsForGame": "25.00"
+                }
+            ]
+        },
+        {
+            "JSID": 7,
+            "Name": "Fur Ball",
+            "StarQualityPerGame": "37.77",
+            "TotalStarQuality": "339.89",
+            "AverageOpponents": "17.33",
+            "gamesPlayed": 9,
+            "AverageRank": "8.78",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 6,
+                    "totalPlayers": 15,
+                    "starsForGame": "37.50"
+                },
+                {
+                    "gameName": "Wedlock",
+                    "rank": 10,
+                    "totalPlayers": 15,
+                    "starsForGame": "22.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 15,
+                    "starsForGame": "32.14"
+                },
+                {
+                    "gameName": "Base Flags",
                     "rank": 9,
                     "totalPlayers": 16,
                     "starsForGame": "28.44"
                 },
                 {
-                    "gameName": "Infection",
-                    "rank": 10,
-                    "totalPlayers": 14,
-                    "starsForGame": "19.60"
+                    "gameName": "Borg",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 5,
+                    "totalPlayers": 13,
+                    "starsForGame": "33.80"
+                },
+                {
+                    "gameName": "Zombies vs Survivors",
+                    "rank": 4,
+                    "totalPlayers": 16,
+                    "starsForGame": "64.00"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 15,
+                    "totalPlayers": 32,
+                    "starsForGame": "68.27"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 16,
+                    "totalPlayers": 32,
+                    "starsForGame": "64.00"
                 }
             ]
         },
         {
-            "JSID": 4,
+            "JSID": 8,
+            "Name": "Entity",
+            "StarQualityPerGame": "37.76",
+            "TotalStarQuality": "453.08",
+            "AverageOpponents": "10.17",
+            "gamesPlayed": 12,
+            "AverageRank": "5.42",
+            "ChangeInRank": "\u21911.42",
+            "ChangeInPlayers": "\u21930.33",
+            "ChangeInSQPerGame": "\u219119.98",
+            "breakdown": [
+                {
+                    "gameName": "Predator",
+                    "rank": 1,
+                    "totalPlayers": 13,
+                    "starsForGame": "169.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 13,
+                    "totalPlayers": 15,
+                    "starsForGame": "17.31"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 14,
+                    "totalPlayers": 15,
+                    "starsForGame": "16.07"
+                },
+                {
+                    "gameName": "Wedlock",
+                    "rank": 3,
+                    "totalPlayers": 15,
+                    "starsForGame": "75.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 15,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 16,
+                    "starsForGame": "128.00"
+                },
+                {
+                    "gameName": "Fugitive",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Wabbit Season",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 12,
+                    "starsForGame": "20.57"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                }
+            ]
+        },
+        {
+            "JSID": 9,
             "Name": "[Insomniac]",
-            "StarQualityPerGame": "39.04",
-            "TotalStarQuality": "858.93",
-            "AverageOpponents": "10.14",
-            "gamesPlayed": 22,
-            "AverageRank": "4.64",
+            "StarQualityPerGame": "34.98",
+            "TotalStarQuality": "839.51",
+            "AverageOpponents": "11.75",
+            "gamesPlayed": 24,
+            "AverageRank": "6.88",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
@@ -440,21 +1332,21 @@
                 },
                 {
                     "gameName": "Wedlock",
+                    "rank": 14,
+                    "totalPlayers": 15,
+                    "starsForGame": "16.07"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 15,
+                    "starsForGame": "37.50"
+                },
+                {
+                    "gameName": "Base Flags",
                     "rank": 13,
-                    "totalPlayers": 15,
-                    "starsForGame": "17.31"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 15,
-                    "totalPlayers": 15,
-                    "starsForGame": "15.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 9,
                     "totalPlayers": 16,
-                    "starsForGame": "28.44"
+                    "starsForGame": "19.69"
                 },
                 {
                     "gameName": "Borg",
@@ -470,9 +1362,15 @@
                 },
                 {
                     "gameName": "Gladiator Team",
-                    "rank": 11,
-                    "totalPlayers": 16,
-                    "starsForGame": "23.27"
+                    "rank": 21,
+                    "totalPlayers": 32,
+                    "starsForGame": "48.76"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 22,
+                    "totalPlayers": 32,
+                    "starsForGame": "46.55"
                 },
                 {
                     "gameName": "Space Marines 5",
@@ -482,27 +1380,27 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 7,
+                    "rank": 6,
                     "totalPlayers": 12,
-                    "starsForGame": "20.57"
+                    "starsForGame": "24.00"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 3,
+                    "rank": 2,
                     "totalPlayers": 12,
-                    "starsForGame": "48.00"
+                    "starsForGame": "72.00"
                 },
                 {
                     "gameName": "Escape",
-                    "rank": 8,
+                    "rank": 7,
                     "totalPlayers": 10,
-                    "starsForGame": "12.50"
+                    "starsForGame": "14.29"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 8,
+                    "rank": 11,
                     "totalPlayers": 11,
-                    "starsForGame": "15.13"
+                    "starsForGame": "11.00"
                 },
                 {
                     "gameName": "Escape",
@@ -530,15 +1428,21 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 3,
+                    "rank": 1,
                     "totalPlayers": 7,
-                    "starsForGame": "16.33"
+                    "starsForGame": "49.00"
                 },
                 {
                     "gameName": "Gladiator Team",
-                    "rank": 4,
-                    "totalPlayers": 7,
-                    "starsForGame": "12.25"
+                    "rank": 5,
+                    "totalPlayers": 9,
+                    "starsForGame": "16.20"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 6,
+                    "totalPlayers": 9,
+                    "starsForGame": "13.50"
                 },
                 {
                     "gameName": "Space Marines 5",
@@ -554,9 +1458,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 1,
+                    "rank": 2,
                     "totalPlayers": 8,
-                    "starsForGame": "64.00"
+                    "starsForGame": "32.00"
                 },
                 {
                     "gameName": "Base Flags",
@@ -567,17 +1471,273 @@
             ]
         },
         {
-            "JSID": 5,
-            "Name": "Hero of Light",
-            "StarQualityPerGame": "38.51",
-            "TotalStarQuality": "731.75",
-            "AverageOpponents": "10.68",
-            "gamesPlayed": 19,
-            "AverageRank": "4.32",
+            "JSID": 10,
+            "Name": "(Apollo)",
+            "StarQualityPerGame": "34.28",
+            "TotalStarQuality": "685.63",
+            "AverageOpponents": "15.00",
+            "gamesPlayed": 20,
+            "AverageRank": "8.95",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
+                {
+                    "gameName": "Immortals",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 10,
+                    "starsForGame": "10.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 11,
+                    "starsForGame": "17.29"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 11,
+                    "totalPlayers": 12,
+                    "starsForGame": "13.09"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 9,
+                    "totalPlayers": 13,
+                    "starsForGame": "18.78"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 12,
+                    "totalPlayers": 15,
+                    "starsForGame": "18.75"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 14,
+                    "starsForGame": "65.33"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 9,
+                    "totalPlayers": 13,
+                    "starsForGame": "18.78"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 9,
+                    "totalPlayers": 13,
+                    "starsForGame": "18.78"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 10,
+                    "totalPlayers": 13,
+                    "starsForGame": "16.90"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 3,
+                    "totalPlayers": 15,
+                    "starsForGame": "75.00"
+                },
+                {
+                    "gameName": "Wedlock",
+                    "rank": 2,
+                    "totalPlayers": 15,
+                    "starsForGame": "112.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 13,
+                    "totalPlayers": 15,
+                    "starsForGame": "17.31"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 15,
+                    "totalPlayers": 16,
+                    "starsForGame": "17.07"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 3,
+                    "totalPlayers": 12,
+                    "starsForGame": "48.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 8,
+                    "totalPlayers": 13,
+                    "starsForGame": "21.13"
+                },
+                {
+                    "gameName": "Zombies vs Survivors",
+                    "rank": 13,
+                    "totalPlayers": 16,
+                    "starsForGame": "19.69"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 17,
+                    "totalPlayers": 32,
+                    "starsForGame": "60.24"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 18,
+                    "totalPlayers": 32,
+                    "starsForGame": "56.89"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 10,
+                    "totalPlayers": 14,
+                    "starsForGame": "19.60"
+                }
+            ]
+        },
+        {
+            "JSID": 11,
+            "Name": "BloodHunter",
+            "StarQualityPerGame": "32.77",
+            "TotalStarQuality": "262.12",
+            "AverageOpponents": "19.38",
+            "gamesPlayed": 8,
+            "AverageRank": "13.88",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 4,
+                    "totalPlayers": 15,
+                    "starsForGame": "56.25"
+                },
+                {
+                    "gameName": "Wedlock",
+                    "rank": 12,
+                    "totalPlayers": 15,
+                    "starsForGame": "18.75"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 15,
+                    "starsForGame": "20.45"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 16,
+                    "starsForGame": "32.00"
+                },
+                {
+                    "gameName": "Zombies vs Survivors",
+                    "rank": 10,
+                    "totalPlayers": 16,
+                    "starsForGame": "25.60"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 29,
+                    "totalPlayers": 32,
+                    "starsForGame": "35.31"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 30,
+                    "totalPlayers": 32,
+                    "starsForGame": "34.13"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 13,
+                    "totalPlayers": 14,
+                    "starsForGame": "15.08"
+                }
+            ]
+        },
+        {
+            "JSID": 12,
+            "Name": "Hero of Light",
+            "StarQualityPerGame": "30.77",
+            "TotalStarQuality": "953.83",
+            "AverageOpponents": "12.58",
+            "gamesPlayed": 31,
+            "AverageRank": "6.71",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Immortals",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 10,
+                    "starsForGame": "33.33"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 11,
+                    "starsForGame": "60.50"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 8,
+                    "totalPlayers": 12,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 3,
+                    "totalPlayers": 13,
+                    "starsForGame": "56.33"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 15,
+                    "starsForGame": "20.45"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 14,
+                    "starsForGame": "49.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 12,
+                    "totalPlayers": 13,
+                    "starsForGame": "14.08"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 8,
+                    "totalPlayers": 13,
+                    "starsForGame": "21.13"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 5,
+                    "totalPlayers": 13,
+                    "starsForGame": "33.80"
+                },
                 {
                     "gameName": "Space Marines 5",
                     "rank": 9,
@@ -592,15 +1752,15 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 9,
+                    "rank": 12,
                     "totalPlayers": 15,
-                    "starsForGame": "25.00"
+                    "starsForGame": "18.75"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 2,
+                    "rank": 7,
                     "totalPlayers": 16,
-                    "starsForGame": "128.00"
+                    "starsForGame": "36.57"
                 },
                 {
                     "gameName": "Borg",
@@ -610,9 +1770,9 @@
                 },
                 {
                     "gameName": "Predator",
-                    "rank": 9,
+                    "rank": 11,
                     "totalPlayers": 13,
-                    "starsForGame": "18.78"
+                    "starsForGame": "15.36"
                 },
                 {
                     "gameName": "Zombies vs Survivors",
@@ -622,9 +1782,15 @@
                 },
                 {
                     "gameName": "Gladiator Team",
-                    "rank": 13,
-                    "totalPlayers": 16,
-                    "starsForGame": "19.69"
+                    "rank": 25,
+                    "totalPlayers": 32,
+                    "starsForGame": "40.96"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 26,
+                    "totalPlayers": 32,
+                    "starsForGame": "39.38"
                 },
                 {
                     "gameName": "Infection",
@@ -664,21 +1830,27 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 6,
+                    "rank": 10,
                     "totalPlayers": 12,
-                    "starsForGame": "24.00"
+                    "starsForGame": "14.40"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 2,
+                    "rank": 1,
                     "totalPlayers": 12,
-                    "starsForGame": "72.00"
+                    "starsForGame": "144.00"
                 },
                 {
                     "gameName": "Gladiator Team",
-                    "rank": 4,
-                    "totalPlayers": 9,
-                    "starsForGame": "20.25"
+                    "rank": 5,
+                    "totalPlayers": 14,
+                    "starsForGame": "39.20"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 6,
+                    "totalPlayers": 14,
+                    "starsForGame": "32.67"
                 },
                 {
                     "gameName": "Base Flags",
@@ -695,268 +1867,76 @@
             ]
         },
         {
-            "JSID": 6,
-            "Name": "Sn3aky",
-            "StarQualityPerGame": "37.78",
-            "TotalStarQuality": "717.91",
-            "AverageOpponents": "10.11",
-            "gamesPlayed": 19,
-            "AverageRank": "5.00",
-            "ChangeInRank": "\u21912.20",
-            "ChangeInPlayers": "\u21932.29",
-            "ChangeInSQPerGame": "\u21919.41",
+            "JSID": 13,
+            "Name": "Morrigan",
+            "StarQualityPerGame": "28.04",
+            "TotalStarQuality": "869.20",
+            "AverageOpponents": "12.77",
+            "gamesPlayed": 31,
+            "AverageRank": "7.39",
+            "ChangeInRank": "\u21933.39",
+            "ChangeInPlayers": "\u21911.77",
+            "ChangeInSQPerGame": "\u21932.21",
             "breakdown": [
                 {
                     "gameName": "Base Flags",
-                    "rank": 11,
-                    "totalPlayers": 16,
-                    "starsForGame": "23.27"
+                    "rank": 8,
+                    "totalPlayers": 10,
+                    "starsForGame": "12.50"
                 },
                 {
-                    "gameName": "Borg",
+                    "gameName": "Base Flags",
                     "rank": 9,
+                    "totalPlayers": 11,
+                    "starsForGame": "13.44"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 6,
                     "totalPlayers": 12,
-                    "starsForGame": "16.00"
+                    "starsForGame": "24.00"
                 },
                 {
                     "gameName": "Predator",
+                    "rank": 6,
+                    "totalPlayers": 13,
+                    "starsForGame": "28.17"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 15,
+                    "totalPlayers": 15,
+                    "starsForGame": "15.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 14,
+                    "starsForGame": "39.20"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 8,
+                    "totalPlayers": 13,
+                    "starsForGame": "21.13"
+                },
+                {
+                    "gameName": "Gladiator - Team",
                     "rank": 7,
                     "totalPlayers": 13,
                     "starsForGame": "24.14"
                 },
                 {
-                    "gameName": "Zombies vs Survivors",
-                    "rank": 3,
-                    "totalPlayers": 16,
-                    "starsForGame": "85.33"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 2,
-                    "totalPlayers": 16,
-                    "starsForGame": "128.00"
-                },
-                {
                     "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 14,
-                    "starsForGame": "98.00"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 8,
-                    "totalPlayers": 8,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 2,
-                    "totalPlayers": 12,
-                    "starsForGame": "72.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 10,
-                    "totalPlayers": 12,
-                    "starsForGame": "14.40"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 1,
-                    "totalPlayers": 10,
-                    "starsForGame": "100.00"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 1,
-                    "totalPlayers": 9,
-                    "starsForGame": "81.00"
-                },
-                {
-                    "gameName": "Borg",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 2,
-                    "totalPlayers": 7,
-                    "starsForGame": "24.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 5,
-                    "totalPlayers": 7,
-                    "starsForGame": "9.80"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 2,
-                    "totalPlayers": 7,
-                    "starsForGame": "24.50"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 3,
-                    "totalPlayers": 8,
-                    "starsForGame": "21.33"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 7,
-                    "totalPlayers": 8,
-                    "starsForGame": "9.14"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 8,
-                    "starsForGame": "10.67"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 4,
-                    "totalPlayers": 8,
-                    "starsForGame": "16.00"
-                }
-            ]
-        },
-        {
-            "JSID": 7,
-            "Name": "Fur Ball",
-            "StarQualityPerGame": "33.19",
-            "TotalStarQuality": "265.50",
-            "AverageOpponents": "13.50",
-            "gamesPlayed": 8,
-            "AverageRank": "6.25",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 6,
-                    "totalPlayers": 15,
-                    "starsForGame": "37.50"
-                },
-                {
-                    "gameName": "Wedlock",
-                    "rank": 10,
-                    "totalPlayers": 15,
-                    "starsForGame": "22.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 14,
-                    "totalPlayers": 15,
-                    "starsForGame": "16.07"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 5,
-                    "totalPlayers": 16,
-                    "starsForGame": "51.20"
-                },
-                {
-                    "gameName": "Borg",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Predator",
-                    "rank": 5,
+                    "rank": 9,
                     "totalPlayers": 13,
-                    "starsForGame": "33.80"
+                    "starsForGame": "18.78"
                 },
-                {
-                    "gameName": "Zombies vs Survivors",
-                    "rank": 4,
-                    "totalPlayers": 16,
-                    "starsForGame": "64.00"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 8,
-                    "totalPlayers": 16,
-                    "starsForGame": "32.00"
-                }
-            ]
-        },
-        {
-            "JSID": 8,
-            "Name": "BloodHunter",
-            "StarQualityPerGame": "29.29",
-            "TotalStarQuality": "205.00",
-            "AverageOpponents": "15.29",
-            "gamesPlayed": 7,
-            "AverageRank": "10.57",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
                 {
                     "gameName": "Space Marines 5",
-                    "rank": 4,
-                    "totalPlayers": 15,
-                    "starsForGame": "56.25"
-                },
-                {
-                    "gameName": "Wedlock",
                     "rank": 12,
                     "totalPlayers": 15,
                     "starsForGame": "18.75"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 13,
-                    "totalPlayers": 15,
-                    "starsForGame": "17.31"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 3,
-                    "totalPlayers": 16,
-                    "starsForGame": "85.33"
-                },
-                {
-                    "gameName": "Zombies vs Survivors",
-                    "rank": 10,
-                    "totalPlayers": 16,
-                    "starsForGame": "25.60"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 15,
-                    "totalPlayers": 16,
-                    "starsForGame": "17.07"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 13,
-                    "totalPlayers": 14,
-                    "starsForGame": "15.08"
-                }
-            ]
-        },
-        {
-            "JSID": 9,
-            "Name": "Ging'mes",
-            "StarQualityPerGame": "27.74",
-            "TotalStarQuality": "804.32",
-            "AverageOpponents": "8.69",
-            "gamesPlayed": 29,
-            "AverageRank": "4.83",
-            "ChangeInRank": "\u21913.42",
-            "ChangeInPlayers": "\u21933.81",
-            "ChangeInSQPerGame": "\u21934.94",
-            "breakdown": [
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 8,
-                    "totalPlayers": 15,
-                    "starsForGame": "28.13"
                 },
                 {
                     "gameName": "Wedlock",
@@ -966,99 +1946,51 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 10,
+                    "rank": 2,
                     "totalPlayers": 15,
-                    "starsForGame": "22.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 14,
-                    "totalPlayers": 16,
-                    "starsForGame": "18.29"
-                },
-                {
-                    "gameName": "Borg",
-                    "rank": 12,
-                    "totalPlayers": 12,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "Predator",
-                    "rank": 2,
-                    "totalPlayers": 13,
-                    "starsForGame": "84.50"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 1,
-                    "totalPlayers": 16,
-                    "starsForGame": "256.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 11,
-                    "totalPlayers": 14,
-                    "starsForGame": "17.82"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Fugitive",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Wabbit Season",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "Predator",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 11,
-                    "totalPlayers": 12,
-                    "starsForGame": "13.09"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 5,
-                    "totalPlayers": 10,
-                    "starsForGame": "20.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 11,
-                    "totalPlayers": 11,
-                    "starsForGame": "11.00"
+                    "starsForGame": "112.50"
                 },
                 {
                     "gameName": "Base Flags",
                     "rank": 4,
-                    "totalPlayers": 10,
-                    "starsForGame": "25.00"
+                    "totalPlayers": 16,
+                    "starsForGame": "64.00"
                 },
                 {
-                    "gameName": "Base Flags",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
+                    "gameName": "Borg",
+                    "rank": 4,
+                    "totalPlayers": 12,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 9,
+                    "totalPlayers": 13,
+                    "starsForGame": "18.78"
+                },
+                {
+                    "gameName": "Zombies vs Survivors",
+                    "rank": 7,
+                    "totalPlayers": 16,
+                    "starsForGame": "36.57"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 13,
+                    "totalPlayers": 32,
+                    "starsForGame": "78.77"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 14,
+                    "totalPlayers": 32,
+                    "starsForGame": "73.14"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 12,
+                    "totalPlayers": 14,
+                    "starsForGame": "16.33"
                 },
                 {
                     "gameName": "Base Flags",
@@ -1067,108 +1999,28 @@
                     "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "Escape",
+                    "gameName": "Fugitive",
                     "rank": 4,
                     "totalPlayers": 5,
                     "starsForGame": "6.25"
                 },
                 {
-                    "gameName": "Escape",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Borg",
+                    "gameName": "Wabbit Season",
                     "rank": 4,
                     "totalPlayers": 5,
                     "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 7,
-                    "totalPlayers": 7,
-                    "starsForGame": "7.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 7,
-                    "starsForGame": "8.17"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 5,
-                    "totalPlayers": 7,
-                    "starsForGame": "9.80"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 8,
-                    "totalPlayers": 8,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 5,
-                    "totalPlayers": 8,
-                    "starsForGame": "12.80"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 2,
-                    "totalPlayers": 8,
-                    "starsForGame": "32.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 5,
-                    "totalPlayers": 8,
-                    "starsForGame": "12.80"
-                }
-            ]
-        },
-        {
-            "JSID": 10,
-            "Name": "Larma",
-            "StarQualityPerGame": "27.39",
-            "TotalStarQuality": "328.65",
-            "AverageOpponents": "11.75",
-            "gamesPlayed": 12,
-            "AverageRank": "5.67",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Borg",
-                    "rank": 8,
-                    "totalPlayers": 12,
-                    "starsForGame": "18.00"
                 },
                 {
                     "gameName": "Predator",
-                    "rank": 6,
-                    "totalPlayers": 13,
-                    "starsForGame": "28.17"
-                },
-                {
-                    "gameName": "Zombies vs Survivors",
-                    "rank": 5,
-                    "totalPlayers": 16,
-                    "starsForGame": "51.20"
-                },
-                {
-                    "gameName": "Gladiator Team",
                     "rank": 4,
-                    "totalPlayers": 16,
-                    "starsForGame": "64.00"
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
                 },
                 {
-                    "gameName": "Infection",
+                    "gameName": "Space Marines 5",
                     "rank": 4,
-                    "totalPlayers": 14,
-                    "starsForGame": "49.00"
+                    "totalPlayers": 8,
+                    "starsForGame": "16.00"
                 },
                 {
                     "gameName": "Base Flags",
@@ -1178,33 +2030,33 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 5,
+                    "rank": 12,
                     "totalPlayers": 12,
-                    "starsForGame": "28.80"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 4,
-                    "totalPlayers": 10,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 3,
-                    "totalPlayers": 6,
                     "starsForGame": "12.00"
                 },
                 {
+                    "gameName": "Escape",
+                    "rank": 9,
+                    "totalPlayers": 10,
+                    "starsForGame": "11.11"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
                     "gameName": "Gladiator Team",
-                    "rank": 5,
-                    "totalPlayers": 9,
-                    "starsForGame": "16.20"
+                    "rank": 12,
+                    "totalPlayers": 14,
+                    "starsForGame": "16.33"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 10,
+                    "rank": 6,
                     "totalPlayers": 11,
-                    "starsForGame": "12.10"
+                    "starsForGame": "20.17"
                 },
                 {
                     "gameName": "Base Flags",
@@ -1215,17 +2067,169 @@
             ]
         },
         {
-            "JSID": 11,
-            "Name": "<!-- Blaze -->",
-            "StarQualityPerGame": "25.86",
-            "TotalStarQuality": "465.46",
-            "AverageOpponents": "10.22",
-            "gamesPlayed": 18,
-            "AverageRank": "5.44",
-            "ChangeInRank": "\u21910.76",
-            "ChangeInPlayers": "\u21932.18",
-            "ChangeInSQPerGame": "\u21934.85",
+            "JSID": 14,
+            "Name": "Azrael",
+            "StarQualityPerGame": "24.04",
+            "TotalStarQuality": "336.62",
+            "AverageOpponents": "13.36",
+            "gamesPlayed": 14,
+            "AverageRank": "8.21",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
             "breakdown": [
+                {
+                    "gameName": "Zombies vs Survivors",
+                    "rank": 9,
+                    "totalPlayers": 16,
+                    "starsForGame": "28.44"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 19,
+                    "totalPlayers": 32,
+                    "starsForGame": "53.89"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 20,
+                    "totalPlayers": 32,
+                    "starsForGame": "51.20"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 9,
+                    "totalPlayers": 14,
+                    "starsForGame": "21.78"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 12,
+                    "totalPlayers": 12,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 12,
+                    "starsForGame": "24.00"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 3,
+                    "totalPlayers": 10,
+                    "starsForGame": "33.33"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 11,
+                    "starsForGame": "12.10"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 10,
+                    "starsForGame": "33.33"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 6,
+                    "totalPlayers": 8,
+                    "starsForGame": "10.67"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 6,
+                    "totalPlayers": 8,
+                    "starsForGame": "10.67"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 8,
+                    "starsForGame": "21.33"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 8,
+                    "starsForGame": "9.14"
+                }
+            ]
+        },
+        {
+            "JSID": 15,
+            "Name": "<!-- Blaze -->",
+            "StarQualityPerGame": "22.33",
+            "TotalStarQuality": "647.65",
+            "AverageOpponents": "12.31",
+            "gamesPlayed": 29,
+            "AverageRank": "7.83",
+            "ChangeInRank": "\u21930.03",
+            "ChangeInPlayers": "\u21930.09",
+            "ChangeInSQPerGame": "\u21931.95",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 10,
+                    "starsForGame": "14.29"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 11,
+                    "starsForGame": "12.10"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 7,
+                    "totalPlayers": 12,
+                    "starsForGame": "20.57"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 7,
+                    "totalPlayers": 13,
+                    "starsForGame": "24.14"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 15,
+                    "starsForGame": "28.13"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 14,
+                    "starsForGame": "24.50"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 6,
+                    "totalPlayers": 13,
+                    "starsForGame": "28.17"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 3,
+                    "totalPlayers": 13,
+                    "starsForGame": "56.33"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 7,
+                    "totalPlayers": 13,
+                    "starsForGame": "24.14"
+                },
                 {
                     "gameName": "Space Marines 5",
                     "rank": 13,
@@ -1240,21 +2244,21 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 12,
+                    "rank": 5,
                     "totalPlayers": 15,
-                    "starsForGame": "18.75"
+                    "starsForGame": "45.00"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 6,
+                    "rank": 16,
                     "totalPlayers": 16,
-                    "starsForGame": "42.67"
+                    "starsForGame": "16.00"
                 },
                 {
                     "gameName": "Borg",
-                    "rank": 7,
+                    "rank": 8,
                     "totalPlayers": 12,
-                    "starsForGame": "20.57"
+                    "starsForGame": "18.00"
                 },
                 {
                     "gameName": "Predator",
@@ -1270,9 +2274,15 @@
                 },
                 {
                     "gameName": "Gladiator Team",
-                    "rank": 12,
-                    "totalPlayers": 16,
-                    "starsForGame": "21.33"
+                    "rank": 23,
+                    "totalPlayers": 32,
+                    "starsForGame": "44.52"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 24,
+                    "totalPlayers": 32,
+                    "starsForGame": "42.67"
                 },
                 {
                     "gameName": "Base Flags",
@@ -1294,9 +2304,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 5,
+                    "rank": 4,
                     "totalPlayers": 7,
-                    "starsForGame": "9.80"
+                    "starsForGame": "12.25"
                 },
                 {
                     "gameName": "Base Flags",
@@ -1305,10 +2315,16 @@
                     "starsForGame": "12.25"
                 },
                 {
-                    "gameName": "Gladiator Team",
+                    "gameName": "Gladiator - Team",
                     "rank": 3,
-                    "totalPlayers": 7,
-                    "starsForGame": "16.33"
+                    "totalPlayers": 9,
+                    "starsForGame": "27.00"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 4,
+                    "totalPlayers": 9,
+                    "starsForGame": "20.25"
                 },
                 {
                     "gameName": "Space Marines 5",
@@ -1324,99 +2340,91 @@
                 },
                 {
                     "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 8,
+                    "starsForGame": "9.14"
+                },
+                {
+                    "gameName": "Base Flags",
                     "rank": 5,
                     "totalPlayers": 8,
                     "starsForGame": "12.80"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 8,
-                    "totalPlayers": 8,
-                    "starsForGame": "8.00"
                 }
             ]
         },
         {
-            "JSID": 12,
-            "Name": "Entity",
-            "StarQualityPerGame": "24.95",
-            "TotalStarQuality": "224.59",
-            "AverageOpponents": "10.33",
-            "gamesPlayed": 9,
-            "AverageRank": "6.56",
-            "ChangeInRank": "\u21911.11",
-            "ChangeInPlayers": "\u21930.17",
-            "ChangeInSQPerGame": "\u21918.85",
-            "breakdown": [
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 14,
-                    "totalPlayers": 15,
-                    "starsForGame": "16.07"
-                },
-                {
-                    "gameName": "Wedlock",
-                    "rank": 2,
-                    "totalPlayers": 15,
-                    "starsForGame": "112.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 15,
-                    "starsForGame": "37.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 4,
-                    "totalPlayers": 16,
-                    "starsForGame": "64.00"
-                },
-                {
-                    "gameName": "Fugitive",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "Wabbit Season",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "Predator",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 5,
-                    "totalPlayers": 12,
-                    "starsForGame": "28.80"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                }
-            ]
-        },
-        {
-            "JSID": 13,
+            "JSID": 16,
             "Name": "Mr ChatterBob",
-            "StarQualityPerGame": "22.68",
-            "TotalStarQuality": "204.12",
-            "AverageOpponents": "14.67",
-            "gamesPlayed": 9,
-            "AverageRank": "10.56",
+            "StarQualityPerGame": "21.11",
+            "TotalStarQuality": "422.15",
+            "AverageOpponents": "15.00",
+            "gamesPlayed": 20,
+            "AverageRank": "11.80",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
+                    "gameName": "Immortals",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 10,
+                    "starsForGame": "11.11"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 11,
+                    "starsForGame": "40.33"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 12,
+                    "totalPlayers": 12,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 13,
+                    "totalPlayers": 13,
+                    "starsForGame": "13.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 14,
+                    "totalPlayers": 15,
+                    "starsForGame": "16.07"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 14,
+                    "starsForGame": "19.60"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 7,
+                    "totalPlayers": 13,
+                    "starsForGame": "24.14"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 12,
+                    "totalPlayers": 13,
+                    "starsForGame": "14.08"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 12,
+                    "totalPlayers": 13,
+                    "starsForGame": "14.08"
+                },
+                {
                     "gameName": "Space Marines 5",
                     "rank": 11,
                     "totalPlayers": 15,
@@ -1424,21 +2432,21 @@
                 },
                 {
                     "gameName": "Wedlock",
-                    "rank": 14,
+                    "rank": 13,
                     "totalPlayers": 15,
-                    "starsForGame": "16.07"
+                    "starsForGame": "17.31"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 11,
+                    "rank": 3,
                     "totalPlayers": 15,
-                    "starsForGame": "20.45"
+                    "starsForGame": "75.00"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 16,
+                    "rank": 12,
                     "totalPlayers": 16,
-                    "starsForGame": "16.00"
+                    "starsForGame": "21.33"
                 },
                 {
                     "gameName": "Borg",
@@ -1459,10 +2467,16 @@
                     "starsForGame": "17.07"
                 },
                 {
+                    "gameName": "Gladiator - Team",
+                    "rank": 27,
+                    "totalPlayers": 32,
+                    "starsForGame": "37.93"
+                },
+                {
                     "gameName": "Gladiator Team",
-                    "rank": 14,
-                    "totalPlayers": 16,
-                    "starsForGame": "18.29"
+                    "rank": 28,
+                    "totalPlayers": 32,
+                    "starsForGame": "36.57"
                 },
                 {
                     "gameName": "Infection",
@@ -1473,215 +2487,59 @@
             ]
         },
         {
-            "JSID": 14,
-            "Name": "Unagi",
-            "StarQualityPerGame": "22.61",
-            "TotalStarQuality": "180.88",
-            "AverageOpponents": "9.75",
-            "gamesPlayed": 8,
-            "AverageRank": "5.00",
-            "ChangeInRank": "\u21911.00",
-            "ChangeInPlayers": "\u21933.00",
-            "ChangeInSQPerGame": "\u219314.10",
+            "JSID": 17,
+            "Name": "Emo Wolf ",
+            "StarQualityPerGame": "20.74",
+            "TotalStarQuality": "829.59",
+            "AverageOpponents": "10.90",
+            "gamesPlayed": 40,
+            "AverageRank": "7.50",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "Space Marines 5",
-                    "rank": 3,
-                    "totalPlayers": 8,
-                    "starsForGame": "21.33"
+                    "gameName": "Immortals",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
                 },
                 {
                     "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 10,
+                    "starsForGame": "16.67"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 11,
+                    "starsForGame": "15.13"
+                },
+                {
+                    "gameName": "Space Marines 5",
                     "rank": 4,
                     "totalPlayers": 12,
                     "starsForGame": "36.00"
                 },
                 {
-                    "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 12,
-                    "starsForGame": "24.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 9,
-                    "totalPlayers": 10,
-                    "starsForGame": "11.11"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 1,
-                    "totalPlayers": 6,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 3,
-                    "totalPlayers": 9,
-                    "starsForGame": "27.00"
+                    "gameName": "Predator",
+                    "rank": 4,
+                    "totalPlayers": 13,
+                    "starsForGame": "42.25"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 7,
-                    "totalPlayers": 11,
-                    "starsForGame": "17.29"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 7,
-                    "totalPlayers": 10,
-                    "starsForGame": "14.29"
-                }
-            ]
-        },
-        {
-            "JSID": 15,
-            "Name": "Toytle",
-            "StarQualityPerGame": "21.06",
-            "TotalStarQuality": "105.29",
-            "AverageOpponents": "10.80",
-            "gamesPlayed": 5,
-            "AverageRank": "6.40",
-            "ChangeInRank": "\u21912.20",
-            "ChangeInPlayers": "\u21931.60",
-            "ChangeInSQPerGame": "\u21910.18",
-            "breakdown": [
-                {
-                    "gameName": "Base Flags",
-                    "rank": 12,
-                    "totalPlayers": 12,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 12,
-                    "totalPlayers": 12,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 9,
-                    "totalPlayers": 9,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 5,
-                    "totalPlayers": 11,
-                    "starsForGame": "24.20"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 3,
-                    "totalPlayers": 10,
-                    "starsForGame": "33.33"
-                }
-            ]
-        },
-        {
-            "JSID": 16,
-            "Name": "Azrael",
-            "StarQualityPerGame": "19.48",
-            "TotalStarQuality": "253.19",
-            "AverageOpponents": "10.69",
-            "gamesPlayed": 13,
-            "AverageRank": "6.69",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Zombies vs Survivors",
-                    "rank": 9,
-                    "totalPlayers": 16,
-                    "starsForGame": "28.44"
-                },
-                {
-                    "gameName": "Gladiator Team",
                     "rank": 10,
-                    "totalPlayers": 16,
-                    "starsForGame": "25.60"
+                    "totalPlayers": 15,
+                    "starsForGame": "22.50"
                 },
                 {
-                    "gameName": "Infection",
-                    "rank": 9,
+                    "gameName": "Base Flags",
+                    "rank": 11,
                     "totalPlayers": 14,
-                    "starsForGame": "21.78"
+                    "starsForGame": "17.82"
                 },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 8,
-                    "totalPlayers": 12,
-                    "starsForGame": "18.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 8,
-                    "totalPlayers": 12,
-                    "starsForGame": "18.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 3,
-                    "totalPlayers": 10,
-                    "starsForGame": "33.33"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 5,
-                    "totalPlayers": 6,
-                    "starsForGame": "7.20"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 11,
-                    "starsForGame": "20.17"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 10,
-                    "totalPlayers": 10,
-                    "starsForGame": "10.00"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 6,
-                    "totalPlayers": 8,
-                    "starsForGame": "10.67"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 6,
-                    "totalPlayers": 8,
-                    "starsForGame": "10.67"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 8,
-                    "totalPlayers": 8,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 8,
-                    "starsForGame": "10.67"
-                }
-            ]
-        },
-        {
-            "JSID": 17,
-            "Name": "Emo Wolf ",
-            "StarQualityPerGame": "17.73",
-            "TotalStarQuality": "567.36",
-            "AverageOpponents": "9.38",
-            "gamesPlayed": 32,
-            "AverageRank": "6.47",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
                 {
                     "gameName": "Space Marines 5",
                     "rank": 7,
@@ -1696,15 +2554,15 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 2,
+                    "rank": 15,
                     "totalPlayers": 15,
-                    "starsForGame": "112.50"
+                    "starsForGame": "15.00"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 7,
+                    "rank": 11,
                     "totalPlayers": 16,
-                    "starsForGame": "36.57"
+                    "starsForGame": "23.27"
                 },
                 {
                     "gameName": "Borg",
@@ -1726,9 +2584,15 @@
                 },
                 {
                     "gameName": "Gladiator Team",
-                    "rank": 16,
-                    "totalPlayers": 16,
-                    "starsForGame": "16.00"
+                    "rank": 31,
+                    "totalPlayers": 32,
+                    "starsForGame": "33.03"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 32,
+                    "totalPlayers": 32,
+                    "starsForGame": "32.00"
                 },
                 {
                     "gameName": "Infection",
@@ -1738,9 +2602,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 3,
+                    "rank": 2,
                     "totalPlayers": 4,
-                    "starsForGame": "5.33"
+                    "starsForGame": "8.00"
                 },
                 {
                     "gameName": "Fugitive",
@@ -1774,15 +2638,15 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 4,
+                    "rank": 11,
                     "totalPlayers": 12,
-                    "starsForGame": "36.00"
+                    "starsForGame": "13.09"
                 },
                 {
                     "gameName": "Escape",
-                    "rank": 7,
+                    "rank": 8,
                     "totalPlayers": 10,
-                    "starsForGame": "14.29"
+                    "starsForGame": "12.50"
                 },
                 {
                     "gameName": "Escape",
@@ -1792,215 +2656,9 @@
                 },
                 {
                     "gameName": "Gladiator Team",
-                    "rank": 6,
-                    "totalPlayers": 9,
-                    "starsForGame": "13.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 4,
-                    "totalPlayers": 11,
-                    "starsForGame": "30.25"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 8,
-                    "totalPlayers": 10,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "Borg",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 4,
-                    "totalPlayers": 7,
-                    "starsForGame": "12.25"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 7,
-                    "totalPlayers": 7,
-                    "starsForGame": "7.00"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 7,
-                    "totalPlayers": 7,
-                    "starsForGame": "7.00"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 7,
-                    "totalPlayers": 8,
-                    "starsForGame": "9.14"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 8,
-                    "totalPlayers": 8,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 3,
-                    "totalPlayers": 8,
-                    "starsForGame": "21.33"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 7,
-                    "totalPlayers": 8,
-                    "starsForGame": "9.14"
-                }
-            ]
-        },
-        {
-            "JSID": 18,
-            "Name": "Morrigan",
-            "StarQualityPerGame": "17.35",
-            "TotalStarQuality": "364.28",
-            "AverageOpponents": "10.90",
-            "gamesPlayed": 21,
-            "AverageRank": "7.81",
-            "ChangeInRank": "\u21934.81",
-            "ChangeInPlayers": "\u21930.10",
-            "ChangeInSQPerGame": "\u219322.98",
-            "breakdown": [
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 12,
-                    "totalPlayers": 15,
-                    "starsForGame": "18.75"
-                },
-                {
-                    "gameName": "Wedlock",
-                    "rank": 4,
-                    "totalPlayers": 15,
-                    "starsForGame": "56.25"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 8,
-                    "totalPlayers": 15,
-                    "starsForGame": "28.13"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 12,
-                    "totalPlayers": 16,
-                    "starsForGame": "21.33"
-                },
-                {
-                    "gameName": "Borg",
-                    "rank": 4,
-                    "totalPlayers": 12,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "Predator",
-                    "rank": 10,
-                    "totalPlayers": 13,
-                    "starsForGame": "16.90"
-                },
-                {
-                    "gameName": "Zombies vs Survivors",
-                    "rank": 7,
-                    "totalPlayers": 16,
-                    "starsForGame": "36.57"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 7,
-                    "totalPlayers": 16,
-                    "starsForGame": "36.57"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 12,
+                    "rank": 9,
                     "totalPlayers": 14,
-                    "starsForGame": "16.33"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Fugitive",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "Wabbit Season",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "Predator",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 4,
-                    "totalPlayers": 8,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 10,
-                    "totalPlayers": 12,
-                    "starsForGame": "14.40"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 7,
-                    "totalPlayers": 12,
-                    "starsForGame": "20.57"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 10,
-                    "totalPlayers": 10,
-                    "starsForGame": "10.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 6,
-                    "totalPlayers": 6,
-                    "starsForGame": "6.00"
-                },
-                {
-                    "gameName": "Gladiator Team",
-                    "rank": 8,
-                    "totalPlayers": 9,
-                    "starsForGame": "10.13"
+                    "starsForGame": "21.78"
                 },
                 {
                     "gameName": "Base Flags",
@@ -2010,24 +2668,256 @@
                 },
                 {
                     "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 10,
+                    "starsForGame": "11.11"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 7,
+                    "starsForGame": "7.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 7,
+                    "starsForGame": "8.17"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 9,
+                    "totalPlayers": 9,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 7,
+                    "totalPlayers": 8,
+                    "starsForGame": "9.14"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 8,
+                    "totalPlayers": 8,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 8,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 8,
+                    "starsForGame": "10.67"
+                }
+            ]
+        },
+        {
+            "JSID": 18,
+            "Name": "Yuzucat",
+            "StarQualityPerGame": "19.24",
+            "TotalStarQuality": "173.20",
+            "AverageOpponents": "10.78",
+            "gamesPlayed": 9,
+            "AverageRank": "6.78",
+            "ChangeInRank": "\u21931.78",
+            "ChangeInPlayers": "\u21931.62",
+            "ChangeInSQPerGame": "\u219343.51",
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 5,
+                    "totalPlayers": 8,
+                    "starsForGame": "12.80"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 12,
+                    "starsForGame": "13.09"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 12,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Escape",
                     "rank": 5,
                     "totalPlayers": 10,
                     "starsForGame": "20.00"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 10,
+                    "totalPlayers": 14,
+                    "starsForGame": "19.60"
+                },
+                {
+                    "gameName": "Gladiator Team",
+                    "rank": 11,
+                    "totalPlayers": 14,
+                    "starsForGame": "17.82"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 11,
+                    "starsForGame": "15.13"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 10,
+                    "totalPlayers": 10,
+                    "starsForGame": "10.00"
                 }
             ]
         },
         {
             "JSID": 19,
-            "Name": "Hana",
-            "StarQualityPerGame": "16.46",
-            "TotalStarQuality": "131.66",
-            "AverageOpponents": "14.50",
+            "Name": "Noob!",
+            "StarQualityPerGame": "18.27",
+            "TotalStarQuality": "146.13",
+            "AverageOpponents": "13.00",
             "gamesPlayed": 8,
-            "AverageRank": "13.13",
+            "AverageRank": "10.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 11,
+                    "starsForGame": "11.00"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 9,
+                    "totalPlayers": 12,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Predator",
+                    "rank": 8,
+                    "totalPlayers": 13,
+                    "starsForGame": "21.13"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 4,
+                    "totalPlayers": 15,
+                    "starsForGame": "56.25"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 14,
+                    "starsForGame": "21.78"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 13,
+                    "totalPlayers": 13,
+                    "starsForGame": "13.00"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 13,
+                    "totalPlayers": 13,
+                    "starsForGame": "13.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 11,
+                    "totalPlayers": 13,
+                    "starsForGame": "15.36"
+                }
+            ]
+        },
+        {
+            "JSID": 20,
+            "Name": "Hana",
+            "StarQualityPerGame": "17.36",
+            "TotalStarQuality": "243.07",
+            "AverageOpponents": "14.07",
+            "gamesPlayed": 14,
+            "AverageRank": "11.79",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Predator",
+                    "rank": 11,
+                    "totalPlayers": 13,
+                    "starsForGame": "15.36"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 15,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 13,
+                    "totalPlayers": 14,
+                    "starsForGame": "15.08"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 10,
+                    "totalPlayers": 13,
+                    "starsForGame": "16.90"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 10,
+                    "totalPlayers": 13,
+                    "starsForGame": "16.90"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 13,
+                    "totalPlayers": 13,
+                    "starsForGame": "13.00"
+                },
                 {
                     "gameName": "Space Marines 5",
                     "rank": 15,
@@ -2042,15 +2932,15 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 5,
+                    "rank": 14,
                     "totalPlayers": 15,
-                    "starsForGame": "45.00"
+                    "starsForGame": "16.07"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 8,
+                    "rank": 14,
                     "totalPlayers": 16,
-                    "starsForGame": "32.00"
+                    "starsForGame": "18.29"
                 },
                 {
                     "gameName": "Borg",
@@ -2060,9 +2950,9 @@
                 },
                 {
                     "gameName": "Predator",
-                    "rank": 11,
+                    "rank": 10,
                     "totalPlayers": 13,
-                    "starsForGame": "15.36"
+                    "starsForGame": "16.90"
                 },
                 {
                     "gameName": "Zombies vs Survivors",
@@ -2079,69 +2969,57 @@
             ]
         },
         {
-            "JSID": 20,
-            "Name": "Yuzucat",
-            "StarQualityPerGame": "15.26",
-            "TotalStarQuality": "122.07",
-            "AverageOpponents": "9.75",
-            "gamesPlayed": 8,
-            "AverageRank": "6.75",
-            "ChangeInRank": "\u21930.35",
-            "ChangeInPlayers": "\u21932.65",
-            "ChangeInSQPerGame": "\u219312.89",
+            "JSID": 21,
+            "Name": "Toytle",
+            "StarQualityPerGame": "16.94",
+            "TotalStarQuality": "101.61",
+            "AverageOpponents": "12.17",
+            "gamesPlayed": 6,
+            "AverageRank": "9.17",
+            "ChangeInRank": "\u21932.17",
+            "ChangeInPlayers": "\u21930.23",
+            "ChangeInSQPerGame": "\u219312.14",
             "breakdown": [
                 {
-                    "gameName": "Space Marines 5",
-                    "rank": 5,
-                    "totalPlayers": 8,
-                    "starsForGame": "12.80"
+                    "gameName": "Base Flags",
+                    "rank": 2,
+                    "totalPlayers": 12,
+                    "starsForGame": "72.00"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 11,
+                    "rank": 10,
                     "totalPlayers": 12,
-                    "starsForGame": "13.09"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 9,
-                    "totalPlayers": 12,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 6,
-                    "totalPlayers": 10,
-                    "starsForGame": "16.67"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
+                    "starsForGame": "14.40"
                 },
                 {
                     "gameName": "Gladiator Team",
-                    "rank": 7,
-                    "totalPlayers": 9,
-                    "starsForGame": "11.57"
+                    "rank": 13,
+                    "totalPlayers": 14,
+                    "starsForGame": "15.08"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 14,
+                    "totalPlayers": 14,
+                    "starsForGame": "14.00"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 3,
+                    "rank": 5,
                     "totalPlayers": 11,
-                    "starsForGame": "40.33"
+                    "starsForGame": "24.20"
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 9,
+                    "rank": 7,
                     "totalPlayers": 10,
-                    "starsForGame": "11.11"
+                    "starsForGame": "14.29"
                 }
             ]
         },
         {
-            "JSID": 21,
+            "JSID": 22,
             "Name": "Crashers",
             "StarQualityPerGame": "3.13",
             "TotalStarQuality": "25.00",
@@ -2203,7 +3081,7 @@
             ]
         },
         {
-            "JSID": 22,
+            "JSID": 23,
             "Name": "Smasher",
             "StarQualityPerGame": "2.38",
             "TotalStarQuality": "19.00",
@@ -2265,7 +3143,7 @@
             ]
         },
         {
-            "JSID": 23,
+            "JSID": 24,
             "Name": "Unkn0wn",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
