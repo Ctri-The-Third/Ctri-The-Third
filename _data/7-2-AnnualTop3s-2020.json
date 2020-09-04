@@ -83,14 +83,34 @@
                 "averageStars": "40.36"
             },
             {
+                "playerName": "Quick Zap",
+                "gamePlayed": 3,
+                "averageStars": "25.00"
+            },
+            {
                 "playerName": "Smally McSmall",
                 "gamePlayed": 14,
                 "averageStars": "24.28"
+            }
+        ]
+    },
+    {
+        "month": "2020-09",
+        "players": [
+            {
+                "playerName": "Lazerino",
+                "gamePlayed": 3,
+                "averageStars": "9.00"
             },
             {
-                "playerName": "Dr. M Toboggan",
-                "gamePlayed": 5,
-                "averageStars": "15.36"
+                "playerName": "Ethan 99",
+                "gamePlayed": 3,
+                "averageStars": "4.00"
+            },
+            {
+                "playerName": "Ace Gunner",
+                "gamePlayed": 3,
+                "averageStars": "3.50"
             }
         ]
     }

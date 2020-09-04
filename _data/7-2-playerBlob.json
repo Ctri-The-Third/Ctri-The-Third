@@ -19,6 +19,25 @@
         "GAOthers": "Only one other person has"
     },
     "SilverPlayer": {
+        "PlayerName": "Quick Zap",
+        "HomeArenaTrunc": "Laserforce Peterborough",
+        "SkillLevelName": "Captain",
+        "MonthlyGamesPlayed": 3,
+        "AllGamesPlayed": 43,
+        "StarQuality": "25.00",
+        "Achievements": 38,
+        "GGName": "Supercharge Gunner 2Tm",
+        "GGRank": "1st",
+        "GGStars": "25 stars",
+        "GGVanq1": "Nellabella 15",
+        "GGVanq2": "Hot Shot",
+        "GGVanq3": "Cheeky Chaz",
+        "GGVanq4": "1 others",
+        "GAName": "Consolation Prize",
+        "GADesc": "Top-score overall while on a losing team in a regular game.",
+        "GAOthers": "204 others have"
+    },
+    "BronzePlayer": {
         "PlayerName": "Smally McSmall",
         "HomeArenaTrunc": "Laserforce Peterborough",
         "SkillLevelName": "Laser Elite",
@@ -36,25 +55,6 @@
         "GAName": "Perfection",
         "GADesc": "Achieve 100% accuracy in a regular game. (Minimum 50 shots)",
         "GAOthers": "No one else has"
-    },
-    "BronzePlayer": {
-        "PlayerName": "Dr. M Toboggan",
-        "HomeArenaTrunc": "Laserforce Peterborough",
-        "SkillLevelName": "Lasermaster",
-        "MonthlyGamesPlayed": 5,
-        "AllGamesPlayed": 651,
-        "StarQuality": "15.36",
-        "Achievements": 111,
-        "GGName": "Laser Marines",
-        "GGRank": "2nd",
-        "GGStars": "32 stars",
-        "GGVanq1": "Hewey",
-        "GGVanq2": "Poison Ivy",
-        "GGVanq3": "JSquadJohnCBA",
-        "GGVanq4": "3 others",
-        "GAName": "Quake 2",
-        "GADesc": "Play an standard death match of Quake 2",
-        "GAOthers": "6 others have"
     },
     "OtherPlayer1": {
         "PlayerName": "Eeeeeeeeeeeeeee",

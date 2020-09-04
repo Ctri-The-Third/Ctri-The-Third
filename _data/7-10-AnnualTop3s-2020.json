@@ -45,17 +45,17 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 15,
-                "averageStars": "66.56"
+                "averageStars": "66.87"
             },
             {
                 "playerName": "Sn3aky",
                 "gamePlayed": 13,
-                "averageStars": "43.30"
+                "averageStars": "43.66"
             },
             {
                 "playerName": "Unagi",
                 "gamePlayed": 13,
-                "averageStars": "34.53"
+                "averageStars": "33.27"
             }
         ]
     },
@@ -65,17 +65,17 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 5,
-                "averageStars": "94.10"
-            },
-            {
-                "playerName": "Yuzucat",
-                "gamePlayed": 5,
-                "averageStars": "62.75"
+                "averageStars": "107.93"
             },
             {
                 "playerName": "Archer",
                 "gamePlayed": 5,
-                "averageStars": "52.47"
+                "averageStars": "67.74"
+            },
+            {
+                "playerName": "Natsudragneel",
+                "gamePlayed": 4,
+                "averageStars": "53.34"
             }
         ]
     },
@@ -85,17 +85,37 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 33,
-                "averageStars": "97.04"
+                "averageStars": "96.99"
             },
             {
                 "playerName": "Mr Spanky",
                 "gamePlayed": 10,
-                "averageStars": "68.74"
+                "averageStars": "71.55"
             },
             {
                 "playerName": "Archer",
                 "gamePlayed": 30,
-                "averageStars": "64.00"
+                "averageStars": "64.25"
+            }
+        ]
+    },
+    {
+        "month": "2020-09",
+        "players": [
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 9,
+                "averageStars": "48.83"
+            },
+            {
+                "playerName": "Sn3aky",
+                "gamePlayed": 6,
+                "averageStars": "30.70"
+            },
+            {
+                "playerName": "Archer",
+                "gamePlayed": 9,
+                "averageStars": "23.58"
             }
         ]
     }

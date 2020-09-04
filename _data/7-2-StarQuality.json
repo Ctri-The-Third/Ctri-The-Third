@@ -56,6 +56,38 @@
         },
         {
             "JSID": 1,
+            "Name": "Quick Zap",
+            "StarQualityPerGame": "25.00",
+            "TotalStarQuality": "75.00",
+            "AverageOpponents": "5.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner 2Tm",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                }
+            ]
+        },
+        {
+            "JSID": 2,
             "Name": "Smally McSmall",
             "StarQualityPerGame": "24.28",
             "TotalStarQuality": "339.93",
@@ -153,7 +185,7 @@
             ]
         },
         {
-            "JSID": 2,
+            "JSID": 3,
             "Name": "Dr. M Toboggan",
             "StarQualityPerGame": "15.36",
             "TotalStarQuality": "76.81",
@@ -197,7 +229,7 @@
             ]
         },
         {
-            "JSID": 3,
+            "JSID": 4,
             "Name": "Wezza",
             "StarQualityPerGame": "15.10",
             "TotalStarQuality": "196.30",
@@ -289,7 +321,7 @@
             ]
         },
         {
-            "JSID": 4,
+            "JSID": 5,
             "Name": "Poison Ivy",
             "StarQualityPerGame": "15.08",
             "TotalStarQuality": "211.13",
@@ -387,7 +419,7 @@
             ]
         },
         {
-            "JSID": 5,
+            "JSID": 6,
             "Name": "Moriarty",
             "StarQualityPerGame": "14.19",
             "TotalStarQuality": "85.11",
@@ -437,7 +469,7 @@
             ]
         },
         {
-            "JSID": 6,
+            "JSID": 7,
             "Name": "Hewey",
             "StarQualityPerGame": "12.15",
             "TotalStarQuality": "170.07",
@@ -535,7 +567,7 @@
             ]
         },
         {
-            "JSID": 7,
+            "JSID": 8,
             "Name": "Jububley",
             "StarQualityPerGame": "11.20",
             "TotalStarQuality": "56.00",
@@ -579,7 +611,71 @@
             ]
         },
         {
-            "JSID": 8,
+            "JSID": 9,
+            "Name": "Nellabella 15",
+            "StarQualityPerGame": "10.42",
+            "TotalStarQuality": "31.25",
+            "AverageOpponents": "5.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner 2Tm",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                }
+            ]
+        },
+        {
+            "JSID": 10,
+            "Name": "Hot Shot",
+            "StarQualityPerGame": "9.72",
+            "TotalStarQuality": "29.16",
+            "AverageOpponents": "5.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner 2Tm",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                }
+            ]
+        },
+        {
+            "JSID": 11,
             "Name": "Partyfire",
             "StarQualityPerGame": "7.50",
             "TotalStarQuality": "22.50",
@@ -611,7 +707,7 @@
             ]
         },
         {
-            "JSID": 9,
+            "JSID": 12,
             "Name": "JimJamJammyPot",
             "StarQualityPerGame": "7.20",
             "TotalStarQuality": "14.40",
@@ -637,7 +733,39 @@
             ]
         },
         {
-            "JSID": 10,
+            "JSID": 13,
+            "Name": "Cheeky Chaz",
+            "StarQualityPerGame": "6.94",
+            "TotalStarQuality": "20.83",
+            "AverageOpponents": "5.00",
+            "gamesPlayed": 3,
+            "AverageRank": "3.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner 2Tm",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                }
+            ]
+        },
+        {
+            "JSID": 14,
             "Name": "Bomber Beccs ",
             "StarQualityPerGame": "6.75",
             "TotalStarQuality": "13.50",
@@ -663,7 +791,7 @@
             ]
         },
         {
-            "JSID": 11,
+            "JSID": 15,
             "Name": "Pure Chaos",
             "StarQualityPerGame": "6.57",
             "TotalStarQuality": "92.03",
@@ -761,7 +889,7 @@
             ]
         },
         {
-            "JSID": 12,
+            "JSID": 16,
             "Name": "Laser",
             "StarQualityPerGame": "6.00",
             "TotalStarQuality": "30.00",
@@ -805,7 +933,7 @@
             ]
         },
         {
-            "JSID": 13,
+            "JSID": 17,
             "Name": "Mikey Magnum",
             "StarQualityPerGame": "5.83",
             "TotalStarQuality": "23.33",
@@ -843,7 +971,7 @@
             ]
         },
         {
-            "JSID": 14,
+            "JSID": 18,
             "Name": "Spiderman Sam",
             "StarQualityPerGame": "5.78",
             "TotalStarQuality": "17.33",
@@ -875,7 +1003,39 @@
             ]
         },
         {
-            "JSID": 15,
+            "JSID": 19,
+            "Name": "Super Shotz",
+            "StarQualityPerGame": "5.00",
+            "TotalStarQuality": "15.00",
+            "AverageOpponents": "5.00",
+            "gamesPlayed": 3,
+            "AverageRank": "5.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner 2Tm",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                }
+            ]
+        },
+        {
+            "JSID": 20,
             "Name": "Easy Target",
             "StarQualityPerGame": "4.00",
             "TotalStarQuality": "4.00",
@@ -895,45 +1055,7 @@
             ]
         },
         {
-            "JSID": 16,
-            "Name": "Eeeeeeeeeeeeeee",
-            "StarQualityPerGame": "4.00",
-            "TotalStarQuality": "16.00",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 4,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Standard Multi team",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard 2 Team",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard Individual",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard Individual",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                }
-            ]
-        },
-        {
-            "JSID": 17,
+            "JSID": 21,
             "Name": "Haribo",
             "StarQualityPerGame": "4.00",
             "TotalStarQuality": "16.00",
@@ -971,7 +1093,45 @@
             ]
         },
         {
-            "JSID": 18,
+            "JSID": 22,
+            "Name": "Eeeeeeeeeeeeeee",
+            "StarQualityPerGame": "4.00",
+            "TotalStarQuality": "16.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 4,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 23,
             "Name": "Noah Destroyer",
             "StarQualityPerGame": "3.83",
             "TotalStarQuality": "15.33",
@@ -1009,7 +1169,7 @@
             ]
         },
         {
-            "JSID": 19,
+            "JSID": 24,
             "Name": "LaserGunner 815",
             "StarQualityPerGame": "3.50",
             "TotalStarQuality": "10.50",
@@ -1041,7 +1201,7 @@
             ]
         },
         {
-            "JSID": 20,
+            "JSID": 25,
             "Name": "Blaster",
             "StarQualityPerGame": "3.13",
             "TotalStarQuality": "12.50",
@@ -1079,7 +1239,7 @@
             ]
         },
         {
-            "JSID": 21,
+            "JSID": 26,
             "Name": "Immortal-Guy",
             "StarQualityPerGame": "3.00",
             "TotalStarQuality": "3.00",
@@ -1099,7 +1259,7 @@
             ]
         },
         {
-            "JSID": 22,
+            "JSID": 27,
             "Name": "Tyrant Lizard",
             "StarQualityPerGame": "2.00",
             "TotalStarQuality": "8.00",
@@ -1137,7 +1297,71 @@
             ]
         },
         {
-            "JSID": 23,
+            "JSID": 28,
+            "Name": "Super Hero",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner Multi Tm",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 29,
+            "Name": "Marshmellow Man",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner Multi Tm",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 30,
             "Name": "Hayle Storm",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "5.00",
