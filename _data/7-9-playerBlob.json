@@ -1,13 +1,29 @@
 {
     "GoldenPlayer": {
+        "PlayerName": "Achilles",
+        "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
+        "SkillLevelName": "Lasermaster",
+        "MonthlyGamesPlayed": 4,
+        "AllGamesPlayed": 250,
+        "StarQuality": "3.00",
+        "Achievements": 87,
+        "GGName": "Colour Conquest",
+        "GGRank": "1st",
+        "GGStars": "4 stars",
+        "GGVanq1": "C'tri",
+        "GAName": "Ironman 2 - House Party",
+        "GADesc": "Play 15 games in one day.",
+        "GAOthers": "Only one other person has"
+    },
+    "SilverPlayer": {
         "PlayerName": "C'tri",
         "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
         "SkillLevelName": "Lasermaster",
         "MonthlyGamesPlayed": 4,
         "AllGamesPlayed": 703,
-        "StarQuality": "4.00",
+        "StarQuality": "3.00",
         "Achievements": 105,
-        "GGName": "Shadows (Individual)",
+        "GGName": "4 Team Supercharge",
         "GGRank": "1st",
         "GGStars": "4 stars",
         "GGVanq1": "Achilles",
@@ -15,31 +31,7 @@
         "GADesc": "Score 7K or more as Ammo in SM5.",
         "GAOthers": "No one else has"
     },
-    "SilverPlayer": {
-        "PlayerName": "Achilles",
-        "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
-        "SkillLevelName": "Lasermaster",
-        "MonthlyGamesPlayed": 4,
-        "AllGamesPlayed": 250,
-        "StarQuality": "2.00",
-        "Achievements": 87,
-        "GAName": "Ironman 2 - House Party",
-        "GADesc": "Play 15 games in one day.",
-        "GAOthers": "Only one other person has"
-    },
     "BronzePlayer": {
-        "PlayerName": "Overdrive",
-        "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
-        "SkillLevelName": "Lasermaster",
-        "MonthlyGamesPlayed": 3,
-        "AllGamesPlayed": 50,
-        "StarQuality": "1.00",
-        "Achievements": 44,
-        "GAName": "True Leader",
-        "GADesc": "Be on the winning team in 25 regular games.",
-        "GAOthers": "12 others have"
-    },
-    "OtherPlayer1": {
         "PlayerName": "Rayth",
         "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
         "SkillLevelName": "Lasermaster",

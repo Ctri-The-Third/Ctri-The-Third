@@ -1,26 +1,20 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-09-01 and 2020-08-01",
-    "ScoreGreaterOrEqualDate": "2020-08-01",
-    "ScoreLessDate": "2020-09-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-10-01 and 2020-09-01",
+    "ScoreGreaterOrEqualDate": "2020-09-01",
+    "ScoreLessDate": "2020-10-01",
     "Player": [
         {},
         {
             "Name": "C'tri",
-            "AverageScore": 13125,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
+            "AverageScore": 12845,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u2193280.00"
         },
         {
             "Name": "Achilles",
-            "AverageScore": 8005,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Overdrive",
-            "AverageScore": 6870,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
+            "AverageScore": 9190,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21911185.00"
         }
     ]
 }

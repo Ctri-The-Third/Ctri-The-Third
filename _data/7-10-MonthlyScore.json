@@ -1,32 +1,50 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-09-01 and 2020-08-01",
-    "ScoreGreaterOrEqualDate": "2020-08-01",
-    "ScoreLessDate": "2020-09-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-10-01 and 2020-09-01",
+    "ScoreGreaterOrEqualDate": "2020-09-01",
+    "ScoreLessDate": "2020-10-01",
     "Player": [
         {},
         {
-            "Name": "Unkn0wn",
-            "AverageScore": 40404,
+            "Name": "Sn3aky",
+            "AverageScore": 16964,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
-            "Name": "Crashers",
-            "AverageScore": 10082,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Smasher",
-            "AverageScore": 7007,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Ging'mes",
-            "AverageScore": 3310,
+            "Name": "Morrigan",
+            "AverageScore": 15254,
             "MissionsPlayed": 1,
-            "ChangeInScore": "\u21934334.00"
+            "ChangeInScore": null
+        },
+        {
+            "Name": "<!-- Blaze -->",
+            "AverageScore": 14344,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Archer",
+            "AverageScore": 13774,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Hero of Light",
+            "AverageScore": 12424,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Emo Wolf ",
+            "AverageScore": 10484,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Yuzucat",
+            "AverageScore": 9054,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
         }
     ]
 }
