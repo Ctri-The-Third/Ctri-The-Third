@@ -2,7 +2,7 @@
     "gamesPlayed": [
         {
             "gameName": "Standard Individual",
-            "timesPlayed": 159
+            "timesPlayed": 161
         },
         {
             "gameName": "Continous Ind",
@@ -14,7 +14,7 @@
         },
         {
             "gameName": "Standard 2 Team",
-            "timesPlayed": 88
+            "timesPlayed": 90
         },
         {
             "gameName": "Assault Tournament",
@@ -26,7 +26,7 @@
         },
         {
             "gameName": "Supercharge Gunner 2Tm",
-            "timesPlayed": 19
+            "timesPlayed": 20
         },
         {
             "gameName": "Borg",
@@ -50,7 +50,7 @@
         },
         {
             "gameName": "S/Charge Gunner Ind",
-            "timesPlayed": 11
+            "timesPlayed": 12
         },
         {
             "gameName": "Gladiator 2 Tm",
@@ -158,8 +158,8 @@
         "welcomers": 11
     },
     "playerCounts": {
-        "activePlayers": 347,
+        "activePlayers": 350,
         "newPlayers": 4,
-        "churnedPlayers": 324
+        "churnedPlayers": 327
     }
 }

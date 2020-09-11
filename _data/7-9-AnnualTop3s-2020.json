@@ -84,13 +84,18 @@
         "players": [
             {
                 "playerName": "C'tri",
-                "gamePlayed": 4,
-                "averageStars": "3.00"
+                "gamePlayed": 8,
+                "averageStars": "6.00"
             },
             {
-                "playerName": "Achilles",
+                "playerName": "Paradigm",
                 "gamePlayed": 4,
-                "averageStars": "3.00"
+                "averageStars": "3.75"
+            },
+            {
+                "playerName": "Mindi",
+                "gamePlayed": 4,
+                "averageStars": "3.75"
             }
         ]
     }
