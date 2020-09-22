@@ -12,9 +12,9 @@
             "AverageOpponents": "9.50",
             "gamesPlayed": 16,
             "AverageRank": "2.06",
-            "ChangeInRank": "\u21910.24",
+            "ChangeInRank": "\u21910.82",
             "ChangeInPlayers": "\u21932.95",
-            "ChangeInSQPerGame": "\u219334.93",
+            "ChangeInSQPerGame": "\u219324.00",
             "breakdown": [
                 {
                     "gameName": "Space Marines 5",
@@ -122,9 +122,9 @@
             "AverageOpponents": "12.83",
             "gamesPlayed": 6,
             "AverageRank": "3.50",
-            "ChangeInRank": "\u21910.50",
+            "ChangeInRank": "\u21910.89",
             "ChangeInPlayers": "\u21911.50",
-            "ChangeInSQPerGame": "\u219121.37",
+            "ChangeInSQPerGame": "\u219116.64",
             "breakdown": [
                 {
                     "gameName": "Space Marines 5",
@@ -167,14 +167,14 @@
         {
             "JSID": 2,
             "Name": "Sn3aky",
-            "StarQualityPerGame": "51.31",
-            "TotalStarQuality": "564.38",
+            "StarQualityPerGame": "52.08",
+            "TotalStarQuality": "572.91",
             "AverageOpponents": "10.64",
             "gamesPlayed": 11,
-            "AverageRank": "3.64",
-            "ChangeInRank": "\u21911.96",
+            "AverageRank": "3.55",
+            "ChangeInRank": "\u21911.94",
             "ChangeInPlayers": "\u21931.96",
-            "ChangeInSQPerGame": "\u21936.29",
+            "ChangeInSQPerGame": "\u21936.82",
             "breakdown": [
                 {
                     "gameName": "Predator vs Borg",
@@ -252,9 +252,9 @@
             "AverageOpponents": "9.89",
             "gamesPlayed": 18,
             "AverageRank": "3.72",
-            "ChangeInRank": "\u21910.58",
+            "ChangeInRank": "\u21910.74",
             "ChangeInPlayers": "\u21932.24",
-            "ChangeInSQPerGame": "\u219316.01",
+            "ChangeInSQPerGame": "\u219321.37",
             "breakdown": [
                 {
                     "gameName": "Space Marines 5",
@@ -368,15 +368,113 @@
         },
         {
             "JSID": 4,
+            "Name": "Hero of Light",
+            "StarQualityPerGame": "34.80",
+            "TotalStarQuality": "487.25",
+            "AverageOpponents": "10.93",
+            "gamesPlayed": 14,
+            "AverageRank": "5.71",
+            "ChangeInRank": "\u21911.12",
+            "ChangeInPlayers": "\u21931.65",
+            "ChangeInSQPerGame": "\u21914.91",
+            "breakdown": [
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 4,
+                    "totalPlayers": 8,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 12,
+                    "starsForGame": "24.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 1,
+                    "totalPlayers": 14,
+                    "starsForGame": "196.00"
+                },
+                {
+                    "gameName": "Predator vs Borg",
+                    "rank": 4,
+                    "totalPlayers": 16,
+                    "starsForGame": "64.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 2,
+                    "totalPlayers": 9,
+                    "starsForGame": "40.50"
+                },
+                {
+                    "gameName": "Gem Hunter",
+                    "rank": 6,
+                    "totalPlayers": 13,
+                    "starsForGame": "28.17"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 9,
+                    "totalPlayers": 14,
+                    "starsForGame": "21.78"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 8,
+                    "totalPlayers": 13,
+                    "starsForGame": "21.13"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 7,
+                    "totalPlayers": 11,
+                    "starsForGame": "17.29"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 9,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 9,
+                    "starsForGame": "13.50"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 6,
+                    "totalPlayers": 9,
+                    "starsForGame": "13.50"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 8,
+                    "totalPlayers": 9,
+                    "starsForGame": "10.13"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 4,
+                    "totalPlayers": 7,
+                    "starsForGame": "12.25"
+                }
+            ]
+        },
+        {
+            "JSID": 5,
             "Name": "Ging'mes",
-            "StarQualityPerGame": "42.42",
-            "TotalStarQuality": "466.57",
+            "StarQualityPerGame": "33.51",
+            "TotalStarQuality": "368.57",
             "AverageOpponents": "10.82",
             "gamesPlayed": 11,
-            "AverageRank": "4.36",
-            "ChangeInRank": "\u21910.35",
+            "AverageRank": "4.45",
+            "ChangeInRank": "\u21910.83",
             "ChangeInPlayers": "\u21910.15",
-            "ChangeInSQPerGame": "\u219321.36",
+            "ChangeInSQPerGame": "\u219327.70",
             "breakdown": [
                 {
                     "gameName": "Base Flags",
@@ -447,16 +545,16 @@
             ]
         },
         {
-            "JSID": 5,
+            "JSID": 6,
             "Name": "<!-- Blaze -->",
-            "StarQualityPerGame": "28.41",
-            "TotalStarQuality": "482.90",
+            "StarQualityPerGame": "28.29",
+            "TotalStarQuality": "480.97",
             "AverageOpponents": "10.24",
             "gamesPlayed": 17,
-            "AverageRank": "5.88",
-            "ChangeInRank": "\u21912.01",
+            "AverageRank": "5.94",
+            "ChangeInRank": "\u21911.33",
             "ChangeInPlayers": "\u21932.08",
-            "ChangeInSQPerGame": "\u21916.32",
+            "ChangeInSQPerGame": "\u21913.90",
             "breakdown": [
                 {
                     "gameName": "Space Marines 5",
@@ -563,158 +661,16 @@
             ]
         },
         {
-            "JSID": 6,
-            "Name": "Hero of Light",
-            "StarQualityPerGame": "27.80",
-            "TotalStarQuality": "389.25",
-            "AverageOpponents": "10.93",
-            "gamesPlayed": 14,
-            "AverageRank": "5.79",
-            "ChangeInRank": "\u21911.02",
-            "ChangeInPlayers": "\u21931.65",
-            "ChangeInSQPerGame": "\u21932.44",
-            "breakdown": [
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 4,
-                    "totalPlayers": 8,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 12,
-                    "starsForGame": "24.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 1,
-                    "totalPlayers": 14,
-                    "starsForGame": "196.00"
-                },
-                {
-                    "gameName": "Predator vs Borg",
-                    "rank": 4,
-                    "totalPlayers": 16,
-                    "starsForGame": "64.00"
-                },
-                {
-                    "gameName": "Borg",
-                    "rank": 2,
-                    "totalPlayers": 9,
-                    "starsForGame": "40.50"
-                },
-                {
-                    "gameName": "Gem Hunter",
-                    "rank": 6,
-                    "totalPlayers": 13,
-                    "starsForGame": "28.17"
-                },
-                {
-                    "gameName": "Gladiator - Team",
-                    "rank": 9,
-                    "totalPlayers": 14,
-                    "starsForGame": "21.78"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 8,
-                    "totalPlayers": 13,
-                    "starsForGame": "21.13"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 7,
-                    "totalPlayers": 11,
-                    "starsForGame": "17.29"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 9,
-                    "totalPlayers": 9,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 9,
-                    "starsForGame": "13.50"
-                },
-                {
-                    "gameName": "Borg",
-                    "rank": 6,
-                    "totalPlayers": 9,
-                    "starsForGame": "13.50"
-                },
-                {
-                    "gameName": "Gladiator - Team",
-                    "rank": 8,
-                    "totalPlayers": 9,
-                    "starsForGame": "10.13"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 4,
-                    "totalPlayers": 7,
-                    "starsForGame": "12.25"
-                }
-            ]
-        },
-        {
             "JSID": 7,
-            "Name": "[Insomniac]",
-            "StarQualityPerGame": "25.82",
-            "TotalStarQuality": "129.09",
-            "AverageOpponents": "13.80",
-            "gamesPlayed": 5,
-            "AverageRank": "7.60",
-            "ChangeInRank": "\u21931.27",
-            "ChangeInPlayers": "\u21912.05",
-            "ChangeInSQPerGame": "\u219313.44",
-            "breakdown": [
-                {
-                    "gameName": "Base Flags",
-                    "rank": 7,
-                    "totalPlayers": 12,
-                    "starsForGame": "20.57"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 9,
-                    "totalPlayers": 14,
-                    "starsForGame": "21.78"
-                },
-                {
-                    "gameName": "Predator vs Borg",
-                    "rank": 9,
-                    "totalPlayers": 16,
-                    "starsForGame": "28.44"
-                },
-                {
-                    "gameName": "Gem Hunter",
-                    "rank": 5,
-                    "totalPlayers": 13,
-                    "starsForGame": "33.80"
-                },
-                {
-                    "gameName": "Gladiator - Team",
-                    "rank": 8,
-                    "totalPlayers": 14,
-                    "starsForGame": "24.50"
-                }
-            ]
-        },
-        {
-            "JSID": 8,
             "Name": "Entity",
-            "StarQualityPerGame": "25.77",
-            "TotalStarQuality": "206.13",
+            "StarQualityPerGame": "26.84",
+            "TotalStarQuality": "214.72",
             "AverageOpponents": "9.75",
             "gamesPlayed": 8,
-            "AverageRank": "5.88",
-            "ChangeInRank": "\u21931.04",
+            "AverageRank": "5.75",
+            "ChangeInRank": "\u21910.08",
             "ChangeInPlayers": "\u21930.42",
-            "ChangeInSQPerGame": "\u219321.95",
+            "ChangeInSQPerGame": "\u21939.46",
             "breakdown": [
                 {
                     "gameName": "Space Marines 5",
@@ -767,16 +723,60 @@
             ]
         },
         {
+            "JSID": 8,
+            "Name": "[Insomniac]",
+            "StarQualityPerGame": "25.82",
+            "TotalStarQuality": "129.09",
+            "AverageOpponents": "13.80",
+            "gamesPlayed": 5,
+            "AverageRank": "7.60",
+            "ChangeInRank": "\u21931.31",
+            "ChangeInPlayers": "\u21912.05",
+            "ChangeInSQPerGame": "\u219312.98",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 12,
+                    "starsForGame": "20.57"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 9,
+                    "totalPlayers": 14,
+                    "starsForGame": "21.78"
+                },
+                {
+                    "gameName": "Predator vs Borg",
+                    "rank": 9,
+                    "totalPlayers": 16,
+                    "starsForGame": "28.44"
+                },
+                {
+                    "gameName": "Gem Hunter",
+                    "rank": 5,
+                    "totalPlayers": 13,
+                    "starsForGame": "33.80"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 8,
+                    "totalPlayers": 14,
+                    "starsForGame": "24.50"
+                }
+            ]
+        },
+        {
             "JSID": 9,
             "Name": "Toytle",
-            "StarQualityPerGame": "24.40",
-            "TotalStarQuality": "170.77",
+            "StarQualityPerGame": "23.18",
+            "TotalStarQuality": "162.24",
             "AverageOpponents": "12.86",
             "gamesPlayed": 7,
-            "AverageRank": "8.43",
-            "ChangeInRank": "\u21910.57",
+            "AverageRank": "8.57",
+            "ChangeInRank": "\u21910.26",
             "ChangeInPlayers": "\u21910.69",
-            "ChangeInSQPerGame": "\u21916.52",
+            "ChangeInSQPerGame": "\u21913.72",
             "breakdown": [
                 {
                     "gameName": "Base Flags",
@@ -830,9 +830,9 @@
             "AverageOpponents": "9.89",
             "gamesPlayed": 18,
             "AverageRank": "6.11",
-            "ChangeInRank": "\u21911.47",
+            "ChangeInRank": "\u21911.15",
             "ChangeInPlayers": "\u21932.89",
-            "ChangeInSQPerGame": "\u21934.38",
+            "ChangeInSQPerGame": "\u21935.75",
             "breakdown": [
                 {
                     "gameName": "Space Marines 5",
@@ -947,14 +947,14 @@
         {
             "JSID": 11,
             "Name": "Emo Wolf ",
-            "StarQualityPerGame": "20.09",
-            "TotalStarQuality": "381.79",
+            "StarQualityPerGame": "19.66",
+            "TotalStarQuality": "373.62",
             "AverageOpponents": "9.42",
             "gamesPlayed": 19,
-            "AverageRank": "5.89",
-            "ChangeInRank": "\u21912.26",
+            "AverageRank": "5.95",
+            "ChangeInRank": "\u21912.18",
             "ChangeInPlayers": "\u21931.48",
-            "ChangeInSQPerGame": "\u21913.30",
+            "ChangeInSQPerGame": "\u21912.76",
             "breakdown": [
                 {
                     "gameName": "Space Marines 5",
@@ -1075,11 +1075,11 @@
         {
             "JSID": 12,
             "Name": "Alky",
-            "StarQualityPerGame": "18.39",
-            "TotalStarQuality": "147.08",
+            "StarQualityPerGame": "18.20",
+            "TotalStarQuality": "145.59",
             "AverageOpponents": "12.75",
             "gamesPlayed": 8,
-            "AverageRank": "9.88",
+            "AverageRank": "10.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
@@ -1187,14 +1187,14 @@
         {
             "JSID": 14,
             "Name": "Hana",
-            "StarQualityPerGame": "13.52",
-            "TotalStarQuality": "54.08",
+            "StarQualityPerGame": "13.79",
+            "TotalStarQuality": "55.15",
             "AverageOpponents": "13.25",
             "gamesPlayed": 4,
-            "AverageRank": "13.00",
-            "ChangeInRank": "\u21931.71",
+            "AverageRank": "12.75",
+            "ChangeInRank": "\u21931.61",
             "ChangeInPlayers": "\u21930.82",
-            "ChangeInSQPerGame": "\u219311.23",
+            "ChangeInSQPerGame": "\u219310.25",
             "breakdown": [
                 {
                     "gameName": "Base Flags",
@@ -1225,14 +1225,14 @@
         {
             "JSID": 15,
             "Name": "Yuzucat",
-            "StarQualityPerGame": "13.35",
-            "TotalStarQuality": "173.60",
+            "StarQualityPerGame": "13.50",
+            "TotalStarQuality": "175.53",
             "AverageOpponents": "10.77",
             "gamesPlayed": 13,
-            "AverageRank": "8.85",
-            "ChangeInRank": "\u21930.62",
+            "AverageRank": "8.77",
+            "ChangeInRank": "\u21932.10",
             "ChangeInPlayers": "\u21930.01",
-            "ChangeInSQPerGame": "\u21931.26",
+            "ChangeInSQPerGame": "\u21938.85",
             "breakdown": [
                 {
                     "gameName": "Base Flags",

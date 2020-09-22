@@ -6,6 +6,304 @@
         {},
         {
             "JSID": 0,
+            "Name": "Smally McSmall",
+            "StarQualityPerGame": "22.78",
+            "TotalStarQuality": "182.20",
+            "AverageOpponents": "5.75",
+            "gamesPlayed": 8,
+            "AverageRank": "2.38",
+            "ChangeInRank": "\u21930.16",
+            "ChangeInPlayers": "\u21930.39",
+            "ChangeInSQPerGame": "\u21931.51",
+            "breakdown": [
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                }
+            ]
+        },
+        {
+            "JSID": 1,
+            "Name": "I B Titch CBA",
+            "StarQualityPerGame": "19.46",
+            "TotalStarQuality": "136.20",
+            "AverageOpponents": "6.00",
+            "gamesPlayed": 7,
+            "AverageRank": "2.57",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                }
+            ]
+        },
+        {
+            "JSID": 2,
+            "Name": "Wezza",
+            "StarQualityPerGame": "13.38",
+            "TotalStarQuality": "107.00",
+            "AverageOpponents": "5.75",
+            "gamesPlayed": 8,
+            "AverageRank": "3.25",
+            "ChangeInRank": "\u21930.25",
+            "ChangeInPlayers": "\u21930.33",
+            "ChangeInSQPerGame": "\u21931.73",
+            "breakdown": [
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                }
+            ]
+        },
+        {
+            "JSID": 3,
+            "Name": "Poison Ivy",
+            "StarQualityPerGame": "10.70",
+            "TotalStarQuality": "85.60",
+            "AverageOpponents": "5.75",
+            "gamesPlayed": 8,
+            "AverageRank": "3.75",
+            "ChangeInRank": "\u21930.46",
+            "ChangeInPlayers": "\u21930.39",
+            "ChangeInSQPerGame": "\u21934.38",
+            "breakdown": [
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                }
+            ]
+        },
+        {
+            "JSID": 4,
+            "Name": "Hewey",
+            "StarQualityPerGame": "10.29",
+            "TotalStarQuality": "72.00",
+            "AverageOpponents": "6.00",
+            "gamesPlayed": 7,
+            "AverageRank": "4.00",
+            "ChangeInRank": "\u21930.36",
+            "ChangeInPlayers": "\u21930.00",
+            "ChangeInSQPerGame": "\u21931.86",
+            "breakdown": [
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                }
+            ]
+        },
+        {
+            "JSID": 5,
             "Name": "Lazerino",
             "StarQualityPerGame": "9.00",
             "TotalStarQuality": "27.00",
@@ -37,7 +335,69 @@
             ]
         },
         {
-            "JSID": 1,
+            "JSID": 6,
+            "Name": "Sn3aky",
+            "StarQualityPerGame": "8.47",
+            "TotalStarQuality": "67.73",
+            "AverageOpponents": "5.75",
+            "gamesPlayed": 8,
+            "AverageRank": "4.50",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                }
+            ]
+        },
+        {
+            "JSID": 7,
             "Name": "Ethan 99",
             "StarQualityPerGame": "4.00",
             "TotalStarQuality": "12.00",
@@ -69,7 +429,7 @@
             ]
         },
         {
-            "JSID": 2,
+            "JSID": 8,
             "Name": "Ace Gunner",
             "StarQualityPerGame": "3.50",
             "TotalStarQuality": "10.50",
@@ -101,7 +461,7 @@
             ]
         },
         {
-            "JSID": 3,
+            "JSID": 9,
             "Name": "JNR Adventurer",
             "StarQualityPerGame": "3.33",
             "TotalStarQuality": "10.00",
@@ -133,7 +493,7 @@
             ]
         },
         {
-            "JSID": 4,
+            "JSID": 10,
             "Name": "Hot Shot",
             "StarQualityPerGame": "3.00",
             "TotalStarQuality": "9.00",
@@ -165,7 +525,7 @@
             ]
         },
         {
-            "JSID": 5,
+            "JSID": 11,
             "Name": "WizzBang",
             "StarQualityPerGame": "2.67",
             "TotalStarQuality": "8.00",
@@ -197,7 +557,7 @@
             ]
         },
         {
-            "JSID": 6,
+            "JSID": 12,
             "Name": "Rapid Fire",
             "StarQualityPerGame": "2.00",
             "TotalStarQuality": "4.00",
@@ -223,7 +583,7 @@
             ]
         },
         {
-            "JSID": 7,
+            "JSID": 13,
             "Name": "Your Master ",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
@@ -255,7 +615,7 @@
             ]
         },
         {
-            "JSID": 8,
+            "JSID": 14,
             "Name": "Husky",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
