@@ -7,14 +7,14 @@
         {
             "JSID": 0,
             "Name": "Smally McSmall",
-            "StarQualityPerGame": "39.69",
-            "TotalStarQuality": "595.28",
+            "StarQualityPerGame": "39.56",
+            "TotalStarQuality": "593.35",
             "AverageOpponents": "8.67",
             "gamesPlayed": 15,
-            "AverageRank": "3.00",
-            "ChangeInRank": "\u21930.71",
+            "AverageRank": "3.07",
+            "ChangeInRank": "\u21930.85",
             "ChangeInPlayers": "\u21912.52",
-            "ChangeInSQPerGame": "\u219115.70",
+            "ChangeInSQPerGame": "\u219115.28",
             "breakdown": [
                 {
                     "gameName": "Laser Marines",
@@ -24,15 +24,15 @@
                 },
                 {
                     "gameName": "Laser Marines",
-                    "rank": 6,
-                    "totalPlayers": 9,
-                    "starsForGame": "13.50"
-                },
-                {
-                    "gameName": "Laser Marines",
                     "rank": 7,
                     "totalPlayers": 9,
                     "starsForGame": "11.57"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 8,
+                    "totalPlayers": 9,
+                    "starsForGame": "10.13"
                 },
                 {
                     "gameName": "Lord Of The Rings",
@@ -172,9 +172,9 @@
             "AverageOpponents": "8.50",
             "gamesPlayed": 8,
             "AverageRank": "4.38",
-            "ChangeInRank": "\u21931.45",
+            "ChangeInRank": "\u21931.38",
             "ChangeInPlayers": "\u21912.42",
-            "ChangeInSQPerGame": "\u21918.69",
+            "ChangeInSQPerGame": "\u21919.01",
             "breakdown": [
                 {
                     "gameName": "Laser Marines",
@@ -403,14 +403,14 @@
         {
             "JSID": 6,
             "Name": "Poison Ivy",
-            "StarQualityPerGame": "14.89",
-            "TotalStarQuality": "119.15",
+            "StarQualityPerGame": "15.14",
+            "TotalStarQuality": "121.08",
             "AverageOpponents": "8.50",
             "gamesPlayed": 8,
-            "AverageRank": "5.25",
-            "ChangeInRank": "\u21931.96",
+            "AverageRank": "5.13",
+            "ChangeInRank": "\u21931.84",
             "ChangeInPlayers": "\u21912.36",
-            "ChangeInSQPerGame": "\u21930.19",
+            "ChangeInSQPerGame": "\u21910.05",
             "breakdown": [
                 {
                     "gameName": "Laser Marines",
@@ -420,9 +420,9 @@
                 },
                 {
                     "gameName": "Laser Marines",
-                    "rank": 8,
+                    "rank": 6,
                     "totalPlayers": 9,
-                    "starsForGame": "10.13"
+                    "starsForGame": "13.50"
                 },
                 {
                     "gameName": "Lord Of The Rings",
@@ -654,6 +654,38 @@
         },
         {
             "JSID": 12,
+            "Name": "Dancer Zap",
+            "StarQualityPerGame": "3.33",
+            "TotalStarQuality": "10.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.33",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 13,
             "Name": "Hot Shot",
             "StarQualityPerGame": "3.00",
             "TotalStarQuality": "9.00",
@@ -685,7 +717,39 @@
             ]
         },
         {
-            "JSID": 13,
+            "JSID": 14,
+            "Name": "Maizy",
+            "StarQualityPerGame": "2.67",
+            "TotalStarQuality": "8.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 15,
             "Name": "WizzBang",
             "StarQualityPerGame": "2.67",
             "TotalStarQuality": "8.00",
@@ -717,7 +781,7 @@
             ]
         },
         {
-            "JSID": 14,
+            "JSID": 16,
             "Name": "Rapid Fire",
             "StarQualityPerGame": "2.00",
             "TotalStarQuality": "4.00",
@@ -743,7 +807,71 @@
             ]
         },
         {
-            "JSID": 15,
+            "JSID": 17,
+            "Name": "Husky",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 18,
+            "Name": "Football Dave",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner 2Tm",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 19,
             "Name": "Your Master ",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
@@ -775,7 +903,7 @@
             ]
         },
         {
-            "JSID": 16,
+            "JSID": 20,
             "Name": "Agent 6",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
@@ -788,38 +916,6 @@
             "breakdown": [
                 {
                     "gameName": "Supercharge Gunner 2Tm",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Standard 2 Team",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Standard Individual",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                }
-            ]
-        },
-        {
-            "JSID": 17,
-            "Name": "Husky",
-            "StarQualityPerGame": "1.00",
-            "TotalStarQuality": "3.00",
-            "AverageOpponents": "1.00",
-            "gamesPlayed": 3,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "S/Charge Gunner Ind",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"

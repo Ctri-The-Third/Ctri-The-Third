@@ -7,14 +7,14 @@
         {
             "JSID": 0,
             "Name": "-=Valroc=-",
-            "StarQualityPerGame": "79.54",
-            "TotalStarQuality": "715.83",
+            "StarQualityPerGame": "81.20",
+            "TotalStarQuality": "730.83",
             "AverageOpponents": "9.00",
             "gamesPlayed": 9,
-            "AverageRank": "2.33",
-            "ChangeInRank": "\u21910.01",
+            "AverageRank": "1.67",
+            "ChangeInRank": "\u21910.64",
             "ChangeInPlayers": "\u21930.93",
-            "ChangeInSQPerGame": "\u21918.55",
+            "ChangeInSQPerGame": "\u219110.78",
             "breakdown": [
                 {
                     "gameName": "# Sm5 Uka",
@@ -74,119 +74,15 @@
         },
         {
             "JSID": 1,
-            "Name": "Entity",
-            "StarQualityPerGame": "27.97",
-            "TotalStarQuality": "419.61",
-            "AverageOpponents": "6.73",
-            "gamesPlayed": 15,
-            "AverageRank": "2.60",
-            "ChangeInRank": "\u21912.40",
-            "ChangeInPlayers": "\u21933.31",
-            "ChangeInSQPerGame": "\u21913.04",
-            "breakdown": [
-                {
-                    "gameName": "Escape",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                },
-                {
-                    "gameName": "Tag Test",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "Capture The Flag",
-                    "rank": 6,
-                    "totalPlayers": 6,
-                    "starsForGame": "6.00"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 1,
-                    "totalPlayers": 7,
-                    "starsForGame": "49.00"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Capture The Flag",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Immortals - Solo",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 2,
-                    "totalPlayers": 10,
-                    "starsForGame": "50.00"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 6,
-                    "totalPlayers": 10,
-                    "starsForGame": "16.67"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 2,
-                    "totalPlayers": 9,
-                    "starsForGame": "40.50"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 9,
-                    "totalPlayers": 13,
-                    "starsForGame": "18.78"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 2,
-                    "totalPlayers": 13,
-                    "starsForGame": "84.50"
-                }
-            ]
-        },
-        {
-            "JSID": 2,
             "Name": "Hamster",
-            "StarQualityPerGame": "25.99",
-            "TotalStarQuality": "155.95",
+            "StarQualityPerGame": "33.24",
+            "TotalStarQuality": "199.46",
             "AverageOpponents": "11.17",
             "gamesPlayed": 6,
             "AverageRank": "6.33",
-            "ChangeInRank": "\u21930.62",
+            "ChangeInRank": "\u21930.76",
             "ChangeInPlayers": "\u21931.40",
-            "ChangeInSQPerGame": "\u219315.77",
+            "ChangeInSQPerGame": "\u21938.50",
             "breakdown": [
                 {
                     "gameName": "* Baseflags PushBack (15)",
@@ -227,16 +123,16 @@
             ]
         },
         {
-            "JSID": 3,
+            "JSID": 2,
             "Name": "Sn3aky",
-            "StarQualityPerGame": "24.47",
-            "TotalStarQuality": "489.37",
+            "StarQualityPerGame": "26.59",
+            "TotalStarQuality": "531.78",
             "AverageOpponents": "6.75",
             "gamesPlayed": 20,
             "AverageRank": "2.60",
-            "ChangeInRank": "\u21911.02",
+            "ChangeInRank": "\u21910.76",
             "ChangeInPlayers": "\u21932.27",
-            "ChangeInSQPerGame": "\u219319.14",
+            "ChangeInSQPerGame": "\u219319.40",
             "breakdown": [
                 {
                     "gameName": "# Sm5 Uka",
@@ -361,16 +257,16 @@
             ]
         },
         {
-            "JSID": 4,
+            "JSID": 3,
             "Name": "Unagi",
-            "StarQualityPerGame": "22.85",
-            "TotalStarQuality": "205.67",
+            "StarQualityPerGame": "21.73",
+            "TotalStarQuality": "195.55",
             "AverageOpponents": "9.00",
             "gamesPlayed": 9,
-            "AverageRank": "4.89",
-            "ChangeInRank": "\u21910.29",
+            "AverageRank": "5.22",
+            "ChangeInRank": "\u21910.51",
             "ChangeInPlayers": "\u21932.64",
-            "ChangeInSQPerGame": "\u219317.60",
+            "ChangeInSQPerGame": "\u219312.41",
             "breakdown": [
                 {
                     "gameName": "# Sm5 Uka",
@@ -429,40 +325,34 @@
             ]
         },
         {
-            "JSID": 5,
-            "Name": "Ging'mes",
-            "StarQualityPerGame": "20.96",
-            "TotalStarQuality": "125.77",
+            "JSID": 4,
+            "Name": "<!-- Blaze -->",
+            "StarQualityPerGame": "21.65",
+            "TotalStarQuality": "129.91",
             "AverageOpponents": "11.17",
             "gamesPlayed": 6,
-            "AverageRank": "7.17",
-            "ChangeInRank": "\u21931.08",
-            "ChangeInPlayers": "\u21911.17",
-            "ChangeInSQPerGame": "\u21930.02",
+            "AverageRank": "7.33",
+            "ChangeInRank": "\u21933.00",
+            "ChangeInPlayers": "\u21914.00",
+            "ChangeInSQPerGame": "\u21917.62",
             "breakdown": [
                 {
                     "gameName": "* Baseflags PushBack (15)",
-                    "rank": 4,
+                    "rank": 5,
                     "totalPlayers": 10,
-                    "starsForGame": "25.00"
+                    "starsForGame": "20.00"
                 },
                 {
                     "gameName": "* Baseflags PushBack (15)",
-                    "rank": 4,
+                    "rank": 10,
                     "totalPlayers": 10,
-                    "starsForGame": "25.00"
+                    "starsForGame": "10.00"
                 },
                 {
                     "gameName": "Space Marines 5",
-                    "rank": 9,
-                    "totalPlayers": 9,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "BaseFlags",
                     "rank": 7,
-                    "totalPlayers": 13,
-                    "starsForGame": "24.14"
+                    "totalPlayers": 9,
+                    "starsForGame": "11.57"
                 },
                 {
                     "gameName": "BaseFlags",
@@ -471,24 +361,166 @@
                     "starsForGame": "14.08"
                 },
                 {
+                    "gameName": "BaseFlags",
+                    "rank": 8,
+                    "totalPlayers": 13,
+                    "starsForGame": "21.13"
+                },
+                {
                     "gameName": "SM5 5 Teams ",
-                    "rank": 5,
+                    "rank": 11,
                     "totalPlayers": 12,
-                    "starsForGame": "28.80"
+                    "starsForGame": "13.09"
+                }
+            ]
+        },
+        {
+            "JSID": 5,
+            "Name": "Entity",
+            "StarQualityPerGame": "21.06",
+            "TotalStarQuality": "315.87",
+            "AverageOpponents": "6.73",
+            "gamesPlayed": 15,
+            "AverageRank": "3.20",
+            "ChangeInRank": "\u21911.85",
+            "ChangeInPlayers": "\u21933.31",
+            "ChangeInSQPerGame": "\u21934.00",
+            "breakdown": [
+                {
+                    "gameName": "Escape",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Tag Test",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Capture The Flag",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 1,
+                    "totalPlayers": 7,
+                    "starsForGame": "49.00"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "# Sm5 Uka",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Capture The Flag",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Immortals - Solo",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 2,
+                    "totalPlayers": 10,
+                    "starsForGame": "50.00"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 6,
+                    "totalPlayers": 10,
+                    "starsForGame": "16.67"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 2,
+                    "totalPlayers": 9,
+                    "starsForGame": "40.50"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 9,
+                    "totalPlayers": 13,
+                    "starsForGame": "18.78"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 2,
+                    "totalPlayers": 13,
+                    "starsForGame": "84.50"
                 }
             ]
         },
         {
             "JSID": 6,
+            "Name": "Deadeye",
+            "StarQualityPerGame": "20.09",
+            "TotalStarQuality": "60.28",
+            "AverageOpponents": "12.67",
+            "gamesPlayed": 3,
+            "AverageRank": "8.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 6,
+                    "totalPlayers": 13,
+                    "starsForGame": "28.17"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 11,
+                    "totalPlayers": 13,
+                    "starsForGame": "15.36"
+                },
+                {
+                    "gameName": "SM5 5 Teams ",
+                    "rank": 12,
+                    "totalPlayers": 12,
+                    "starsForGame": "12.00"
+                }
+            ]
+        },
+        {
+            "JSID": 7,
             "Name": "Archer",
-            "StarQualityPerGame": "19.37",
-            "TotalStarQuality": "116.24",
+            "StarQualityPerGame": "19.16",
+            "TotalStarQuality": "114.96",
             "AverageOpponents": "11.17",
             "gamesPlayed": 6,
-            "AverageRank": "6.67",
-            "ChangeInRank": "\u21931.67",
+            "AverageRank": "7.00",
+            "ChangeInRank": "\u21932.25",
             "ChangeInPlayers": "\u21911.85",
-            "ChangeInSQPerGame": "\u21933.40",
+            "ChangeInSQPerGame": "\u21934.08",
             "breakdown": [
                 {
                     "gameName": "* Baseflags PushBack (15)",
@@ -529,16 +561,16 @@
             ]
         },
         {
-            "JSID": 7,
+            "JSID": 8,
             "Name": "Agent Jaikei",
-            "StarQualityPerGame": "15.83",
-            "TotalStarQuality": "269.18",
+            "StarQualityPerGame": "16.43",
+            "TotalStarQuality": "279.39",
             "AverageOpponents": "7.41",
             "gamesPlayed": 17,
-            "AverageRank": "4.47",
-            "ChangeInRank": "\u21910.82",
+            "AverageRank": "4.35",
+            "ChangeInRank": "\u21911.26",
             "ChangeInPlayers": "\u21931.33",
-            "ChangeInSQPerGame": "\u21932.86",
+            "ChangeInSQPerGame": "\u21910.50",
             "breakdown": [
                 {
                     "gameName": "# Sm5 Uka",
@@ -645,66 +677,40 @@
             ]
         },
         {
-            "JSID": 8,
-            "Name": "Deadeye",
-            "StarQualityPerGame": "15.38",
-            "TotalStarQuality": "46.13",
-            "AverageOpponents": "12.67",
-            "gamesPlayed": 3,
-            "AverageRank": "11.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 6,
-                    "totalPlayers": 13,
-                    "starsForGame": "28.17"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 11,
-                    "totalPlayers": 13,
-                    "starsForGame": "15.36"
-                },
-                {
-                    "gameName": "SM5 5 Teams ",
-                    "rank": 12,
-                    "totalPlayers": 12,
-                    "starsForGame": "12.00"
-                }
-            ]
-        },
-        {
             "JSID": 9,
-            "Name": "<!-- Blaze -->",
-            "StarQualityPerGame": "14.75",
-            "TotalStarQuality": "88.47",
+            "Name": "Ging'mes",
+            "StarQualityPerGame": "16.41",
+            "TotalStarQuality": "98.46",
             "AverageOpponents": "11.17",
             "gamesPlayed": 6,
-            "AverageRank": "9.00",
-            "ChangeInRank": "\u21934.67",
-            "ChangeInPlayers": "\u21914.00",
-            "ChangeInSQPerGame": "\u21910.72",
+            "AverageRank": "8.50",
+            "ChangeInRank": "\u21932.91",
+            "ChangeInPlayers": "\u21911.17",
+            "ChangeInSQPerGame": "\u21935.53",
             "breakdown": [
                 {
                     "gameName": "* Baseflags PushBack (15)",
-                    "rank": 5,
+                    "rank": 4,
                     "totalPlayers": 10,
-                    "starsForGame": "20.00"
+                    "starsForGame": "25.00"
                 },
                 {
                     "gameName": "* Baseflags PushBack (15)",
-                    "rank": 10,
+                    "rank": 4,
                     "totalPlayers": 10,
-                    "starsForGame": "10.00"
+                    "starsForGame": "25.00"
                 },
                 {
                     "gameName": "Space Marines 5",
-                    "rank": 7,
+                    "rank": 9,
                     "totalPlayers": 9,
-                    "starsForGame": "11.57"
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 7,
+                    "totalPlayers": 13,
+                    "starsForGame": "24.14"
                 },
                 {
                     "gameName": "BaseFlags",
@@ -713,30 +719,24 @@
                     "starsForGame": "14.08"
                 },
                 {
-                    "gameName": "BaseFlags",
-                    "rank": 8,
-                    "totalPlayers": 13,
-                    "starsForGame": "21.13"
-                },
-                {
                     "gameName": "SM5 5 Teams ",
-                    "rank": 11,
+                    "rank": 5,
                     "totalPlayers": 12,
-                    "starsForGame": "13.09"
+                    "starsForGame": "28.80"
                 }
             ]
         },
         {
             "JSID": 10,
             "Name": "BBTheory",
-            "StarQualityPerGame": "14.20",
-            "TotalStarQuality": "212.97",
+            "StarQualityPerGame": "15.25",
+            "TotalStarQuality": "228.82",
             "AverageOpponents": "6.80",
             "gamesPlayed": 15,
-            "AverageRank": "4.27",
-            "ChangeInRank": "\u21912.78",
+            "AverageRank": "3.80",
+            "ChangeInRank": "\u21913.01",
             "ChangeInPlayers": "\u21934.10",
-            "ChangeInSQPerGame": "\u219324.19",
+            "ChangeInSQPerGame": "\u219327.22",
             "breakdown": [
                 {
                     "gameName": "* Baseflags PushBack (15)",
@@ -832,134 +832,6 @@
         },
         {
             "JSID": 11,
-            "Name": "Road1to1Toast",
-            "StarQualityPerGame": "14.05",
-            "TotalStarQuality": "266.96",
-            "AverageOpponents": "7.21",
-            "gamesPlayed": 19,
-            "AverageRank": "4.21",
-            "ChangeInRank": "\u21911.51",
-            "ChangeInPlayers": "\u21932.79",
-            "ChangeInSQPerGame": "\u219312.89",
-            "breakdown": [
-                {
-                    "gameName": "Tag Test",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "Capture The Flag",
-                    "rank": 3,
-                    "totalPlayers": 6,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 5,
-                    "totalPlayers": 7,
-                    "starsForGame": "9.80"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 5,
-                    "totalPlayers": 6,
-                    "starsForGame": "7.20"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 6,
-                    "totalPlayers": 6,
-                    "starsForGame": "6.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 5,
-                    "totalPlayers": 6,
-                    "starsForGame": "7.20"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 4,
-                    "totalPlayers": 7,
-                    "starsForGame": "12.25"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 6,
-                    "starsForGame": "18.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 8,
-                    "totalPlayers": 10,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 8,
-                    "totalPlayers": 10,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 8,
-                    "totalPlayers": 9,
-                    "starsForGame": "10.13"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 13,
-                    "totalPlayers": 13,
-                    "starsForGame": "13.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 10,
-                    "totalPlayers": 13,
-                    "starsForGame": "16.90"
-                },
-                {
-                    "gameName": "SM5 5 Teams ",
-                    "rank": 8,
-                    "totalPlayers": 12,
-                    "starsForGame": "18.00"
-                },
-                {
-                    "gameName": "Shadows - Solo",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
-                }
-            ]
-        },
-        {
-            "JSID": 12,
             "Name": "Mummblecroak",
             "StarQualityPerGame": "12.00",
             "TotalStarQuality": "48.00",
@@ -997,7 +869,7 @@
             ]
         },
         {
-            "JSID": 13,
+            "JSID": 12,
             "Name": "Ed",
             "StarQualityPerGame": "12.00",
             "TotalStarQuality": "48.00",
@@ -1035,144 +907,16 @@
             ]
         },
         {
-            "JSID": 14,
-            "Name": "Psycho",
-            "StarQualityPerGame": "11.97",
-            "TotalStarQuality": "227.44",
-            "AverageOpponents": "5.05",
-            "gamesPlayed": 19,
-            "AverageRank": "2.95",
-            "ChangeInRank": "\u21912.24",
-            "ChangeInPlayers": "\u21934.57",
-            "ChangeInSQPerGame": "\u219314.90",
-            "breakdown": [
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Tag Test",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Capture The Flag",
-                    "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 7,
-                    "totalPlayers": 7,
-                    "starsForGame": "7.00"
-                },
-                {
-                    "gameName": "* Baseflags PushBack (15)",
-                    "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 1,
-                    "totalPlayers": 6,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 3,
-                    "totalPlayers": 6,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 2,
-                    "totalPlayers": 7,
-                    "starsForGame": "24.50"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "Capture The Flag",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Immortals - Solo",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                }
-            ]
-        },
-        {
-            "JSID": 15,
+            "JSID": 13,
             "Name": "Shadow_Wolf",
-            "StarQualityPerGame": "11.87",
-            "TotalStarQuality": "261.08",
+            "StarQualityPerGame": "11.93",
+            "TotalStarQuality": "262.40",
             "AverageOpponents": "6.09",
             "gamesPlayed": 22,
             "AverageRank": "4.32",
-            "ChangeInRank": "\u21912.18",
+            "ChangeInRank": "\u21912.06",
             "ChangeInPlayers": "\u21934.20",
-            "ChangeInSQPerGame": "\u21936.65",
+            "ChangeInSQPerGame": "\u21936.29",
             "breakdown": [
                 {
                     "gameName": "Capture The Flag",
@@ -1309,16 +1053,272 @@
             ]
         },
         {
+            "JSID": 14,
+            "Name": "Road1to1Toast",
+            "StarQualityPerGame": "11.85",
+            "TotalStarQuality": "225.07",
+            "AverageOpponents": "7.21",
+            "gamesPlayed": 19,
+            "AverageRank": "4.79",
+            "ChangeInRank": "\u21910.65",
+            "ChangeInPlayers": "\u21932.79",
+            "ChangeInSQPerGame": "\u219316.14",
+            "breakdown": [
+                {
+                    "gameName": "Tag Test",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Capture The Flag",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 5,
+                    "totalPlayers": 7,
+                    "starsForGame": "9.80"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 4,
+                    "totalPlayers": 7,
+                    "starsForGame": "12.25"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 8,
+                    "totalPlayers": 10,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 8,
+                    "totalPlayers": 10,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 8,
+                    "totalPlayers": 9,
+                    "starsForGame": "10.13"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 13,
+                    "totalPlayers": 13,
+                    "starsForGame": "13.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 10,
+                    "totalPlayers": 13,
+                    "starsForGame": "16.90"
+                },
+                {
+                    "gameName": "SM5 5 Teams ",
+                    "rank": 8,
+                    "totalPlayers": 12,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                }
+            ]
+        },
+        {
+            "JSID": 15,
+            "Name": "Psycho",
+            "StarQualityPerGame": "11.57",
+            "TotalStarQuality": "219.89",
+            "AverageOpponents": "5.05",
+            "gamesPlayed": 19,
+            "AverageRank": "2.95",
+            "ChangeInRank": "\u21912.01",
+            "ChangeInPlayers": "\u21934.57",
+            "ChangeInSQPerGame": "\u219316.60",
+            "breakdown": [
+                {
+                    "gameName": "# Sm5 Uka",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Escape",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Tag Test",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Capture The Flag",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 7,
+                    "totalPlayers": 7,
+                    "starsForGame": "7.00"
+                },
+                {
+                    "gameName": "* Baseflags PushBack (15)",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 2,
+                    "totalPlayers": 7,
+                    "starsForGame": "24.50"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "# Sm5 Uka",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Capture The Flag",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Immortals - Solo",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                }
+            ]
+        },
+        {
             "JSID": 16,
             "Name": "Raccooneggs",
-            "StarQualityPerGame": "6.08",
-            "TotalStarQuality": "97.24",
+            "StarQualityPerGame": "6.58",
+            "TotalStarQuality": "105.24",
             "AverageOpponents": "3.25",
             "gamesPlayed": 16,
-            "AverageRank": "2.06",
-            "ChangeInRank": "\u21914.29",
+            "AverageRank": "2.00",
+            "ChangeInRank": "\u21915.00",
             "ChangeInPlayers": "\u21937.22",
-            "ChangeInSQPerGame": "\u219312.49",
+            "ChangeInSQPerGame": "\u219310.40",
             "breakdown": [
                 {
                     "gameName": "Standard [3 Team] (15)",
@@ -1502,9 +1502,9 @@
             "AverageOpponents": "2.00",
             "gamesPlayed": 5,
             "AverageRank": "1.80",
-            "ChangeInRank": "\u21915.14",
+            "ChangeInRank": "\u21914.96",
             "ChangeInPlayers": "\u21937.82",
-            "ChangeInSQPerGame": "\u219313.65",
+            "ChangeInSQPerGame": "\u219315.82",
             "breakdown": [
                 {
                     "gameName": "- Standard [2 Team] (15)",

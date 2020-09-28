@@ -3,9 +3,9 @@
         "PlayerName": "C'tri",
         "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
         "SkillLevelName": "Lasermaster",
-        "MonthlyGamesPlayed": 8,
-        "AllGamesPlayed": 707,
-        "StarQuality": "6.00",
+        "MonthlyGamesPlayed": 12,
+        "AllGamesPlayed": 711,
+        "StarQuality": "4.33",
         "Achievements": 105,
         "GGName": "4 Team Supercharge",
         "GGRank": "1st",
@@ -30,7 +30,7 @@
         "GGVanq1": "Mindi",
         "GAName": "Goody Two Shoes",
         "GADesc": "Be a member for 2 years.",
-        "GAOthers": "5 others have"
+        "GAOthers": "6 others have"
     },
     "BronzePlayer": {
         "PlayerName": "Mindi",
@@ -49,6 +49,18 @@
         "GAOthers": "4 others have"
     },
     "OtherPlayer1": {
+        "PlayerName": "Rayth",
+        "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
+        "SkillLevelName": "Lasermaster",
+        "MonthlyGamesPlayed": 1,
+        "AllGamesPlayed": 343,
+        "StarQuality": "1.00",
+        "Achievements": 93,
+        "GAName": "Braaiinnzz!",
+        "GADesc": "Infect 10 Survivors with missiles in Zombies vs Survivors.",
+        "GAOthers": "No one else has"
+    },
+    "OtherPlayer2": {
         "PlayerName": "Achilles",
         "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
         "SkillLevelName": "Lasermaster",
@@ -63,18 +75,6 @@
         "GAName": "Ironman 2 - House Party",
         "GADesc": "Play 15 games in one day.",
         "GAOthers": "Only one other person has"
-    },
-    "OtherPlayer2": {
-        "PlayerName": "Rayth",
-        "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
-        "SkillLevelName": "Lasermaster",
-        "MonthlyGamesPlayed": 0,
-        "AllGamesPlayed": 342,
-        "StarQuality": "0.00",
-        "Achievements": 91,
-        "GAName": "Braaiinnzz!",
-        "GADesc": "Infect 10 Survivors with missiles in Zombies vs Survivors.",
-        "GAOthers": "No one else has"
     },
     "SiteNameShort": "Funstation Edinburgh"
 }
