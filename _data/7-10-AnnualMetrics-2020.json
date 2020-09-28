@@ -6,15 +6,19 @@
         },
         {
             "gameName": "Infection",
-            "timesPlayed": 51
+            "timesPlayed": 60
         },
         {
             "gameName": "Standard - Solo",
-            "timesPlayed": 45
+            "timesPlayed": 53
         },
         {
             "gameName": "Standard - Team",
-            "timesPlayed": 34
+            "timesPlayed": 42
+        },
+        {
+            "gameName": "Mayhem - Solo",
+            "timesPlayed": 18
         },
         {
             "gameName": "Gladiator - Team",
@@ -23,10 +27,6 @@
         {
             "gameName": "Space Marines 5",
             "timesPlayed": 15
-        },
-        {
-            "gameName": "Mayhem - Solo",
-            "timesPlayed": 14
         },
         {
             "gameName": "Gladiator Team",
@@ -42,7 +42,7 @@
         },
         {
             "gameName": "Mayhem - Team",
-            "timesPlayed": 8
+            "timesPlayed": 9
         },
         {
             "gameName": "Predator",
@@ -114,8 +114,8 @@
         "welcomers": 1
     },
     "playerCounts": {
-        "activePlayers": 88,
+        "activePlayers": 103,
         "newPlayers": 8,
-        "churnedPlayers": 72
+        "churnedPlayers": 87
     }
 }

@@ -5,7 +5,7 @@
         "SkillLevelName": "Lasermaster",
         "MonthlyGamesPlayed": 12,
         "AllGamesPlayed": 711,
-        "StarQuality": "4.33",
+        "StarQuality": "5.33",
         "Achievements": 105,
         "GGName": "4 Team Supercharge",
         "GGRank": "1st",
@@ -17,6 +17,22 @@
         "GAOthers": "No one else has"
     },
     "SilverPlayer": {
+        "PlayerName": "Bob",
+        "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
+        "SkillLevelName": "Starlord",
+        "MonthlyGamesPlayed": 3,
+        "AllGamesPlayed": 12,
+        "StarQuality": "4.00",
+        "Achievements": 27,
+        "GGName": "Team",
+        "GGRank": "1st",
+        "GGStars": "4 stars",
+        "GGVanq1": "Brooklyn",
+        "GAName": "Lasermaster",
+        "GADesc": "Achieve the rank of Level 6 - Lasermaster.",
+        "GAOthers": "79 others have"
+    },
+    "BronzePlayer": {
         "PlayerName": "Paradigm",
         "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
         "SkillLevelName": "Lasermaster",
@@ -31,22 +47,6 @@
         "GAName": "Goody Two Shoes",
         "GADesc": "Be a member for 2 years.",
         "GAOthers": "6 others have"
-    },
-    "BronzePlayer": {
-        "PlayerName": "Mindi",
-        "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
-        "SkillLevelName": "Lasermaster",
-        "MonthlyGamesPlayed": 4,
-        "AllGamesPlayed": 171,
-        "StarQuality": "3.75",
-        "Achievements": 66,
-        "GGName": "4 Team Supercharge",
-        "GGRank": "2nd",
-        "GGStars": "3 stars",
-        "GGVanq1": "Paradigm",
-        "GAName": "Deep In The Shadows",
-        "GADesc": "Play 10 games of Shadows.",
-        "GAOthers": "4 others have"
     },
     "OtherPlayer1": {
         "PlayerName": "Rayth",
