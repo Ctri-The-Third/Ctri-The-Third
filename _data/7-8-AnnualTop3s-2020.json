@@ -45,17 +45,17 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 9,
-                "averageStars": "48.20"
+                "averageStars": "49.31"
+            },
+            {
+                "playerName": "Silly Bunny",
+                "gamePlayed": 8,
+                "averageStars": "30.99"
             },
             {
                 "playerName": "Dwipple",
                 "gamePlayed": 5,
-                "averageStars": "26.83"
-            },
-            {
-                "playerName": "Monster",
-                "gamePlayed": 5,
-                "averageStars": "26.23"
+                "averageStars": "27.54"
             }
         ]
     },
@@ -70,7 +70,7 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 29,
-                "averageStars": "69.18"
+                "averageStars": "65.81"
             },
             {
                 "playerName": "I B Titch CBA",
@@ -85,17 +85,37 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 9,
-                "averageStars": "81.20"
-            },
-            {
-                "playerName": "Sn3aky",
-                "gamePlayed": 20,
-                "averageStars": "26.46"
+                "averageStars": "79.81"
             },
             {
                 "playerName": "Hamster",
                 "gamePlayed": 6,
-                "averageStars": "26.44"
+                "averageStars": "37.34"
+            },
+            {
+                "playerName": "Sn3aky",
+                "gamePlayed": 20,
+                "averageStars": "25.76"
+            }
+        ]
+    },
+    {
+        "month": "2020-10",
+        "players": [
+            {
+                "playerName": "Entity",
+                "gamePlayed": 5,
+                "averageStars": "29.67"
+            },
+            {
+                "playerName": "Psycho",
+                "gamePlayed": 7,
+                "averageStars": "23.43"
+            },
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 6,
+                "averageStars": "23.37"
             }
         ]
     }

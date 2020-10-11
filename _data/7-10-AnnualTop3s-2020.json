@@ -45,17 +45,17 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 15,
-                "averageStars": "64.25"
+                "averageStars": "63.03"
             },
             {
                 "playerName": "Sn3aky",
                 "gamePlayed": 13,
-                "averageStars": "47.15"
+                "averageStars": "47.92"
             },
             {
                 "playerName": "Unagi",
                 "gamePlayed": 13,
-                "averageStars": "34.11"
+                "averageStars": "34.18"
             }
         ]
     },
@@ -65,17 +65,17 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 5,
-                "averageStars": "107.93"
+                "averageStars": "100.88"
             },
             {
-                "playerName": "Unagi",
-                "gamePlayed": 4,
-                "averageStars": "106.73"
-            },
-            {
-                "playerName": "Archer",
+                "playerName": "<!-- Blaze -->",
                 "gamePlayed": 5,
-                "averageStars": "39.55"
+                "averageStars": "58.27"
+            },
+            {
+                "playerName": "BBTheory",
+                "gamePlayed": 5,
+                "averageStars": "55.68"
             }
         ]
     },
@@ -85,17 +85,17 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 33,
-                "averageStars": "90.87"
+                "averageStars": "96.94"
             },
             {
                 "playerName": "Mr Spanky",
                 "gamePlayed": 10,
-                "averageStars": "64.92"
+                "averageStars": "71.55"
             },
             {
-                "playerName": "Ging'mes",
-                "gamePlayed": 39,
-                "averageStars": "63.76"
+                "playerName": "Archer",
+                "gamePlayed": 30,
+                "averageStars": "62.16"
             }
         ]
     },
@@ -105,7 +105,7 @@
             {
                 "playerName": "-=Valroc=-",
                 "gamePlayed": 39,
-                "averageStars": "52.80"
+                "averageStars": "52.73"
             },
             {
                 "playerName": "Larma",
@@ -115,7 +115,27 @@
             {
                 "playerName": "Sn3aky",
                 "gamePlayed": 20,
-                "averageStars": "34.19"
+                "averageStars": "33.75"
+            }
+        ]
+    },
+    {
+        "month": "2020-10",
+        "players": [
+            {
+                "playerName": "-=Valroc=-",
+                "gamePlayed": 9,
+                "averageStars": "37.33"
+            },
+            {
+                "playerName": "Ging'mes",
+                "gamePlayed": 7,
+                "averageStars": "23.98"
+            },
+            {
+                "playerName": "Unagi",
+                "gamePlayed": 9,
+                "averageStars": "18.09"
             }
         ]
     }
