@@ -3,6 +3,114 @@
     "ScoreGreaterOrEqualDate": "2020-10-01",
     "ScoreLessDate": "2020-11-01",
     "Player": [
-        {}
+        {},
+        {
+            "Name": "Mr Spanky",
+            "AverageScore": 20464,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "UltimateWarrior",
+            "AverageScore": 16064,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Shrek Onion",
+            "AverageScore": 15702,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Laser X Monkey",
+            "AverageScore": 13864,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "S O S",
+            "AverageScore": 13514,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Takedown",
+            "AverageScore": 11977,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21914425.50"
+        },
+        {
+            "Name": "BlackKnight666",
+            "AverageScore": 11313,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Morrigan",
+            "AverageScore": 10994,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21934260.00"
+        },
+        {
+            "Name": "Xx-gamer-xX",
+            "AverageScore": 10291,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Ging'mes",
+            "AverageScore": 9414,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Szabo",
+            "AverageScore": 9314,
+            "MissionsPlayed": 6,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Crashers",
+            "AverageScore": 9024,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Scrappy Kitten",
+            "AverageScore": 7751,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21911150.00"
+        },
+        {
+            "Name": "Meg",
+            "AverageScore": 7288,
+            "MissionsPlayed": 5,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Smasher",
+            "AverageScore": 7223,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Cash",
+            "AverageScore": 5649,
+            "MissionsPlayed": 8,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Bigun",
+            "AverageScore": 5120,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Banana",
+            "AverageScore": 4900,
+            "MissionsPlayed": 10,
+            "ChangeInScore": null
+        }
     ]
 }

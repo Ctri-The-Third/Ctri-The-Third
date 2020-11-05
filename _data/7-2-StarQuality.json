@@ -3,6 +3,1802 @@
     "ScoreGreaterOrEqualDate": "2020-10",
     "ScoreLessDate": "2020-09",
     "Player": [
-        {}
+        {},
+        {
+            "JSID": 0,
+            "Name": "JSquadJohnCBA",
+            "StarQualityPerGame": "19.22",
+            "TotalStarQuality": "307.50",
+            "AverageOpponents": "5.44",
+            "gamesPlayed": 16,
+            "AverageRank": "2.31",
+            "ChangeInRank": "\u21911.69",
+            "ChangeInPlayers": "\u21933.13",
+            "ChangeInSQPerGame": "\u21933.69",
+            "breakdown": [
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                }
+            ]
+        },
+        {
+            "JSID": 1,
+            "Name": "Tiny Terror",
+            "StarQualityPerGame": "18.88",
+            "TotalStarQuality": "151.00",
+            "AverageOpponents": "5.88",
+            "gamesPlayed": 8,
+            "AverageRank": "2.75",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Evolution Multi-team",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                }
+            ]
+        },
+        {
+            "JSID": 2,
+            "Name": "Hewey",
+            "StarQualityPerGame": "14.94",
+            "TotalStarQuality": "224.13",
+            "AverageOpponents": "5.87",
+            "gamesPlayed": 15,
+            "AverageRank": "3.13",
+            "ChangeInRank": "\u21911.08",
+            "ChangeInPlayers": "\u21931.42",
+            "ChangeInSQPerGame": "\u21930.34",
+            "breakdown": [
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Evolution Multi-team",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Evolution Multi-team",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                }
+            ]
+        },
+        {
+            "JSID": 3,
+            "Name": "Wezza",
+            "StarQualityPerGame": "14.00",
+            "TotalStarQuality": "98.00",
+            "AverageOpponents": "5.86",
+            "gamesPlayed": 7,
+            "AverageRank": "3.43",
+            "ChangeInRank": "\u21910.04",
+            "ChangeInPlayers": "\u21931.14",
+            "ChangeInSQPerGame": "\u21936.61",
+            "breakdown": [
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Evolution Multi-team",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                }
+            ]
+        },
+        {
+            "JSID": 4,
+            "Name": "Sn3aky",
+            "StarQualityPerGame": "12.74",
+            "TotalStarQuality": "101.90",
+            "AverageOpponents": "5.88",
+            "gamesPlayed": 8,
+            "AverageRank": "3.63",
+            "ChangeInRank": "\u21911.44",
+            "ChangeInPlayers": "\u21931.33",
+            "ChangeInSQPerGame": "\u21910.04",
+            "breakdown": [
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Evolution Multi-team",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                }
+            ]
+        },
+        {
+            "JSID": 5,
+            "Name": "Smally McSmall",
+            "StarQualityPerGame": "12.39",
+            "TotalStarQuality": "185.90",
+            "AverageOpponents": "5.87",
+            "gamesPlayed": 15,
+            "AverageRank": "3.60",
+            "ChangeInRank": "\u21930.53",
+            "ChangeInPlayers": "\u21932.80",
+            "ChangeInSQPerGame": "\u219327.16",
+            "breakdown": [
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Evolution Multi-team",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Evolution Multi-team",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                }
+            ]
+        },
+        {
+            "JSID": 6,
+            "Name": "Poison Ivy",
+            "StarQualityPerGame": "10.53",
+            "TotalStarQuality": "157.90",
+            "AverageOpponents": "5.87",
+            "gamesPlayed": 15,
+            "AverageRank": "4.00",
+            "ChangeInRank": "\u21910.67",
+            "ChangeInPlayers": "\u21931.33",
+            "ChangeInSQPerGame": "\u21933.21",
+            "breakdown": [
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Evolution Multi-team",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Evolution Multi-team",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                }
+            ]
+        },
+        {
+            "JSID": 7,
+            "Name": "Ryan Kb",
+            "StarQualityPerGame": "9.00",
+            "TotalStarQuality": "27.00",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                }
+            ]
+        },
+        {
+            "JSID": 8,
+            "Name": "Eeeeeeeeeeeeeee",
+            "StarQualityPerGame": "9.00",
+            "TotalStarQuality": "27.00",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                }
+            ]
+        },
+        {
+            "JSID": 9,
+            "Name": "FireLord323",
+            "StarQualityPerGame": "9.00",
+            "TotalStarQuality": "27.00",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                }
+            ]
+        },
+        {
+            "JSID": 10,
+            "Name": "Lighting Hound",
+            "StarQualityPerGame": "9.00",
+            "TotalStarQuality": "27.00",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                }
+            ]
+        },
+        {
+            "JSID": 11,
+            "Name": "Sniper Pro",
+            "StarQualityPerGame": "7.50",
+            "TotalStarQuality": "22.50",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.33",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Manic",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                }
+            ]
+        },
+        {
+            "JSID": 12,
+            "Name": "Pure Chaos",
+            "StarQualityPerGame": "6.85",
+            "TotalStarQuality": "47.93",
+            "AverageOpponents": "5.86",
+            "gamesPlayed": 7,
+            "AverageRank": "5.14",
+            "ChangeInRank": "\u21912.98",
+            "ChangeInPlayers": "\u21932.64",
+            "ChangeInSQPerGame": "\u21932.12",
+            "breakdown": [
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Lord Of The Rings",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Laser Marines",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Evolution Multi-team",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                }
+            ]
+        },
+        {
+            "JSID": 13,
+            "Name": "Dad Vader",
+            "StarQualityPerGame": "5.00",
+            "TotalStarQuality": "15.00",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.33",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Manic",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                }
+            ]
+        },
+        {
+            "JSID": 14,
+            "Name": "Cr7",
+            "StarQualityPerGame": "4.50",
+            "TotalStarQuality": "13.50",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                }
+            ]
+        },
+        {
+            "JSID": 15,
+            "Name": "Doomanator",
+            "StarQualityPerGame": "4.50",
+            "TotalStarQuality": "13.50",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                }
+            ]
+        },
+        {
+            "JSID": 16,
+            "Name": "EpicCow",
+            "StarQualityPerGame": "4.00",
+            "TotalStarQuality": "12.00",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.33",
+            "ChangeInRank": "\u21930.67",
+            "ChangeInPlayers": "\u21930.00",
+            "ChangeInSQPerGame": "\u21932.00",
+            "breakdown": [
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                }
+            ]
+        },
+        {
+            "JSID": 17,
+            "Name": "Eagle One",
+            "StarQualityPerGame": "4.00",
+            "TotalStarQuality": "12.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 18,
+            "Name": "Ginger Ninja",
+            "StarQualityPerGame": "4.00",
+            "TotalStarQuality": "12.00",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.33",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Manic",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                }
+            ]
+        },
+        {
+            "JSID": 19,
+            "Name": "Fortnite123",
+            "StarQualityPerGame": "4.00",
+            "TotalStarQuality": "8.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 2,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 20,
+            "Name": "Sapphire",
+            "StarQualityPerGame": "3.50",
+            "TotalStarQuality": "10.50",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                }
+            ]
+        },
+        {
+            "JSID": 21,
+            "Name": "Flame",
+            "StarQualityPerGame": "3.33",
+            "TotalStarQuality": "10.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.33",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner Multi Tm",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 22,
+            "Name": "Mammal",
+            "StarQualityPerGame": "3.33",
+            "TotalStarQuality": "10.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.33",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 23,
+            "Name": "Exterminator",
+            "StarQualityPerGame": "3.00",
+            "TotalStarQuality": "9.00",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "3.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                }
+            ]
+        },
+        {
+            "JSID": 24,
+            "Name": "KitKat",
+            "StarQualityPerGame": "3.00",
+            "TotalStarQuality": "12.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 4,
+            "AverageRank": "1.50",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner Multi Tm",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 25,
+            "Name": "White Ghost",
+            "StarQualityPerGame": "3.00",
+            "TotalStarQuality": "9.00",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "3.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                }
+            ]
+        },
+        {
+            "JSID": 26,
+            "Name": "Niki",
+            "StarQualityPerGame": "3.00",
+            "TotalStarQuality": "9.00",
+            "AverageOpponents": "1.67",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner 2Tm",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 27,
+            "Name": "Combat Kennett",
+            "StarQualityPerGame": "3.00",
+            "TotalStarQuality": "12.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 4,
+            "AverageRank": "1.50",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner Multi Tm",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 28,
+            "Name": "Tyrant Lizard",
+            "StarQualityPerGame": "3.00",
+            "TotalStarQuality": "9.00",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 3,
+            "AverageRank": "3.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                }
+            ]
+        },
+        {
+            "JSID": 29,
+            "Name": "Spiritseer82",
+            "StarQualityPerGame": "2.67",
+            "TotalStarQuality": "8.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner Multi Tm",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 30,
+            "Name": "The Killer 118",
+            "StarQualityPerGame": "2.67",
+            "TotalStarQuality": "8.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 31,
+            "Name": "Black Jack",
+            "StarQualityPerGame": "2.00",
+            "TotalStarQuality": "6.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 32,
+            "Name": "Battle Boy",
+            "StarQualityPerGame": "2.00",
+            "TotalStarQuality": "4.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 2,
+            "AverageRank": "2.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner 2Tm",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 33,
+            "Name": "Unicorn123",
+            "StarQualityPerGame": "1.67",
+            "TotalStarQuality": "5.00",
+            "AverageOpponents": "1.67",
+            "gamesPlayed": 3,
+            "AverageRank": "1.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner 2Tm",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 34,
+            "Name": "Night Wolf",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "6.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 6,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 3 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 35,
+            "Name": "*spitfire*",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "S/Charge Gunner Ind",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 36,
+            "Name": "Laser Fa2",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 37,
+            "Name": "007",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Supercharge Gunner 2Tm",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 38,
+            "Name": "Laser Dillon",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 39,
+            "Name": "Darth Vader",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Manic",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 4 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 40,
+            "Name": "Pikachu",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 41,
+            "Name": "Agent 6",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": "\u21930.00",
+            "ChangeInPlayers": "\u21930.00",
+            "ChangeInSQPerGame": "\u21930.00",
+            "breakdown": [
+                {
+                    "gameName": "Standard 4 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 42,
+            "Name": "TheCoolestKid",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Standard Multi team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard 2 Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        }
     ]
 }
