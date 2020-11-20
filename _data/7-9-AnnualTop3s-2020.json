@@ -30,7 +30,7 @@
             {
                 "playerName": "Achilles",
                 "gamePlayed": 17,
-                "averageStars": "38.08"
+                "averageStars": "37.98"
             },
             {
                 "playerName": "C'tri",
@@ -108,14 +108,24 @@
                 "averageStars": "3.82"
             },
             {
-                "playerName": "Barney",
+                "playerName": "Archie",
                 "gamePlayed": 3,
                 "averageStars": "3.33"
             },
             {
-                "playerName": "Arran",
+                "playerName": "Barney",
                 "gamePlayed": 3,
                 "averageStars": "3.33"
+            }
+        ]
+    },
+    {
+        "month": "2020-11",
+        "players": [
+            {
+                "playerName": "Erin",
+                "gamePlayed": 6,
+                "averageStars": "1.00"
             }
         ]
     }

@@ -1,62 +1,14 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-11-01 and 2020-10-01",
-    "ScoreGreaterOrEqualDate": "2020-10-01",
-    "ScoreLessDate": "2020-11-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-12-01 and 2020-11-01",
+    "ScoreGreaterOrEqualDate": "2020-11-01",
+    "ScoreLessDate": "2020-12-01",
     "Player": [
         {},
         {
-            "Name": "Euan",
-            "AverageScore": 11705,
-            "MissionsPlayed": 1,
+            "Name": "Erin",
+            "AverageScore": 5265,
+            "MissionsPlayed": 6,
             "ChangeInScore": null
-        },
-        {
-            "Name": "Dantboytank",
-            "AverageScore": 10330,
-            "MissionsPlayed": 15,
-            "ChangeInScore": "\u2191451.80"
-        },
-        {
-            "Name": "Arran",
-            "AverageScore": 8205,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Michael",
-            "AverageScore": 6891,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Aaron",
-            "AverageScore": 6795,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Archie",
-            "AverageScore": 6297,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Count Spudula",
-            "AverageScore": 5817,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Princess",
-            "AverageScore": 5497,
-            "MissionsPlayed": 7,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Super Philip",
-            "AverageScore": 5053,
-            "MissionsPlayed": 18,
-            "ChangeInScore": "\u21911402.56"
         }
     ]
 }

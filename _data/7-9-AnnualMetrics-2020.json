@@ -2,7 +2,7 @@
     "gamesPlayed": [
         {
             "gameName": "4 Teams",
-            "timesPlayed": 341
+            "timesPlayed": 344
         },
         {
             "gameName": "Individual",
@@ -10,11 +10,11 @@
         },
         {
             "gameName": "Team",
-            "timesPlayed": 90
+            "timesPlayed": 91
         },
         {
             "gameName": "3 Teams",
-            "timesPlayed": 42
+            "timesPlayed": 44
         },
         {
             "gameName": "Colour Conquest",
@@ -22,7 +22,7 @@
         },
         {
             "gameName": "4 Team Supercharge",
-            "timesPlayed": 19
+            "timesPlayed": 20
         },
         {
             "gameName": "Individual Supercharge",
@@ -74,8 +74,8 @@
         "welcomers": 29
     },
     "playerCounts": {
-        "activePlayers": 222,
-        "newPlayers": 58,
+        "activePlayers": 224,
+        "newPlayers": 59,
         "churnedPlayers": 219
     }
 }
