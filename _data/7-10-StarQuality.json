@@ -7,14 +7,14 @@
         {
             "JSID": 0,
             "Name": "-=Valroc=-",
-            "StarQualityPerGame": "40.45",
-            "TotalStarQuality": "364.03",
+            "StarQualityPerGame": "41.84",
+            "TotalStarQuality": "376.53",
             "AverageOpponents": "8.00",
             "gamesPlayed": 9,
-            "AverageRank": "2.33",
-            "ChangeInRank": "\u21930.30",
+            "AverageRank": "2.22",
+            "ChangeInRank": "\u21930.22",
             "ChangeInPlayers": "\u21930.70",
-            "ChangeInSQPerGame": "\u21939.05",
+            "ChangeInSQPerGame": "\u21937.88",
             "breakdown": [
                 {
                     "gameName": "BaseFlags Assault",
@@ -149,14 +149,14 @@
         {
             "JSID": 2,
             "Name": "Sn3aky",
-            "StarQualityPerGame": "28.04",
-            "TotalStarQuality": "196.29",
+            "StarQualityPerGame": "27.59",
+            "TotalStarQuality": "193.11",
             "AverageOpponents": "8.43",
             "gamesPlayed": 7,
-            "AverageRank": "3.57",
-            "ChangeInRank": "\u21910.57",
+            "AverageRank": "3.86",
+            "ChangeInRank": "\u21910.21",
             "ChangeInPlayers": "\u21930.79",
-            "ChangeInSQPerGame": "\u219310.78",
+            "ChangeInSQPerGame": "\u219311.42",
             "breakdown": [
                 {
                     "gameName": "Gladiator - Team",
@@ -210,9 +210,9 @@
             "AverageOpponents": "9.17",
             "gamesPlayed": 6,
             "AverageRank": "4.00",
-            "ChangeInRank": "\u21910.24",
+            "ChangeInRank": "\u21910.28",
             "ChangeInPlayers": "\u21910.61",
-            "ChangeInSQPerGame": "\u21934.06",
+            "ChangeInSQPerGame": "\u21933.97",
             "breakdown": [
                 {
                     "gameName": "Base Flags",
@@ -254,79 +254,15 @@
         },
         {
             "JSID": 4,
-            "Name": "Entity",
-            "StarQualityPerGame": "25.00",
-            "TotalStarQuality": "25.00",
-            "AverageOpponents": "5.00",
-            "gamesPlayed": 1,
-            "AverageRank": "1.00",
-            "ChangeInRank": "\u21913.79",
-            "ChangeInPlayers": "\u21933.79",
-            "ChangeInSQPerGame": "\u21914.55",
-            "breakdown": [
-                {
-                    "gameName": "BaseFlags Assault",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                }
-            ]
-        },
-        {
-            "JSID": 5,
-            "Name": "[Insomniac]",
-            "StarQualityPerGame": "21.13",
-            "TotalStarQuality": "105.67",
-            "AverageOpponents": "9.40",
-            "gamesPlayed": 5,
-            "AverageRank": "5.00",
-            "ChangeInRank": "\u21930.70",
-            "ChangeInPlayers": "\u21930.30",
-            "ChangeInSQPerGame": "\u219316.96",
-            "breakdown": [
-                {
-                    "gameName": "Base Flags",
-                    "rank": 5,
-                    "totalPlayers": 8,
-                    "starsForGame": "12.80"
-                },
-                {
-                    "gameName": "Gladiator - Team",
-                    "rank": 5,
-                    "totalPlayers": 10,
-                    "starsForGame": "20.00"
-                },
-                {
-                    "gameName": "Space Marines 5",
-                    "rank": 2,
-                    "totalPlayers": 9,
-                    "starsForGame": "40.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 8,
-                    "totalPlayers": 10,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 6,
-                    "totalPlayers": 10,
-                    "starsForGame": "16.67"
-                }
-            ]
-        },
-        {
-            "JSID": 6,
             "Name": "Morrigan",
-            "StarQualityPerGame": "21.05",
-            "TotalStarQuality": "168.40",
+            "StarQualityPerGame": "21.45",
+            "TotalStarQuality": "171.58",
             "AverageOpponents": "8.38",
             "gamesPlayed": 8,
-            "AverageRank": "6.25",
-            "ChangeInRank": "\u21910.15",
+            "AverageRank": "6.00",
+            "ChangeInRank": "\u21910.46",
             "ChangeInPlayers": "\u21910.32",
-            "ChangeInSQPerGame": "\u21919.79",
+            "ChangeInSQPerGame": "\u219110.30",
             "breakdown": [
                 {
                     "gameName": "Base Flags",
@@ -379,16 +315,80 @@
             ]
         },
         {
+            "JSID": 5,
+            "Name": "[Insomniac]",
+            "StarQualityPerGame": "21.13",
+            "TotalStarQuality": "105.67",
+            "AverageOpponents": "9.40",
+            "gamesPlayed": 5,
+            "AverageRank": "5.00",
+            "ChangeInRank": "\u21930.65",
+            "ChangeInPlayers": "\u21930.30",
+            "ChangeInSQPerGame": "\u219316.62",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 5,
+                    "totalPlayers": 8,
+                    "starsForGame": "12.80"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 5,
+                    "totalPlayers": 10,
+                    "starsForGame": "20.00"
+                },
+                {
+                    "gameName": "Space Marines 5",
+                    "rank": 2,
+                    "totalPlayers": 9,
+                    "starsForGame": "40.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 8,
+                    "totalPlayers": 10,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 6,
+                    "totalPlayers": 10,
+                    "starsForGame": "16.67"
+                }
+            ]
+        },
+        {
+            "JSID": 6,
+            "Name": "Entity",
+            "StarQualityPerGame": "12.50",
+            "TotalStarQuality": "12.50",
+            "AverageOpponents": "5.00",
+            "gamesPlayed": 1,
+            "AverageRank": "2.00",
+            "ChangeInRank": "\u21912.86",
+            "ChangeInPlayers": "\u21933.79",
+            "ChangeInSQPerGame": "\u21937.61",
+            "breakdown": [
+                {
+                    "gameName": "BaseFlags Assault",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                }
+            ]
+        },
+        {
             "JSID": 7,
             "Name": "S O S",
-            "StarQualityPerGame": "12.16",
-            "TotalStarQuality": "109.46",
+            "StarQualityPerGame": "12.22",
+            "TotalStarQuality": "110.01",
             "AverageOpponents": "8.00",
             "gamesPlayed": 9,
             "AverageRank": "5.44",
             "ChangeInRank": "\u21930.56",
             "ChangeInPlayers": "\u21930.46",
-            "ChangeInSQPerGame": "\u21939.90",
+            "ChangeInSQPerGame": "\u21939.84",
             "breakdown": [
                 {
                     "gameName": "BaseFlags Assault",
@@ -449,14 +449,14 @@
         {
             "JSID": 8,
             "Name": "Mr Spanky",
-            "StarQualityPerGame": "11.81",
-            "TotalStarQuality": "106.29",
+            "StarQualityPerGame": "11.75",
+            "TotalStarQuality": "105.74",
             "AverageOpponents": "8.00",
             "gamesPlayed": 9,
             "AverageRank": "5.89",
             "ChangeInRank": "\u21930.62",
             "ChangeInPlayers": "\u21930.46",
-            "ChangeInSQPerGame": "\u21935.93",
+            "ChangeInSQPerGame": "\u21935.99",
             "breakdown": [
                 {
                     "gameName": "BaseFlags Assault",
@@ -522,9 +522,9 @@
             "AverageOpponents": "8.25",
             "gamesPlayed": 4,
             "AverageRank": "6.75",
-            "ChangeInRank": "\u21932.42",
+            "ChangeInRank": "\u21932.46",
             "ChangeInPlayers": "\u21910.04",
-            "ChangeInSQPerGame": "\u219310.42",
+            "ChangeInSQPerGame": "\u219310.49",
             "breakdown": [
                 {
                     "gameName": "S W A T",
@@ -560,9 +560,9 @@
             "AverageOpponents": "8.29",
             "gamesPlayed": 7,
             "AverageRank": "6.86",
-            "ChangeInRank": "\u21931.57",
+            "ChangeInRank": "\u21931.71",
             "ChangeInPlayers": "\u21930.36",
-            "ChangeInSQPerGame": "\u21935.57",
+            "ChangeInSQPerGame": "\u21936.09",
             "breakdown": [
                 {
                     "gameName": "S W A T",

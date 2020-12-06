@@ -1,5 +1,37 @@
 {
     "GoldenPlayer": {
+        "PlayerName": "Arran",
+        "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
+        "SkillLevelName": "Lasermaster",
+        "MonthlyGamesPlayed": 3,
+        "AllGamesPlayed": 127,
+        "StarQuality": "3.33",
+        "Achievements": 66,
+        "GGName": "Team",
+        "GGRank": "1st",
+        "GGStars": "4 stars",
+        "GGVanq1": "Euan",
+        "GAName": "Check Your Six",
+        "GADesc": "Play 6 months in a row.",
+        "GAOthers": "4 others have"
+    },
+    "SilverPlayer": {
+        "PlayerName": "Euan",
+        "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
+        "SkillLevelName": "Starlord",
+        "MonthlyGamesPlayed": 3,
+        "AllGamesPlayed": 24,
+        "StarQuality": "2.67",
+        "Achievements": 36,
+        "GGName": "Team",
+        "GGRank": "1st",
+        "GGStars": "4 stars",
+        "GGVanq1": "Arran",
+        "GAName": "Tic-Tac-Toe",
+        "GADesc": "Play 3 months in a row.",
+        "GAOthers": "30 others have"
+    },
+    "BronzePlayer": {
         "PlayerName": "Erin",
         "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
         "SkillLevelName": "Captain",
@@ -11,7 +43,7 @@
         "GADesc": "Top-score overall while on a losing team in a regular game.",
         "GAOthers": "175 others have"
     },
-    "SilverPlayer": {
+    "OtherPlayer1": {
         "PlayerName": "C'tri",
         "HomeArenaTrunc": "Funstation Ltd, Edinburgh, Scotland",
         "SkillLevelName": "Lasermaster",
