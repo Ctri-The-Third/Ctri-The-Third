@@ -1,25 +1,19 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-12-01 and 2020-11-01",
-    "ScoreGreaterOrEqualDate": "2020-11-01",
-    "ScoreLessDate": "2020-12-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-01-01 and 2020-12-01",
+    "ScoreGreaterOrEqualDate": "2020-12-01",
+    "ScoreLessDate": "2021-01-01",
     "Player": [
         {},
         {
-            "Name": "Arran",
-            "AverageScore": 7374,
+            "Name": "Pickle Rick",
+            "AverageScore": 8178,
             "MissionsPlayed": 3,
-            "ChangeInScore": "\u2193831.33"
+            "ChangeInScore": null
         },
         {
-            "Name": "Euan",
-            "AverageScore": 6302,
-            "MissionsPlayed": 3,
-            "ChangeInScore": "\u21935403.33"
-        },
-        {
-            "Name": "Erin",
-            "AverageScore": 5265,
-            "MissionsPlayed": 6,
+            "Name": "Drama Queen1",
+            "AverageScore": 2175,
+            "MissionsPlayed": 2,
             "ChangeInScore": null
         }
     ]

@@ -2,7 +2,7 @@
     "gamesPlayed": [
         {
             "gameName": "Standard Individual",
-            "timesPlayed": 213
+            "timesPlayed": 216
         },
         {
             "gameName": "Continous Ind",
@@ -10,7 +10,7 @@
         },
         {
             "gameName": "Standard 2 Team",
-            "timesPlayed": 134
+            "timesPlayed": 136
         },
         {
             "gameName": "Continous Challenge",
@@ -38,11 +38,11 @@
         },
         {
             "gameName": "S/Charge Gunner Ind",
-            "timesPlayed": 21
+            "timesPlayed": 22
         },
         {
             "gameName": "Manic",
-            "timesPlayed": 20
+            "timesPlayed": 21
         },
         {
             "gameName": "Borg",
@@ -50,18 +50,18 @@
         },
         {
             "gameName": "Standard Multi team",
-            "timesPlayed": 13
+            "timesPlayed": 14
         },
         {
             "gameName": "Gladiator Ind",
             "timesPlayed": 12
         },
         {
-            "gameName": "Revolver Ind",
-            "timesPlayed": 9
+            "gameName": "Standard 4 Team",
+            "timesPlayed": 10
         },
         {
-            "gameName": "Standard 4 Team",
+            "gameName": "Revolver Ind",
             "timesPlayed": 9
         },
         {
@@ -162,8 +162,8 @@
         "welcomers": 13
     },
     "playerCounts": {
-        "activePlayers": 473,
+        "activePlayers": 475,
         "newPlayers": 6,
-        "churnedPlayers": 450
+        "churnedPlayers": 447
     }
 }

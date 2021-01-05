@@ -1,20 +1,8 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-12-01 and 2020-11-01",
-    "ScoreGreaterOrEqualDate": "2020-11-01",
-    "ScoreLessDate": "2020-12-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-01-01 and 2020-12-01",
+    "ScoreGreaterOrEqualDate": "2020-12-01",
+    "ScoreLessDate": "2021-01-01",
     "Player": [
-        {},
-        {
-            "Name": "Cash",
-            "AverageScore": 7382,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21911733.25"
-        },
-        {
-            "Name": "Banana",
-            "AverageScore": 7062,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21912162.50"
-        }
+        {}
     ]
 }

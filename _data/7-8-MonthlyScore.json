@@ -1,74 +1,8 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2020-12-01 and 2020-11-01",
-    "ScoreGreaterOrEqualDate": "2020-11-01",
-    "ScoreLessDate": "2020-12-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-01-01 and 2020-12-01",
+    "ScoreGreaterOrEqualDate": "2020-12-01",
+    "ScoreLessDate": "2021-01-01",
     "Player": [
-        {},
-        {
-            "Name": "Blank",
-            "AverageScore": 19257,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21913560.50"
-        },
-        {
-            "Name": "Shadow_Wolf",
-            "AverageScore": 17806,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u2191491.75"
-        },
-        {
-            "Name": "Psycho",
-            "AverageScore": 17747,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u2191300.00"
-        },
-        {
-            "Name": "Sn3aky",
-            "AverageScore": 16957,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21935240.00"
-        },
-        {
-            "Name": "Morrigan",
-            "AverageScore": 16137,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Raccooneggs",
-            "AverageScore": 16067,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u2191597.75"
-        },
-        {
-            "Name": "Hamster",
-            "AverageScore": 16037,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21932243.00"
-        },
-        {
-            "Name": "Chomp",
-            "AverageScore": 15637,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21913175.50"
-        },
-        {
-            "Name": "Road1to1Toast",
-            "AverageScore": 13847,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u2191944.00"
-        },
-        {
-            "Name": "Blaze",
-            "AverageScore": 13847,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21911077.75"
-        },
-        {
-            "Name": "Dr Eggman",
-            "AverageScore": 11777,
-            "MissionsPlayed": 1,
-            "ChangeInScore": "\u21911450.50"
-        }
+        {}
     ]
 }

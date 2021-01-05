@@ -10,7 +10,7 @@
             {
                 "playerName": "Stealth Elf",
                 "gamePlayed": 8,
-                "averageStars": "64.94"
+                "averageStars": "63.60"
             },
             {
                 "playerName": "Halo 197",
@@ -90,7 +90,7 @@
             {
                 "playerName": "Smally McSmall",
                 "gamePlayed": 14,
-                "averageStars": "24.28"
+                "averageStars": "23.98"
             }
         ]
     },
@@ -100,7 +100,7 @@
             {
                 "playerName": "Smally McSmall",
                 "gamePlayed": 15,
-                "averageStars": "39.56"
+                "averageStars": "39.78"
             },
             {
                 "playerName": "Lazerino",
@@ -131,6 +131,26 @@
                 "playerName": "Hewey",
                 "gamePlayed": 15,
                 "averageStars": "14.94"
+            }
+        ]
+    },
+    {
+        "month": "2020-12",
+        "players": [
+            {
+                "playerName": "Fortnite123",
+                "gamePlayed": 3,
+                "averageStars": "4.00"
+            },
+            {
+                "playerName": "Spice",
+                "gamePlayed": 3,
+                "averageStars": "3.33"
+            },
+            {
+                "playerName": "Sonic",
+                "gamePlayed": 3,
+                "averageStars": "2.67"
             }
         ]
     }
