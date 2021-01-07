@@ -80,3 +80,6 @@ layout : LaserEmpty
 </div>
 <div class = "col-sm-2" style = ""></div>
 </div>
+
+<h2> Arena activity (members) 2019 - 2020 inclusive </h2>
+<iframe width="1991" height="1231" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRhSzF4aVf-lx9jhV6cENZnaKkPzupxUmxxZ1ran-OrBSxWJkmnaLTNWcoim6cgFBL4Ue4fg2MhEF3o/pubchart?oid=332821321&amp;format=interactive"></iframe>
