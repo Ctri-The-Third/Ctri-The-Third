@@ -59,6 +59,48 @@
             }
         ]
     },
+	{
+        "month": "2020-04",
+        "players": [
+            {
+                "playerName": ""
+            },
+            {
+                "playerName": ""
+            },
+            {
+                "playerName": ""
+            }
+        ]
+    },
+	{
+        "month": "2020-05",
+        "players": [
+            {
+                "playerName": ""
+            },
+            {
+                "playerName": ""
+            },
+            {
+                "playerName": ""
+            }
+        ]
+    },
+	{
+        "month": "2020-06",
+        "players": [
+            {
+                "playerName": ""
+            },
+            {
+                "playerName": ""
+            },
+            {
+                "playerName": ""
+            }
+        ]
+    },
     {
         "month": "2020-07",
         "players": [
@@ -156,6 +198,20 @@
                 "playerName": "Sn3aky",
                 "gamePlayed": 7,
                 "averageStars": "27.59"
+            }
+        ]
+    },
+	{
+        "month": "2020-12",
+        "players": [
+            {
+                "playerName": ""
+            },
+            {
+                "playerName": ""
+            },
+            {
+                "playerName": ""
             }
         ]
     }
