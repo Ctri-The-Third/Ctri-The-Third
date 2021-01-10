@@ -2,10 +2,10 @@
 layout : LaserSplash-nocolums
 permalink: /7-2/YearToDate
 URLPrefix: '/7-2'
-Description: 'Membership performance & gameplay stats for Funstation Edinburgh, 2020'
+Description: 'Membership performance & gameplay stats for LaserForce Peterborough, 2020'
 
 ---
-# Overview of regular members, for Funstation Edinburgh, 2020
+# Overview of regular members, for LaserForce Peterborough, 2020
 <div class = "container" style = "margin-top:15px;">
   <div class = "row">
     <div class = "col-md-6">

@@ -2,10 +2,10 @@
 layout : LaserSplash-nocolums
 permalink: /7-10/YearToDate
 URLPrefix: '/7-10'
-Description: 'Membership performance & gameplay stats for Funstation Edinburgh, 2020'
+Description: 'Membership performance & gameplay stats for LaserZone Bradford, 2020'
 
 ---
-# Overview of regular members, for Funstation Edinburgh, 2020
+# Overview of regular members, for LaserZone Bradford, 2020
 <div class = "container" style = "margin-top:15px;">
   <div class = "row">
     <div class = "col-md-6">
@@ -120,9 +120,7 @@ Description: 'Membership performance & gameplay stats for Funstation Edinburgh, 
         {% endfor %}
         </table>
     </div>
-    <div class = "col-md-6">
-        Biggest stars
-    </div>
+
 <script type="text/javascript">
 var data = [{
   values: [],

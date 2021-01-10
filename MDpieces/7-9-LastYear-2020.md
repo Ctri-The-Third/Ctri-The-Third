@@ -120,9 +120,7 @@ Description: 'Membership performance & gameplay stats for Funstation Edinburgh, 
         {% endfor %}
         </table>
     </div>
-    <div class = "col-md-6">
-        Biggest stars
-    </div>
+
 <script type="text/javascript">
 var data = [{
   values: [],

@@ -2,10 +2,10 @@
 layout : LaserSplash-nocolums
 permalink: /7-8/YearToDate
 URLPrefix: '/7-8'
-Description: 'Membership performance & gameplay stats for Funstation Edinburgh, 2020'
+Description: 'Membership performance & gameplay stats for LaserZone Huddersfield, 2020'
 
 ---
-# Overview of regular members, for Funstation Edinburgh, 2020
+# Overview of regular members, for LaserZone Huddersfield, 2020
 <div class = "container" style = "margin-top:15px;">
   <div class = "row">
     <div class = "col-md-6">
