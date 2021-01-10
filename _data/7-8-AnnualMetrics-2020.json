@@ -13,6 +13,10 @@
             "timesPlayed": 53
         },
         {
+            "gameName": "other",
+            "timesPlayed": 43
+        },
+        {
             "gameName": "Standard [3 Team] (15)",
             "timesPlayed": 41
         },
@@ -49,11 +53,11 @@
             "timesPlayed": 12
         },
         {
-            "gameName": "Highlander - Solo",
+            "gameName": "Escape",
             "timesPlayed": 11
         },
         {
-            "gameName": "Escape",
+            "gameName": "Highlander - Solo",
             "timesPlayed": 11
         },
         {
@@ -67,62 +71,6 @@
         {
             "gameName": "Borg",
             "timesPlayed": 6
-        },
-        {
-            "gameName": "Predator",
-            "timesPlayed": 5
-        },
-        {
-            "gameName": "Immortals",
-            "timesPlayed": 5
-        },
-        {
-            "gameName": "Huntsman",
-            "timesPlayed": 5
-        },
-        {
-            "gameName": "SM5 5 Teams ",
-            "timesPlayed": 4
-        },
-        {
-            "gameName": "Tag Test",
-            "timesPlayed": 4
-        },
-        {
-            "gameName": "Baseflags Pink/Green",
-            "timesPlayed": 3
-        },
-        {
-            "gameName": "S W A T",
-            "timesPlayed": 3
-        },
-        {
-            "gameName": "Domination",
-            "timesPlayed": 3
-        },
-        {
-            "gameName": "Capture The Flag",
-            "timesPlayed": 3
-        },
-        {
-            "gameName": "Standard [2 Team] (10)",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "Space Marines 5",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "Evolution 2 Tm",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "Standard [3 Team] (10)",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Wedlock",
-            "timesPlayed": 1
         }
     ],
     "referrals": {
@@ -133,5 +81,71 @@
         "activePlayers": 156,
         "newPlayers": 8,
         "churnedPlayers": 111
-    }
+    },
+    "regularsAggregateVisits": [
+        {
+            "caption": "1 visit",
+            "players": 59
+        },
+        {
+            "caption": "2 visits",
+            "players": 24
+        },
+        {
+            "caption": "3-4 visits",
+            "players": 22
+        },
+        {
+            "caption": "5-10 visits",
+            "players": 12
+        },
+        {
+            "caption": "11+ visits",
+            "players": 12
+        }
+    ],
+    "regularsAggregateGames": [
+        {
+            "caption": "1-2 games",
+            "players": 83
+        },
+        {
+            "caption": "3-6 games",
+            "players": 26
+        },
+        {
+            "caption": "7-12 games",
+            "players": 11
+        },
+        {
+            "caption": "13-35 games",
+            "players": 9
+        },
+        {
+            "caption": "36+ games",
+            "players": 0
+        }
+    ],
+    "regularsAggregateRetention": [
+        {
+            "caption": "0-4 weeks",
+            "players": 2
+        },
+        {
+            "caption": "5-12 weeks",
+            "players": 4
+        },
+        {
+            "caption": "13-52 weeks",
+            "players": 41
+        },
+        {
+            "caption": "1-2 years",
+            "players": 45
+        },
+        {
+            "caption": "3+ years",
+            "players": 21
+        }
+    ]
 }

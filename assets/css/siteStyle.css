@@ -100,7 +100,7 @@ h4
 a {
     color:rgb(255, 236, 128)
 }
-
+.blackShadow {text-shadow: 0px 0px 10px black;}
 
 
 .h2hContent h1 {
@@ -257,11 +257,28 @@ table.AnnualTop3s{
     background-color:darkgoldenrod;
     
 }
+
 table.AnnualTop3s td {text-align: center;}
+table.AnnualTop3s th {text-align: center;}
 table.AnnualTop3s td.golden {color:gold;}
 table.AnnualTop3s td.silver {color:silver;}
 table.AnnualTop3s td.bronze {color:rgb(180, 100, 40);}
 table.AnnualTop3s td.MonthHeader {color:gold; font-weight: bolder;}
+
+
+table.MicroAggregate{
+    border-radius:10px;
+    margin:0px; padding-left:10px;
+    font-size:8pt;
+    background-color:darkgoldenrod;
+    
+}
+
+table.MicroAggregate td {text-align: center;}
+table.MicroAggregate th {text-align: center;}
+table.MicroAggregate td.golden {color:gold;}
+table.MicroAggregate td.silver {color:silver;}
+table.MicroAggregate td.bronze {color:rgb(180, 100, 40);}
 
 div.GainLossIcon
 {
@@ -277,6 +294,11 @@ div.GainLossIcon
     text-align: center;
     padding-top:100px;
     color:black;
+}
+
+div.GainLossNoIcon
+{
+    padding-top:10px;
 }
 div.GainLossIcon .sup 
 {

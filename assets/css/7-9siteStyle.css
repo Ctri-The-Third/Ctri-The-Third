@@ -117,6 +117,18 @@ hr {
 table.AnnualTop3s { 
     border:2px solid limegreen;
 }
+
+table.MicroAggregate { 
+    border:2px solid limegreen;
+    padding:0px;
+    background-color: #141;
+    border-collapse: separate;
+}
+table.MicroAggregate tr:nth-child(odd){
+    background:#131; /**/
+}
+
+
 /* end of table page content */
 div.SmallBrightNumber {
     color:limegreen;

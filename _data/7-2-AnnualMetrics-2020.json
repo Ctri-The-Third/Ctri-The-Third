@@ -17,6 +17,10 @@
             "timesPlayed": 120
         },
         {
+            "gameName": "other",
+            "timesPlayed": 85
+        },
+        {
             "gameName": "Assault Tournament",
             "timesPlayed": 49
         },
@@ -59,102 +63,6 @@
         {
             "gameName": "Standard 4 Team",
             "timesPlayed": 10
-        },
-        {
-            "gameName": "Revolver Ind",
-            "timesPlayed": 9
-        },
-        {
-            "gameName": "Evolution Multi-team",
-            "timesPlayed": 9
-        },
-        {
-            "gameName": "Gladiator 2 Tm",
-            "timesPlayed": 8
-        },
-        {
-            "gameName": "Tm Std-15",
-            "timesPlayed": 7
-        },
-        {
-            "gameName": "Standard 3 Team",
-            "timesPlayed": 7
-        },
-        {
-            "gameName": "Supercharge Gunner Multi Tm",
-            "timesPlayed": 7
-        },
-        {
-            "gameName": "S.W.A.T",
-            "timesPlayed": 6
-        },
-        {
-            "gameName": "Shadows Ind",
-            "timesPlayed": 5
-        },
-        {
-            "gameName": "Manic 2 team",
-            "timesPlayed": 4
-        },
-        {
-            "gameName": "Gladiator Multi team",
-            "timesPlayed": 3
-        },
-        {
-            "gameName": "Highlander",
-            "timesPlayed": 3
-        },
-        {
-            "gameName": "Pit Fight",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "CTF 6T",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "DM 3 Ind",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "Revolver 2T",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "Minions",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Wedlock",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "CTF 4 Tm",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Thiefs Guild",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Manic 6Tm",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Titans",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Evolution 2 Tm",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Dead Aim Ind",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Hard Target Ind",
-            "timesPlayed": 1
         }
     ],
     "referrals": {
@@ -165,5 +73,71 @@
         "activePlayers": 475,
         "newPlayers": 6,
         "churnedPlayers": 447
-    }
+    },
+    "regularsAggregateVisits": [
+        {
+            "caption": "1 visit",
+            "players": 379
+        },
+        {
+            "caption": "2 visits",
+            "players": 47
+        },
+        {
+            "caption": "3-4 visits",
+            "players": 16
+        },
+        {
+            "caption": "5-10 visits",
+            "players": 10
+        },
+        {
+            "caption": "11+ visits",
+            "players": 0
+        }
+    ],
+    "regularsAggregateGames": [
+        {
+            "caption": "1-2 games",
+            "players": 426
+        },
+        {
+            "caption": "3-6 games",
+            "players": 19
+        },
+        {
+            "caption": "7-12 games",
+            "players": 7
+        },
+        {
+            "caption": "13-35 games",
+            "players": 0
+        },
+        {
+            "caption": "36+ games",
+            "players": 0
+        }
+    ],
+    "regularsAggregateRetention": [
+        {
+            "caption": "0-4 weeks",
+            "players": 5
+        },
+        {
+            "caption": "5-12 weeks",
+            "players": 6
+        },
+        {
+            "caption": "13-52 weeks",
+            "players": 44
+        },
+        {
+            "caption": "1-2 years",
+            "players": 106
+        },
+        {
+            "caption": "3+ years",
+            "players": 88
+        }
+    ]
 }

@@ -21,6 +21,10 @@
             "timesPlayed": 30
         },
         {
+            "gameName": "other",
+            "timesPlayed": 27
+        },
+        {
             "gameName": "Space Marines 5",
             "timesPlayed": 25
         },
@@ -59,62 +63,6 @@
         {
             "gameName": "Zombies vs Survivors",
             "timesPlayed": 6
-        },
-        {
-            "gameName": "Capture The Flag ",
-            "timesPlayed": 4
-        },
-        {
-            "gameName": "Huntsman",
-            "timesPlayed": 4
-        },
-        {
-            "gameName": "Shadows",
-            "timesPlayed": 4
-        },
-        {
-            "gameName": "BaseFlags Assault",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "Team Deathmatch",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "Fugitive",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "Zzz Delete",
-            "timesPlayed": 2
-        },
-        {
-            "gameName": "Predator vs Borg",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Gladiator Solo",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Gem Hunter",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Immortals",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Gladiator - Solo",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Escalation",
-            "timesPlayed": 1
-        },
-        {
-            "gameName": "Wedlock",
-            "timesPlayed": 1
         }
     ],
     "referrals": {
@@ -125,5 +73,71 @@
         "activePlayers": 111,
         "newPlayers": 13,
         "churnedPlayers": 82
-    }
+    },
+    "regularsAggregateVisits": [
+        {
+            "caption": "1 visit",
+            "players": 39
+        },
+        {
+            "caption": "2 visits",
+            "players": 13
+        },
+        {
+            "caption": "3-4 visits",
+            "players": 10
+        },
+        {
+            "caption": "5-10 visits",
+            "players": 21
+        },
+        {
+            "caption": "11+ visits",
+            "players": 12
+        }
+    ],
+    "regularsAggregateGames": [
+        {
+            "caption": "1-2 games",
+            "players": 52
+        },
+        {
+            "caption": "3-6 games",
+            "players": 20
+        },
+        {
+            "caption": "7-12 games",
+            "players": 12
+        },
+        {
+            "caption": "13-35 games",
+            "players": 11
+        },
+        {
+            "caption": "36+ games",
+            "players": 0
+        }
+    ],
+    "regularsAggregateRetention": [
+        {
+            "caption": "0-4 weeks",
+            "players": 9
+        },
+        {
+            "caption": "5-12 weeks",
+            "players": 4
+        },
+        {
+            "caption": "13-52 weeks",
+            "players": 23
+        },
+        {
+            "caption": "1-2 years",
+            "players": 50
+        },
+        {
+            "caption": "3+ years",
+            "players": 9
+        }
+    ]
 }
