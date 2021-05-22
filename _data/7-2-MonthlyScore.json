@@ -1,36 +1,12 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-01-01 and 2020-12-01",
-    "ScoreGreaterOrEqualDate": "2020-12-01",
-    "ScoreLessDate": "2021-01-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-06-01 and 2021-05-01",
+    "ScoreGreaterOrEqualDate": "2021-05-01",
+    "ScoreLessDate": "2021-06-01",
     "Player": [
         {},
         {
-            "Name": "Fortnite123",
-            "AverageScore": 11993,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "MR McSHOOTY",
-            "AverageScore": 8731,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Unicorn123",
-            "AverageScore": 8101,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Spice",
-            "AverageScore": 3959,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Sonic",
-            "AverageScore": 3768,
+            "Name": "Interceptor",
+            "AverageScore": 5772,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         }

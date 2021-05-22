@@ -1,8 +1,62 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-01-01 and 2020-12-01",
-    "ScoreGreaterOrEqualDate": "2020-12-01",
-    "ScoreLessDate": "2021-01-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-06-01 and 2021-05-01",
+    "ScoreGreaterOrEqualDate": "2021-05-01",
+    "ScoreLessDate": "2021-06-01",
     "Player": [
-        {}
+        {},
+        {
+            "Name": "Sn3aky",
+            "AverageScore": 28887,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Chomp",
+            "AverageScore": 17467,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Shadow_Wolf",
+            "AverageScore": 16837,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "<!-- Blaze -->",
+            "AverageScore": 16547,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Agent Jaikei",
+            "AverageScore": 14367,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Morrigan",
+            "AverageScore": 13647,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Blaze",
+            "AverageScore": 13617,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Emo Wolf ",
+            "AverageScore": 13327,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Blank",
+            "AverageScore": 10987,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        }
     ]
 }

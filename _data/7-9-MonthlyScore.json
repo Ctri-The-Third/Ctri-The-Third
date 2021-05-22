@@ -1,18 +1,54 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-01-01 and 2020-12-01",
-    "ScoreGreaterOrEqualDate": "2020-12-01",
-    "ScoreLessDate": "2021-01-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-06-01 and 2021-05-01",
+    "ScoreGreaterOrEqualDate": "2021-05-01",
+    "ScoreLessDate": "2021-06-01",
     "Player": [
         {},
         {
-            "Name": "Pickle Rick",
-            "AverageScore": 8178,
+            "Name": "C'tri",
+            "AverageScore": 13485,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Achilles",
+            "AverageScore": 11245,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Dantboytank",
+            "AverageScore": 10315,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "T D",
+            "AverageScore": 7839,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Julia",
+            "AverageScore": 6957,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Drama Queen1",
-            "AverageScore": 2175,
+            "Name": "Terminator",
+            "AverageScore": 5333,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Paradigm",
+            "AverageScore": 5070,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Super Philip",
+            "AverageScore": 4014,
             "MissionsPlayed": 2,
             "ChangeInScore": null
         }
