@@ -1,10 +1,11 @@
 ---
 layout : LaserSplash-nocolums
-permalink: /7-2/YearToDate  
+permalink: /7-2/YearToDate
 URLPrefix: '/7-2'
 Description: 'Membership performance & gameplay stats for LaserForce Peterborough, 2020'
+
 ---
-# Overview of regular members, for Laserforce Peterborough, 2020
+# Overview of regular members, for LaserForce Peterborough, 2020
 <div class = "container" style = "margin-top:15px;">
   <div class = "row">
     <div class = "col-md-6">
@@ -44,25 +45,84 @@ Description: 'Membership performance & gameplay stats for LaserForce Peterboroug
         </div>
         <div class = "fluid-container" style = "padding-left:15px;padding-right:15px; margin-top:15px;">
             <div class = "row" >
-                <div class = "col-sm-4 GainLossIcon " style = "background-image:url('/assets/images/log-in.svg'); border-radius:30px 15px 15px 15px; " > 
+                <div class = "col-sm-4 GainLossIcon " style = "background-image:url('/assets/images/log-in.svg'); border-radius:30px 15px 5px 15px; " > 
                     New Regular Players <br/>
                     <div class="sup">any L4+ players, or 15+ games played</div>
                     <b>{{site.data.7-2-AnnualMetrics-2020.playerCounts.newPlayers}}</b>
                 </div>
-                <div class = "col-sm-4 GainLossIcon" style = "background-image:url('/assets/images/team.svg'); border-radius:15px 15px 30px 15px; " > 
+                <div class = "col-sm-4 GainLossIcon" style = "background-image:url('/assets/images/team.svg'); border-radius:15px 15px 5px 5px; " > 
                     Active Regular Players<br/>
                     <div class="sup">includes new and players who went dormant</div>
                     <b>{{site.data.7-2-AnnualMetrics-2020.playerCounts.activePlayers}}</b>
                 </div>
-                <div class = "col-sm-4 GainLossIcon" style = "background-image:url('/assets/images/logout.svg'); border-radius: 15px; " > 
+                <div class = "col-sm-4 GainLossIcon" style = "background-image:url('/assets/images/logout.svg'); border-radius: 15px 30px 15px 5px " > 
                     Regs Going Dormant<br/>
                     <div class="sup">not playing in the last 60 days of the year</div>
                     <b>{{site.data.7-2-AnnualMetrics-2020.playerCounts.churnedPlayers}}</b>
                 </div>
             </div>
+            <div class = "row">
+                <div class = "col-sm-4 GainLossIcon GainLossNoIcon" style= "padding-top:30px; border-radius: 15px 5px 15px 30px"  > Average games played:
+                <br/>
+                <table class = MicroAggregate><tr><th>games</th><th>Regulars</th></tr>
+                    {% for entry in site.data.7-2-AnnualMetrics-2020.regularsAggregateGames %} 
+                    <tr><td>{{entry.caption}} </td><td>{{entry.players}}</td></tr>
+                    {% endfor %}
+                </table>
+                </div>
+                <div class = "col-sm-4 GainLossIcon GainLossNoIcon" style= "padding-top:30px; border-radius: 5px 5px 15px 15px"  > Average times visited:
+                <br/>
+                <table class = MicroAggregate><tr><th>visits</th><th>Regulars</th></tr>
+                    {% for entry in site.data.7-2-AnnualMetrics-2020.regularsAggregateVisits %} 
+                    <tr><td>{{entry.caption}} </td><td>{{entry.players}}</td></tr>
+                    {% endfor %}
+                </table>
+                </div><div class = "col-sm-4 GainLossIcon GainLossNoIcon" style= "padding-top:11px; border-radius: 5px 15px 30px 15px"  > Number of weeks a member:
+                <br/>
+                <table class = MicroAggregate><tr><th>duration</th><th>Regulars</th></tr>
+                    {% for entry in site.data.7-2-AnnualMetrics-2020.regularsAggregateRetention %} 
+                    <tr><td>{{entry.caption}} </td><td>{{entry.players}}</td></tr>
+                    {% endfor %}
+                </table>
+                </div>
+            </div>
         </div>
     </div>
-
+    </div>
+  <div class = "row">
+    <div class = "col-md-6">
+        <h3 class = blackShadow> Brightest Stars of the year!</h3> 
+        <div class = blackShadow> On average, who gained the most stars per game?</div>
+        <table class="ScoreTable" style = "margin-left:0px;" >
+        <tr><th style = "padding-left:5px;">Name</th><th><b>Avg. Stars per game</b> </th><th> Avg no. players </th><th> Average rank</th><th> games played </th> </tr>
+        {% for Player in site.data.7-2-AnnualStars-2020.brightestStars %}
+        <tr><td>{{Player.gamertag}}</td>
+        <td class = "number"> <b>{{Player.averageStars}}</b> </td>
+        <td class = "number"> {{Player.averageOpponents}} </td>
+        <td class = "number"> {{Player.averageRank}} </td>
+        <td class = "number"> {{Player.gamesPlayed}} </td>
+        </tr>
+        {% endfor %}
+        </table>
+    </div>
+    <div class = "col-md-6">
+        <h3 class = blackShadow> Biggest Stars of the year!</h3> 
+        <div class = blackShadow> In total, who gained the most stars?</div>
+        <table class="ScoreTable" style = "margin-left:0px;" >
+        <tr><th style = "padding-left:5px;">Name</th><th><b>Total Stars earned</b> </th><th> Avg no. players </th><th> Average rank</th><th> games played </th> </tr>
+        {% for Player in site.data.7-2-AnnualStars-2020.biggestStars %}
+        <tr><td>{{Player.gamertag}}</td>
+        <td class = "number"> <b>{{Player.averageStars}}</b> </td>
+        <td class = "number"> {{Player.averageOpponents}} </td>
+        <td class = "number"> {{Player.averageRank}} </td>
+        <td class = "number"> {{Player.gamesPlayed}} </td>
+        </tr>
+        {% endfor %}
+        </table>
+    </div>
+    <div class = "col-md-6">
+        Biggest stars
+    </div>
 <script type="text/javascript">
 var data = [{
   values: [],
@@ -83,7 +143,7 @@ var layout = {
     font: {
         family: 'Courier New, monospace',
         size: 12,
-        color: 'royalblue'
+        color: 'limegreen'
     },
     autosize: true,
     margin: {
