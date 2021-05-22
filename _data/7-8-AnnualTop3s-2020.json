@@ -59,62 +59,6 @@
             }
         ]
     },
-	{
-        "month": "2020-04",
-        "players": [
-            {
-                "playerName": ""
-            },
-            {
-                "playerName": ""
-            },
-            {
-                "playerName": ""
-            }
-        ]
-    },
-	{
-        "month": "2020-05",
-        "players": [
-            {
-                "playerName": ""
-            },
-            {
-                "playerName": ""
-            },
-            {
-                "playerName": ""
-            }
-        ]
-    },
-	{
-        "month": "2020-06",
-        "players": [
-            {
-                "playerName": ""
-            },
-            {
-                "playerName": ""
-            },
-            {
-                "playerName": ""
-            }
-        ]
-    },
-	{
-        "month": "2020-07",
-        "players": [
-            {
-                "playerName": ""
-            },
-            {
-                "playerName": ""
-            },
-            {
-                "playerName": ""
-            }
-        ]
-    },
     {
         "month": "2020-08",
         "players": [
@@ -192,20 +136,6 @@
                 "playerName": "Unagi",
                 "gamePlayed": 8,
                 "averageStars": "62.08"
-            }
-        ]
-    },
-	{
-        "month": "2020-012",
-        "players": [
-            {
-                "playerName": ""
-            },
-            {
-                "playerName": ""
-            },
-            {
-                "playerName": ""
             }
         ]
     }

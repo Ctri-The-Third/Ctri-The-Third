@@ -17,10 +17,6 @@
             "timesPlayed": 44
         },
         {
-            "gameName": "other",
-            "timesPlayed": 25
-        },
-        {
             "gameName": "Colour Conquest",
             "timesPlayed": 23
         },
@@ -39,6 +35,38 @@
         {
             "gameName": "Colour Ranked",
             "timesPlayed": 10
+        },
+        {
+            "gameName": "Fugitive",
+            "timesPlayed": 6
+        },
+        {
+            "gameName": "Shadows (Individual)",
+            "timesPlayed": 6
+        },
+        {
+            "gameName": "Z (Stun-Stun-Deac)",
+            "timesPlayed": 3
+        },
+        {
+            "gameName": "Dead Aim (Individual)",
+            "timesPlayed": 3
+        },
+        {
+            "gameName": "Tag",
+            "timesPlayed": 3
+        },
+        {
+            "gameName": "Highlander",
+            "timesPlayed": 2
+        },
+        {
+            "gameName": "Gladiator (Individual)",
+            "timesPlayed": 1
+        },
+        {
+            "gameName": "Masters",
+            "timesPlayed": 1
         }
     ],
     "referrals": {
@@ -49,71 +77,5 @@
         "activePlayers": 226,
         "newPlayers": 59,
         "churnedPlayers": 217
-    },
-    "regularsAggregateVisits": [
-        {
-            "caption": "1 visit",
-            "players": 112
-        },
-        {
-            "caption": "2 visits",
-            "players": 62
-        },
-        {
-            "caption": "3-4 visits",
-            "players": 36
-        },
-        {
-            "caption": "5-10 visits",
-            "players": 10
-        },
-        {
-            "caption": "11+ visits",
-            "players": 3
-        }
-    ],
-    "regularsAggregateGames": [
-        {
-            "caption": "1-2 games",
-            "players": 174
-        },
-        {
-            "caption": "3-6 games",
-            "players": 43
-        },
-        {
-            "caption": "7-12 games",
-            "players": 4
-        },
-        {
-            "caption": "13-35 games",
-            "players": 2
-        },
-        {
-            "caption": "36+ games",
-            "players": 0
-        }
-    ],
-    "regularsAggregateRetention": [
-        {
-            "caption": "0-4 weeks",
-            "players": 46
-        },
-        {
-            "caption": "5-12 weeks",
-            "players": 37
-        },
-        {
-            "caption": "13-52 weeks",
-            "players": 75
-        },
-        {
-            "caption": "1-2 years",
-            "players": 61
-        },
-        {
-            "caption": "3+ years",
-            "players": 4
-        }
-    ]
+    }
 }
