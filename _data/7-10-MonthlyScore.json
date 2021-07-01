@@ -1,19 +1,97 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-06-01 and 2021-05-01",
-    "ScoreGreaterOrEqualDate": "2021-05-01",
-    "ScoreLessDate": "2021-06-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-07-01 and 2021-06-01",
+    "ScoreGreaterOrEqualDate": "2021-06-01",
+    "ScoreLessDate": "2021-07-01",
     "Player": [
         {},
         {
+            "Name": "Archer",
+            "AverageScore": 19554,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "<!-- Blaze -->",
+            "AverageScore": 19224,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Sn3aky",
+            "AverageScore": 17884,
+            "MissionsPlayed": 4,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "-=Valroc=-",
+            "AverageScore": 17019,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Alky",
+            "AverageScore": 12454,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Natsudragneel",
-            "AverageScore": 20794,
+            "AverageScore": 11719,
+            "MissionsPlayed": 6,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Phoenix Warrior",
+            "AverageScore": 11429,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Raging Bull",
+            "AverageScore": 11183,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Meg",
-            "AverageScore": 9084,
+            "Name": "Theblazemaze",
+            "AverageScore": 10804,
+            "MissionsPlayed": 5,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Morrigan",
+            "AverageScore": 10145,
+            "MissionsPlayed": 5,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "SilentDestroyer",
+            "AverageScore": 9871,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "HeroBrother",
+            "AverageScore": 7079,
+            "MissionsPlayed": 4,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Atomic Reaper",
+            "AverageScore": 6238,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Nightshade",
+            "AverageScore": 6063,
             "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Corey",
+            "AverageScore": 1781,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         }
     ]

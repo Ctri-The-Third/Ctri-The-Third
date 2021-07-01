@@ -1,79 +1,91 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-06-01 and 2021-05-01",
-    "ScoreGreaterOrEqualDate": "2021-05-01",
-    "ScoreLessDate": "2021-06-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-07-01 and 2021-06-01",
+    "ScoreGreaterOrEqualDate": "2021-06-01",
+    "ScoreLessDate": "2021-07-01",
     "Player": [
         {},
         {
-            "Name": "C'tri",
-            "AverageScore": 13485,
-            "MissionsPlayed": 2,
+            "Name": "Obliterator",
+            "AverageScore": 14415,
+            "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
-            "Name": "Achilles",
-            "AverageScore": 11245,
-            "MissionsPlayed": 2,
+            "Name": "Dantboytank",
+            "AverageScore": 11682,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Ninja",
-            "AverageScore": 10055,
+            "Name": "KillerPug08",
+            "AverageScore": 11054,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
             "Name": "Jj",
-            "AverageScore": 9614,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Dantboytank",
-            "AverageScore": 9614,
-            "MissionsPlayed": 5,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "T D",
-            "AverageScore": 7839,
+            "AverageScore": 9020,
             "MissionsPlayed": 2,
             "ChangeInScore": null
         },
         {
-            "Name": "Mr Penguin",
-            "AverageScore": 7588,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Julia",
-            "AverageScore": 6957,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Peppaaaah",
-            "AverageScore": 5506,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Terminator",
-            "AverageScore": 5333,
+            "Name": "Ninja",
+            "AverageScore": 8665,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
-            "Name": "Paradigm",
-            "AverageScore": 5070,
+            "Name": "Fancy Pants",
+            "AverageScore": 7840,
             "MissionsPlayed": 2,
             "ChangeInScore": null
         },
         {
+            "Name": "Robo_h34d",
+            "AverageScore": 7750,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Joe",
+            "AverageScore": 7274,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Gus",
+            "AverageScore": 7218,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Psychodeku",
+            "AverageScore": 7183,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "isla Dragon",
+            "AverageScore": 6881,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Laser Destroyer",
+            "AverageScore": 6311,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Paton",
+            "AverageScore": 6085,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
             "Name": "Super Philip",
-            "AverageScore": 4558,
-            "MissionsPlayed": 5,
+            "AverageScore": 4684,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         }
     ]
