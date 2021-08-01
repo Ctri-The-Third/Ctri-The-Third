@@ -1,32 +1,252 @@
 {
-    "ScoreTitle": "Star Quality for all known players, between 2020-05 and 2021-06",
-    "ScoreGreaterOrEqualDate": "2021-06",
+    "ScoreTitle": "Star Quality for all known players, between 2020-05 and 2021-07",
+    "ScoreGreaterOrEqualDate": "2021-07",
     "ScoreLessDate": "2020-05",
     "Player": [
         {},
         {
             "JSID": 0,
-            "Name": "Dantboytank",
-            "StarQualityPerGame": "4.00",
-            "TotalStarQuality": "16.00",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 4,
-            "AverageRank": "1.00",
+            "Name": "T D",
+            "StarQualityPerGame": "7.20",
+            "TotalStarQuality": "35.99",
+            "AverageOpponents": "3.60",
+            "gamesPlayed": 5,
+            "AverageRank": "2.20",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "Individual Supercharge",
+                    "gameName": "Masters",
                     "rank": 1,
                     "totalPlayers": 2,
                     "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "4 Teams",
+                    "gameName": "Z (Stun-Stun-Deac)",
                     "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                }
+            ]
+        },
+        {
+            "JSID": 1,
+            "Name": "Goku",
+            "StarQualityPerGame": "6.89",
+            "TotalStarQuality": "62.00",
+            "AverageOpponents": "3.11",
+            "gamesPlayed": 9,
+            "AverageRank": "2.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Masters",
+                    "rank": 2,
                     "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 4,
+                    "totalPlayers": 4,
                     "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Dead Aim (Individual)",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "4 Team Supercharge",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 2,
+            "Name": "Kai",
+            "StarQualityPerGame": "6.60",
+            "TotalStarQuality": "33.00",
+            "AverageOpponents": "3.40",
+            "gamesPlayed": 5,
+            "AverageRank": "2.40",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Masters",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                }
+            ]
+        },
+        {
+            "JSID": 3,
+            "Name": "Minnie",
+            "StarQualityPerGame": "6.33",
+            "TotalStarQuality": "25.33",
+            "AverageOpponents": "4.00",
+            "gamesPlayed": 4,
+            "AverageRank": "2.75",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                }
+            ]
+        },
+        {
+            "JSID": 4,
+            "Name": "HotShot",
+            "StarQualityPerGame": "6.00",
+            "TotalStarQuality": "12.00",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 2,
+            "AverageRank": "2.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Dead Aim (Individual)",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                }
+            ]
+        },
+        {
+            "JSID": 5,
+            "Name": "C'tri",
+            "StarQualityPerGame": "4.25",
+            "TotalStarQuality": "17.00",
+            "AverageOpponents": "2.50",
+            "gamesPlayed": 4,
+            "AverageRank": "1.50",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Dead Aim (Individual)",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Z (Stun-Stun-Deac)",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
                 },
                 {
                     "gameName": "Individual",
@@ -35,7 +255,7 @@
                     "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "Individual",
+                    "gameName": "4 Team Supercharge",
                     "rank": 1,
                     "totalPlayers": 2,
                     "starsForGame": "4.00"
@@ -43,23 +263,17 @@
             ]
         },
         {
-            "JSID": 1,
-            "Name": "Gus",
+            "JSID": 6,
+            "Name": "Michael",
             "StarQualityPerGame": "4.00",
-            "TotalStarQuality": "12.00",
+            "TotalStarQuality": "8.00",
             "AverageOpponents": "2.00",
-            "gamesPlayed": 3,
+            "gamesPlayed": 2,
             "AverageRank": "1.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
-                {
-                    "gameName": "Colour Conquest",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
                 {
                     "gameName": "Individual",
                     "rank": 1,
@@ -75,12 +289,94 @@
             ]
         },
         {
-            "JSID": 2,
-            "Name": "Robo_h34d",
+            "JSID": 7,
+            "Name": "Loki",
+            "StarQualityPerGame": "3.33",
+            "TotalStarQuality": "20.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 6,
+            "AverageRank": "1.33",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 8,
+            "Name": "Arran",
             "StarQualityPerGame": "3.33",
             "TotalStarQuality": "10.00",
             "AverageOpponents": "2.00",
             "gamesPlayed": 3,
+            "AverageRank": "1.33",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Individual Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "3 Teams",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 9,
+            "Name": "Jenny",
+            "StarQualityPerGame": "3.33",
+            "TotalStarQuality": "20.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 6,
             "AverageRank": "1.33",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
@@ -93,13 +389,81 @@
                     "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "Colour Ranked",
+                    "gameName": "Team",
                     "rank": 2,
                     "totalPlayers": 2,
                     "starsForGame": "2.00"
                 },
                 {
-                    "gameName": "Shadows (Individual)",
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 10,
+            "Name": "Suzie",
+            "StarQualityPerGame": "2.67",
+            "TotalStarQuality": "16.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 6,
+            "AverageRank": "1.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Team",
                     "rank": 1,
                     "totalPlayers": 2,
                     "starsForGame": "4.00"
@@ -107,11 +471,93 @@
             ]
         },
         {
-            "JSID": 3,
-            "Name": "Fancy Pants",
+            "JSID": 11,
+            "Name": "Thor",
+            "StarQualityPerGame": "2.67",
+            "TotalStarQuality": "16.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 6,
+            "AverageRank": "1.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 12,
+            "Name": "Euan",
             "StarQualityPerGame": "2.67",
             "TotalStarQuality": "8.00",
             "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Individual Supercharge",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "3 Teams",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 13,
+            "Name": "Mushypeas",
+            "StarQualityPerGame": "1.67",
+            "TotalStarQuality": "5.00",
+            "AverageOpponents": "1.67",
             "gamesPlayed": 3,
             "AverageRank": "1.67",
             "ChangeInRank": null,
@@ -125,275 +571,57 @@
                     "starsForGame": "2.00"
                 },
                 {
-                    "gameName": "Colour Ranked",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Shadows (Individual)",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                }
-            ]
-        },
-        {
-            "JSID": 4,
-            "Name": "Psychodeku",
-            "StarQualityPerGame": "2.00",
-            "TotalStarQuality": "6.00",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 3,
-            "AverageRank": "2.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Colour Conquest",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Individual",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
                     "gameName": "Team",
                     "rank": 2,
                     "totalPlayers": 2,
                     "starsForGame": "2.00"
-                }
-            ]
-        },
-        {
-            "JSID": 5,
-            "Name": "Super Philip",
-            "StarQualityPerGame": "2.00",
-            "TotalStarQuality": "8.00",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 4,
-            "AverageRank": "2.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Individual Supercharge",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "4 Teams",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Individual",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Individual",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                }
-            ]
-        },
-        {
-            "JSID": 6,
-            "Name": "Ninja",
-            "StarQualityPerGame": "1.20",
-            "TotalStarQuality": "6.00",
-            "AverageOpponents": "1.20",
-            "gamesPlayed": 5,
-            "AverageRank": "1.20",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Individual Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Individual",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                }
-            ]
-        },
-        {
-            "JSID": 7,
-            "Name": "Marshal Mike",
-            "StarQualityPerGame": "1.18",
-            "TotalStarQuality": "20.00",
-            "AverageOpponents": "1.06",
-            "gamesPlayed": 17,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Individual Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "4 Team Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Individual Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Individual Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                }
-            ]
-        },
-        {
-            "JSID": 8,
-            "Name": "Paton",
-            "StarQualityPerGame": "1.00",
-            "TotalStarQuality": "3.00",
-            "AverageOpponents": "1.00",
-            "gamesPlayed": 3,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Individual",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
                 },
                 {
                     "gameName": "3 Teams",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 14,
+            "Name": "Marshal Mike",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "5.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 5,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "4 Team Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 },
                 {
-                    "gameName": "Team",
+                    "gameName": "4 Team Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Colour Ranked",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Team Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Team Supercharge",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
@@ -401,8 +629,8 @@
             ]
         },
         {
-            "JSID": 9,
-            "Name": "Jj",
+            "JSID": 15,
+            "Name": "Super Scone",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
             "AverageOpponents": "1.00",
@@ -413,13 +641,13 @@
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "Individual Supercharge",
+                    "gameName": "4 Teams",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
                 },
                 {
-                    "gameName": "Individual",
+                    "gameName": "4 Teams",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
@@ -433,8 +661,8 @@
             ]
         },
         {
-            "JSID": 10,
-            "Name": "Laser Destroyer",
+            "JSID": 16,
+            "Name": "Johnny",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "2.00",
             "AverageOpponents": "1.00",
@@ -445,13 +673,13 @@
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "Individual",
+                    "gameName": "4 Teams",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
                 },
                 {
-                    "gameName": "Team",
+                    "gameName": "3 Teams",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
@@ -459,57 +687,29 @@
             ]
         },
         {
-            "JSID": 11,
-            "Name": "Obliterator",
+            "JSID": 17,
+            "Name": "Dylan",
             "StarQualityPerGame": "1.00",
-            "TotalStarQuality": "1.00",
+            "TotalStarQuality": "3.00",
             "AverageOpponents": "1.00",
-            "gamesPlayed": 1,
+            "gamesPlayed": 3,
             "AverageRank": "1.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
                 {
                     "gameName": "4 Teams",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
-                }
-            ]
-        },
-        {
-            "JSID": 12,
-            "Name": "Nunganungas",
-            "StarQualityPerGame": "1.00",
-            "TotalStarQuality": "1.00",
-            "AverageOpponents": "1.00",
-            "gamesPlayed": 1,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Individual Supercharge",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                }
-            ]
-        },
-        {
-            "JSID": 13,
-            "Name": "KillerPug08",
-            "StarQualityPerGame": "1.00",
-            "TotalStarQuality": "1.00",
-            "AverageOpponents": "1.00",
-            "gamesPlayed": 1,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
+                },
                 {
                     "gameName": "Individual",
                     "rank": 1,
@@ -519,7 +719,7 @@
             ]
         },
         {
-            "JSID": 14,
+            "JSID": 18,
             "Name": "Joe",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "2.00",
@@ -531,13 +731,13 @@
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "Colour Ranked",
+                    "gameName": "Team",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
                 },
                 {
-                    "gameName": "Individual Supercharge",
+                    "gameName": "3 Teams",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
@@ -545,12 +745,146 @@
             ]
         },
         {
-            "JSID": 15,
-            "Name": "isla Dragon",
+            "JSID": 19,
+            "Name": "Ninja",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "5.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 5,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Colour Ranked",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Team Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 20,
+            "Name": "Terminator",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "3.00",
             "AverageOpponents": "1.00",
             "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 21,
+            "Name": "Bob",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "4 Team Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Team Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Team Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 22,
+            "Name": "Lachlan ",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "2.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 2,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "3 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 23,
+            "Name": "Candice",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "6.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 6,
             "AverageRank": "1.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
@@ -569,7 +903,165 @@
                     "starsForGame": "1.00"
                 },
                 {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
                     "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 24,
+            "Name": "Super John",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "6.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 6,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "3 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "3 Teams",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 25,
+            "Name": "Zic0",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "2.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 2,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 26,
+            "Name": "Big Daddy",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Individual",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Team Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 27,
+            "Name": "Jeff",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "3.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Individual Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Team Supercharge",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "4 Team Supercharge",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
