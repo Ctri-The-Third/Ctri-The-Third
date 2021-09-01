@@ -1,156 +1,126 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-08-01 and 2021-07-01",
-    "ScoreGreaterOrEqualDate": "2021-07-01",
-    "ScoreLessDate": "2021-08-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-09-01 and 2021-08-01",
+    "ScoreGreaterOrEqualDate": "2021-08-01",
+    "ScoreLessDate": "2021-09-01",
     "Player": [
         {},
         {
-            "Name": "Kai",
-            "AverageScore": 13305,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Ninja",
-            "AverageScore": 12129,
-            "MissionsPlayed": 4,
+            "Name": "Clarky",
+            "AverageScore": 10560,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
             "Name": "Arran",
-            "AverageScore": 10719,
-            "MissionsPlayed": 2,
+            "AverageScore": 10194,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Minnie",
-            "AverageScore": 9415,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Michael",
-            "AverageScore": 9319,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "T D",
-            "AverageScore": 8895,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Joe",
-            "AverageScore": 8763,
-            "MissionsPlayed": 2,
+            "Name": "Dad",
+            "AverageScore": 9410,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
             "Name": "Euan",
-            "AverageScore": 8393,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Johnny",
-            "AverageScore": 6954,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Terminator",
-            "AverageScore": 6940,
+            "AverageScore": 9370,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Goku",
-            "AverageScore": 6359,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Jenny",
-            "AverageScore": 6262,
-            "MissionsPlayed": 6,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Loki",
-            "AverageScore": 5670,
-            "MissionsPlayed": 6,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Thor",
-            "AverageScore": 5582,
-            "MissionsPlayed": 6,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Mushypeas",
-            "AverageScore": 5536,
+            "Name": "Obi Wan",
+            "AverageScore": 8857,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Super Scone",
-            "AverageScore": 5519,
+            "Name": "Curtis",
+            "AverageScore": 8360,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Candice",
-            "AverageScore": 5437,
+            "Name": "Alpha",
+            "AverageScore": 7994,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Atif",
+            "AverageScore": 7799,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Bob",
+            "AverageScore": 6813,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Legobuddy",
+            "AverageScore": 6646,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Pog Champ",
+            "AverageScore": 6520,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "John",
+            "AverageScore": 6361,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Ayaan",
+            "AverageScore": 6252,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Invisibullet",
+            "AverageScore": 6248,
             "MissionsPlayed": 6,
             "ChangeInScore": null
         },
         {
-            "Name": "C'tri",
-            "AverageScore": 5402,
-            "MissionsPlayed": 1,
+            "Name": "Batnbol",
+            "AverageScore": 6030,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Suzie",
-            "AverageScore": 5311,
-            "MissionsPlayed": 6,
+            "Name": "Rachel",
+            "AverageScore": 5930,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Marshal Mike",
-            "AverageScore": 5002,
-            "MissionsPlayed": 1,
+            "Name": "Weej",
+            "AverageScore": 4969,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Big Daddy",
-            "AverageScore": 4607,
-            "MissionsPlayed": 2,
+            "Name": "Angel of Death",
+            "AverageScore": 4532,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Lachlan ",
-            "AverageScore": 4600,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Super John",
-            "AverageScore": 4598,
-            "MissionsPlayed": 6,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Dylan",
-            "AverageScore": 4044,
+            "Name": "Colin",
+            "AverageScore": 4222,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
             "Name": "Zic0",
-            "AverageScore": 100,
+            "AverageScore": 1070,
             "MissionsPlayed": 2,
             "ChangeInScore": null
         }
