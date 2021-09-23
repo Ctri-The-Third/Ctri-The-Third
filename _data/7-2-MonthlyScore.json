@@ -1,721 +1,223 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-09-01 and 2021-08-01",
-    "ScoreGreaterOrEqualDate": "2021-08-01",
-    "ScoreLessDate": "2021-09-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-10-01 and 2021-09-01",
+    "ScoreGreaterOrEqualDate": "2021-09-01",
+    "ScoreLessDate": "2021-10-01",
     "Player": [
         {},
         {
-            "Name": "I B Titch CBA",
-            "AverageScore": 21990,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Fortnite123",
-            "AverageScore": 16637,
-            "MissionsPlayed": 15,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Stobart",
-            "AverageScore": 15972,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Moo Mar",
-            "AverageScore": 15306,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Eeeeeeeeeeeeeee",
-            "AverageScore": 15096,
-            "MissionsPlayed": 6,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "The J Man",
-            "AverageScore": 14118,
+            "Name": "R Force",
+            "AverageScore": 15526,
             "MissionsPlayed": 2,
             "ChangeInScore": null
         },
         {
-            "Name": "Evil Killer EKM",
-            "AverageScore": 14099,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Doodywood",
-            "AverageScore": 14007,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Max Legend",
-            "AverageScore": 13688,
-            "MissionsPlayed": 12,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Melodic",
-            "AverageScore": 13057,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "MasterERandallB",
-            "AverageScore": 12694,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Nemar",
-            "AverageScore": 12693,
+            "Name": "Killer Keira",
+            "AverageScore": 11907,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Spitfire**",
-            "AverageScore": 12393,
-            "MissionsPlayed": 6,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Becky Bear",
-            "AverageScore": 12219,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Dayman",
-            "AverageScore": 11799,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Gold-Ninja",
-            "AverageScore": 11582,
-            "MissionsPlayed": 12,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Unicorn123",
-            "AverageScore": 11536,
-            "MissionsPlayed": 13,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Lightning Rod",
-            "AverageScore": 11507,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Dark Star",
-            "AverageScore": 11431,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Grass",
-            "AverageScore": 11264,
-            "MissionsPlayed": 5,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Huggable",
-            "AverageScore": 11247,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Ginger Ninja",
-            "AverageScore": 11180,
-            "MissionsPlayed": 11,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Bliyzkrieg",
-            "AverageScore": 10944,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Tyrant Lizard",
-            "AverageScore": 10887,
-            "MissionsPlayed": 6,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "John Tyler Cena",
-            "AverageScore": 10741,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Dainesegirl",
-            "AverageScore": 10611,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "FireLord323",
-            "AverageScore": 10599,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Defender",
-            "AverageScore": 10576,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Randy Orton",
-            "AverageScore": 10540,
+            "Name": "Skeletor",
+            "AverageScore": 11630,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Laser Leader",
-            "AverageScore": 10389,
+            "Name": "Bart Simpson",
+            "AverageScore": 10946,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Jedi",
-            "AverageScore": 10321,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Sam Sam 360 EKM",
-            "AverageScore": 10315,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Dino Dentist",
-            "AverageScore": 10250,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Vampire Slayer",
-            "AverageScore": 10148,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Dino Coach",
-            "AverageScore": 10143,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Werewolf",
-            "AverageScore": 10122,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Legendary Scar",
-            "AverageScore": 10097,
+            "Name": "Burgerdestroyer",
+            "AverageScore": 10874,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Jack 1605",
-            "AverageScore": 9921,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Eagle One",
-            "AverageScore": 9806,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Mega006",
-            "AverageScore": 9602,
-            "MissionsPlayed": 7,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Superduper01",
-            "AverageScore": 9516,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "The Vulture",
-            "AverageScore": 9396,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Doomanator",
-            "AverageScore": 9360,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Bethany 92",
-            "AverageScore": 9309,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Late Again",
-            "AverageScore": 9276,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "BobThePizaa555",
-            "AverageScore": 9039,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Death Star",
-            "AverageScore": 9008,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Good Good",
-            "AverageScore": 8976,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Lazer Beam",
-            "AverageScore": 8976,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Wolla23",
-            "AverageScore": 8857,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Master Yoda",
-            "AverageScore": 8740,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Tfue VI",
-            "AverageScore": 8738,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Spitfire James",
-            "AverageScore": 8732,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "F16",
-            "AverageScore": 8716,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Ella Bella",
-            "AverageScore": 8646,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Laserluke",
-            "AverageScore": 8603,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Ronaldo",
-            "AverageScore": 8593,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Robyn Bobbin",
-            "AverageScore": 8203,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Thunder",
-            "AverageScore": 8131,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Wolverine",
-            "AverageScore": 8122,
-            "MissionsPlayed": 10,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Crazy Jay",
-            "AverageScore": 8074,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Princess Pui",
-            "AverageScore": 8048,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Just Jeff",
-            "AverageScore": 7982,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "DinoJunior",
-            "AverageScore": 7969,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Toby Strong",
-            "AverageScore": 7935,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Code 1",
-            "AverageScore": 7853,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "SGT George",
-            "AverageScore": 7851,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Black Jack",
-            "AverageScore": 7783,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "War Hammer",
-            "AverageScore": 7661,
+            "Name": "Dero",
+            "AverageScore": 10826,
             "MissionsPlayed": 2,
             "ChangeInScore": null
         },
         {
             "Name": "Wildebeast",
-            "AverageScore": 7594,
-            "MissionsPlayed": 6,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Giles",
-            "AverageScore": 7283,
+            "AverageScore": 10750,
             "MissionsPlayed": 2,
             "ChangeInScore": null
         },
         {
-            "Name": "Tiny Terror",
-            "AverageScore": 7135,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Distant Bowl",
-            "AverageScore": 7131,
+            "Name": "Spitfire James",
+            "AverageScore": 10359,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Roboduff",
-            "AverageScore": 7110,
+            "Name": "War Hammer",
+            "AverageScore": 9037,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Stompey Cat",
-            "AverageScore": 7086,
+            "Name": "Mean Man",
+            "AverageScore": 8754,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Night Wolf",
+            "AverageScore": 8368,
+            "MissionsPlayed": 3,
+            "ChangeInScore": "\u21912335.00"
+        },
+        {
+            "Name": "Crimson Chaos",
+            "AverageScore": 8205,
             "MissionsPlayed": 2,
             "ChangeInScore": null
         },
         {
             "Name": "Goatscheese",
-            "AverageScore": 7054,
+            "AverageScore": 8071,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "CrazyKid123789",
+            "AverageScore": 7633,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Fortnite Zak",
-            "AverageScore": 6985,
+            "Name": "Super Bolt",
+            "AverageScore": 7506,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
-            "Name": "Princess Evie",
-            "AverageScore": 6953,
-            "MissionsPlayed": 4,
+            "Name": "Bomber Beccs ",
+            "AverageScore": 7300,
+            "MissionsPlayed": 2,
+            "ChangeInScore": "\u21931526.00"
+        },
+        {
+            "Name": "Cr7",
+            "AverageScore": 7138,
+            "MissionsPlayed": 2,
             "ChangeInScore": null
         },
         {
-            "Name": "Hazza",
-            "AverageScore": 6838,
+            "Name": "MR McSHOOTY",
+            "AverageScore": 6925,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "EpicWolfyGamer",
+            "AverageScore": 6708,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Lord Monty",
-            "AverageScore": 6795,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Tym Pac",
-            "AverageScore": 6755,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Unicorn Puppy",
-            "AverageScore": 6722,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "The Chosen One",
-            "AverageScore": 6714,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Death Shooter",
-            "AverageScore": 6588,
-            "MissionsPlayed": 6,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Harry",
-            "AverageScore": 6439,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Izzy Wald",
-            "AverageScore": 6406,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Pikachu Lew",
-            "AverageScore": 6320,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Malcolm The Cat",
-            "AverageScore": 6276,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "KarateKitSune",
-            "AverageScore": 6140,
-            "MissionsPlayed": 6,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Fr1day",
+            "Name": "Black Cat",
             "AverageScore": 6124,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
-            "Name": "Sterreo 1",
-            "AverageScore": 5990,
+            "Name": "A J 123",
+            "AverageScore": 5964,
             "MissionsPlayed": 2,
             "ChangeInScore": null
         },
         {
-            "Name": "Secret Cat",
-            "AverageScore": 5969,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Crazy Azz",
-            "AverageScore": 5962,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Sterreo 2",
-            "AverageScore": 5875,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Mc",
-            "AverageScore": 5840,
+            "Name": "Gun Shot",
+            "AverageScore": 5833,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Wolfie",
-            "AverageScore": 5829,
+            "Name": "Cheezy Beenz",
+            "AverageScore": 5800,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Chicken Warrior",
+            "AverageScore": 5773,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "MasterLaser",
+            "AverageScore": 5162,
+            "MissionsPlayed": 4,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Todster",
+            "AverageScore": 4838,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Storm Trooper",
+            "AverageScore": 4653,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Sheep",
+            "AverageScore": 4556,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Dark Skull",
+            "AverageScore": 4422,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
             "Name": "Infinite 7777",
-            "AverageScore": 5797,
-            "MissionsPlayed": 3,
+            "AverageScore": 4379,
+            "MissionsPlayed": 2,
             "ChangeInScore": null
         },
         {
-            "Name": " Pocket rocket",
-            "AverageScore": 5771,
+            "Name": "*hunter*",
+            "AverageScore": 4279,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Mlumcher",
+            "AverageScore": 4153,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
-            "Name": "Vampier Lewis",
-            "AverageScore": 5706,
-            "MissionsPlayed": 2,
+            "Name": "Summer Kitten",
+            "AverageScore": 3539,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Chip 98989",
-            "AverageScore": 5652,
-            "MissionsPlayed": 2,
+            "Name": "Mr.McNuggets",
+            "AverageScore": 3491,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Corrupt Raptor",
-            "AverageScore": 5575,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Avenger",
-            "AverageScore": 5490,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "LeeBoy",
-            "AverageScore": 5400,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Gumball",
-            "AverageScore": 5383,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Fist Of Fury",
-            "AverageScore": 5231,
+            "Name": "Death Shooter",
+            "AverageScore": 3227,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
-            "Name": "Ender Pearl",
-            "AverageScore": 5123,
+            "Name": "White Ghost",
+            "AverageScore": 3224,
             "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Trooper Duff",
-            "AverageScore": 5041,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "King Jasper",
-            "AverageScore": 4889,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "The Kennedy",
-            "AverageScore": 4840,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "NeKezaK",
-            "AverageScore": 4609,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Athena",
-            "AverageScore": 4562,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "CrazyKid123789",
-            "AverageScore": 4502,
-            "MissionsPlayed": 6,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Fortnitemaster",
-            "AverageScore": 4285,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Dark Ajay",
-            "AverageScore": 4195,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Jellyman600",
-            "AverageScore": 3744,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Bobby",
-            "AverageScore": 2733,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Princess",
-            "AverageScore": 2668,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "The Janitor",
-            "AverageScore": 2340,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Slayersloth81",
-            "AverageScore": 2197,
-            "MissionsPlayed": 1,
             "ChangeInScore": null
         }
     ]
