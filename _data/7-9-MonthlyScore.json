@@ -1,79 +1,151 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-10-01 and 2021-09-01",
-    "ScoreGreaterOrEqualDate": "2021-09-01",
-    "ScoreLessDate": "2021-10-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-12-01 and 2021-11-01",
+    "ScoreGreaterOrEqualDate": "2021-11-01",
+    "ScoreLessDate": "2021-12-01",
     "Player": [
         {},
         {
-            "Name": "Achilles",
-            "AverageScore": 16700,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u21918694.50"
-        },
-        {
-            "Name": "Icon",
-            "AverageScore": 14283,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "C'tri",
-            "AverageScore": 14110,
-            "MissionsPlayed": 2,
-            "ChangeInScore": "\u2191984.50"
-        },
-        {
-            "Name": "Benjamin",
-            "AverageScore": 8097,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "BillyKekStar",
-            "AverageScore": 7438,
+            "Name": "Barney",
+            "AverageScore": 10654,
             "MissionsPlayed": 3,
             "ChangeInScore": null
         },
         {
-            "Name": "Dark hand",
-            "AverageScore": 6834,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Yelena",
-            "AverageScore": 6164,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Darcy",
-            "AverageScore": 6043,
+            "Name": "Julian",
+            "AverageScore": 9537,
             "MissionsPlayed": 6,
             "ChangeInScore": null
         },
         {
-            "Name": "Devin",
-            "AverageScore": 5351,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Keavan",
-            "AverageScore": 4493,
-            "MissionsPlayed": 3,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Zic0",
-            "AverageScore": 3210,
+            "Name": "isla Dragon",
+            "AverageScore": 9014,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
-            "Name": "Guy S",
-            "AverageScore": 1930,
+            "Name": "Paul",
+            "AverageScore": 8794,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Sir RodgerMoore",
+            "AverageScore": 8447,
+            "MissionsPlayed": 6,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Grumpydad",
+            "AverageScore": 8344,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Yolo",
+            "AverageScore": 8214,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "D D D D D Dora",
+            "AverageScore": 7870,
             "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "NightFoxx",
+            "AverageScore": 7820,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Nikki",
+            "AverageScore": 7480,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Johnny",
+            "AverageScore": 7310,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Arran",
+            "AverageScore": 7045,
+            "MissionsPlayed": 4,
+            "ChangeInScore": "\u21931160.25"
+        },
+        {
+            "Name": "Jorja",
+            "AverageScore": 6786,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Bdog",
+            "AverageScore": 6662,
+            "MissionsPlayed": 7,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "SuperSpy",
+            "AverageScore": 6503,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "R",
+            "AverageScore": 5570,
+            "MissionsPlayed": 6,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "ElsieBelle",
+            "AverageScore": 5321,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Brandon",
+            "AverageScore": 4151,
+            "MissionsPlayed": 8,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Euan",
+            "AverageScore": 3704,
+            "MissionsPlayed": 4,
+            "ChangeInScore": "\u21938001.25"
+        },
+        {
+            "Name": "Pixie Dust",
+            "AverageScore": 3691,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Perrin",
+            "AverageScore": 3431,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Guy S",
+            "AverageScore": 3019,
+            "MissionsPlayed": 6,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Awsomelad09",
+            "AverageScore": 2892,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Adeel",
+            "AverageScore": 2511,
+            "MissionsPlayed": 3,
             "ChangeInScore": null
         }
     ]
