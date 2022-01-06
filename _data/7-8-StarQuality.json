@@ -1,74 +1,342 @@
 {
-    "ScoreTitle": "Star Quality for all known players, between 2020-10 and 2021-11",
-    "ScoreGreaterOrEqualDate": "2021-11",
-    "ScoreLessDate": "2020-10",
+    "ScoreTitle": "Star Quality for all known players, between 2021-11 and 2021-12",
+    "ScoreGreaterOrEqualDate": "2021-12",
+    "ScoreLessDate": "2021-11",
     "Player": [
         {},
         {
             "JSID": 0,
-            "Name": "Smally McSmall",
-            "StarQualityPerGame": "56.88",
-            "TotalStarQuality": "568.77",
-            "AverageOpponents": "11.00",
-            "gamesPlayed": 10,
-            "AverageRank": "3.90",
+            "Name": "Deadeye",
+            "StarQualityPerGame": "37.34",
+            "TotalStarQuality": "74.67",
+            "AverageOpponents": "8.00",
+            "gamesPlayed": 2,
+            "AverageRank": "3.50",
+            "ChangeInRank": "\u21910.88",
+            "ChangeInPlayers": "\u21930.75",
+            "ChangeInSQPerGame": "\u21933.55",
+            "breakdown": [
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 1,
+                    "totalPlayers": 8,
+                    "starsForGame": "64.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 6,
+                    "totalPlayers": 8,
+                    "starsForGame": "10.67"
+                }
+            ]
+        },
+        {
+            "JSID": 1,
+            "Name": "The_Lord",
+            "StarQualityPerGame": "36.00",
+            "TotalStarQuality": "72.00",
+            "AverageOpponents": "6.00",
+            "gamesPlayed": 2,
+            "AverageRank": "1.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "LaserBall Classic",
-                    "rank": 2,
-                    "totalPlayers": 6,
-                    "starsForGame": "18.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 6,
-                    "totalPlayers": 6,
-                    "starsForGame": "6.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
+                    "gameName": "Mayhem - Solo",
                     "rank": 1,
-                    "totalPlayers": 12,
-                    "starsForGame": "144.00"
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
                 },
                 {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 8,
-                    "totalPlayers": 13,
-                    "starsForGame": "21.13"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 2,
-                    "totalPlayers": 12,
-                    "starsForGame": "72.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 2,
-                    "totalPlayers": 13,
-                    "starsForGame": "84.50"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 7,
-                    "totalPlayers": 14,
-                    "starsForGame": "28.00"
-                },
-                {
-                    "gameName": "BaseFlags",
+                    "gameName": "Standard - Solo",
                     "rank": 1,
-                    "totalPlayers": 12,
-                    "starsForGame": "144.00"
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                }
+            ]
+        },
+        {
+            "JSID": 2,
+            "Name": "BBTheory",
+            "StarQualityPerGame": "20.25",
+            "TotalStarQuality": "20.25",
+            "AverageOpponents": "9.00",
+            "gamesPlayed": 1,
+            "AverageRank": "4.00",
+            "ChangeInRank": "\u21930.30",
+            "ChangeInPlayers": "\u21910.40",
+            "ChangeInSQPerGame": "\u21934.73",
+            "breakdown": [
+                {
+                    "gameName": "Infection",
+                    "rank": 4,
+                    "totalPlayers": 9,
+                    "starsForGame": "20.25"
+                }
+            ]
+        },
+        {
+            "JSID": 3,
+            "Name": "Damon",
+            "StarQualityPerGame": "17.88",
+            "TotalStarQuality": "554.16",
+            "AverageOpponents": "4.61",
+            "gamesPlayed": 31,
+            "AverageRank": "1.65",
+            "ChangeInRank": "\u21910.59",
+            "ChangeInPlayers": "\u21911.69",
+            "ChangeInSQPerGame": "\u219113.06",
+            "breakdown": [
+                {
+                    "gameName": "Highlander - Solo",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Huntsman",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Immortals",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
                 },
                 {
                     "gameName": "BaseFlags",
                     "rank": 3,
-                    "totalPlayers": 13,
-                    "starsForGame": "56.33"
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Immortals",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 9,
+                    "starsForGame": "81.00"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 6,
+                    "starsForGame": "36.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Backstabber",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 3,
+                    "totalPlayers": 8,
+                    "starsForGame": "21.33"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 4,
+                    "totalPlayers": 8,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                }
+            ]
+        },
+        {
+            "JSID": 4,
+            "Name": "-=Valroc=-",
+            "StarQualityPerGame": "17.87",
+            "TotalStarQuality": "71.47",
+            "AverageOpponents": "6.25",
+            "gamesPlayed": 4,
+            "AverageRank": "3.25",
+            "ChangeInRank": "\u21930.05",
+            "ChangeInPlayers": "\u21933.55",
+            "ChangeInSQPerGame": "\u219338.69",
+            "breakdown": [
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 7,
+                    "totalPlayers": 8,
+                    "starsForGame": "9.14"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 2,
+                    "totalPlayers": 8,
+                    "starsForGame": "32.00"
+                }
+            ]
+        },
+        {
+            "JSID": 5,
+            "Name": "Blaze",
+            "StarQualityPerGame": "17.11",
+            "TotalStarQuality": "51.33",
+            "AverageOpponents": "6.00",
+            "gamesPlayed": 3,
+            "AverageRank": "2.33",
+            "ChangeInRank": "\u21913.21",
+            "ChangeInPlayers": "\u21933.23",
+            "ChangeInSQPerGame": "\u21932.29",
+            "breakdown": [
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Immortals",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
                 },
                 {
                     "gameName": "Infection",
@@ -79,215 +347,165 @@
             ]
         },
         {
-            "JSID": 1,
-            "Name": "-=Valroc=-",
-            "StarQualityPerGame": "56.56",
-            "TotalStarQuality": "282.78",
-            "AverageOpponents": "9.80",
-            "gamesPlayed": 5,
-            "AverageRank": "3.20",
-            "ChangeInRank": "\u21930.08",
-            "ChangeInPlayers": "\u21911.80",
-            "ChangeInSQPerGame": "\u219122.03",
+            "JSID": 6,
+            "Name": "Monster",
+            "StarQualityPerGame": "16.07",
+            "TotalStarQuality": "112.49",
+            "AverageOpponents": "5.57",
+            "gamesPlayed": 7,
+            "AverageRank": "2.29",
+            "ChangeInRank": "\u21930.16",
+            "ChangeInPlayers": "\u21911.18",
+            "ChangeInSQPerGame": "\u21914.94",
             "breakdown": [
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 2,
+                    "totalPlayers": 8,
+                    "starsForGame": "32.00"
+                },
                 {
                     "gameName": "LaserBall Classic",
                     "rank": 3,
-                    "totalPlayers": 6,
-                    "starsForGame": "12.00"
+                    "totalPlayers": 8,
+                    "starsForGame": "21.33"
                 },
                 {
                     "gameName": "LaserBall Classic",
-                    "rank": 1,
-                    "totalPlayers": 6,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
                     "rank": 2,
-                    "totalPlayers": 12,
-                    "starsForGame": "72.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 9,
-                    "totalPlayers": 13,
-                    "starsForGame": "18.78"
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
                 },
                 {
                     "gameName": "LaserBall Classic",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "BaseFlags",
                     "rank": 1,
-                    "totalPlayers": 12,
-                    "starsForGame": "144.00"
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
                 }
             ]
         },
         {
-            "JSID": 2,
-            "Name": "Deadeye",
-            "StarQualityPerGame": "43.82",
-            "TotalStarQuality": "350.53",
-            "AverageOpponents": "8.75",
-            "gamesPlayed": 8,
-            "AverageRank": "3.75",
-            "ChangeInRank": "\u21913.63",
-            "ChangeInPlayers": "\u21931.25",
-            "ChangeInSQPerGame": "\u219129.75",
+            "JSID": 7,
+            "Name": "Shadow_Wolf",
+            "StarQualityPerGame": "15.99",
+            "TotalStarQuality": "207.91",
+            "AverageOpponents": "5.62",
+            "gamesPlayed": 13,
+            "AverageRank": "2.92",
+            "ChangeInRank": "\u21910.99",
+            "ChangeInPlayers": "\u21931.21",
+            "ChangeInSQPerGame": "\u21910.26",
             "breakdown": [
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 1,
-                    "totalPlayers": 13,
-                    "starsForGame": "169.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 13,
-                    "totalPlayers": 14,
-                    "starsForGame": "15.08"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 8,
-                    "totalPlayers": 13,
-                    "starsForGame": "21.13"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 5,
-                    "totalPlayers": 6,
-                    "starsForGame": "7.20"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 5,
-                    "totalPlayers": 6,
-                    "starsForGame": "7.20"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 1,
-                    "totalPlayers": 6,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 1,
-                    "totalPlayers": 6,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 1,
-                    "totalPlayers": 6,
-                    "starsForGame": "36.00"
-                }
-            ]
-        },
-        {
-            "JSID": 3,
-            "Name": "Morrigan",
-            "StarQualityPerGame": "42.07",
-            "TotalStarQuality": "294.47",
-            "AverageOpponents": "12.71",
-            "gamesPlayed": 7,
-            "AverageRank": "8.43",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 7,
-                    "totalPlayers": 12,
-                    "starsForGame": "20.57"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 1,
-                    "totalPlayers": 13,
-                    "starsForGame": "169.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 12,
-                    "totalPlayers": 12,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 13,
-                    "totalPlayers": 13,
-                    "starsForGame": "13.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 11,
-                    "totalPlayers": 14,
-                    "starsForGame": "17.82"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 9,
-                    "totalPlayers": 12,
-                    "starsForGame": "16.00"
-                },
                 {
                     "gameName": "BaseFlags",
                     "rank": 2,
-                    "totalPlayers": 13,
-                    "starsForGame": "84.50"
-                }
-            ]
-        },
-        {
-            "JSID": 4,
-            "Name": "Silly Bunny",
-            "StarQualityPerGame": "35.04",
-            "TotalStarQuality": "350.43",
-            "AverageOpponents": "9.40",
-            "gamesPlayed": 10,
-            "AverageRank": "4.50",
-            "ChangeInRank": "\u21910.56",
-            "ChangeInPlayers": "\u21911.09",
-            "ChangeInSQPerGame": "\u219116.92",
-            "breakdown": [
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
                 {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 4,
-                    "totalPlayers": 13,
-                    "starsForGame": "42.25"
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 9,
+                    "starsForGame": "40.50"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Backstabber",
+                    "rank": 3,
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
                 },
                 {
                     "gameName": "LaserBall Classic",
                     "rank": 6,
-                    "totalPlayers": 12,
-                    "starsForGame": "24.00"
+                    "totalPlayers": 8,
+                    "starsForGame": "10.67"
                 },
                 {
                     "gameName": "LaserBall Classic",
-                    "rank": 4,
-                    "totalPlayers": 13,
-                    "starsForGame": "42.25"
+                    "rank": 1,
+                    "totalPlayers": 8,
+                    "starsForGame": "64.00"
                 },
                 {
                     "gameName": "LaserBall Classic",
-                    "rank": 10,
-                    "totalPlayers": 14,
-                    "starsForGame": "19.60"
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
                 },
                 {
                     "gameName": "BaseFlags",
                     "rank": 5,
-                    "totalPlayers": 12,
-                    "starsForGame": "28.80"
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
                 },
                 {
-                    "gameName": "BaseFlags",
-                    "rank": 1,
-                    "totalPlayers": 13,
-                    "starsForGame": "169.00"
-                },
+                    "gameName": "Infection",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                }
+            ]
+        },
+        {
+            "JSID": 8,
+            "Name": "Combat Wombat",
+            "StarQualityPerGame": "14.01",
+            "TotalStarQuality": "252.16",
+            "AverageOpponents": "4.67",
+            "gamesPlayed": 18,
+            "AverageRank": "2.17",
+            "ChangeInRank": "\u21914.17",
+            "ChangeInPlayers": "\u21934.00",
+            "ChangeInSQPerGame": "\u21910.14",
+            "breakdown": [
                 {
                     "gameName": "Infection",
                     "rank": 1,
@@ -296,172 +514,42 @@
                 },
                 {
                     "gameName": "Mayhem - Solo",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                }
-            ]
-        },
-        {
-            "JSID": 5,
-            "Name": "Archer",
-            "StarQualityPerGame": "33.68",
-            "TotalStarQuality": "202.06",
-            "AverageOpponents": "12.17",
-            "gamesPlayed": 6,
-            "AverageRank": "6.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 9,
-                    "totalPlayers": 12,
+                    "rank": 1,
+                    "totalPlayers": 4,
                     "starsForGame": "16.00"
                 },
                 {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 5,
-                    "totalPlayers": 13,
-                    "starsForGame": "33.80"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 4,
-                    "totalPlayers": 14,
-                    "starsForGame": "49.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 11,
-                    "totalPlayers": 12,
-                    "starsForGame": "13.09"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 9,
-                    "totalPlayers": 13,
-                    "starsForGame": "18.78"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 8,
-                    "totalPlayers": 9,
-                    "starsForGame": "10.13"
-                }
-            ]
-        },
-        {
-            "JSID": 6,
-            "Name": "Sn3aky",
-            "StarQualityPerGame": "32.84",
-            "TotalStarQuality": "722.38",
-            "AverageOpponents": "7.05",
-            "gamesPlayed": 22,
-            "AverageRank": "2.18",
-            "ChangeInRank": "\u21910.26",
-            "ChangeInPlayers": "\u21930.33",
-            "ChangeInSQPerGame": "\u21936.85",
-            "breakdown": [
-                {
-                    "gameName": "LaserBall Classic",
+                    "gameName": "Standard - Team",
                     "rank": 1,
-                    "totalPlayers": 6,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 2,
-                    "totalPlayers": 6,
-                    "starsForGame": "18.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 4,
-                    "totalPlayers": 12,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 3,
-                    "totalPlayers": 13,
-                    "starsForGame": "56.33"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 4,
-                    "totalPlayers": 12,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 3,
-                    "totalPlayers": 13,
-                    "starsForGame": "56.33"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 1,
-                    "totalPlayers": 14,
-                    "starsForGame": "196.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 6,
-                    "totalPlayers": 12,
-                    "starsForGame": "24.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 4,
-                    "totalPlayers": 13,
-                    "starsForGame": "42.25"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 1,
-                    "totalPlayers": 9,
-                    "starsForGame": "81.00"
-                },
-                {
-                    "gameName": "Backstabber",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Tag Test",
-                    "rank": 1,
-                    "totalPlayers": 3,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 2,
                     "totalPlayers": 4,
-                    "starsForGame": "8.00"
+                    "starsForGame": "16.00"
                 },
                 {
-                    "gameName": "# Sm5 Uka",
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Mayhem - Team",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
                     "rank": 1,
                     "totalPlayers": 5,
                     "starsForGame": "25.00"
@@ -474,683 +562,297 @@
                 },
                 {
                     "gameName": "LaserBall Classic",
-                    "rank": 1,
+                    "rank": 3,
                     "totalPlayers": 5,
-                    "starsForGame": "25.00"
+                    "starsForGame": "8.33"
                 },
                 {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 1,
+                    "gameName": "BaseFlags",
+                    "rank": 4,
                     "totalPlayers": 5,
-                    "starsForGame": "25.00"
+                    "starsForGame": "6.25"
                 },
                 {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 1,
+                    "gameName": "BaseFlags",
+                    "rank": 5,
                     "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "Backstabber",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
+                    "starsForGame": "5.00"
                 },
                 {
                     "gameName": "Shadows - Solo",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
                 },
                 {
                     "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                }
-            ]
-        },
-        {
-            "JSID": 7,
-            "Name": "Alky",
-            "StarQualityPerGame": "26.77",
-            "TotalStarQuality": "187.40",
-            "AverageOpponents": "12.14",
-            "gamesPlayed": 7,
-            "AverageRank": "8.57",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 12,
-                    "totalPlayers": 12,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 8,
-                    "totalPlayers": 12,
-                    "starsForGame": "18.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 10,
-                    "totalPlayers": 13,
-                    "starsForGame": "16.90"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 2,
-                    "totalPlayers": 14,
-                    "starsForGame": "98.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 4,
-                    "totalPlayers": 12,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 7,
-                    "totalPlayers": 13,
-                    "starsForGame": "24.14"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 6,
-                    "totalPlayers": 9,
-                    "starsForGame": "13.50"
-                }
-            ]
-        },
-        {
-            "JSID": 8,
-            "Name": "Poison Ivy",
-            "StarQualityPerGame": "25.16",
-            "TotalStarQuality": "251.64",
-            "AverageOpponents": "11.00",
-            "gamesPlayed": 10,
-            "AverageRank": "6.70",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "LaserBall Classic",
                     "rank": 5,
-                    "totalPlayers": 6,
-                    "starsForGame": "7.20"
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
                 },
                 {
-                    "gameName": "LaserBall Classic",
-                    "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 8,
-                    "totalPlayers": 12,
-                    "starsForGame": "18.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 2,
-                    "totalPlayers": 13,
-                    "starsForGame": "84.50"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 9,
-                    "totalPlayers": 12,
+                    "gameName": "Mayhem - Solo",
+                    "rank": 1,
+                    "totalPlayers": 4,
                     "starsForGame": "16.00"
                 },
                 {
-                    "gameName": "LaserBall Classic",
-                    "rank": 7,
-                    "totalPlayers": 13,
-                    "starsForGame": "24.14"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 14,
-                    "totalPlayers": 14,
-                    "starsForGame": "14.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 7,
-                    "totalPlayers": 12,
-                    "starsForGame": "20.57"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 6,
-                    "totalPlayers": 13,
-                    "starsForGame": "28.17"
-                },
-                {
                     "gameName": "Infection",
-                    "rank": 9,
-                    "totalPlayers": 9,
-                    "starsForGame": "9.00"
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
                 }
             ]
         },
         {
             "JSID": 9,
-            "Name": "Agent Jaikei",
-            "StarQualityPerGame": "23.60",
-            "TotalStarQuality": "212.38",
-            "AverageOpponents": "11.22",
-            "gamesPlayed": 9,
-            "AverageRank": "6.11",
-            "ChangeInRank": "\u21931.44",
-            "ChangeInPlayers": "\u21913.98",
-            "ChangeInSQPerGame": "\u21917.90",
+            "Name": "Unagi",
+            "StarQualityPerGame": "10.45",
+            "TotalStarQuality": "41.80",
+            "AverageOpponents": "6.25",
+            "gamesPlayed": 4,
+            "AverageRank": "4.75",
+            "ChangeInRank": "\u21910.58",
+            "ChangeInPlayers": "\u21931.75",
+            "ChangeInSQPerGame": "\u21933.55",
             "breakdown": [
                 {
                     "gameName": "LaserBall Classic",
-                    "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 3,
-                    "totalPlayers": 6,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 6,
-                    "totalPlayers": 12,
-                    "starsForGame": "24.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 10,
-                    "totalPlayers": 13,
-                    "starsForGame": "16.90"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 7,
-                    "totalPlayers": 12,
-                    "starsForGame": "20.57"
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
                 },
                 {
                     "gameName": "LaserBall Classic",
                     "rank": 5,
-                    "totalPlayers": 13,
-                    "starsForGame": "33.80"
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
                 },
                 {
                     "gameName": "LaserBall Classic",
-                    "rank": 9,
-                    "totalPlayers": 14,
-                    "starsForGame": "21.78"
-                },
-                {
-                    "gameName": "BaseFlags",
                     "rank": 8,
-                    "totalPlayers": 12,
-                    "starsForGame": "18.00"
+                    "totalPlayers": 8,
+                    "starsForGame": "8.00"
                 },
                 {
-                    "gameName": "BaseFlags",
-                    "rank": 13,
-                    "totalPlayers": 13,
-                    "starsForGame": "13.00"
+                    "gameName": "LaserBall Classic",
+                    "rank": 5,
+                    "totalPlayers": 8,
+                    "starsForGame": "12.80"
                 }
             ]
         },
         {
             "JSID": 10,
-            "Name": "<!-- Blaze -->",
-            "StarQualityPerGame": "22.43",
-            "TotalStarQuality": "179.44",
-            "AverageOpponents": "12.25",
-            "gamesPlayed": 8,
-            "AverageRank": "7.88",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
+            "Name": " TheLethalKoala",
+            "StarQualityPerGame": "10.18",
+            "TotalStarQuality": "101.83",
+            "AverageOpponents": "4.40",
+            "gamesPlayed": 10,
+            "AverageRank": "2.00",
+            "ChangeInRank": "\u21930.25",
+            "ChangeInPlayers": "\u21910.40",
+            "ChangeInSQPerGame": "\u21931.19",
             "breakdown": [
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 10,
-                    "totalPlayers": 12,
-                    "starsForGame": "14.40"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 6,
-                    "totalPlayers": 13,
-                    "starsForGame": "28.17"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 10,
-                    "totalPlayers": 12,
-                    "starsForGame": "14.40"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 6,
-                    "totalPlayers": 13,
-                    "starsForGame": "28.17"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 12,
-                    "totalPlayers": 14,
-                    "starsForGame": "16.33"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 10,
-                    "totalPlayers": 12,
-                    "starsForGame": "14.40"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 11,
-                    "totalPlayers": 13,
-                    "starsForGame": "15.36"
-                },
                 {
                     "gameName": "Infection",
                     "rank": 2,
-                    "totalPlayers": 9,
-                    "starsForGame": "40.50"
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Mayhem - Team",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 4,
+                    "starsForGame": "16.00"
                 }
             ]
         },
         {
             "JSID": 11,
-            "Name": "BBTheory",
-            "StarQualityPerGame": "20.30",
-            "TotalStarQuality": "203.02",
-            "AverageOpponents": "8.60",
-            "gamesPlayed": 10,
-            "AverageRank": "4.50",
-            "ChangeInRank": "\u21931.67",
-            "ChangeInPlayers": "\u21932.40",
-            "ChangeInSQPerGame": "\u219353.96",
-            "breakdown": [
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 8,
-                    "totalPlayers": 13,
-                    "starsForGame": "21.13"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 3,
-                    "totalPlayers": 14,
-                    "starsForGame": "65.33"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 2,
-                    "totalPlayers": 12,
-                    "starsForGame": "72.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 10,
-                    "totalPlayers": 13,
-                    "starsForGame": "16.90"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 2,
-                    "totalPlayers": 6,
-                    "starsForGame": "18.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 2,
-                    "totalPlayers": 6,
-                    "starsForGame": "18.00"
-                },
-                {
-                    "gameName": "Borg",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 6,
-                    "totalPlayers": 6,
-                    "starsForGame": "6.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 3,
-                    "totalPlayers": 6,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 3,
-                    "totalPlayers": 6,
-                    "starsForGame": "12.00"
-                }
-            ]
-        },
-        {
-            "JSID": 12,
-            "Name": "Combat Wombat",
-            "StarQualityPerGame": "19.50",
-            "TotalStarQuality": "234.03",
-            "AverageOpponents": "8.67",
-            "gamesPlayed": 12,
-            "AverageRank": "5.67",
+            "Name": "Nhts_shadow",
+            "StarQualityPerGame": "9.41",
+            "TotalStarQuality": "235.35",
+            "AverageOpponents": "4.20",
+            "gamesPlayed": 25,
+            "AverageRank": "2.36",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 11,
-                    "totalPlayers": 12,
-                    "starsForGame": "13.09"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
+                    "gameName": "LaserBall Classic",
                     "rank": 2,
                     "totalPlayers": 2,
                     "starsForGame": "2.00"
                 },
                 {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 13,
-                    "totalPlayers": 13,
-                    "starsForGame": "13.00"
-                },
-                {
                     "gameName": "LaserBall Classic",
-                    "rank": 11,
-                    "totalPlayers": 12,
-                    "starsForGame": "13.09"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 9,
-                    "totalPlayers": 13,
-                    "starsForGame": "18.78"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 8,
-                    "totalPlayers": 14,
-                    "starsForGame": "24.50"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 12,
-                    "totalPlayers": 13,
-                    "starsForGame": "14.08"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 7,
-                    "totalPlayers": 9,
-                    "starsForGame": "11.57"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 1,
-                    "totalPlayers": 3,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                }
-            ]
-        },
-        {
-            "JSID": 13,
-            "Name": "Laser-Exotic",
-            "StarQualityPerGame": "17.71",
-            "TotalStarQuality": "70.83",
-            "AverageOpponents": "5.00",
-            "gamesPlayed": 4,
-            "AverageRank": "1.75",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Infection",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                }
-            ]
-        },
-        {
-            "JSID": 14,
-            "Name": "LaserLegend",
-            "StarQualityPerGame": "16.67",
-            "TotalStarQuality": "66.66",
-            "AverageOpponents": "5.00",
-            "gamesPlayed": 4,
-            "AverageRank": "2.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Infection",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                }
-            ]
-        },
-        {
-            "JSID": 15,
-            "Name": "Blaze",
-            "StarQualityPerGame": "16.21",
-            "TotalStarQuality": "210.76",
-            "AverageOpponents": "9.23",
-            "gamesPlayed": 13,
-            "AverageRank": "6.46",
-            "ChangeInRank": "\u21930.42",
-            "ChangeInPlayers": "\u21910.90",
-            "ChangeInSQPerGame": "\u21931.37",
-            "breakdown": [
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 11,
-                    "totalPlayers": 13,
-                    "starsForGame": "15.36"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 5,
-                    "totalPlayers": 12,
-                    "starsForGame": "28.80"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 12,
-                    "totalPlayers": 13,
-                    "starsForGame": "14.08"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 6,
-                    "totalPlayers": 14,
-                    "starsForGame": "32.67"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 3,
-                    "totalPlayers": 12,
-                    "starsForGame": "48.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 5,
-                    "totalPlayers": 13,
-                    "starsForGame": "33.80"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 4,
-                    "totalPlayers": 9,
-                    "starsForGame": "20.25"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 1,
-                    "totalPlayers": 6,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 3,
-                    "totalPlayers": 6,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 5,
-                    "totalPlayers": 6,
-                    "starsForGame": "7.20"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                }
-            ]
-        },
-        {
-            "JSID": 16,
-            "Name": "Shadow_Wolf",
-            "StarQualityPerGame": "15.50",
-            "TotalStarQuality": "356.40",
-            "AverageOpponents": "6.83",
-            "gamesPlayed": 23,
-            "AverageRank": "4.00",
-            "ChangeInRank": "\u21910.89",
-            "ChangeInPlayers": "\u21930.35",
-            "ChangeInSQPerGame": "\u21911.20",
-            "breakdown": [
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 3,
-                    "totalPlayers": 12,
-                    "starsForGame": "48.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
                     "rank": 1,
                     "totalPlayers": 2,
                     "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 12,
-                    "totalPlayers": 13,
-                    "starsForGame": "14.08"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 3,
-                    "totalPlayers": 12,
-                    "starsForGame": "48.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 11,
-                    "totalPlayers": 13,
-                    "starsForGame": "15.36"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 5,
-                    "totalPlayers": 14,
-                    "starsForGame": "39.20"
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 },
                 {
                     "gameName": "BaseFlags",
-                    "rank": 12,
-                    "totalPlayers": 12,
-                    "starsForGame": "12.00"
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Highlander - Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Highlander - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Highlander - Solo",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "Huntsman",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Immortals",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
                 },
                 {
                     "gameName": "Infection",
@@ -1159,34 +861,178 @@
                     "starsForGame": "16.20"
                 },
                 {
-                    "gameName": "Tag Test",
-                    "rank": 3,
-                    "totalPlayers": 3,
-                    "starsForGame": "3.00"
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
                 },
                 {
-                    "gameName": "LaserBall Classic",
+                    "gameName": "Standard - Solo",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Borg",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 2,
+                    "totalPlayers": 6,
+                    "starsForGame": "18.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                }
+            ]
+        },
+        {
+            "JSID": 12,
+            "Name": "Plauge Lord ",
+            "StarQualityPerGame": "9.33",
+            "TotalStarQuality": "56.00",
+            "AverageOpponents": "5.83",
+            "gamesPlayed": 6,
+            "AverageRank": "4.00",
+            "ChangeInRank": "\u21933.00",
+            "ChangeInPlayers": "\u21914.83",
+            "ChangeInSQPerGame": "\u21918.33",
+            "breakdown": [
+                {
+                    "gameName": "BaseFlags",
                     "rank": 5,
                     "totalPlayers": 5,
                     "starsForGame": "5.00"
                 },
                 {
-                    "gameName": "Escape",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
+                    "gameName": "Immortals",
                     "rank": 4,
                     "totalPlayers": 4,
                     "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "# Sm5 Uka",
+                    "gameName": "Shadows - Solo",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 6,
+                    "totalPlayers": 9,
+                    "starsForGame": "13.50"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                }
+            ]
+        },
+        {
+            "JSID": 13,
+            "Name": "Agent Jaikei",
+            "StarQualityPerGame": "9.22",
+            "TotalStarQuality": "83.00",
+            "AverageOpponents": "5.22",
+            "gamesPlayed": 9,
+            "AverageRank": "3.78",
+            "ChangeInRank": "\u21913.11",
+            "ChangeInPlayers": "\u21936.00",
+            "ChangeInSQPerGame": "\u219310.58",
+            "breakdown": [
+                {
+                    "gameName": "Backstabber",
+                    "rank": 2,
+                    "totalPlayers": 3,
+                    "starsForGame": "4.50"
+                },
+                {
+                    "gameName": "LaserBall Classic",
                     "rank": 4,
                     "totalPlayers": 5,
                     "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 4,
+                    "totalPlayers": 8,
+                    "starsForGame": "16.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 8,
+                    "totalPlayers": 8,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                }
+            ]
+        },
+        {
+            "JSID": 14,
+            "Name": "Mini Mjolnir",
+            "StarQualityPerGame": "8.63",
+            "TotalStarQuality": "51.77",
+            "AverageOpponents": "5.83",
+            "gamesPlayed": 6,
+            "AverageRank": "4.33",
+            "ChangeInRank": "\u21930.38",
+            "ChangeInPlayers": "\u21911.13",
+            "ChangeInSQPerGame": "\u21912.49",
+            "breakdown": [
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 5,
+                    "totalPlayers": 8,
+                    "starsForGame": "12.80"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 7,
+                    "totalPlayers": 8,
+                    "starsForGame": "9.14"
                 },
                 {
                     "gameName": "LaserBall Classic",
@@ -1195,321 +1041,641 @@
                     "starsForGame": "8.33"
                 },
                 {
-                    "gameName": "LaserBall Classic",
+                    "gameName": "BaseFlags",
                     "rank": 4,
                     "totalPlayers": 5,
                     "starsForGame": "6.25"
                 },
                 {
-                    "gameName": "DM 3 (Team)",
-                    "rank": 1,
-                    "totalPlayers": 3,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 1,
-                    "totalPlayers": 6,
-                    "starsForGame": "36.00"
-                },
-                {
-                    "gameName": "Escape",
+                    "gameName": "Shadows - Solo",
                     "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
                 },
+                {
+                    "gameName": "Infection",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                }
+            ]
+        },
+        {
+            "JSID": 15,
+            "Name": "Iceball",
+            "StarQualityPerGame": "7.55",
+            "TotalStarQuality": "30.20",
+            "AverageOpponents": "3.75",
+            "gamesPlayed": 4,
+            "AverageRank": "2.25",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
                 {
                     "gameName": "Borg",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "BaseFlags",
-                    "rank": 2,
-                    "totalPlayers": 6,
-                    "starsForGame": "18.00"
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 },
                 {
-                    "gameName": "BaseFlags",
+                    "gameName": "Mayhem - Solo",
                     "rank": 5,
                     "totalPlayers": 6,
                     "starsForGame": "7.20"
                 },
                 {
-                    "gameName": "- Standard [2 Team] (15)",
+                    "gameName": "Standard - Solo",
                     "rank": 2,
                     "totalPlayers": 6,
                     "starsForGame": "18.00"
+                }
+            ]
+        },
+        {
+            "JSID": 16,
+            "Name": "Isaac",
+            "StarQualityPerGame": "7.50",
+            "TotalStarQuality": "15.00",
+            "AverageOpponents": "6.00",
+            "gamesPlayed": 2,
+            "AverageRank": "5.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
                 },
                 {
                     "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
                 }
             ]
         },
         {
             "JSID": 17,
-            "Name": "Edward",
-            "StarQualityPerGame": "15.50",
-            "TotalStarQuality": "46.50",
-            "AverageOpponents": "4.33",
-            "gamesPlayed": 3,
-            "AverageRank": "1.33",
-            "ChangeInRank": "\u21930.08",
-            "ChangeInPlayers": "\u21912.83",
-            "ChangeInSQPerGame": "\u219113.50",
+            "Name": "Swid",
+            "StarQualityPerGame": "7.39",
+            "TotalStarQuality": "118.29",
+            "AverageOpponents": "5.38",
+            "gamesPlayed": 16,
+            "AverageRank": "4.13",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 1,
-                    "totalPlayers": 3,
-                    "starsForGame": "9.00"
+                    "gameName": "Huntsman",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
                 },
                 {
-                    "gameName": "Standard - Team",
+                    "gameName": "Immortals",
+                    "rank": 2,
+                    "totalPlayers": 4,
+                    "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "BaseFlags",
                     "rank": 2,
                     "totalPlayers": 5,
                     "starsForGame": "12.50"
                 },
                 {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
+                    "gameName": "BaseFlags",
+                    "rank": 4,
                     "totalPlayers": 5,
-                    "starsForGame": "25.00"
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 8,
+                    "totalPlayers": 9,
+                    "starsForGame": "10.13"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 4,
+                    "totalPlayers": 6,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 3,
+                    "totalPlayers": 6,
+                    "starsForGame": "12.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 6,
+                    "totalPlayers": 6,
+                    "starsForGame": "6.00"
                 }
             ]
         },
         {
             "JSID": 18,
-            "Name": "Entity",
-            "StarQualityPerGame": "14.32",
-            "TotalStarQuality": "28.64",
-            "AverageOpponents": "8.00",
-            "gamesPlayed": 2,
-            "AverageRank": "4.50",
-            "ChangeInRank": "\u21910.10",
-            "ChangeInPlayers": "\u21930.20",
-            "ChangeInSQPerGame": "\u21938.25",
+            "Name": "AJJedi",
+            "StarQualityPerGame": "6.58",
+            "TotalStarQuality": "39.49",
+            "AverageOpponents": "3.67",
+            "gamesPlayed": 6,
+            "AverageRank": "2.17",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 7,
-                    "totalPlayers": 13,
-                    "starsForGame": "24.14"
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
                 },
                 {
-                    "gameName": "DM 3 (Team)",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
+                    "gameName": "Mayhem - Team",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 }
             ]
         },
         {
             "JSID": 19,
-            "Name": "Unagi",
-            "StarQualityPerGame": "14.00",
-            "TotalStarQuality": "42.00",
-            "AverageOpponents": "8.00",
-            "gamesPlayed": 3,
-            "AverageRank": "5.33",
-            "ChangeInRank": "\u21930.03",
-            "ChangeInPlayers": "\u21910.31",
-            "ChangeInSQPerGame": "\u21930.22",
-            "breakdown": [
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 6,
-                    "totalPlayers": 6,
-                    "starsForGame": "6.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 5,
-                    "totalPlayers": 6,
-                    "starsForGame": "7.20"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 5,
-                    "totalPlayers": 12,
-                    "starsForGame": "28.80"
-                }
-            ]
-        },
-        {
-            "JSID": 20,
-            "Name": "Monster",
-            "StarQualityPerGame": "11.47",
-            "TotalStarQuality": "263.83",
-            "AverageOpponents": "4.39",
-            "gamesPlayed": 23,
-            "AverageRank": "2.04",
+            "Name": "Awesomer",
+            "StarQualityPerGame": "5.74",
+            "TotalStarQuality": "137.83",
+            "AverageOpponents": "4.29",
+            "gamesPlayed": 24,
+            "AverageRank": "3.50",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "LaserBall Classic",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
                     "rank": 1,
                     "totalPlayers": 2,
                     "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
                     "gameName": "LaserBall Classic",
                     "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
-                    "gameName": "# Sm5 Uka",
+                    "gameName": "Infection",
                     "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
-                    "gameName": "# Sm5 Uka",
+                    "gameName": "BaseFlags",
                     "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
-                    "gameName": "LaserBall Classic",
+                    "gameName": "Highlander - Team",
                     "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
-                    "gameName": "LaserBall Classic",
+                    "gameName": "Highlander - Solo",
                     "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "Backstabber",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 4,
-                    "totalPlayers": 4,
+                    "totalPlayers": 2,
                     "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "DM 3 (Team)",
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Highlander - Solo",
                     "rank": 3,
                     "totalPlayers": 3,
                     "starsForGame": "3.00"
                 },
                 {
-                    "gameName": "Escape",
-                    "rank": 3,
-                    "totalPlayers": 6,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 3,
-                    "totalPlayers": 6,
-                    "starsForGame": "12.00"
-                },
-                {
-                    "gameName": "Borg",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "BaseFlags",
+                    "gameName": "Huntsman",
                     "rank": 4,
-                    "totalPlayers": 6,
-                    "starsForGame": "9.00"
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Immortals",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
                 },
                 {
                     "gameName": "BaseFlags",
                     "rank": 2,
-                    "totalPlayers": 6,
-                    "starsForGame": "18.00"
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
                 },
                 {
-                    "gameName": "- Standard [2 Team] (15)",
+                    "gameName": "Shadows - Solo",
+                    "rank": 3,
+                    "totalPlayers": 5,
+                    "starsForGame": "8.33"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 5,
+                    "starsForGame": "12.50"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 7,
+                    "totalPlayers": 9,
+                    "starsForGame": "11.57"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
                     "rank": 4,
                     "totalPlayers": 6,
                     "starsForGame": "9.00"
                 },
                 {
                     "gameName": "Standard - Solo",
+                    "rank": 5,
+                    "totalPlayers": 6,
+                    "starsForGame": "7.20"
+                }
+            ]
+        },
+        {
+            "JSID": 20,
+            "Name": "Silly Bunny",
+            "StarQualityPerGame": "5.53",
+            "TotalStarQuality": "55.25",
+            "AverageOpponents": "3.20",
+            "gamesPlayed": 10,
+            "AverageRank": "2.20",
+            "ChangeInRank": "\u21912.30",
+            "ChangeInPlayers": "\u21936.50",
+            "ChangeInSQPerGame": "\u219330.80",
+            "breakdown": [
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 1,
+                    "totalPlayers": 3,
+                    "starsForGame": "9.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "- Standard [2 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "BaseFlags",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Immortals",
                     "rank": 2,
                     "totalPlayers": 4,
                     "starsForGame": "8.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 9,
+                    "totalPlayers": 9,
+                    "starsForGame": "9.00"
                 }
             ]
         },
         {
             "JSID": 21,
-            "Name": " TheLethalKoala",
-            "StarQualityPerGame": "11.38",
-            "TotalStarQuality": "45.50",
-            "AverageOpponents": "4.00",
-            "gamesPlayed": 4,
-            "AverageRank": "1.75",
+            "Name": " Phaser Finn",
+            "StarQualityPerGame": "5.17",
+            "TotalStarQuality": "51.74",
+            "AverageOpponents": "4.40",
+            "gamesPlayed": 10,
+            "AverageRank": "3.80",
+            "ChangeInRank": "\u21910.20",
+            "ChangeInPlayers": "\u21910.07",
+            "ChangeInSQPerGame": "\u21910.40",
+            "breakdown": [
+                {
+                    "gameName": "Infection",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Mayhem - Team",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 22,
+            "Name": "Laser Izzy",
+            "StarQualityPerGame": "4.92",
+            "TotalStarQuality": "49.24",
+            "AverageOpponents": "4.40",
+            "gamesPlayed": 10,
+            "AverageRank": "4.00",
+            "ChangeInRank": "\u21930.60",
+            "ChangeInPlayers": "\u21910.20",
+            "ChangeInSQPerGame": "\u21930.46",
+            "breakdown": [
+                {
+                    "gameName": "Infection",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Mayhem - Team",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 5,
+                    "totalPlayers": 5,
+                    "starsForGame": "5.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 4,
+                    "totalPlayers": 5,
+                    "starsForGame": "6.25"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 4,
+                    "totalPlayers": 4,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 3,
+                    "totalPlayers": 4,
+                    "starsForGame": "5.33"
+                }
+            ]
+        },
+        {
+            "JSID": 23,
+            "Name": "Peely",
+            "StarQualityPerGame": "3.75",
+            "TotalStarQuality": "7.50",
+            "AverageOpponents": "3.00",
+            "gamesPlayed": 2,
+            "AverageRank": "2.50",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
-                {
-                    "gameName": "Infection",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
                 {
                     "gameName": "Mayhem - Solo",
                     "rank": 2,
@@ -1518,449 +1684,437 @@
                 },
                 {
                     "gameName": "Standard - Team",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                }
-            ]
-        },
-        {
-            "JSID": 22,
-            "Name": "William",
-            "StarQualityPerGame": "11.33",
-            "TotalStarQuality": "45.33",
-            "AverageOpponents": "4.00",
-            "gamesPlayed": 4,
-            "AverageRank": "1.75",
-            "ChangeInRank": "\u21930.50",
-            "ChangeInPlayers": "\u21912.50",
-            "ChangeInSQPerGame": "\u21919.33",
-            "breakdown": [
-                {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
                     "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                }
-            ]
-        },
-        {
-            "JSID": 23,
-            "Name": "Bigdog",
-            "StarQualityPerGame": "9.38",
-            "TotalStarQuality": "18.75",
-            "AverageOpponents": "5.00",
-            "gamesPlayed": 2,
-            "AverageRank": "3.00",
-            "ChangeInRank": "\u21931.25",
-            "ChangeInPlayers": "\u21911.00",
-            "ChangeInSQPerGame": "\u21931.96",
-            "breakdown": [
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
+                    "totalPlayers": 3,
+                    "starsForGame": "3.00"
                 }
             ]
         },
         {
             "JSID": 24,
-            "Name": "Sweaty",
-            "StarQualityPerGame": "9.33",
-            "TotalStarQuality": "65.32",
-            "AverageOpponents": "4.57",
+            "Name": "Buzzard Hawk",
+            "StarQualityPerGame": "3.57",
+            "TotalStarQuality": "25.00",
+            "AverageOpponents": "1.86",
             "gamesPlayed": 7,
-            "AverageRank": "2.86",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
+            "AverageRank": "1.00",
+            "ChangeInRank": "\u21930.00",
+            "ChangeInPlayers": "\u21930.14",
+            "ChangeInSQPerGame": "\u21930.43",
             "breakdown": [
                 {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "LaserBall Classic",
+                    "gameName": "Infection",
                     "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "LaserBall Classic",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
+                    "gameName": "Shadows - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 },
                 {
-                    "gameName": "Backstabber",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "Escape",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "Escape",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
+                    "gameName": "Mayhem - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "- Standard [2 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 }
             ]
         },
         {
             "JSID": 25,
-            "Name": "Blake",
-            "StarQualityPerGame": "7.50",
-            "TotalStarQuality": "30.00",
-            "AverageOpponents": "5.00",
+            "Name": "George",
+            "StarQualityPerGame": "3.50",
+            "TotalStarQuality": "14.00",
+            "AverageOpponents": "2.00",
             "gamesPlayed": 4,
-            "AverageRank": "3.75",
+            "AverageRank": "1.25",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "Infection",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 },
                 {
                     "gameName": "Mayhem - Solo",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
+                    "gameName": "Standard - Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 },
                 {
                     "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 }
             ]
         },
         {
             "JSID": 26,
-            "Name": "L L",
-            "StarQualityPerGame": "6.88",
-            "TotalStarQuality": "27.50",
-            "AverageOpponents": "5.00",
-            "gamesPlayed": 4,
-            "AverageRank": "4.25",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
+            "Name": "Exup",
+            "StarQualityPerGame": "3.00",
+            "TotalStarQuality": "6.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 2,
+            "AverageRank": "1.50",
+            "ChangeInRank": "\u21910.25",
+            "ChangeInPlayers": "\u21910.25",
+            "ChangeInSQPerGame": "\u21911.25",
             "breakdown": [
                 {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 },
                 {
                     "gameName": "Standard - Solo",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 }
             ]
         },
         {
             "JSID": 27,
-            "Name": "Target",
-            "StarQualityPerGame": "6.22",
-            "TotalStarQuality": "37.33",
-            "AverageOpponents": "4.00",
-            "gamesPlayed": 6,
-            "AverageRank": "2.83",
+            "Name": "Ethan",
+            "StarQualityPerGame": "3.00",
+            "TotalStarQuality": "6.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 2,
+            "AverageRank": "1.50",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
                     "gameName": "Mayhem - Solo",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
                     "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
                     "gameName": "Standard - Solo",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
                 }
             ]
         },
         {
             "JSID": 28,
-            "Name": "Mini Mjolnir",
-            "StarQualityPerGame": "6.20",
-            "TotalStarQuality": "123.94",
-            "AverageOpponents": "4.70",
-            "gamesPlayed": 20,
-            "AverageRank": "3.90",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
+            "Name": "Glycogen",
+            "StarQualityPerGame": "3.00",
+            "TotalStarQuality": "6.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 2,
+            "AverageRank": "1.50",
+            "ChangeInRank": "\u21930.50",
+            "ChangeInPlayers": "\u21930.00",
+            "ChangeInSQPerGame": "\u21931.00",
             "breakdown": [
                 {
-                    "gameName": "LaserBall Classic",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "Escape",
+                    "gameName": "Standard [3 Team] (15)",
                     "rank": 2,
                     "totalPlayers": 2,
                     "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "Backstabber",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 6,
-                    "totalPlayers": 6,
-                    "starsForGame": "6.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 6,
-                    "totalPlayers": 6,
-                    "starsForGame": "6.00"
-                },
-                {
-                    "gameName": "Borg",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 5,
-                    "totalPlayers": 6,
-                    "starsForGame": "7.20"
-                },
-                {
-                    "gameName": "BaseFlags",
-                    "rank": 6,
-                    "totalPlayers": 6,
-                    "starsForGame": "6.00"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 6,
-                    "totalPlayers": 6,
-                    "starsForGame": "6.00"
                 },
                 {
                     "gameName": "Standard - Solo",
-                    "rank": 4,
-                    "totalPlayers": 4,
+                    "rank": 1,
+                    "totalPlayers": 2,
                     "starsForGame": "4.00"
                 }
             ]
         },
         {
             "JSID": 29,
-            "Name": "Gladiator",
-            "StarQualityPerGame": "6.00",
-            "TotalStarQuality": "30.00",
-            "AverageOpponents": "3.00",
-            "gamesPlayed": 5,
-            "AverageRank": "1.80",
+            "Name": "Isaac",
+            "StarQualityPerGame": "3.00",
+            "TotalStarQuality": "12.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 4,
+            "AverageRank": "1.50",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "Borg",
+                    "gameName": "Highlander - Solo",
                     "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
                     "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 30,
+            "Name": "Little_Bunny",
+            "StarQualityPerGame": "2.70",
+            "TotalStarQuality": "13.50",
+            "AverageOpponents": "2.40",
+            "gamesPlayed": 5,
+            "AverageRank": "2.20",
+            "ChangeInRank": "\u21911.55",
+            "ChangeInPlayers": "\u21932.60",
+            "ChangeInSQPerGame": "\u21935.61",
+            "breakdown": [
+                {
+                    "gameName": "Mayhem - Solo",
                     "rank": 3,
                     "totalPlayers": 3,
                     "starsForGame": "3.00"
                 },
                 {
                     "gameName": "Standard - Team",
-                    "rank": 1,
+                    "rank": 2,
                     "totalPlayers": 3,
-                    "starsForGame": "9.00"
+                    "starsForGame": "4.50"
                 },
                 {
                     "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 3,
-                    "starsForGame": "9.00"
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 }
             ]
         },
         {
-            "JSID": 30,
-            "Name": "DeathMarines",
-            "StarQualityPerGame": "5.70",
-            "TotalStarQuality": "28.50",
-            "AverageOpponents": "3.00",
-            "gamesPlayed": 5,
+            "JSID": 31,
+            "Name": "Jacob",
+            "StarQualityPerGame": "2.67",
+            "TotalStarQuality": "8.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 3,
+            "AverageRank": "1.67",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Mayhem - Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 32,
+            "Name": "Josh",
+            "StarQualityPerGame": "2.50",
+            "TotalStarQuality": "5.00",
+            "AverageOpponents": "1.50",
+            "gamesPlayed": 2,
+            "AverageRank": "1.00",
+            "ChangeInRank": "\u21930.00",
+            "ChangeInPlayers": "\u21910.50",
+            "ChangeInSQPerGame": "\u21911.50",
+            "breakdown": [
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 33,
+            "Name": "Thomas",
+            "StarQualityPerGame": "2.17",
+            "TotalStarQuality": "13.00",
+            "AverageOpponents": "1.50",
+            "gamesPlayed": 6,
+            "AverageRank": "1.17",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Borg",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Mayhem - Team",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 34,
+            "Name": "Elliot",
+            "StarQualityPerGame": "2.14",
+            "TotalStarQuality": "15.00",
+            "AverageOpponents": "1.57",
+            "gamesPlayed": 7,
+            "AverageRank": "1.29",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Highlander - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard [3 Team] (15)",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 2,
+                    "starsForGame": "4.00"
+                }
+            ]
+        },
+        {
+            "JSID": 35,
+            "Name": "_x1r1_",
+            "StarQualityPerGame": "2.00",
+            "TotalStarQuality": "4.00",
+            "AverageOpponents": "2.00",
+            "gamesPlayed": 2,
             "AverageRank": "2.00",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
@@ -1968,558 +2122,30 @@
             "breakdown": [
                 {
                     "gameName": "Borg",
-                    "rank": 1,
-                    "totalPlayers": 3,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 1,
-                    "totalPlayers": 3,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 3,
-                    "totalPlayers": 3,
-                    "starsForGame": "3.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 3,
-                    "totalPlayers": 3,
-                    "starsForGame": "3.00"
-                }
-            ]
-        },
-        {
-            "JSID": 31,
-            "Name": "Laser Izzy",
-            "StarQualityPerGame": "5.38",
-            "TotalStarQuality": "26.91",
-            "AverageOpponents": "4.20",
-            "gamesPlayed": 5,
-            "AverageRank": "3.40",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Infection",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 3,
-                    "totalPlayers": 3,
-                    "starsForGame": "3.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
-                }
-            ]
-        },
-        {
-            "JSID": 32,
-            "Name": "Damon",
-            "StarQualityPerGame": "4.82",
-            "TotalStarQuality": "125.24",
-            "AverageOpponents": "2.92",
-            "gamesPlayed": 26,
-            "AverageRank": "2.23",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Backstabber",
                     "rank": 2,
                     "totalPlayers": 2,
                     "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Tag Test",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 1,
-                    "totalPlayers": 5,
-                    "starsForGame": "25.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 3,
-                    "totalPlayers": 5,
-                    "starsForGame": "8.33"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
                 },
                 {
                     "gameName": "Standard [3 Team] (15)",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "# Sm5 Uka",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "Backstabber",
-                    "rank": 2,
-                    "totalPlayers": 4,
-                    "starsForGame": "8.00"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                },
-                {
-                    "gameName": "Escape",
-                    "rank": 1,
-                    "totalPlayers": 4,
-                    "starsForGame": "16.00"
-                },
-                {
-                    "gameName": "Borg",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Backstabber",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Shadows - Solo",
                     "rank": 2,
                     "totalPlayers": 2,
                     "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                }
-            ]
-        },
-        {
-            "JSID": 33,
-            "Name": "Sam",
-            "StarQualityPerGame": "4.80",
-            "TotalStarQuality": "24.00",
-            "AverageOpponents": "3.00",
-            "gamesPlayed": 5,
-            "AverageRank": "2.20",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Borg",
-                    "rank": 3,
-                    "totalPlayers": 3,
-                    "starsForGame": "3.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 3,
-                    "totalPlayers": 3,
-                    "starsForGame": "3.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 1,
-                    "totalPlayers": 3,
-                    "starsForGame": "9.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 3,
-                    "starsForGame": "4.50"
-                }
-            ]
-        },
-        {
-            "JSID": 34,
-            "Name": " Phaser Finn",
-            "StarQualityPerGame": "4.78",
-            "TotalStarQuality": "14.33",
-            "AverageOpponents": "4.33",
-            "gamesPlayed": 3,
-            "AverageRank": "4.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Infection",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                }
-            ]
-        },
-        {
-            "JSID": 35,
-            "Name": "Blue_Ninja",
-            "StarQualityPerGame": "4.63",
-            "TotalStarQuality": "18.50",
-            "AverageOpponents": "4.00",
-            "gamesPlayed": 4,
-            "AverageRank": "3.50",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Infection",
-                    "rank": 4,
-                    "totalPlayers": 4,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 4,
-                    "totalPlayers": 5,
-                    "starsForGame": "6.25"
                 }
             ]
         },
         {
             "JSID": 36,
-            "Name": "GamingMaster 72",
-            "StarQualityPerGame": "4.58",
-            "TotalStarQuality": "18.33",
-            "AverageOpponents": "4.25",
-            "gamesPlayed": 4,
-            "AverageRank": "4.00",
+            "Name": "Hagster",
+            "StarQualityPerGame": "2.00",
+            "TotalStarQuality": "10.00",
+            "AverageOpponents": "1.60",
+            "gamesPlayed": 5,
+            "AverageRank": "1.40",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
             "breakdown": [
-                {
-                    "gameName": "Infection",
-                    "rank": 3,
-                    "totalPlayers": 4,
-                    "starsForGame": "5.33"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 3,
-                    "totalPlayers": 3,
-                    "starsForGame": "3.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 5,
-                    "totalPlayers": 5,
-                    "starsForGame": "5.00"
-                }
-            ]
-        },
-        {
-            "JSID": 37,
-            "Name": "Taylor",
-            "StarQualityPerGame": "4.00",
-            "TotalStarQuality": "24.00",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 6,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                }
-            ]
-        },
-        {
-            "JSID": 38,
-            "Name": "Gang, Gang, X",
-            "StarQualityPerGame": "4.00",
-            "TotalStarQuality": "12.00",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 3,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Infection [Team] ",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                }
-            ]
-        },
-        {
-            "JSID": 39,
-            "Name": "Glycogen",
-            "StarQualityPerGame": "4.00",
-            "TotalStarQuality": "12.00",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 3,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                }
-            ]
-        },
-        {
-            "JSID": 40,
-            "Name": "Buzzard Hawk",
-            "StarQualityPerGame": "4.00",
-            "TotalStarQuality": "48.00",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 12,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Infection",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
-                },
                 {
                     "gameName": "Mayhem - Solo",
                     "rank": 1,
@@ -2529,20 +2155,102 @@
                 {
                     "gameName": "Standard [3 Team] (10)",
                     "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 },
                 {
                     "gameName": "Standard - Solo",
-                    "rank": 1,
+                    "rank": 2,
                     "totalPlayers": 2,
-                    "starsForGame": "4.00"
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "- Standard [2 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 37,
+            "Name": "Kieran",
+            "StarQualityPerGame": "1.86",
+            "TotalStarQuality": "13.00",
+            "AverageOpponents": "1.86",
+            "gamesPlayed": 7,
+            "AverageRank": "1.86",
+            "ChangeInRank": "\u21910.14",
+            "ChangeInPlayers": "\u21930.14",
+            "ChangeInSQPerGame": "\u21930.14",
+            "breakdown": [
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Shadows - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
                     "gameName": "Infection",
-                    "rank": 1,
+                    "rank": 2,
                     "totalPlayers": 2,
-                    "starsForGame": "4.00"
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "- Standard [2 Team] (15)",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 38,
+            "Name": "Thomas",
+            "StarQualityPerGame": "1.75",
+            "TotalStarQuality": "14.00",
+            "AverageOpponents": "1.50",
+            "gamesPlayed": 8,
+            "AverageRank": "1.38",
+            "ChangeInRank": "\u21912.96",
+            "ChangeInPlayers": "\u21932.83",
+            "ChangeInSQPerGame": "\u21932.58",
+            "breakdown": [
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
                 },
                 {
                     "gameName": "Mayhem - Solo",
@@ -2551,25 +2259,75 @@
                     "starsForGame": "4.00"
                 },
                 {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 1,
+                    "gameName": "Standard - Team",
+                    "rank": 2,
                     "totalPlayers": 2,
-                    "starsForGame": "4.00"
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Mayhem - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "- Standard [2 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 },
                 {
                     "gameName": "Standard - Solo",
                     "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 }
             ]
         },
         {
-            "JSID": 41,
-            "Name": "The Missile ",
-            "StarQualityPerGame": "2.50",
-            "TotalStarQuality": "10.00",
-            "AverageOpponents": "1.50",
+            "JSID": 39,
+            "Name": "Scrappy Kitten",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "2.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 2,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "- Standard [2 Team] (15)",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 40,
+            "Name": "Jacob B",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "4.00",
+            "AverageOpponents": "1.00",
             "gamesPlayed": 4,
             "AverageRank": "1.00",
             "ChangeInRank": null,
@@ -2577,19 +2335,45 @@
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "Infection",
+                    "gameName": "Infection [Team] ",
                     "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 },
                 {
                     "gameName": "Standard - Solo",
                     "rank": 1,
-                    "totalPlayers": 2,
-                    "starsForGame": "4.00"
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
                 },
                 {
-                    "gameName": "Standard [3 Team] (15)",
+                    "gameName": "Standard - Solo",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 41,
+            "Name": "Max",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "2.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 2,
+            "AverageRank": "1.00",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "- Standard [2 Team] (15)",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
@@ -2604,213 +2388,7 @@
         },
         {
             "JSID": 42,
-            "Name": "Alfie",
-            "StarQualityPerGame": "2.00",
-            "TotalStarQuality": "12.00",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 6,
-            "AverageRank": "2.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                }
-            ]
-        },
-        {
-            "JSID": 43,
-            "Name": "Kieran",
-            "StarQualityPerGame": "2.00",
-            "TotalStarQuality": "24.00",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 12,
-            "AverageRank": "2.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard [3 Team] (10)",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Mayhem - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                }
-            ]
-        },
-        {
-            "JSID": 44,
-            "Name": "Junaid",
-            "StarQualityPerGame": "2.00",
-            "TotalStarQuality": "6.00",
-            "AverageOpponents": "2.00",
-            "gamesPlayed": 3,
-            "AverageRank": "2.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Infection [Team] ",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                }
-            ]
-        },
-        {
-            "JSID": 45,
-            "Name": "Exup",
-            "StarQualityPerGame": "1.75",
-            "TotalStarQuality": "7.00",
-            "AverageOpponents": "1.75",
-            "gamesPlayed": 4,
-            "AverageRank": "1.75",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard [3 Team] (15)",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                },
-                {
-                    "gameName": "Standard - Solo",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "- Standard [2 Team] (15)",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                }
-            ]
-        },
-        {
-            "JSID": 46,
-            "Name": "Plauge Lord ",
+            "Name": "Xander",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "2.00",
             "AverageOpponents": "1.00",
@@ -2821,7 +2399,7 @@
             "ChangeInSQPerGame": null,
             "breakdown": [
                 {
-                    "gameName": "Standard [3 Team] (15)",
+                    "gameName": "- Standard [2 Team] (15)",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"
@@ -2835,16 +2413,36 @@
             ]
         },
         {
-            "JSID": 47,
+            "JSID": 43,
             "Name": "Kian",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "1.00",
             "AverageOpponents": "1.00",
             "gamesPlayed": 1,
             "AverageRank": "1.00",
-            "ChangeInRank": "\u21912.75",
-            "ChangeInPlayers": "\u21933.00",
-            "ChangeInSQPerGame": "\u21933.33",
+            "ChangeInRank": "\u21930.00",
+            "ChangeInPlayers": "\u21930.00",
+            "ChangeInSQPerGame": "\u21930.00",
+            "breakdown": [
+                {
+                    "gameName": "DM 3 (Team)",
+                    "rank": 1,
+                    "totalPlayers": 1,
+                    "starsForGame": "1.00"
+                }
+            ]
+        },
+        {
+            "JSID": 44,
+            "Name": "Junaid",
+            "StarQualityPerGame": "1.00",
+            "TotalStarQuality": "1.00",
+            "AverageOpponents": "1.00",
+            "gamesPlayed": 1,
+            "AverageRank": "1.00",
+            "ChangeInRank": "\u21911.00",
+            "ChangeInPlayers": "\u21931.00",
+            "ChangeInSQPerGame": "\u21931.00",
             "breakdown": [
                 {
                     "gameName": "Standard - Solo",
@@ -2855,16 +2453,16 @@
             ]
         },
         {
-            "JSID": 48,
-            "Name": "Sebastian",
+            "JSID": 45,
+            "Name": "Pink_Imie Girl",
             "StarQualityPerGame": "1.00",
             "TotalStarQuality": "2.00",
             "AverageOpponents": "1.00",
             "gamesPlayed": 2,
             "AverageRank": "1.00",
-            "ChangeInRank": "\u21910.75",
-            "ChangeInPlayers": "\u21931.00",
-            "ChangeInSQPerGame": "\u21931.50",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
             "breakdown": [
                 {
                     "gameName": "Standard - Solo",
@@ -2874,26 +2472,6 @@
                 },
                 {
                     "gameName": "Standard [3 Team] (15)",
-                    "rank": 1,
-                    "totalPlayers": 1,
-                    "starsForGame": "1.00"
-                }
-            ]
-        },
-        {
-            "JSID": 49,
-            "Name": "Leo",
-            "StarQualityPerGame": "1.00",
-            "TotalStarQuality": "1.00",
-            "AverageOpponents": "1.00",
-            "gamesPlayed": 1,
-            "AverageRank": "1.00",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Standard - Solo",
                     "rank": 1,
                     "totalPlayers": 1,
                     "starsForGame": "1.00"

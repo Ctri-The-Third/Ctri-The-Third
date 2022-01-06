@@ -1,121 +1,175 @@
 {
-    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2021-12-01 and 2021-11-01",
-    "ScoreGreaterOrEqualDate": "2021-11-01",
-    "ScoreLessDate": "2021-12-01",
+    "ScoreTitle": "Average Scores for known players, in Standard Games, between 2022-01-01 and 2021-12-01",
+    "ScoreGreaterOrEqualDate": "2021-12-01",
+    "ScoreLessDate": "2022-01-01",
     "Player": [
         {},
         {
-            "Name": "Ninjashyper",
-            "AverageScore": 17918,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Oliver",
-            "AverageScore": 17758,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Destroyer",
-            "AverageScore": 14486,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Szabo",
-            "AverageScore": 14466,
-            "MissionsPlayed": 4,
-            "ChangeInScore": "\u21915151.83"
-        },
-        {
-            "Name": "Kanstro",
-            "AverageScore": 14132,
-            "MissionsPlayed": 7,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "HeroBrother",
-            "AverageScore": 13808,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Queen",
-            "AverageScore": 13498,
-            "MissionsPlayed": 4,
-            "ChangeInScore": "\u21912144.92"
-        },
-        {
-            "Name": "The Accountant",
-            "AverageScore": 13449,
-            "MissionsPlayed": 4,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Natsudragneel",
-            "AverageScore": 12852,
-            "MissionsPlayed": 7,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Ryze",
-            "AverageScore": 12394,
+            "Name": "(Apollo)",
+            "AverageScore": 26563,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
+            "Name": "Morokei",
+            "AverageScore": 20274,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Tess",
+            "AverageScore": 18100,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Raging Bull",
+            "AverageScore": 17386,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "R8bob",
+            "AverageScore": 16547,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Krosis",
+            "AverageScore": 15830,
+            "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "The Accountant",
+            "AverageScore": 15829,
+            "MissionsPlayed": 8,
+            "ChangeInScore": "\u21912380.75"
+        },
+        {
+            "Name": "Natsudragneel",
+            "AverageScore": 15524,
+            "MissionsPlayed": 5,
+            "ChangeInScore": "\u21912672.20"
+        },
+        {
             "Name": "Dylon",
-            "AverageScore": 12003,
+            "AverageScore": 15173,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21913170.00"
+        },
+        {
+            "Name": "Corey",
+            "AverageScore": 15064,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "SilentDestroyer",
+            "AverageScore": 15016,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "demonukeYT",
+            "AverageScore": 14366,
+            "MissionsPlayed": 5,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Glibin",
+            "AverageScore": 13745,
+            "MissionsPlayed": 5,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Szabo",
+            "AverageScore": 13353,
+            "MissionsPlayed": 8,
+            "ChangeInScore": "\u21931113.50"
+        },
+        {
+            "Name": "Queen",
+            "AverageScore": 13216,
+            "MissionsPlayed": 8,
+            "ChangeInScore": "\u2193282.00"
+        },
+        {
+            "Name": "Destroyer",
+            "AverageScore": 12340,
+            "MissionsPlayed": 8,
+            "ChangeInScore": "\u21932146.50"
+        },
+        {
+            "Name": "Muppet",
+            "AverageScore": 12266,
+            "MissionsPlayed": 3,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "HeroBrother",
+            "AverageScore": 11362,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21932445.50"
+        },
+        {
+            "Name": "Mav",
+            "AverageScore": 10832,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Killa",
+            "AverageScore": 10573,
             "MissionsPlayed": 1,
             "ChangeInScore": null
         },
         {
             "Name": "Octo-Oli",
-            "AverageScore": 11004,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Jb",
-            "AverageScore": 9654,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Emoji Man",
-            "AverageScore": 9572,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "The Destroyer",
-            "AverageScore": 9192,
-            "MissionsPlayed": 2,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "LaserMaster",
-            "AverageScore": 8984,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Blaze",
-            "AverageScore": 7554,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
-        },
-        {
-            "Name": "Yuzucat",
-            "AverageScore": 7184,
-            "MissionsPlayed": 1,
-            "ChangeInScore": null
+            "AverageScore": 10457,
+            "MissionsPlayed": 3,
+            "ChangeInScore": "\u2193546.50"
         },
         {
             "Name": "Octo-B2J",
-            "AverageScore": 6527,
+            "AverageScore": 9887,
+            "MissionsPlayed": 3,
+            "ChangeInScore": "\u21913360.17"
+        },
+        {
+            "Name": "Tilly",
+            "AverageScore": 9711,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Kanstro",
+            "AverageScore": 9492,
+            "MissionsPlayed": 1,
+            "ChangeInScore": "\u21934640.43"
+        },
+        {
+            "Name": "Dukaan",
+            "AverageScore": 9413,
             "MissionsPlayed": 2,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Alky",
+            "AverageScore": 7690,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Laser X Monkey",
+            "AverageScore": 6063,
+            "MissionsPlayed": 1,
+            "ChangeInScore": null
+        },
+        {
+            "Name": "Battle Hawk",
+            "AverageScore": 5311,
+            "MissionsPlayed": 1,
             "ChangeInScore": null
         }
     ]
