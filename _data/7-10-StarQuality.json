@@ -45,26 +45,26 @@
         {
             "JSID": 1,
             "Name": "-=Valroc=-",
-            "StarQualityPerGame": "77.28",
-            "TotalStarQuality": "1777.46",
+            "StarQualityPerGame": "76.92",
+            "TotalStarQuality": "1769.13",
             "AverageOpponents": "11.09",
             "gamesPlayed": 23,
-            "AverageRank": "2.78",
-            "ChangeInRank": "\u21931.02",
+            "AverageRank": "2.87",
+            "ChangeInRank": "\u21931.15",
             "ChangeInPlayers": "\u21910.22",
-            "ChangeInSQPerGame": "\u219312.99",
+            "ChangeInSQPerGame": "\u219313.64",
             "breakdown": [
                 {
                     "gameName": "The Ship",
-                    "rank": 4,
+                    "rank": 6,
                     "totalPlayers": 10,
-                    "starsForGame": "25.00"
+                    "starsForGame": "16.67"
                 },
                 {
                     "gameName": "Predator",
-                    "rank": 3,
+                    "rank": 2,
                     "totalPlayers": 7,
-                    "starsForGame": "16.33"
+                    "starsForGame": "24.50"
                 },
                 {
                     "gameName": "The Ship",
@@ -197,14 +197,14 @@
         {
             "JSID": 2,
             "Name": "Unagi",
-            "StarQualityPerGame": "57.09",
-            "TotalStarQuality": "1541.37",
+            "StarQualityPerGame": "54.93",
+            "TotalStarQuality": "1483.22",
             "AverageOpponents": "10.78",
             "gamesPlayed": 27,
             "AverageRank": "3.74",
             "ChangeInRank": "\u21910.62",
             "ChangeInPlayers": "\u21930.18",
-            "ChangeInSQPerGame": "\u219120.84",
+            "ChangeInSQPerGame": "\u219118.69",
             "breakdown": [
                 {
                     "gameName": "LaserBall Classic",
@@ -262,9 +262,9 @@
                 },
                 {
                     "gameName": "Gladiator - Team",
-                    "rank": 7,
+                    "rank": 8,
                     "totalPlayers": 13,
-                    "starsForGame": "24.14"
+                    "starsForGame": "21.13"
                 },
                 {
                     "gameName": "LaserBall Classic",
@@ -334,9 +334,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 8,
+                    "rank": 9,
                     "totalPlayers": 13,
-                    "starsForGame": "21.13"
+                    "starsForGame": "18.78"
                 },
                 {
                     "gameName": "Minions",
@@ -373,14 +373,14 @@
         {
             "JSID": 3,
             "Name": "Entity",
-            "StarQualityPerGame": "41.05",
-            "TotalStarQuality": "205.24",
+            "StarQualityPerGame": "41.48",
+            "TotalStarQuality": "207.42",
             "AverageOpponents": "12.20",
             "gamesPlayed": 5,
-            "AverageRank": "5.40",
-            "ChangeInRank": "\u21931.40",
+            "AverageRank": "5.20",
+            "ChangeInRank": "\u21931.20",
             "ChangeInPlayers": "\u21910.20",
-            "ChangeInSQPerGame": "\u21915.05",
+            "ChangeInSQPerGame": "\u21915.48",
             "breakdown": [
                 {
                     "gameName": "Predator",
@@ -396,15 +396,15 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 10,
+                    "rank": 9,
                     "totalPlayers": 14,
-                    "starsForGame": "19.60"
+                    "starsForGame": "21.78"
                 },
                 {
                     "gameName": "Gladiator - Team",
-                    "rank": 8,
+                    "rank": 7,
                     "totalPlayers": 13,
-                    "starsForGame": "21.13"
+                    "starsForGame": "24.14"
                 },
                 {
                     "gameName": "Minions",
@@ -417,14 +417,14 @@
         {
             "JSID": 4,
             "Name": "Archer",
-            "StarQualityPerGame": "37.74",
-            "TotalStarQuality": "490.66",
+            "StarQualityPerGame": "38.89",
+            "TotalStarQuality": "505.52",
             "AverageOpponents": "11.85",
             "gamesPlayed": 13,
-            "AverageRank": "4.85",
-            "ChangeInRank": "\u21931.28",
+            "AverageRank": "4.62",
+            "ChangeInRank": "\u21931.05",
             "ChangeInPlayers": "\u21912.08",
-            "ChangeInSQPerGame": "\u21932.83",
+            "ChangeInSQPerGame": "\u21931.62",
             "breakdown": [
                 {
                     "gameName": "The Ship",
@@ -434,9 +434,9 @@
                 },
                 {
                     "gameName": "Predator",
-                    "rank": 2,
+                    "rank": 3,
                     "totalPlayers": 7,
-                    "starsForGame": "24.50"
+                    "starsForGame": "16.33"
                 },
                 {
                     "gameName": "The Ship",
@@ -508,15 +508,65 @@
         },
         {
             "JSID": 5,
+            "Name": "Commandoz",
+            "StarQualityPerGame": "36.97",
+            "TotalStarQuality": "221.80",
+            "AverageOpponents": "11.00",
+            "gamesPlayed": 6,
+            "AverageRank": "5.17",
+            "ChangeInRank": null,
+            "ChangeInPlayers": null,
+            "ChangeInSQPerGame": null,
+            "breakdown": [
+                {
+                    "gameName": "Predator",
+                    "rank": 4,
+                    "totalPlayers": 7,
+                    "starsForGame": "12.25"
+                },
+                {
+                    "gameName": "The Ship",
+                    "rank": 1,
+                    "totalPlayers": 5,
+                    "starsForGame": "25.00"
+                },
+                {
+                    "gameName": "Laser Ball (Blu V Yel Red V Green)",
+                    "rank": 2,
+                    "totalPlayers": 13,
+                    "starsForGame": "84.50"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 14,
+                    "starsForGame": "17.82"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 3,
+                    "totalPlayers": 14,
+                    "starsForGame": "65.33"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 10,
+                    "totalPlayers": 13,
+                    "starsForGame": "16.90"
+                }
+            ]
+        },
+        {
+            "JSID": 6,
             "Name": "Damon",
-            "StarQualityPerGame": "37.14",
-            "TotalStarQuality": "1002.80",
+            "StarQualityPerGame": "36.90",
+            "TotalStarQuality": "996.27",
             "AverageOpponents": "10.22",
             "gamesPlayed": 27,
-            "AverageRank": "4.85",
-            "ChangeInRank": "\u21930.35",
+            "AverageRank": "4.89",
+            "ChangeInRank": "\u21930.39",
             "ChangeInPlayers": "\u21910.39",
-            "ChangeInSQPerGame": "\u21912.54",
+            "ChangeInSQPerGame": "\u21912.29",
             "breakdown": [
                 {
                     "gameName": "The Ship",
@@ -683,16 +733,16 @@
             ]
         },
         {
-            "JSID": 6,
+            "JSID": 7,
             "Name": "Ryze",
-            "StarQualityPerGame": "37.13",
-            "TotalStarQuality": "1113.88",
+            "StarQualityPerGame": "36.90",
+            "TotalStarQuality": "1107.01",
             "AverageOpponents": "10.60",
             "gamesPlayed": 30,
             "AverageRank": "4.33",
-            "ChangeInRank": "\u21910.19",
+            "ChangeInRank": "\u21910.28",
             "ChangeInPlayers": "\u21911.41",
-            "ChangeInSQPerGame": "\u219110.61",
+            "ChangeInSQPerGame": "\u219110.68",
             "breakdown": [
                 {
                     "gameName": "The Ship",
@@ -738,9 +788,9 @@
                 },
                 {
                     "gameName": "The Ship",
-                    "rank": 6,
+                    "rank": 4,
                     "totalPlayers": 10,
-                    "starsForGame": "16.67"
+                    "starsForGame": "25.00"
                 },
                 {
                     "gameName": "Predator",
@@ -750,9 +800,9 @@
                 },
                 {
                     "gameName": "The Ship",
-                    "rank": 1,
+                    "rank": 2,
                     "totalPlayers": 5,
-                    "starsForGame": "25.00"
+                    "starsForGame": "12.50"
                 },
                 {
                     "gameName": "Laser Ball (Blu V Yel Red V Green)",
@@ -877,66 +927,16 @@
             ]
         },
         {
-            "JSID": 7,
-            "Name": "Commandoz",
-            "StarQualityPerGame": "34.88",
-            "TotalStarQuality": "209.30",
-            "AverageOpponents": "11.00",
-            "gamesPlayed": 6,
-            "AverageRank": "5.33",
-            "ChangeInRank": null,
-            "ChangeInPlayers": null,
-            "ChangeInSQPerGame": null,
-            "breakdown": [
-                {
-                    "gameName": "Predator",
-                    "rank": 4,
-                    "totalPlayers": 7,
-                    "starsForGame": "12.25"
-                },
-                {
-                    "gameName": "The Ship",
-                    "rank": 2,
-                    "totalPlayers": 5,
-                    "starsForGame": "12.50"
-                },
-                {
-                    "gameName": "Laser Ball (Blu V Yel Red V Green)",
-                    "rank": 2,
-                    "totalPlayers": 13,
-                    "starsForGame": "84.50"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 11,
-                    "totalPlayers": 14,
-                    "starsForGame": "17.82"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 3,
-                    "totalPlayers": 14,
-                    "starsForGame": "65.33"
-                },
-                {
-                    "gameName": "Gladiator - Team",
-                    "rank": 10,
-                    "totalPlayers": 13,
-                    "starsForGame": "16.90"
-                }
-            ]
-        },
-        {
             "JSID": 8,
             "Name": "Borgir ",
-            "StarQualityPerGame": "33.63",
-            "TotalStarQuality": "739.83",
+            "StarQualityPerGame": "36.48",
+            "TotalStarQuality": "802.51",
             "AverageOpponents": "10.64",
             "gamesPlayed": 22,
-            "AverageRank": "5.50",
-            "ChangeInRank": "\u21911.08",
+            "AverageRank": "5.41",
+            "ChangeInRank": "\u21911.17",
             "ChangeInPlayers": "\u21910.56",
-            "ChangeInSQPerGame": "\u219110.22",
+            "ChangeInSQPerGame": "\u219113.08",
             "breakdown": [
                 {
                     "gameName": "LaserBall Classic",
@@ -1075,14 +1075,14 @@
         {
             "JSID": 9,
             "Name": "[Insomniac]",
-            "StarQualityPerGame": "29.21",
-            "TotalStarQuality": "408.91",
+            "StarQualityPerGame": "29.11",
+            "TotalStarQuality": "407.52",
             "AverageOpponents": "11.86",
             "gamesPlayed": 14,
-            "AverageRank": "7.07",
-            "ChangeInRank": "\u21933.07",
+            "AverageRank": "7.14",
+            "ChangeInRank": "\u21933.28",
             "ChangeInPlayers": "\u21911.19",
-            "ChangeInSQPerGame": "\u219313.34",
+            "ChangeInSQPerGame": "\u219313.90",
             "breakdown": [
                 {
                     "gameName": "The Ship",
@@ -1128,9 +1128,9 @@
                 },
                 {
                     "gameName": "The Ship",
-                    "rank": 8,
+                    "rank": 9,
                     "totalPlayers": 10,
-                    "starsForGame": "12.50"
+                    "starsForGame": "11.11"
                 },
                 {
                     "gameName": "LaserBall Classic",
@@ -1173,14 +1173,14 @@
         {
             "JSID": 10,
             "Name": "<!-- Blaze -->",
-            "StarQualityPerGame": "28.54",
-            "TotalStarQuality": "913.19",
+            "StarQualityPerGame": "28.36",
+            "TotalStarQuality": "907.53",
             "AverageOpponents": "10.53",
             "gamesPlayed": 32,
-            "AverageRank": "5.09",
-            "ChangeInRank": "\u21910.71",
+            "AverageRank": "5.19",
+            "ChangeInRank": "\u21910.68",
             "ChangeInPlayers": "\u21910.05",
-            "ChangeInSQPerGame": "\u21914.14",
+            "ChangeInSQPerGame": "\u21914.07",
             "breakdown": [
                 {
                     "gameName": "The Ship",
@@ -1262,9 +1262,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 9,
+                    "rank": 10,
                     "totalPlayers": 14,
-                    "starsForGame": "21.78"
+                    "starsForGame": "19.60"
                 },
                 {
                     "gameName": "Gladiator - Team",
@@ -1340,9 +1340,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 9,
+                    "rank": 8,
                     "totalPlayers": 13,
-                    "starsForGame": "18.78"
+                    "starsForGame": "21.13"
                 },
                 {
                     "gameName": "Minions",
@@ -1379,14 +1379,14 @@
         {
             "JSID": 11,
             "Name": "Raging Bull",
-            "StarQualityPerGame": "24.18",
-            "TotalStarQuality": "459.34",
+            "StarQualityPerGame": "24.11",
+            "TotalStarQuality": "458.03",
             "AverageOpponents": "9.58",
             "gamesPlayed": 19,
-            "AverageRank": "5.42",
-            "ChangeInRank": "\u21913.33",
+            "AverageRank": "5.47",
+            "ChangeInRank": "\u21913.28",
             "ChangeInPlayers": "\u21931.67",
-            "ChangeInSQPerGame": "\u21918.87",
+            "ChangeInSQPerGame": "\u21918.81",
             "breakdown": [
                 {
                     "gameName": "Infection",
@@ -1438,9 +1438,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 10,
+                    "rank": 11,
                     "totalPlayers": 12,
-                    "starsForGame": "14.40"
+                    "starsForGame": "13.09"
                 },
                 {
                     "gameName": "Base Flags",
@@ -1574,9 +1574,9 @@
             "AverageOpponents": "10.76",
             "gamesPlayed": 17,
             "AverageRank": "6.47",
-            "ChangeInRank": "\u21930.94",
+            "ChangeInRank": "\u21930.91",
             "ChangeInPlayers": "\u21910.20",
-            "ChangeInSQPerGame": "\u21938.95",
+            "ChangeInSQPerGame": "\u21938.84",
             "breakdown": [
                 {
                     "gameName": "Shadows",
@@ -1685,14 +1685,14 @@
         {
             "JSID": 14,
             "Name": "Natsudragneel",
-            "StarQualityPerGame": "20.02",
-            "TotalStarQuality": "780.95",
+            "StarQualityPerGame": "19.71",
+            "TotalStarQuality": "768.76",
             "AverageOpponents": "8.64",
             "gamesPlayed": 39,
-            "AverageRank": "5.10",
-            "ChangeInRank": "\u21931.50",
+            "AverageRank": "5.21",
+            "ChangeInRank": "\u21931.65",
             "ChangeInPlayers": "\u21912.60",
-            "ChangeInSQPerGame": "\u21915.47",
+            "ChangeInSQPerGame": "\u21915.10",
             "breakdown": [
                 {
                     "gameName": "The Ship",
@@ -1720,9 +1720,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 9,
+                    "rank": 8,
                     "totalPlayers": 12,
-                    "starsForGame": "16.00"
+                    "starsForGame": "18.00"
                 },
                 {
                     "gameName": "Base Flags",
@@ -1965,14 +1965,14 @@
         {
             "JSID": 16,
             "Name": "SilentDestroyer",
-            "StarQualityPerGame": "17.21",
-            "TotalStarQuality": "326.99",
+            "StarQualityPerGame": "17.38",
+            "TotalStarQuality": "330.24",
             "AverageOpponents": "9.47",
             "gamesPlayed": 19,
-            "AverageRank": "6.16",
-            "ChangeInRank": "\u21912.22",
+            "AverageRank": "6.05",
+            "ChangeInRank": "\u21912.32",
             "ChangeInPlayers": "\u21931.78",
-            "ChangeInSQPerGame": "\u21910.68",
+            "ChangeInSQPerGame": "\u21910.85",
             "breakdown": [
                 {
                     "gameName": "Infection",
@@ -2024,9 +2024,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 8,
+                    "rank": 9,
                     "totalPlayers": 12,
-                    "starsForGame": "18.00"
+                    "starsForGame": "16.00"
                 },
                 {
                     "gameName": "Base Flags",
@@ -2185,14 +2185,14 @@
         {
             "JSID": 18,
             "Name": "LaserMaster",
-            "StarQualityPerGame": "15.66",
-            "TotalStarQuality": "250.56",
+            "StarQualityPerGame": "15.81",
+            "TotalStarQuality": "252.94",
             "AverageOpponents": "11.19",
             "gamesPlayed": 16,
-            "AverageRank": "8.44",
-            "ChangeInRank": "\u21931.62",
+            "AverageRank": "8.38",
+            "ChangeInRank": "\u21931.59",
             "ChangeInPlayers": "\u21911.91",
-            "ChangeInSQPerGame": "\u21911.18",
+            "ChangeInSQPerGame": "\u21911.23",
             "breakdown": [
                 {
                     "gameName": "The Ship",
@@ -2294,15 +2294,83 @@
         },
         {
             "JSID": 19,
+            "Name": "Kanstro",
+            "StarQualityPerGame": "14.35",
+            "TotalStarQuality": "129.14",
+            "AverageOpponents": "9.33",
+            "gamesPlayed": 9,
+            "AverageRank": "6.89",
+            "ChangeInRank": "\u21934.22",
+            "ChangeInPlayers": "\u21915.73",
+            "ChangeInSQPerGame": "\u21918.67",
+            "breakdown": [
+                {
+                    "gameName": "Base Flags",
+                    "rank": 7,
+                    "totalPlayers": 13,
+                    "starsForGame": "24.14"
+                },
+                {
+                    "gameName": "Minions",
+                    "rank": 12,
+                    "totalPlayers": 13,
+                    "starsForGame": "14.08"
+                },
+                {
+                    "gameName": "LaserBall Classic",
+                    "rank": 5,
+                    "totalPlayers": 14,
+                    "starsForGame": "39.20"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 11,
+                    "totalPlayers": 14,
+                    "starsForGame": "17.82"
+                },
+                {
+                    "gameName": "Base Flags",
+                    "rank": 13,
+                    "totalPlayers": 14,
+                    "starsForGame": "15.08"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 10,
+                    "totalPlayers": 10,
+                    "starsForGame": "10.00"
+                },
+                {
+                    "gameName": "Gladiator - Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Infection",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                },
+                {
+                    "gameName": "Standard - Team",
+                    "rank": 2,
+                    "totalPlayers": 2,
+                    "starsForGame": "2.00"
+                }
+            ]
+        },
+        {
+            "JSID": 20,
             "Name": "Alky",
-            "StarQualityPerGame": "14.21",
-            "TotalStarQuality": "255.85",
+            "StarQualityPerGame": "14.20",
+            "TotalStarQuality": "255.55",
             "AverageOpponents": "10.22",
             "gamesPlayed": 18,
             "AverageRank": "8.06",
             "ChangeInRank": "\u21910.30",
             "ChangeInPlayers": "\u21930.58",
-            "ChangeInSQPerGame": "\u21930.68",
+            "ChangeInSQPerGame": "\u21930.70",
             "breakdown": [
                 {
                     "gameName": "Shadows",
@@ -2354,9 +2422,9 @@
                 },
                 {
                     "gameName": "The Ship",
-                    "rank": 9,
+                    "rank": 8,
                     "totalPlayers": 10,
-                    "starsForGame": "11.11"
+                    "starsForGame": "12.50"
                 },
                 {
                     "gameName": "LaserBall Classic",
@@ -2378,9 +2446,9 @@
                 },
                 {
                     "gameName": "Minions",
-                    "rank": 12,
+                    "rank": 10,
                     "totalPlayers": 13,
-                    "starsForGame": "14.08"
+                    "starsForGame": "16.90"
                 },
                 {
                     "gameName": "LaserBall Classic",
@@ -2415,81 +2483,13 @@
             ]
         },
         {
-            "JSID": 20,
-            "Name": "Kanstro",
-            "StarQualityPerGame": "14.04",
-            "TotalStarQuality": "126.32",
-            "AverageOpponents": "9.33",
-            "gamesPlayed": 9,
-            "AverageRank": "7.11",
-            "ChangeInRank": "\u21934.38",
-            "ChangeInPlayers": "\u21915.73",
-            "ChangeInSQPerGame": "\u21918.81",
-            "breakdown": [
-                {
-                    "gameName": "Base Flags",
-                    "rank": 7,
-                    "totalPlayers": 13,
-                    "starsForGame": "24.14"
-                },
-                {
-                    "gameName": "Minions",
-                    "rank": 10,
-                    "totalPlayers": 13,
-                    "starsForGame": "16.90"
-                },
-                {
-                    "gameName": "LaserBall Classic",
-                    "rank": 5,
-                    "totalPlayers": 14,
-                    "starsForGame": "39.20"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 11,
-                    "totalPlayers": 14,
-                    "starsForGame": "17.82"
-                },
-                {
-                    "gameName": "Base Flags",
-                    "rank": 13,
-                    "totalPlayers": 14,
-                    "starsForGame": "15.08"
-                },
-                {
-                    "gameName": "Gladiator - Team",
-                    "rank": 10,
-                    "totalPlayers": 10,
-                    "starsForGame": "10.00"
-                },
-                {
-                    "gameName": "Gladiator - Team",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Infection",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                },
-                {
-                    "gameName": "Standard - Team",
-                    "rank": 2,
-                    "totalPlayers": 2,
-                    "starsForGame": "2.00"
-                }
-            ]
-        },
-        {
             "JSID": 21,
             "Name": "Corey",
-            "StarQualityPerGame": "12.48",
-            "TotalStarQuality": "74.88",
+            "StarQualityPerGame": "12.30",
+            "TotalStarQuality": "73.79",
             "AverageOpponents": "10.00",
             "gamesPlayed": 6,
-            "AverageRank": "8.33",
+            "AverageRank": "8.50",
             "ChangeInRank": null,
             "ChangeInPlayers": null,
             "ChangeInSQPerGame": null,
@@ -2520,9 +2520,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 11,
+                    "rank": 12,
                     "totalPlayers": 12,
-                    "starsForGame": "13.09"
+                    "starsForGame": "12.00"
                 },
                 {
                     "gameName": "Base Flags",
@@ -2535,14 +2535,14 @@
         {
             "JSID": 22,
             "Name": "Muppet",
-            "StarQualityPerGame": "11.87",
-            "TotalStarQuality": "225.51",
+            "StarQualityPerGame": "11.93",
+            "TotalStarQuality": "226.66",
             "AverageOpponents": "9.74",
             "gamesPlayed": 19,
-            "AverageRank": "8.74",
-            "ChangeInRank": "\u21911.76",
+            "AverageRank": "8.68",
+            "ChangeInRank": "\u21911.69",
             "ChangeInPlayers": "\u21931.51",
-            "ChangeInSQPerGame": "\u21930.23",
+            "ChangeInSQPerGame": "\u21930.33",
             "breakdown": [
                 {
                     "gameName": "Infection",
@@ -2594,9 +2594,9 @@
                 },
                 {
                     "gameName": "Base Flags",
-                    "rank": 12,
+                    "rank": 10,
                     "totalPlayers": 12,
-                    "starsForGame": "12.00"
+                    "starsForGame": "14.40"
                 },
                 {
                     "gameName": "Base Flags",
